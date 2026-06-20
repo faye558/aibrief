@@ -1,0 +1,43 @@
+name: 매일 AI 뉴스 자동 수집
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 매일 00:00 UTC = 한국 시간 오전 9시
+  workflow_dispatch:      # 수동 실행 버튼
+
+jobs:
+  collect-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Node.js 설정
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: 의존성 설치
+        run: npm ci
+
+      - name: 스크립트 의존성 설치
+        run: npm install --no-save @anthropic-ai/sdk fast-xml-parser
+
+      - name: 뉴스 수집 및 기사 생성
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/auto-collect.mjs
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/articles.json
+          git diff --staged --quiet && echo "새 기사 없음" || (
+            git commit -m "🤖 자동 업데이트: $(TZ='Asia/Seoul' date '+%Y년 %m월 %d일') 뉴스 추가" &&
+            git push
+          )
