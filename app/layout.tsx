@@ -30,6 +30,7 @@ export const metadata: Metadata = {
   },
   alternates: { canonical: SITE_URL },
   robots: { index: true, follow: true },
+  verification: { google: "google8e12057976da2f31" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
