@@ -3,6 +3,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { getArticleBySlug, getAllArticles, formatDate } from "@/lib/articles";
 import AdBanner from "@/components/AdBanner";
+import CoupangBanner from "@/components/CoupangBanner";
 
 interface Props {
   params: { slug: string };
@@ -258,7 +259,7 @@ export default function ArticlePage({ params }: Props) {
         {/* 사이드바 */}
         <aside className="hidden lg:block w-[300px] shrink-0">
           <div className="sticky top-32 space-y-6">
-            <AdBanner slot="sidebar" />
+            <CoupangBanner />
             <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
               <h3 className="text-sm font-bold text-gray-700 mb-3">회사별 뉴스</h3>
               <ul className="space-y-2">

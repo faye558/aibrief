@@ -3,6 +3,7 @@ import { getFilteredArticles, getPopularTags } from "@/lib/articles";
 import ArticleCard from "@/components/ArticleCard";
 import FilterBar from "@/components/FilterBar";
 import AdBanner from "@/components/AdBanner";
+import CoupangBanner from "@/components/CoupangBanner";
 
 interface PageProps {
   searchParams: { company?: string; category?: string; tag?: string };
@@ -62,8 +63,8 @@ export default function HomePage({ searchParams }: PageProps) {
         {/* 사이드바 */}
         <aside className="hidden lg:block w-[300px] shrink-0">
           <div className="sticky top-32 space-y-6">
-            {/* 사이드바 광고 */}
-            <AdBanner slot="sidebar" />
+            {/* 쿠팡 파트너스 배너 */}
+            <CoupangBanner />
 
             {/* 인기 태그 */}
             <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
