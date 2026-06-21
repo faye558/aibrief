@@ -199,6 +199,11 @@ export default function ArticlePage({ params }: Props) {
               </div>
             ) : null}
 
+            {/* 쿠팡 파트너스 배너 — 본문 끝 / 커뮤니티 반응 사이 */}
+            <div className="flex justify-center mt-6">
+              <CoupangBanner />
+            </div>
+
             {/* 커뮤니티 반응 */}
             {(article.communityReaction || (article.communityLinks && article.communityLinks.length > 0)) && (
               <div className="mt-4 bg-gray-50 rounded-xl p-4 border border-gray-100">
@@ -233,10 +238,6 @@ export default function ArticlePage({ params }: Props) {
               </div>
             )}
 
-            {/* 쿠팡 파트너스 배너 — 커뮤니티 반응 하단 */}
-            <div className="flex justify-center mt-6">
-              <CoupangBanner />
-            </div>
           </div>
 
           {/* 본문 하단 광고 */}
