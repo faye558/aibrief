@@ -153,10 +153,6 @@ export default function ArticlePage({ params }: Props) {
 
             <time className="text-sm text-gray-400 mb-6 block">{formatDate(article.date)}</time>
 
-            {/* 쿠팡 파트너스 배너 — 본문 상단 */}
-            <div className="flex justify-center mb-8">
-              <CoupangBanner />
-            </div>
 
             {/* 본문 */}
             <div className="space-y-1">
@@ -236,6 +232,11 @@ export default function ArticlePage({ params }: Props) {
                 )}
               </div>
             )}
+
+            {/* 쿠팡 파트너스 배너 — 커뮤니티 반응 하단 */}
+            <div className="flex justify-center mt-6">
+              <CoupangBanner />
+            </div>
           </div>
 
           {/* 본문 하단 광고 */}
