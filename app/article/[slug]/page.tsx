@@ -153,8 +153,10 @@ export default function ArticlePage({ params }: Props) {
 
             <time className="text-sm text-gray-400 mb-6 block">{formatDate(article.date)}</time>
 
-            {/* 본문 내 광고 */}
-            <AdBanner slot="in-article" className="mb-8" />
+            {/* 쿠팡 파트너스 배너 — 본문 상단 */}
+            <div className="flex justify-center mb-8">
+              <CoupangBanner />
+            </div>
 
             {/* 본문 */}
             <div className="space-y-1">
@@ -259,7 +261,7 @@ export default function ArticlePage({ params }: Props) {
         {/* 사이드바 */}
         <aside className="hidden lg:block w-[300px] shrink-0">
           <div className="sticky top-32 space-y-6">
-            <CoupangBanner />
+            <AdBanner slot="sidebar" />
             <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
               <h3 className="text-sm font-bold text-gray-700 mb-3">회사별 뉴스</h3>
               <ul className="space-y-2">

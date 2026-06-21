@@ -49,15 +49,27 @@ export default function HomePage({ searchParams }: PageProps) {
               <p className="text-lg">해당 조건의 기사가 없습니다.</p>
             </div>
           ) : (
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              {articles.map((article) => (
-                <ArticleCard key={article.id} article={article} />
-              ))}
-            </div>
+            <>
+              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                {articles.slice(0, 4).map((article) => (
+                  <ArticleCard key={article.id} article={article} />
+                ))}
+              </div>
+              {articles.length > 4 && (
+                <>
+                  {/* 쿠팡 파트너스 배너 — 기사 4개 후 삽입 */}
+                  <div className="flex justify-center my-6">
+                    <CoupangBanner />
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+                    {articles.slice(4).map((article) => (
+                      <ArticleCard key={article.id} article={article} />
+                    ))}
+                  </div>
+                </>
+              )}
+            </>
           )}
-
-          {/* 본문 하단 광고 */}
-          <AdBanner slot="content-bottom" className="mt-10" />
         </div>
 
         {/* 사이드바 */}
