@@ -29,7 +29,6 @@ export default function Header() {
               </svg>
               타임라인
             </Link>
-            <Link href="/privacy" className="hover:text-brand-600 transition-colors">개인정보처리방침</Link>
           </nav>
 
           <button
@@ -53,7 +52,6 @@ export default function Header() {
             <Link href="/?category=AI모델" className="hover:text-brand-600" onClick={() => setMenuOpen(false)}>AI 모델</Link>
             <Link href="/?category=디자인툴" className="hover:text-brand-600" onClick={() => setMenuOpen(false)}>디자인 툴</Link>
             <Link href="/timeline" className="hover:text-brand-600" onClick={() => setMenuOpen(false)}>타임라인</Link>
-            <Link href="/privacy" className="hover:text-brand-600" onClick={() => setMenuOpen(false)}>개인정보처리방침</Link>
           </nav>
         )}
       </div>
