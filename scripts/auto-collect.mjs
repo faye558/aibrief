@@ -20,6 +20,11 @@ const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 // 커뮤니티 링크 맵 (회사별 관련 커뮤니티)
 // ───────────────────────────────────────────
 const COMMUNITY_LINKS = {
+  'Freepik':      [
+    { name: 'Reddit r/freepik', url: 'https://www.reddit.com/r/freepik/new/' },
+    { name: 'Reddit r/graphic_design', url: 'https://www.reddit.com/r/graphic_design/new/' },
+    { name: '클리앙 검색: 프리픽', url: 'https://www.clien.net/service/search?q=%ED%94%84%EB%A6%AC%ED%94%BD&sort=latest' },
+  ],
   'Adobe':        [
     { name: 'Reddit r/adobe', url: 'https://www.reddit.com/r/adobe/new/' },
     { name: 'Reddit r/graphic_design', url: 'https://www.reddit.com/r/graphic_design/new/' },
@@ -40,7 +45,8 @@ const COMMUNITY_LINKS = {
     { name: '클리앙 검색: 망고보드', url: 'https://www.clien.net/service/search?q=%EB%A7%9D%EA%B3%A0%EB%B3%B4%EB%93%9C&sort=latest' },
   ],
   '산돌':         [
-    { name: '네이버 카페 검색: 산돌폰트', url: 'https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%ED%8F%B0%ED%8A%B8' },
+    { name: '네이버 카페 검색: 산돌', url: 'https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C' },
+    { name: '네이버 카페 검색: 산돌캔버스', url: 'https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4' },
     { name: '클리앙 검색: 산돌', url: 'https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest' },
     { name: 'Reddit r/typography', url: 'https://www.reddit.com/r/typography/new/' },
   ],
@@ -149,18 +155,21 @@ const PRIORITY_SOURCES = [
   },
   {
     company: '산돌',
-    category: '폰트',
+    category: '디자인툴',  // 캔버스·AI스튜디오 등 디자인툴 사업 포함
     rssUrls: [
       'https://rss.blog.naver.com/sandollcloud.xml',
+      'https://rss.blog.naver.com/sandoll_canvas.xml',
       'https://www.sandoll.co.kr/rss',
       'https://sandoll.co.kr/news/rss',
     ],
     scrapeUrls: [
       'https://www.sandoll.co.kr/news',
       'https://blog.naver.com/sandollcloud',
+      'https://canvas.sandoll.co.kr',   // 산돌캔버스
+      'https://bakey.ai',               // 베이키(Bakey) - 산돌 AI 앱
     ],
-    maxItems: 8,
-    dayWindow: 30,
+    maxItems: 10,
+    dayWindow: 60,  // 업데이트 빈도 낮을 수 있어 넉넉하게
   },
   {
     company: '눈누',
@@ -175,6 +184,21 @@ const PRIORITY_SOURCES = [
     ],
     maxItems: 8,
     dayWindow: 30,
+  },
+  {
+    company: 'Freepik',
+    category: '디자인툴',
+    rssUrls: [
+      'https://www.freepik.com/blog/feed/',
+      'https://magnific.ai/blog/rss',
+      'https://blog.freepik.com/feed/',
+    ],
+    scrapeUrls: [
+      'https://www.freepik.com/blog',
+      'https://magnific.ai/blog',
+    ],
+    maxItems: 10,
+    dayWindow: 14,
   },
 ];
 
@@ -205,13 +229,6 @@ const COMPANY_SOURCES = [
     ],
     maxItems: 3,
     dayWindow: 3,
-  },
-  {
-    company: 'Freepik',
-    category: '디자인툴',
-    rssUrls: ['https://www.freepik.com/blog/feed/'],
-    maxItems: 3,
-    dayWindow: 7,
   },
   {
     company: 'ElevenLabs',
@@ -306,7 +323,7 @@ const KOREAN_SOURCES = [
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', '윤디자인', 'adobe', 'canva', 'AI 디자인', '생성형 AI', '폰트', '이미지'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지'],
     maxItems: 5,
   },
   // IT 전문지
@@ -355,7 +372,7 @@ const KOREAN_SOURCES = [
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
-    keywords: ['산돌', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인'],
+    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific'],
     maxItems: 3,
   },
   {
@@ -527,8 +544,8 @@ function inferCompanyCategory(title, description) {
     { keywords: ['망고보드', 'mangoboard'], company: '망고보드', category: '디자인툴' },
     { keywords: ['canva', '캔바'], company: 'Canva', category: '디자인툴' },
     { keywords: ['adobe', 'firefly', 'photoshop', 'premiere', '어도비'], company: 'Adobe', category: '디자인툴' },
-    { keywords: ['freepik'], company: 'Freepik', category: '디자인툴' },
-    { keywords: ['산돌', 'sandoll'], company: '산돌', category: '폰트' },
+    { keywords: ['freepik', 'magnific'], company: 'Freepik', category: '디자인툴' },
+    { keywords: ['산돌', 'sandoll', '산돌캔버스', 'bakey', '베이키', '산돌ai', 'sandoll canvas'], company: '산돌', category: '디자인툴' },
     { keywords: ['눈누', 'noonnu'], company: '눈누', category: '폰트' },
     { keywords: ['윤디자인', 'yoondesign'], company: '윤디자인', category: '폰트' },
     { keywords: ['monotype', 'myfonts'], company: 'Monotype', category: '폰트' },
