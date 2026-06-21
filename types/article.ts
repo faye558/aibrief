@@ -18,6 +18,7 @@ export interface Article {
   sourceName: string | null;
   sources?: ArticleSource[];
   communityReaction?: string;
+  communityLinks?: { name: string; url: string }[];
 }
 
 export const COMPANIES = ["전체", "Anthropic", "OpenAI", "Google", "Canva", "Adobe", "Freepik", "미리캔버스", "망고보드", "Getty Images", "Shutterstock", "Adobe Stock", "ElevenLabs", "Suno", "Meshy·Tripo3D", "산돌", "윤디자인", "눈누", "Monotype"] as const;
