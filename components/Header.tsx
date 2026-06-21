@@ -8,16 +8,9 @@ export default function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
-      {/* 구글 애드센스 — 헤더 상단 배너 */}
-      <div className="bg-gray-50 border-b border-gray-100">
-        <div className="max-w-6xl mx-auto px-4 py-2 flex items-center justify-center">
-          <div className="w-full max-w-2xl h-14 bg-gray-100 rounded flex items-center justify-center text-xs text-gray-400 border border-dashed border-gray-300">
-            광고 영역 (Google AdSense — 728×90)
-          </div>
-        </div>
-      </div>
+      {/* 애드센스 승인 후 헤더 상단 배너 삽입 — 728×90 */}
 
-      <div className="max-w-6xl mx-auto px-4">
+<div className="max-w-6xl mx-auto px-4">
         <div className="flex items-center justify-between h-14">
           <Link href="/" className="flex items-center gap-2">
             <span className="text-2xl font-black text-brand-600 tracking-tight">AI Brief</span>

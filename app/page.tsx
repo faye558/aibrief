@@ -1,19 +1,22 @@
 import { Suspense } from "react";
-import { getFilteredArticles } from "@/lib/articles";
+import { getFilteredArticles, getPopularTags } from "@/lib/articles";
 import ArticleCard from "@/components/ArticleCard";
 import FilterBar from "@/components/FilterBar";
 import AdBanner from "@/components/AdBanner";
 
 interface PageProps {
-  searchParams: { company?: string; category?: string };
+  searchParams: { company?: string; category?: string; tag?: string };
 }
 
 export default function HomePage({ searchParams }: PageProps) {
-  const { company, category } = searchParams;
-  const articles = getFilteredArticles(company, category);
+  const { company, category, tag } = searchParams;
+  const articles = getFilteredArticles(company, category, tag);
+  const popularTags = getPopularTags(12);
 
   const pageTitle =
-    company && company !== "전체"
+    tag
+      ? `#${tag} 기사`
+      : company && company !== "전체"
       ? `${company} 뉴스`
       : category && category !== "전체"
       ? `${category} 뉴스`
@@ -66,13 +69,18 @@ export default function HomePage({ searchParams }: PageProps) {
             <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">
               <h3 className="text-sm font-bold text-gray-700 mb-3">인기 태그</h3>
               <div className="flex flex-wrap gap-2">
-                {["Claude", "GPT-5", "Gemini", "Firefly", "Sora", "에이전트", "멀티모달", "생성AI", "AI디자인"].map((tag) => (
-                  <span
-                    key={tag}
-                    className="text-xs px-2.5 py-1 bg-gray-100 text-gray-600 rounded-full hover:bg-brand-100 hover:text-brand-700 cursor-pointer transition-colors"
+                {popularTags.map((t) => (
+                  <a
+                    key={t}
+                    href={tag === t ? "/" : `/?tag=${encodeURIComponent(t)}`}
+                    className={`text-xs px-2.5 py-1 rounded-full transition-colors ${
+                      tag === t
+                        ? "bg-brand-600 text-white"
+                        : "bg-gray-100 text-gray-600 hover:bg-brand-100 hover:text-brand-700"
+                    }`}
                   >
-                    #{tag}
-                  </span>
+                    #{t}
+                  </a>
                 ))}
               </div>
             </div>
