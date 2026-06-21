@@ -13,9 +13,8 @@ export default function Header() {
 <div className="max-w-6xl mx-auto px-4">
         <div className="flex items-center justify-between h-14">
           <Link href="/" className="flex items-center gap-2">
-            <span className="text-2xl font-black text-brand-600 tracking-tight">AI Brief</span>
-            <span className="hidden sm:inline text-xs text-gray-400 font-medium mt-1">
-              AI·IT 뉴스 브리핑
+            <span className="text-[1.65rem] sm:text-3xl font-extrabold tracking-[-0.03em] bg-gradient-to-r from-brand-700 to-brand-500 bg-clip-text text-transparent leading-none">
+              AI Brief
             </span>
           </Link>
 

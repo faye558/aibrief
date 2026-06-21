@@ -76,20 +76,20 @@ export default function TimelinePage({
     <div className="max-w-4xl mx-auto px-4 py-8">
       {/* 헤더 */}
       <div className="mb-8">
-        <h1 className="text-3xl font-black text-gray-900 mb-1">업계 타임라인</h1>
+        <h1 className="text-3xl font-black text-gray-900 mb-1">타임라인</h1>
         <p className="text-gray-500 text-sm">AI·디자인툴 업계 전체 흐름을 날짜순으로 한눈에</p>
       </div>
 
       {/* 카테고리 탭 */}
-      <div className="flex gap-2 mb-10">
+      <div className="flex flex-wrap gap-2 mb-10">
         {["전체", "AI모델", "디자인툴", "3D AI", "이미지", "폰트"].map((cat) => (
           <a
             key={cat}
             href={cat === "전체" ? "/timeline" : `/timeline?category=${cat}`}
-            className={`px-4 py-2 rounded-full text-sm font-semibold transition-all ${
+            className={`px-4 py-2 rounded-full text-sm font-bold tracking-tight transition-all ${
               category === cat
-                ? "bg-brand-600 text-white shadow-sm"
-                : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                ? "bg-brand-600 text-white shadow-md"
+                : "bg-white border border-gray-200 text-gray-600 hover:border-brand-300 hover:text-brand-600"
             }`}
           >
             {cat}
@@ -117,7 +117,7 @@ export default function TimelinePage({
             {/* 월 레이블 */}
             <div className="flex items-center gap-4 mb-4">
               <div className="w-[80px] text-right">
-                <span className="text-xs font-bold text-gray-400 uppercase tracking-widest">
+                <span className="text-sm font-extrabold text-gray-700 tracking-tight">
                   {formatMonth(ym)}
                 </span>
               </div>
@@ -148,21 +148,21 @@ export default function TimelinePage({
                                 {article.company}
                               </span>
                               <span className="text-xs text-gray-400">{formatDate(article.date)}</span>
-                              {article.category === "AI모델" && (
-                                <span className="text-xs px-2 py-0.5 rounded-full bg-indigo-50 text-indigo-600">AI모델</span>
-                              )}
-                              {article.category === "디자인툴" && (
-                                <span className="text-xs px-2 py-0.5 rounded-full bg-pink-50 text-pink-600">디자인툴</span>
-                              )}
-                              {article.category === "3D AI" && (
-                                <span className="text-xs px-2 py-0.5 rounded-full bg-lime-50 text-lime-600">3D AI</span>
-                              )}
-                              {article.category === "이미지" && (
-                                <span className="text-xs px-2 py-0.5 rounded-full bg-stone-50 text-stone-600">이미지</span>
-                              )}
-                              {article.category === "폰트" && (
-                                <span className="text-xs px-2 py-0.5 rounded-full bg-sky-50 text-sky-600">폰트</span>
-                              )}
+                              {(() => {
+                                const catStyles: Record<string, string> = {
+                                  "AI모델":  "bg-indigo-100 text-indigo-700 font-bold",
+                                  "디자인툴": "bg-pink-100 text-pink-700 font-bold",
+                                  "3D AI":   "bg-lime-100 text-lime-700 font-bold",
+                                  "이미지":  "bg-amber-100 text-amber-700 font-bold",
+                                  "폰트":    "bg-sky-100 text-sky-700 font-bold",
+                                };
+                                const s = catStyles[article.category];
+                                return s ? (
+                                  <span className={`text-xs px-2 py-0.5 rounded-full ${s}`}>
+                                    {article.category}
+                                  </span>
+                                ) : null;
+                              })()}
                             </div>
                             <p className="text-sm font-bold text-gray-900 group-hover:text-brand-600 transition-colors leading-snug line-clamp-2">
                               {article.title}
