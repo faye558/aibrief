@@ -8,8 +8,7 @@ export default function Footer() {
           <div>
             <p className="text-white font-bold text-lg mb-2">AI Brief</p>
             <p className="text-gray-500 text-xs leading-relaxed max-w-xs">
-              AI·IT 업계의 최신 소식을 빠르고 간결하게 전달합니다.<br />
-              Anthropic, OpenAI, Google, Canva, Adobe 등 주요 기업의 업데이트를 큐레이션합니다.
+              AI·IT 업계의 최신 소식을 빠르고 간결하게 전달합니다.
             </p>
           </div>
           <div className="flex gap-10">
