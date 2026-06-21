@@ -36,6 +36,21 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="ko">
       <head>
+        {/* WebSite 구조화 데이터 */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "AI Brief",
+              url: SITE_URL,
+              description: "Adobe, Canva, 미리캔버스, 망고보드 등 디자인툴과 Anthropic, OpenAI, Google 등 AI 기업의 최신 소식",
+              inLanguage: "ko-KR",
+              publisher: { "@type": "Organization", name: "AI Brief", url: SITE_URL },
+            }),
+          }}
+        />
         {/* Google Analytics 4 */}
         {GA_ID && (
           <>

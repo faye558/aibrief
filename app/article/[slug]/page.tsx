@@ -95,6 +95,16 @@ export default function ArticlePage({ params }: Props) {
     .filter((a) => a.slug !== article.slug && (a.company === article.company || a.category === article.category))
     .slice(0, 3);
 
+  const breadcrumbLd = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "홈", item: SITE_URL },
+      { "@type": "ListItem", position: 2, name: article.company, item: `${SITE_URL}/?company=${encodeURIComponent(article.company)}` },
+      { "@type": "ListItem", position: 3, name: article.title, item: `${SITE_URL}/article/${article.slug}` },
+    ],
+  };
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
@@ -118,10 +128,8 @@ export default function ArticlePage({ params }: Props) {
 
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
       <div className="flex gap-8">
         {/* 본문 */}
         <article className="flex-1 min-w-0">

@@ -1,0 +1,29 @@
+# AI Brief
+
+> AI·IT 뉴스 브리핑 — Anthropic, OpenAI, Google, Canva, Adobe 등 주요 AI·디자인툴 기업의 최신 소식을 매일 큐레이션합니다.
+
+## 사이트 정보
+
+- URL: https://aibrief.toolr.kr
+- 언어: 한국어
+- 업데이트 주기: 매일 (GitHub Actions 자동 수집, 09:00 KST)
+- 카테고리: AI 모델, 디자인툴, 스톡 이미지, 음악·영상 AI, 폰트·타이포그래피
+
+## 주요 커버리지
+
+- **AI 모델**: Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini)
+- **디자인툴**: Canva, Adobe (Firefly), Freepik (Magnific), 미리캔버스, 망고보드
+- **폰트·타이포그래피**: 산돌, 윤디자인, 눈누, Monotype
+- **스톡 이미지**: Getty Images, Shutterstock, Adobe Stock
+
+## 페이지 구조
+
+- `/` — 최신 기사 목록 (필터: 회사별, 카테고리별, 태그별)
+- `/article/[slug]` — 기사 상세 (요약, 본문, 커뮤니티 반응, 출처)
+- `/timeline` — 업계 이벤트 타임라인
+- `/sitemap.xml` — 전체 페이지 사이트맵
+
+## 콘텐츠 정책
+
+본 사이트의 기사는 공개된 보도자료 및 뉴스를 AI가 요약·브리핑한 콘텐츠입니다.
+각 기사에는 원문 출처 링크가 포함되어 있습니다.
