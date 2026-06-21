@@ -56,17 +56,11 @@ export default function HomePage({ searchParams }: PageProps) {
                 ))}
               </div>
               {articles.length > 4 && (
-                <>
-                  {/* 쿠팡 파트너스 배너 — 기사 4개 후 삽입 */}
-                  <div className="flex justify-center my-6">
-                    <CoupangBanner />
-                  </div>
-                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                    {articles.slice(4).map((article) => (
-                      <ArticleCard key={article.id} article={article} />
-                    ))}
-                  </div>
-                </>
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mt-4">
+                  {articles.slice(4).map((article) => (
+                    <ArticleCard key={article.id} article={article} />
+                  ))}
+                </div>
               )}
             </>
           )}
