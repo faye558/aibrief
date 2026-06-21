@@ -12,13 +12,33 @@ export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
 }
 
+const SITE_URL = "https://aibrief.toolr.kr";
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const article = getArticleBySlug(params.slug);
   if (!article) return {};
+  const url = `${SITE_URL}/article/${article.slug}`;
   return {
-    title: `${article.title} | AI Brief`,
+    title: article.title,
     description: article.summary,
-    openGraph: { title: article.title, description: article.summary, type: "article" },
+    alternates: { canonical: url },
+    openGraph: {
+      title: article.title,
+      description: article.summary,
+      type: "article",
+      url,
+      siteName: "AI Brief",
+      locale: "ko_KR",
+      publishedTime: article.date,
+      tags: article.tags,
+      images: [{ url: "/og-default.png", width: 1200, height: 630, alt: article.title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.summary,
+      images: ["/og-default.png"],
+    },
   };
 }
 
@@ -74,8 +94,33 @@ export default function ArticlePage({ params }: Props) {
     .filter((a) => a.slug !== article.slug && (a.company === article.company || a.category === article.category))
     .slice(0, 3);
 
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "NewsArticle",
+    headline: article.title,
+    description: article.summary,
+    datePublished: article.date,
+    dateModified: article.date,
+    author: { "@type": "Organization", name: "AI Brief", url: SITE_URL },
+    publisher: {
+      "@type": "Organization",
+      name: "AI Brief",
+      url: SITE_URL,
+      logo: { "@type": "ImageObject", url: `${SITE_URL}/og-default.png` },
+    },
+    mainEntityOfPage: { "@type": "WebPage", "@id": `${SITE_URL}/article/${article.slug}` },
+    keywords: article.tags.join(", "),
+    articleSection: article.category,
+    inLanguage: "ko-KR",
+    ...(article.sourceUrl ? { url: article.sourceUrl } : {}),
+  };
+
   return (
     <div className="max-w-6xl mx-auto px-4 py-8">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <div className="flex gap-8">
         {/* 본문 */}
         <article className="flex-1 min-w-0">
