@@ -2,18 +2,17 @@
 
 import { useEffect, useRef } from "react";
 
+let idCounter = 0;
+
 export default function CoupangBanner() {
-  const ref = useRef<HTMLDivElement>(null);
-  const loaded = useRef(false);
+  const containerId = useRef(`coupang-${++idCounter}`);
+  const initialized = useRef(false);
 
   useEffect(() => {
-    if (loaded.current || !ref.current) return;
-    loaded.current = true;
+    if (initialized.current) return;
+    initialized.current = true;
 
-    const script1 = document.createElement("script");
-    script1.src = "https://ads-partners.coupang.com/g.js";
-    script1.async = true;
-    script1.onload = () => {
+    const load = () => {
       // @ts-ignore
       new window.PartnersCoupang.G({
         id: 999030,
@@ -22,12 +21,26 @@ export default function CoupangBanner() {
         width: "300",
         height: "250",
         tsource: "",
+        container: containerId.current,
       });
     };
-    document.body.appendChild(script1);
+
+    // @ts-ignore
+    if (window.PartnersCoupang) {
+      load();
+    } else {
+      const script = document.createElement("script");
+      script.src = "https://ads-partners.coupang.com/g.js";
+      script.async = true;
+      script.onload = load;
+      document.head.appendChild(script);
+    }
   }, []);
 
   return (
-    <div ref={ref} className="w-[300px] h-[250px] overflow-hidden rounded-xl" />
+    <div
+      id={containerId.current}
+      style={{ width: 300, height: 250, overflow: "hidden" }}
+    />
   );
 }
