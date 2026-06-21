@@ -3,12 +3,8 @@
  * 매일 AI·IT 뉴스를 다양한 소스에서 수집하고
  * Claude API로 한국어 기사를 자동 생성합니다.
  *
- * 수집 소스:
- *   - 각 회사 공식 블로그/뉴스룸 RSS
- *   - TechCrunch, The Verge, VentureBeat 등 글로벌 IT 미디어
- *   - AI타임스, 디지털데일리, 전자신문 등 국내 IT 미디어
- *   - PR Newswire 보도자료
- *   - ScriptByAI, Releasebot 등 AI 전문 집계 사이트
+ * 우선 수집 대상: Adobe, Canva, 미리캔버스, 망고보드
+ * 추가 수집 대상: Anthropic, OpenAI, Google 등 + 글로벌/국내 IT 미디어
  */
 
 import Anthropic from '@anthropic-ai/sdk';
@@ -19,26 +15,81 @@ import { createHash } from 'crypto';
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 // ───────────────────────────────────────────
-// 수집 대상 정의
+// 우선순위 회사 (Adobe, Canva, 미리캔버스, 망고보드)
 // ───────────────────────────────────────────
+const PRIORITY_SOURCES = [
+  {
+    company: 'Adobe',
+    category: '디자인툴',
+    rssUrls: [
+      'https://blog.adobe.com/en/feed',
+      'https://blog.adobe.com/feed',
+      'https://news.adobe.com/rss.xml',
+    ],
+    scrapeUrls: [],
+    maxItems: 10,
+    dayWindow: 7,
+  },
+  {
+    company: 'Canva',
+    category: '디자인툴',
+    rssUrls: [
+      'https://www.canva.com/newsroom/feed/',
+      'https://www.canva.com/newsroom/rss.xml',
+    ],
+    scrapeUrls: [],
+    maxItems: 10,
+    dayWindow: 7,
+  },
+  {
+    company: '미리캔버스',
+    category: '디자인툴',
+    rssUrls: [
+      'https://rss.blog.naver.com/miricanvas.xml',
+      'https://www.miricanvas.com/ko/blog/rss',
+      'https://www.miricanvas.com/blog/rss',
+    ],
+    scrapeUrls: [
+      'https://www.miricanvas.com/ko/blog',
+      'https://blog.naver.com/miricanvas',
+    ],
+    maxItems: 10,
+    dayWindow: 30, // 국내 업체는 업데이트 주기가 길 수 있어 30일로 확장
+  },
+  {
+    company: '망고보드',
+    category: '디자인툴',
+    rssUrls: [
+      'https://rss.blog.naver.com/mangoboard.xml',
+      'https://mangoboard.net/blog/rss',
+      'https://mangoboard.net/news/rss',
+    ],
+    scrapeUrls: [
+      'https://mangoboard.net/news/',
+      'https://blog.naver.com/mangoboard',
+    ],
+    maxItems: 10,
+    dayWindow: 30,
+  },
+];
 
-// 회사별 공식 소스
+// ───────────────────────────────────────────
+// 일반 회사별 공식 소스
+// ───────────────────────────────────────────
 const COMPANY_SOURCES = [
   {
     company: 'Anthropic',
     category: 'AI모델',
-    rssUrls: [
-      'https://www.anthropic.com/rss.xml',
-      'https://anthropic.com/index.xml',
-    ],
+    rssUrls: ['https://www.anthropic.com/rss.xml', 'https://anthropic.com/index.xml'],
+    maxItems: 5,
+    dayWindow: 3,
   },
   {
     company: 'OpenAI',
     category: 'AI모델',
-    rssUrls: [
-      'https://openai.com/news/rss.xml',
-      'https://openai.com/blog/rss.xml',
-    ],
+    rssUrls: ['https://openai.com/news/rss.xml', 'https://openai.com/blog/rss.xml'],
+    maxItems: 5,
+    dayWindow: 3,
   },
   {
     company: 'Google',
@@ -48,77 +99,61 @@ const COMPANY_SOURCES = [
       'https://deepmind.google/discover/blog/rss/',
       'https://developers.googleblog.com/feeds/posts/default',
     ],
-  },
-  {
-    company: 'Canva',
-    category: '디자인툴',
-    rssUrls: [
-      'https://www.canva.com/newsroom/feed/',
-      'https://www.canva.com/newsroom/rss.xml',
-    ],
-  },
-  {
-    company: 'Adobe',
-    category: '디자인툴',
-    rssUrls: [
-      'https://blog.adobe.com/feed',
-      'https://blog.adobe.com/en/feed',
-      'https://news.adobe.com/rss.xml',
-    ],
+    maxItems: 5,
+    dayWindow: 3,
   },
   {
     company: 'Freepik',
     category: '디자인툴',
-    rssUrls: [
-      'https://www.freepik.com/blog/feed/',
-    ],
+    rssUrls: ['https://www.freepik.com/blog/feed/'],
+    maxItems: 3,
+    dayWindow: 3,
   },
   {
     company: 'ElevenLabs',
     category: 'AI모델',
-    rssUrls: [
-      'https://elevenlabs.io/blog/rss.xml',
-      'https://elevenlabs.io/blog/feed.xml',
-    ],
+    rssUrls: ['https://elevenlabs.io/blog/rss.xml', 'https://elevenlabs.io/blog/feed.xml'],
+    maxItems: 3,
+    dayWindow: 3,
   },
   {
     company: 'Suno',
     category: 'AI모델',
-    rssUrls: [
-      'https://suno.com/blog/rss.xml',
-    ],
+    rssUrls: ['https://suno.com/blog/rss.xml'],
+    maxItems: 3,
+    dayWindow: 3,
   },
   {
     company: 'Getty Images',
     category: '이미지',
-    rssUrls: [
-      'https://newsroom.gettyimages.com/en/rss.xml',
-      'https://newsroom.gettyimages.com/rss.xml',
-    ],
+    rssUrls: ['https://newsroom.gettyimages.com/en/rss.xml', 'https://newsroom.gettyimages.com/rss.xml'],
+    maxItems: 3,
+    dayWindow: 3,
   },
   {
     company: 'Shutterstock',
     category: '이미지',
-    rssUrls: [
-      'https://investor.shutterstock.com/rss.xml',
-    ],
+    rssUrls: ['https://investor.shutterstock.com/rss.xml'],
+    maxItems: 3,
+    dayWindow: 3,
   },
   {
     company: 'Monotype',
     category: '폰트',
-    rssUrls: [
-      'https://www.monotype.com/rss.xml',
-      'https://www.monotype.com/news/rss',
-    ],
+    rssUrls: ['https://www.monotype.com/rss.xml', 'https://www.monotype.com/news/rss'],
+    maxItems: 3,
+    dayWindow: 3,
   },
 ];
 
-// 글로벌 IT 미디어 — 키워드로 관련 기사 필터링
+// ───────────────────────────────────────────
+// 글로벌 IT 미디어
+// ───────────────────────────────────────────
 const MEDIA_SOURCES = [
   {
     name: 'TechCrunch AI',
     rssUrl: 'https://techcrunch.com/category/artificial-intelligence/feed/',
-    keywords: ['anthropic', 'openai', 'google', 'gemini', 'claude', 'gpt', 'canva', 'adobe', 'firefly', 'midjourney', 'stability', 'elevenlabs', 'suno', 'getty', 'shutterstock'],
+    keywords: ['anthropic', 'openai', 'google', 'gemini', 'claude', 'gpt', 'canva', 'adobe', 'firefly', 'elevenlabs', 'suno', 'getty', 'shutterstock'],
   },
   {
     name: 'The Verge AI',
@@ -131,19 +166,9 @@ const MEDIA_SOURCES = [
     keywords: ['anthropic', 'openai', 'google deepmind', 'claude', 'gpt-', 'gemini', 'canva', 'adobe firefly'],
   },
   {
-    name: 'Ars Technica AI',
-    rssUrl: 'https://feeds.arstechnica.com/arstechnica/technology-lab',
-    keywords: ['anthropic', 'openai', 'google ai', 'claude', 'chatgpt', 'gemini'],
-  },
-  {
     name: 'Wired AI',
     rssUrl: 'https://www.wired.com/feed/tag/ai/latest/rss',
     keywords: ['anthropic', 'openai', 'google', 'claude', 'gpt', 'gemini', 'adobe', 'canva'],
-  },
-  {
-    name: 'Music Business Worldwide',
-    rssUrl: 'https://www.musicbusinessworldwide.com/feed/',
-    keywords: ['suno', 'elevenlabs', 'udio', 'ai music', 'ai audio'],
   },
   {
     name: 'Creative Bloq',
@@ -155,39 +180,36 @@ const MEDIA_SOURCES = [
     rssUrl: 'https://www.prnewswire.com/rss/technology-latest-news.rss',
     keywords: ['anthropic', 'openai', 'adobe', 'canva', 'shutterstock', 'getty', 'elevenlabs', 'suno', 'monotype'],
   },
-  {
-    name: 'ScriptByAI',
-    rssUrl: 'https://www.scriptbyai.com/feed/',
-    keywords: ['claude', 'gpt', 'gemini', 'anthropic', 'openai', 'google'],
-  },
 ];
 
+// ───────────────────────────────────────────
 // 국내 IT 미디어
+// ───────────────────────────────────────────
 const KOREAN_SOURCES = [
   {
     name: 'AI타임스',
     rssUrl: 'https://www.aitimes.com/rss/allArticle.xml',
-    keywords: ['앤트로픽', '오픈AI', '구글', '어도비', '캔바', '망고보드', '미리캔버스', '산돌', '윤디자인', '눈누', 'claude', 'gpt', 'gemini'],
-  },
-  {
-    name: '인공지능신문',
-    rssUrl: 'https://www.aitimes.kr/rss/allArticle.xml',
-    keywords: ['앤트로픽', '오픈AI', '구글', '어도비', '캔바', '클로드', 'AI 모델', 'AI 디자인'],
+    keywords: ['앤트로픽', '오픈AI', '구글', '어도비', '캔바', '망고보드', '미리캔버스', '산돌', '윤디자인', '눈누', 'claude', 'gpt', 'gemini', 'adobe', 'canva'],
   },
   {
     name: '디지털데일리',
     rssUrl: 'https://www.ddaily.co.kr/rss/allArticle.xml',
-    keywords: ['anthropic', 'openai', '생성AI', 'AI 모델', '망고보드', '미리캔버스', '산돌'],
+    keywords: ['anthropic', 'openai', '생성AI', 'AI 모델', '망고보드', '미리캔버스', '산돌', '어도비', '캔바'],
   },
   {
     name: '전자신문',
     rssUrl: 'https://rss.etnews.com/Section901.xml',
-    keywords: ['AI', 'anthropic', 'openai', '구글', '어도비', '캔바'],
+    keywords: ['AI', 'anthropic', 'openai', '구글', '어도비', '캔바', '망고보드', '미리캔버스'],
+  },
+  {
+    name: '디자인정글',
+    rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI'],
   },
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
-    keywords: ['산돌', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스'],
+    keywords: ['산돌', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바'],
   },
 ];
 
@@ -217,6 +239,101 @@ async function fetchRSS(url) {
     if (atomEntries) return Array.isArray(atomEntries) ? atomEntries : [atomEntries];
 
     return null;
+  } catch {
+    return null;
+  }
+}
+
+// 블로그 페이지 직접 스크래핑 (RSS 없는 국내 업체용)
+async function scrapeArticleLinks(url) {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
+        Accept: 'text/html,application/xhtml+xml',
+        'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
+      },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+
+    // href에서 블로그 포스트 링크 추출 (일반적인 패턴)
+    const linkPatterns = [
+      /href="(https?:\/\/[^"]*(?:blog|news|notice|post|article)[^"]*\/\d+[^"]*)"/gi,
+      /href="(\/(?:blog|news|notice|post)[^"]*\/\d+[^"]*)"/gi,
+      /href="(https?:\/\/blog\.naver\.com\/[^"]+\/\d+)"/gi,
+    ];
+
+    const seen = new Set();
+    const links = [];
+    const baseUrl = new URL(url).origin;
+
+    for (const pattern of linkPatterns) {
+      let match;
+      pattern.lastIndex = 0;
+      while ((match = pattern.exec(html)) !== null) {
+        let href = match[1];
+        if (href.startsWith('/')) href = baseUrl + href;
+        if (!seen.has(href)) {
+          seen.add(href);
+          // 페이지당 10개까지만
+          if (links.length < 10) links.push(href);
+        }
+      }
+    }
+
+    // 페이지 타이틀도 추출해서 RSS item 형식으로 변환
+    const titleMatch = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+    const ogTitle = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i);
+    const ogDesc = html.match(/<meta[^>]+property="og:description"[^>]+content="([^"]+)"/i);
+
+    if (links.length === 0) return null;
+
+    // 링크들을 RSS item 형식으로 반환
+    return links.slice(0, 5).map((link, i) => ({
+      link,
+      title: i === 0 && (ogTitle?.[1] || titleMatch?.[1]) ? (ogTitle?.[1] || titleMatch?.[1]) : link,
+      description: i === 0 && ogDesc?.[1] ? ogDesc[1] : '',
+      pubDate: new Date().toISOString(), // 날짜 불명이면 오늘로
+      _scraped: true,
+    }));
+  } catch {
+    return null;
+  }
+}
+
+// 스크래핑한 링크의 본문 내용 가져오기
+async function fetchArticleContent(url) {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120.0.0.0 Safari/537.36',
+        Accept: 'text/html',
+        'Accept-Language': 'ko-KR,ko;q=0.9',
+      },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+
+    const title = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)?.[1]
+      || html.match(/<title[^>]*>([^<]+)<\/title>/i)?.[1]
+      || '';
+    const description = html.match(/<meta[^>]+property="og:description"[^>]+content="([^"]+)"/i)?.[1]
+      || html.match(/<meta[^>]+name="description"[^>]+content="([^"]+)"/i)?.[1]
+      || '';
+
+    // 본문 텍스트 추출 (스크립트/스타일 제거 후)
+    const bodyText = html
+      .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+      .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim()
+      .slice(0, 1500);
+
+    return { title, description: description || bodyText };
   } catch {
     return null;
   }
@@ -266,17 +383,19 @@ function inferCompanyCategory(title, description) {
   const map = [
     { keywords: ['anthropic', 'claude'], company: 'Anthropic', category: 'AI모델' },
     { keywords: ['openai', 'chatgpt', 'gpt-'], company: 'OpenAI', category: 'AI모델' },
-    { keywords: ['google', 'gemini', 'deepmind', 'nano banana'], company: 'Google', category: 'AI모델' },
-    { keywords: ['canva'], company: 'Canva', category: '디자인툴' },
-    { keywords: ['adobe', 'firefly', 'photoshop', 'premiere'], company: 'Adobe', category: '디자인툴' },
+    { keywords: ['google', 'gemini', 'deepmind'], company: 'Google', category: 'AI모델' },
+    { keywords: ['canva', '캔바'], company: 'Canva', category: '디자인툴' },
+    { keywords: ['adobe', 'firefly', 'photoshop', 'premiere', '어도비'], company: 'Adobe', category: '디자인툴' },
+    { keywords: ['미리캔버스', 'miricanvas'], company: '미리캔버스', category: '디자인툴' },
+    { keywords: ['망고보드', 'mangoboard'], company: '망고보드', category: '디자인툴' },
     { keywords: ['freepik'], company: 'Freepik', category: '디자인툴' },
     { keywords: ['elevenlabs'], company: 'ElevenLabs', category: 'AI모델' },
     { keywords: ['suno'], company: 'Suno', category: 'AI모델' },
     { keywords: ['getty'], company: 'Getty Images', category: '이미지' },
     { keywords: ['shutterstock'], company: 'Shutterstock', category: '이미지' },
     { keywords: ['monotype', 'myfonts'], company: 'Monotype', category: '폰트' },
-    { keywords: ['산돌', 'sandoll', 'bakey'], company: '산돌', category: '폰트' },
-    { keywords: ['윤디자인', 'yoondesign', '폰코자키'], company: '윤디자인', category: '폰트' },
+    { keywords: ['산돌', 'sandoll'], company: '산돌', category: '폰트' },
+    { keywords: ['윤디자인', 'yoondesign'], company: '윤디자인', category: '폰트' },
   ];
   for (const entry of map) {
     if (entry.keywords.some(kw => text.includes(kw))) {
@@ -295,7 +414,7 @@ async function generateArticle(company, category, item, sourceName) {
   const pubDate = extractDate(item);
   const description = extractDescription(item);
 
-  const prompt = `당신은 AI·IT 전문 뉴스 에디터입니다. 아래 해외 기사를 한국어 기사로 변환해주세요.
+  const prompt = `당신은 AI·IT 전문 뉴스 에디터입니다. 아래 기사를 한국어 기사로 변환해주세요.
 
 [입력 정보]
 회사: ${company}
@@ -307,7 +426,7 @@ async function generateArticle(company, category, item, sourceName) {
 
 [출력 형식 - JSON만 출력]
 {
-  "title": "한국어 제목 — 회사명 + 핵심 내용 (예: Anthropic, Claude 4 출시 — 추론 능력 2배 향상)",
+  "title": "한국어 제목 — 회사명 + 핵심 내용 (예: Adobe, Firefly 4 출시 — 이미지 생성 품질 대폭 향상)",
   "summary": "2~3문장 한국어 요약. 무엇이 출시/발표됐고, 핵심 의의는 무엇인지.",
   "content": "## 배경\\n(이 발표의 맥락)\\n\\n## 주요 내용\\n- 핵심 사항 1\\n- 핵심 사항 2\\n- 핵심 사항 3\\n\\n## 시장 영향\\n(업계·사용자에 미치는 영향)",
   "tags": ["태그1", "태그2", "태그3", "태그4"],
@@ -349,6 +468,72 @@ async function generateArticle(company, category, item, sourceName) {
 }
 
 // ───────────────────────────────────────────
+// 우선순위 소스 처리 (Adobe, Canva, 미리캔버스, 망고보드)
+// ───────────────────────────────────────────
+async function processPrioritySource(source, existingUrls, existingSlugs, nextId, newArticles) {
+  const windowMs = source.dayWindow * 24 * 60 * 60 * 1000;
+  console.log(`\n⭐ [우선] ${source.company} 수집 중...`);
+
+  // 1. RSS 시도
+  let items = null;
+  for (const url of source.rssUrls) {
+    items = await fetchRSS(url);
+    if (items) { console.log(`  ✓ RSS: ${url}`); break; }
+  }
+
+  // 2. RSS 실패 시 직접 스크래핑
+  if (!items && source.scrapeUrls?.length > 0) {
+    console.log(`  ℹ️  RSS 없음 — 페이지 스크래핑 시도`);
+    for (const url of source.scrapeUrls) {
+      const scraped = await scrapeArticleLinks(url);
+      if (scraped && scraped.length > 0) {
+        console.log(`  ✓ 스크래핑: ${url} (${scraped.length}개 링크)`);
+        // 스크래핑된 링크의 실제 내용 가져오기
+        items = [];
+        for (const s of scraped) {
+          const content = await fetchArticleContent(s.link);
+          if (content && content.title) {
+            items.push({
+              link: s.link,
+              title: content.title,
+              description: content.description,
+              pubDate: new Date().toISOString(),
+            });
+          }
+        }
+        if (items.length > 0) break;
+      }
+    }
+  }
+
+  if (!items || items.length === 0) {
+    console.log(`  ⚠️  ${source.company}: 수집 실패`);
+    return nextId;
+  }
+
+  for (const item of items.slice(0, source.maxItems)) {
+    const link = extractLink(item);
+    if (link && existingUrls.has(link)) continue;
+    const age = Date.now() - extractDate(item).getTime();
+    if (age > windowMs) continue;
+
+    console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
+    try {
+      const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`);
+      if (!existingSlugs.has(article.slug)) {
+        article.id = String(nextId++);
+        newArticles.push(article);
+        if (link) existingUrls.add(link);
+        existingSlugs.add(article.slug);
+      }
+      await new Promise(r => setTimeout(r, 800));
+    } catch (e) { console.error(`    ❌ ${e.message}`); }
+  }
+
+  return nextId;
+}
+
+// ───────────────────────────────────────────
 // 메인
 // ───────────────────────────────────────────
 async function main() {
@@ -358,13 +543,18 @@ async function main() {
   );
   const existingSlugs = new Set(articles.map(a => a.slug));
   let nextId = Math.max(...articles.map(a => parseInt(a.id) || 0)) + 1;
-
   const newArticles = [];
-  const THREE_DAYS_MS = 3 * 24 * 60 * 60 * 1000;
 
-  // 1. 회사 공식 소스 수집
-  console.log('\n📡 공식 블로그/뉴스룸 수집 중...');
+  // ── 1단계: 우선순위 회사 (Adobe, Canva, 미리캔버스, 망고보드) ──
+  console.log('\n🎯 우선순위 회사 수집 시작 (Adobe, Canva, 미리캔버스, 망고보드)');
+  for (const source of PRIORITY_SOURCES) {
+    nextId = await processPrioritySource(source, existingUrls, existingSlugs, nextId, newArticles);
+  }
+
+  // ── 2단계: 일반 회사 공식 소스 ──
+  console.log('\n📡 일반 회사 공식 블로그/뉴스룸 수집 중...');
   for (const source of COMPANY_SOURCES) {
+    const windowMs = source.dayWindow * 24 * 60 * 60 * 1000;
     let items = null;
     for (const url of source.rssUrls) {
       items = await fetchRSS(url);
@@ -372,11 +562,11 @@ async function main() {
     }
     if (!items) { console.log(`  ⚠️  ${source.company}: RSS 없음`); continue; }
 
-    for (const item of items.slice(0, 5)) {
+    for (const item of items.slice(0, source.maxItems)) {
       const link = extractLink(item);
       if (link && existingUrls.has(link)) continue;
       const age = Date.now() - extractDate(item).getTime();
-      if (age > THREE_DAYS_MS) continue;
+      if (age > windowMs) continue;
 
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
@@ -392,7 +582,7 @@ async function main() {
     }
   }
 
-  // 2. 글로벌 IT 미디어 수집 (키워드 필터링)
+  // ── 3단계: 글로벌 IT 미디어 ──
   console.log('\n🌐 글로벌 IT 미디어 수집 중...');
   for (const source of MEDIA_SOURCES) {
     const items = await fetchRSS(source.rssUrl);
@@ -405,7 +595,7 @@ async function main() {
       const link = extractLink(item);
       if (link && existingUrls.has(link)) continue;
       const age = Date.now() - extractDate(item).getTime();
-      if (age > THREE_DAYS_MS) continue;
+      if (age > 3 * 24 * 60 * 60 * 1000) continue;
 
       const title = extractTitle(item);
       const desc = extractDescription(item);
@@ -425,7 +615,7 @@ async function main() {
     }
   }
 
-  // 3. 국내 IT 미디어 수집
+  // ── 4단계: 국내 IT 미디어 ──
   console.log('\n🇰🇷 국내 IT 미디어 수집 중...');
   for (const source of KOREAN_SOURCES) {
     const items = await fetchRSS(source.rssUrl);
@@ -438,7 +628,7 @@ async function main() {
       const link = extractLink(item);
       if (link && existingUrls.has(link)) continue;
       const age = Date.now() - extractDate(item).getTime();
-      if (age > THREE_DAYS_MS) continue;
+      if (age > 3 * 24 * 60 * 60 * 1000) continue;
 
       const title = extractTitle(item);
       const desc = extractDescription(item);
