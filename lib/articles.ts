@@ -1,7 +1,7 @@
 import articlesData from "@/data/articles.json";
 import type { Article } from "@/types/article";
 
-const articles: Article[] = articlesData as Article[];
+const articles: Article[] = (articlesData as Article[]).filter((a: any) => !a.hidden);
 
 export function getAllArticles(): Article[] {
   return articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
