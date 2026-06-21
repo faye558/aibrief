@@ -200,6 +200,36 @@ const PRIORITY_SOURCES = [
     maxItems: 10,
     dayWindow: 14,
   },
+  {
+    company: 'Monotype',
+    category: '폰트',
+    rssUrls: [
+      'https://www.monotype.com/rss.xml',
+      'https://www.monotype.com/news/rss',
+      'https://www.monotype.com/resources/rss',
+    ],
+    scrapeUrls: [
+      'https://www.monotype.com/resources/articles',
+      'https://www.monotype.com/news',
+    ],
+    maxItems: 8,
+    dayWindow: 30,
+  },
+  {
+    company: '윤디자인',
+    category: '폰트',
+    rssUrls: [
+      'https://rss.blog.naver.com/yoondesign_m.xml',
+      'https://www.yoondesign-m.com/rss',
+      'https://yoondesign.com/rss',
+    ],
+    scrapeUrls: [
+      'https://www.yoondesign-m.com/news',
+      'https://blog.naver.com/yoondesign_m',
+    ],
+    maxItems: 8,
+    dayWindow: 60,
+  },
 ];
 
 // ───────────────────────────────────────────
@@ -255,13 +285,6 @@ const COMPANY_SOURCES = [
     company: 'Shutterstock',
     category: '이미지',
     rssUrls: ['https://investor.shutterstock.com/rss.xml'],
-    maxItems: 3,
-    dayWindow: 7,
-  },
-  {
-    company: 'Monotype',
-    category: '폰트',
-    rssUrls: ['https://www.monotype.com/rss.xml', 'https://www.monotype.com/news/rss'],
     maxItems: 3,
     dayWindow: 7,
   },

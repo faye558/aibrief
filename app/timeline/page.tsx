@@ -61,14 +61,14 @@ function formatMonth(ym: string) {
 export default function TimelinePage({
   searchParams,
 }: {
-  searchParams: { category?: string };
+  searchParams: { category?: string; company?: string };
 }) {
   const category = searchParams.category ?? "전체";
+  const company = searchParams.company ?? "";
   const allArticles = getAllArticles().sort((a, b) => b.date.localeCompare(a.date));
-  const filtered =
-    category === "전체"
-      ? allArticles
-      : allArticles.filter((a) => a.category === category);
+  const filtered = allArticles
+    .filter((a) => category === "전체" || a.category === category)
+    .filter((a) => !company || a.company === company);
 
   const grouped = groupByMonth(filtered);
 
@@ -76,7 +76,9 @@ export default function TimelinePage({
     <div className="max-w-4xl mx-auto px-4 py-8">
       {/* 헤더 */}
       <div className="mb-8">
-        <h1 className="text-3xl font-black text-gray-900 mb-1">타임라인</h1>
+        <h1 className="text-3xl font-black text-gray-900 mb-1">
+          {company ? `${company} 타임라인` : "타임라인"}
+        </h1>
         <p className="text-gray-500 text-sm">AI·디자인툴 업계 전체 흐름을 날짜순으로 한눈에</p>
       </div>
 
@@ -96,14 +98,36 @@ export default function TimelinePage({
           </a>
         ))}
 
-        {/* 범례 */}
-        <div className="ml-auto flex flex-wrap items-center gap-3">
-          {Object.entries(COMPANY_DOT).map(([co, dot]) => (
-            <span key={co} className="flex items-center gap-1.5 text-xs text-gray-500">
-              <span className={`w-2.5 h-2.5 rounded-full ${dot}`} />
-              {co}
-            </span>
-          ))}
+        {/* 회사 범례 — 클릭하면 해당 회사만 필터 */}
+        <div className="w-full mt-3 flex flex-wrap items-center gap-x-4 gap-y-2">
+          {company && (
+            <a
+              href="/timeline"
+              className="text-xs text-brand-600 font-semibold underline underline-offset-2 mr-1"
+            >
+              전체 보기 ✕
+            </a>
+          )}
+          {Object.entries(COMPANY_DOT).map(([co, dot]) => {
+            const isActive = company === co;
+            const href = isActive
+              ? "/timeline"
+              : `/timeline?company=${encodeURIComponent(co)}`;
+            return (
+              <a
+                key={co}
+                href={href}
+                className={`flex items-center gap-1.5 text-xs transition-all rounded-full px-2 py-0.5 ${
+                  isActive
+                    ? "bg-gray-900 text-white font-bold"
+                    : "text-gray-500 hover:text-gray-900 hover:bg-gray-100"
+                }`}
+              >
+                <span className={`w-2.5 h-2.5 rounded-full shrink-0 ${dot}`} />
+                {co}
+              </a>
+            );
+          })}
         </div>
       </div>
 
