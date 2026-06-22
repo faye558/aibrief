@@ -3609,5 +3609,447 @@
     "communityLinks": null,
     "slug": "ai-it-cbc289eb-2026-06-18",
     "id": "129"
+  },
+  {
+    "title": "눈누, 용인 헤븐온어스 인근 분식 맛집 '밥이랑빵이랑' 내돈내산 리뷰 공개",
+    "summary": "폰트 플랫폼 눈누가 공식 블로그를 통해 용인 헤븐온어스 체험농장 근처 분식집 '밥이랑빵이랑'의 내돈내산 방문 후기를 소개했다. 아이와 함께 블루베리·딸기 수확 및 동물 먹이주기 체험 후 들르기 좋은 맛집으로 현지 분위기와 메뉴를 상세히 전달했다. 매장은 헤븐온어스 바로 앞 건물에 위치해 접근성이 뛰어나다는 점이 강점으로 꼽혔다.",
+    "content": "## 배경\n폰트 플랫폼 눈누는 서비스·브랜드 관련 정보 외에도 공식 블로그를 통해 다양한 라이프스타일 콘텐츠를 게재하고 있다. 이번 포스팅은 용인 체험농장 '헤븐온어스' 방문객을 위한 주변 식당 정보를 내돈내산 형식으로 공유한 것이다.\n\n## 주요 내용\n- 소개 식당: 밥이랑빵이랑 (용인 헤븐온어스 바로 앞 건물 위치)\n- 영업시간: 월~토 07:00~18:00, 일 10:00~18:00 / 격주 월요일 정기 휴무 / 전화 0507-1370-7543\n- 매장 앞 주차 가능, 아기 의자 구비로 영유아 동반 가족에게 편의 제공\n- 블루베리·딸기·쪽파 수확 체험 및 동물 먹이주기 체험 후 식사 장소로 추천\n- 밥과 빵을 모두 즐길 수 있는 분식 메뉴 구성으로 긍정적인 현지 후기 다수 확인\n\n## 시장 영향\n폰트 전문 플랫폼이 라이프스타일·로컬 맛집 콘텐츠를 병행 운영함으로써 브랜드 친근감을 높이는 전략으로 풀이된다. 디자이너·크리에이터 등 눈누의 주요 사용자층이 블로그를 통해 브랜드와 더 넓은 접점을 형성할 수 있으며, 지역 소상공인 홍보 효과도 기대된다.",
+    "company": "눈누",
+    "category": "폰트",
+    "date": "2026-06-17",
+    "tags": [
+      "눈누",
+      "맛집추천",
+      "용인맛집",
+      "헤븐온어스",
+      "밥이랑빵이랑",
+      "내돈내산",
+      "가족나들이"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.naver.com/noonnu/224319323364?fromRss=true&trackingCode=rss",
+    "sourceName": "눈누 공식",
+    "sources": [
+      {
+        "url": "https://blog.naver.com/noonnu/224319323364?fromRss=true&trackingCode=rss",
+        "name": "눈누 공식 — 용인 헤븐온어스 근처 맛집_:) 아이와 동물먹이 체험하고 점심 해결!분식 찐맛집_내돈내산 후기"
+      }
+    ],
+    "communityReaction": "폰트 플랫폼 블로그에서 맛집 후기라니 뜬금없긴 한데, 오히려 브랜드가 친근하게 느껴지네요. 눈누 자주 쓰는 디자이너로서 이런 콘텐츠도 나쁘지 않은 것 같아요.",
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 눈누",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EB%88%88%EB%88%88%ED%8F%B0%ED%8A%B8"
+      },
+      {
+        "name": "클리앙 검색: 눈누",
+        "url": "https://www.clien.net/service/search?q=%EB%88%88%EB%88%88&sort=latest"
+      }
+    ],
+    "slug": "눈누-ecf190ed-2026-06-17",
+    "id": "130"
+  },
+  {
+    "title": "OpenAI, 'Patch the Planet' 발표 — AI로 오픈소스 보안 취약점 탐지·수정 지원",
+    "summary": "OpenAI가 Daybreak 이니셔티브의 일환으로 'Patch the Planet' 프로그램을 공개했다. 이 프로그램은 오픈소스 유지관리자(maintainer)들이 AI와 전문가 리뷰를 활용해 보안 취약점을 발견·검증·수정할 수 있도록 지원한다. 전 세계 오픈소스 생태계의 보안 수준을 높이는 것을 핵심 목표로 삼고 있다.",
+    "content": "## 배경\n오픈소스 소프트웨어는 전 세계 디지털 인프라의 근간을 이루고 있지만, 소수의 유지관리자가 방대한 코드베이스를 관리하며 보안 취약점 대응에 어려움을 겪어왔다. Log4Shell 등 대형 오픈소스 보안 사고가 반복되면서 체계적인 취약점 관리 지원의 필요성이 커진 가운데, OpenAI는 Daybreak 이니셔티브를 통해 이 문제에 AI 기술로 접근하기 시작했다.\n\n## 주요 내용\n- OpenAI의 AI 모델을 활용해 오픈소스 코드베이스 내 보안 취약점을 자동으로 탐지하고 우선순위를 분류하는 기능 제공\n- 탐지된 취약점은 보안 전문가의 리뷰를 거쳐 오탐(false positive)을 줄이고 신뢰도 높은 수정 방향을 제시\n- 오픈소스 유지관리자가 직접 수정 작업에 참여할 수 있도록 패치 제안 및 워크플로우 지원 체계 마련\n- Daybreak는 OpenAI가 사이버보안 분야 공익 기여를 목적으로 운영하는 이니셔티브로, Patch the Planet은 그 첫 번째 대규모 공개 프로그램\n\n## 시장 영향\nPatch the Planet은 만성적인 인력 부족에 시달리는 오픈소스 보안 생태계에 AI 기반 자동화를 도입함으로써, 취약점 발견부터 패치 배포까지의 사이클을 단축시킬 것으로 기대된다. 특히 대기업보다 리소스가 부족한 소규모 오픈소스 프로젝트의 보안 수준 향상에 직접적인 기여가 예상되며, OpenAI가 보안 분야에서의 AI 활용 범위를 확장하는 신호탄으로도 해석된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "OpenAI",
+      "오픈소스보안",
+      "Daybreak",
+      "취약점관리",
+      "AI보안"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://openai.com/index/patch-the-planet",
+    "sourceName": "OpenAI 공식",
+    "sources": [
+      {
+        "url": "https://openai.com/index/patch-the-planet",
+        "name": "OpenAI 공식 — Patch the Planet: a Daybreak initiative to support open source maintainers"
+      }
+    ],
+    "communityReaction": "오픈소스 커뮤니티에서는 '실제로 유지관리자 부담을 얼마나 줄여줄지가 관건'이라는 반응이 나오며, 특히 AI가 생성한 패치 제안의 품질과 오탐률에 대한 현실적인 우려가 개발자 포럼을 중심으로 제기될 것으로 보인다.",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-f601b26b-2026-06-22",
+    "id": "131"
+  },
+  {
+    "title": "OpenAI, Daybreak 보안 툴 공개 — Codex Security·GPT-5.5-Cyber로 취약점 자동 탐지·패치",
+    "summary": "OpenAI가 조직 보안 강화를 위한 신규 도구 모음 'Daybreak'를 공개했다. Codex Security와 GPT-5.5-Cyber를 중심으로, 기업이 대규모로 취약점을 발견·검증·패치할 수 있는 AI 기반 보안 워크플로우를 제공한다. 이는 OpenAI가 사이버보안 분야에 본격적으로 진출하는 신호탄으로 평가된다.",
+    "content": "## 배경\n사이버 위협이 날로 고도화되면서 기업 보안팀은 방대한 코드베이스의 취약점을 신속하게 탐지하고 대응하는 데 한계를 겪어왔다. OpenAI는 대형 언어 모델의 코드 이해 능력을 보안 자동화에 접목해 이 문제를 해결하고자 Daybreak 이니셔티브를 추진했다.\n\n## 주요 내용\n- **Codex Security**: 코드 저장소를 스캔해 보안 취약점을 자동으로 식별하고, 수정 패치 코드까지 제안하는 AI 보안 에이전트\n- **GPT-5.5-Cyber**: 사이버보안 시나리오에 특화 튜닝된 모델로, 취약점 분석·익스플로잇 검증·위협 인텔리전스 해석 등 전문 보안 태스크에 최적화\n- **대규모 취약점 관리 워크플로우**: 탐지(Find)→검증(Validate)→패치(Patch)의 전 주기를 AI로 자동화해 보안팀의 대응 속도와 커버리지를 대폭 향상\n\n## 시장 영향\nDaybreak는 기존 SAST·DAST 보안 솔루션 시장에 AI 네이티브 경쟁자가 등장했음을 의미하며, Snyk·GitHub Advanced Security 등 기존 플레이어와의 경쟁이 본격화될 전망이다. 특히 보안 인력 부족에 시달리는 중소·중견 기업에게 AI 기반 자동화 보안 툴은 실질적인 대안이 될 수 있으며, OpenAI가 엔터프라이즈 보안 시장에서 새로운 수익원을 확보하는 계기가 될 것으로 분석된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "OpenAI",
+      "Daybreak",
+      "사이버보안",
+      "Codex Security",
+      "GPT-5.5-Cyber",
+      "AI보안",
+      "취약점관리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://openai.com/index/daybreak-securing-the-world",
+    "sourceName": "OpenAI 공식",
+    "sources": [
+      {
+        "url": "https://openai.com/index/daybreak-securing-the-world",
+        "name": "OpenAI 공식 — Daybreak: Tools for securing every organization in the world"
+      }
+    ],
+    "communityReaction": "\"Codex가 코드 자동완성을 넘어 보안 패치까지 제안한다니 실무에서 쓸 수 있는 수준인지 직접 테스트해봐야 알 것 같다\"는 반응과 함께, \"AI가 취약점을 찾는 동시에 익스플로잇 방법도 학습한다는 점에서 오용 가능성을 OpenAI가 어떻게 통제할지가 핵심\"이라는 우려의 목소리도 나오고 있다.",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-5d9de7a5-2026-06-22",
+    "id": "132"
+  },
+  {
+    "title": "삼성전자, ChatGPT Enterprise·Codex 전사 도입 — OpenAI 역대 최대 규모 기업 배포",
+    "summary": "삼성전자가 전 세계 임직원을 대상으로 ChatGPT Enterprise와 코드 생성 AI인 Codex를 전사 배포했다. 이번 도입은 OpenAI 역사상 가장 큰 규모의 기업 AI 롤아웃 중 하나로 평가되며, 글로벌 대기업의 AI 업무 내재화 흐름을 상징하는 사례로 주목받고 있다.",
+    "content": "## 배경\n삼성전자는 앞서 2023년 임직원의 ChatGPT 등 외부 생성형 AI 사용으로 인한 내부 코드 유출 사고를 겪은 바 있다. 이후 사내 AI 도구 개발과 함께 보안이 강화된 엔터프라이즈 솔루션 도입을 검토해왔으며, 이번에 OpenAI의 기업용 제품군을 공식 채택하는 방향으로 결론을 내렸다.\n\n## 주요 내용\n- 삼성전자 전 세계 임직원을 대상으로 ChatGPT Enterprise 및 Codex 공식 배포 완료\n- ChatGPT Enterprise는 데이터 프라이버시 보호, 고급 분석, 확장된 컨텍스트 윈도우 등 기업 특화 기능 제공\n- Codex를 통해 소프트웨어 개발 부서 임직원의 코드 작성·리뷰·자동화 업무 효율화 지원\n- OpenAI 기업 배포 사례 중 최대 규모 중 하나로, 글로벌 대기업의 AI 전사 도입 선례 제시\n\n## 시장 영향\n삼성전자와 같은 글로벌 대기업의 ChatGPT Enterprise 전사 도입은 기업용 AI 시장에서 OpenAI의 입지를 크게 강화하는 신호탄이 될 전망이다. 또한 AI 도구의 보안·거버넌스 문제를 엔터프라이즈 계약으로 해결하는 모델이 업계 표준으로 자리잡을 가능성을 높이며, Microsoft·Google 등 경쟁사의 기업용 AI 서비스와의 경쟁도 한층 치열해질 것으로 보인다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-21",
+    "tags": [
+      "삼성전자",
+      "ChatGPT Enterprise",
+      "Codex",
+      "OpenAI",
+      "기업용AI",
+      "AI도입"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "sourceName": "OpenAI 공식",
+    "sources": [
+      {
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "name": "OpenAI 공식 — Samsung Electronics brings ChatGPT and Codex to employees"
+      }
+    ],
+    "communityReaction": "삼성이 외부 AI 유출 사고 이후 결국 OpenAI 엔터프라이즈로 간 거 보면, 자체 개발보다 검증된 솔루션 도입이 현실적인 선택인 것 같다는 반응이 많다. 개발자들 사이에서는 Codex가 실제 업무에 얼마나 깊이 연동될지, 그리고 코드 보안 정책은 어떻게 설계됐는지에 대한 궁금증이 쏟아지고 있다.",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-663d8726-2026-06-21",
+    "id": "133"
+  },
+  {
+    "title": "Anthropic, 트럼프 행정부 규제 압박 직면 — AI 생태계 판도 변화 주목",
+    "summary": "트럼프 행정부가 AI 기업 Anthropic에 대한 규제 조치를 본격화하면서 AI 업계 전반에 파장이 예상된다. 이번 조치가 촉발된 배경과 함께, 반사이익을 얻을 수 있는 경쟁사들에 대한 관심이 높아지고 있다. TechCrunch의 Equity 팟캐스트는 이번 사태가 AI 생태계에 미칠 영향을 심층 분석했다.",
+    "content": "## 배경\n트럼프 행정부가 최근 AI 스타트업 Anthropic을 겨냥한 규제 압박 조치를 단행하면서 업계의 이목이 집중되고 있다. Anthropic은 Claude 시리즈로 잘 알려진 미국의 주요 AI 기업으로, OpenAI 및 Google과 함께 생성형 AI 시장의 핵심 플레이어 중 하나다. 이번 행정부의 움직임은 단순한 기업 규제를 넘어 미국 AI 산업 전체의 구도를 흔들 수 있는 사안으로 평가된다.\n\n## 주요 내용\n- 트럼프 행정부가 Anthropic에 대한 구체적인 규제 조치를 추진하고 있으며, 그 배경에는 정치적·안보적 고려가 복합적으로 작용한 것으로 분석됨\n- 이번 규제 압박으로 인해 OpenAI, Google DeepMind, Meta AI 등 경쟁사들이 반사이익을 얻을 가능성이 제기되고 있음\n- TechCrunch Equity 팟캐스트에서는 이번 사태가 AI 스타트업 투자 환경 및 규제 프레임워크 형성에 중요한 선례가 될 수 있다고 지적\n\n## 시장 영향\n이번 규제 조치는 Anthropic의 사업 확장과 투자 유치에 직접적인 걸림돌이 될 수 있으며, 단기적으로는 경쟁사들에게 시장 점유율 확대의 기회가 열릴 수 있다. 장기적으로는 미국 정부의 AI 기업 개입 방식에 대한 불확실성이 커지면서, 전반적인 AI 스타트업 생태계의 투자 심리 위축으로 이어질 가능성도 배제할 수 없다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-06-21",
+    "tags": [
+      "Anthropic",
+      "트럼프행정부",
+      "AI규제",
+      "생성형AI",
+      "AI정책"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "sourceName": "TechCrunch AI",
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "name": "TechCrunch AI — When the Trump administration cracks down on Anthropic, who benefits?"
+      }
+    ],
+    "communityReaction": "\"결국 규제 리스크가 현실화됐네요. Anthropic 의존도 높은 기업들은 지금 당장 OpenAI나 Gemini로 대체 방안 검토해야 할 것 같습니다.\" \"미국 정치 상황이 AI 개발 로드맵에까지 영향을 미치는 시대가 됐군요. 기술력만으로는 안 되는 환경이 걱정됩니다.\"",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-a96480a9-2026-06-21",
+    "id": "134"
+  },
+  {
+    "title": "OpenAI, 오픈소스 보안 취약점 패치 프로젝트 공개 — Anthropic과의 경쟁 속 사이버보안 강화 나서",
+    "summary": "OpenAI가 AI 모델의 사이버보안 역량에 대한 우려가 커지는 가운데, 개선된 GPT-4.5-Cyber 모델과 함께 오픈소스 소프트웨어 버그를 자동으로 수정하는 'Patch the Planet' 이니셔티브를 발표했다. 이번 발표는 Anthropic의 보안 중심 AI 브랜드 이미지에 맞서 OpenAI가 사이버보안 분야에서의 입지를 강화하려는 전략적 행보로 풀이된다.",
+    "content": "## 배경\nAI 모델이 해킹 도구로 악용될 수 있다는 우려가 업계 전반에 확산되는 상황에서, Anthropic은 안전성과 보안을 핵심 가치로 내세우며 신뢰도 높은 브랜드 이미지를 구축해왔다. OpenAI는 이에 대응하기 위해 사이버보안 특화 모델과 오픈소스 생태계 보호 프로젝트를 동시에 발표하며 적극적인 반격에 나섰다.\n\n## 주요 내용\n- OpenAI는 사이버보안 작업에 최적화된 GPT-4.5-Cyber의 개선 버전을 공개하며 취약점 탐지 및 분석 능력을 강화했다고 밝혔다.\n- 'Patch the Planet' 이니셔티브를 통해 전 세계 오픈소스 소프트웨어의 보안 버그를 AI 기반으로 자동 탐지하고 패치를 제안하는 대규모 프로젝트를 출범시켰다.\n- 이번 이니셔티브는 단순한 모델 출시를 넘어 OpenAI가 사이버보안 인프라 개선에 직접 기여하겠다는 의지를 대외적으로 천명한 것으로, Anthropic의 안전 중심 브랜드 전략에 정면으로 도전하는 성격을 띤다.\n\n## 시장 영향\n사이버보안 분야에서 AI 활용이 본격화되는 가운데, OpenAI의 이번 행보는 보안 전문 기업 및 오픈소스 커뮤니티와의 협력 구도를 재편할 가능성이 있다. 특히 오픈소스 생태계의 고질적 문제인 보안 패치 지연 문제를 AI로 해소할 수 있다면, 개발자 커뮤니티 내 OpenAI의 신뢰도와 영향력이 크게 높아질 것으로 전망된다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "OpenAI",
+      "사이버보안",
+      "오픈소스",
+      "GPT-4.5-Cyber",
+      "Patch the Planet",
+      "Anthropic"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+    "sourceName": "Wired AI",
+    "sources": [
+      {
+        "url": "https://www.wired.com/story/openai-launches-full-scale-effort-to-patch-open-source-bugs-as-it-takes-on-anthropics-mythos/",
+        "name": "Wired AI — OpenAI Launches Full-Scale Effort to Patch Open-Source Bugs as It Takes on Anthropic’s Mythos"
+      }
+    ],
+    "communityReaction": "\"Anthropic이 '안전한 AI' 이미지를 선점한 상황에서 OpenAI가 실질적인 오픈소스 패치 프로젝트로 반격하는 건 흥미로운 전략이네요. 실제로 버그 수정 성능이 검증된다면 보안 팀 입장에서는 무시하기 어려운 도구가 될 것 같습니다.\"",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-33bf1a3e-2026-06-22",
+    "id": "135"
+  },
+  {
+    "title": "Canva, 광양시 AI·디지털배움터 강좌 채택 — 시민 대상 생활 디자인 교육 확산",
+    "summary": "광양시가 26일부터 12월 10일까지 AI·디지털배움터를 운영하며, 주요 강좌 중 하나로 'Canva로 쉽게 만드는 생활 디자인 콘텐츠'를 편성했다. 직장인과 학생을 위한 야간반·주말반을 신설해 디지털 격차 해소와 AI 활용 역량 강화를 목표로 한다.",
+    "content": "## 배경\n광양시는 시민의 디지털 격차 해소와 AI 활용 능력 향상을 위해 2026년 AI·디지털배움터 사업을 추진하고 있다. 교육 거점은 광양커뮤니티센터 1.5층 전남ICT이노베이션스퀘어에 마련되며, 기존 평일 주간반 외에 야간·주말반을 새롭게 도입해 교육 접근성을 높였다.\n\n## 주요 내용\n- Canva를 활용한 '생활 디자인 콘텐츠 만들기' 강좌가 공공 디지털 교육 커리큘럼에 공식 포함됨\n- 스마트폰 생활 활용, AI 첫걸음, AI와 함께하는 한글 문서 작성 실무 등 실생활 밀착형 강좌 구성\n- 직장인·학생을 위해 오후 7시 야간반 및 토요일 오전반 신설, 교육 접근성 대폭 확대\n\n## 시장 영향\nCanva가 공공기관 주도의 디지털 교육 커리큘럼에 채택됨으로써, 디자인 전문가가 아닌 일반 시민층으로의 사용자 저변이 더욱 확대될 전망이다. 지자체 단위의 AI·디지털 교육에 Canva가 표준 툴로 자리잡는 사례가 늘어날 경우, 국내 공공 교육 시장에서의 브랜드 인지도와 신규 사용자 유입에 긍정적인 영향을 미칠 것으로 보인다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-06-22",
+    "tags": [
+      "Canva",
+      "디지털교육",
+      "AI배움터",
+      "광양시",
+      "디자인툴"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211989",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=211989",
+        "name": "AI타임스 — 광양, 26일부터 AI·디지털배움터 운영"
+      }
+    ],
+    "communityReaction": "\"이제 캔바는 디자이너 툴이 아니라 진짜 국민 툴이 됐네요. 지자체 공공 교육에까지 들어갔으면 사실상 대세 확정 아닌가요?\" / \"야간반·주말반 신설은 좋은데, 한 번 수업 들어본 어르신들이 실제로 캔바를 꾸준히 쓸 수 있도록 사후 지원이 더 중요할 것 같아요.\"",
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-9b3f9ddf-2026-06-22",
+    "id": "136"
+  },
+  {
+    "title": "지푸 AI, GLM-5.2 글로벌 4위 등극 — 중국 오픈소스 LLM 최초 50점 돌파",
+    "summary": "중국 지푸 AI의 오픈소스 대형언어모델 GLM-5.2가 아티피셜 애널리시스(AA)의 최신 지능 지수 v4.1에서 51점을 기록하며 전체 4위에 올랐다. 이는 중국 오픈소스 모델 최초로 50점 고지를 넘은 성과로, 앤트로픽·오픈AI 등 빅테크 모델과 어깨를 나란히 하며 실리콘 밸리 기술 리더들의 극찬을 받고 있다.",
+    "content": "## 배경\n중국 AI 스타트업 지푸 AI는 오픈소스 LLM 시장에서 꾸준히 존재감을 키워왔다. GLM 시리즈는 중국 내 대표적인 오픈소스 모델로 자리매김해왔으나, 글로벌 최상위권 모델과의 격차를 좁히는 것이 과제였다. 이번 GLM-5.2 출시는 그 격차를 실질적으로 좁힌 분기점으로 평가받는다.\n\n## 주요 내용\n- AA 지능 지수 v4.1(2025년 기준)에서 GLM-5.2가 51점을 기록, 전체 모델 중 세계 4위 달성\n- 중국 오픈소스 모델 최초로 지능 지수 50점 고지 돌파라는 역사적 이정표 수립\n- 1위 앤트로픽 페이블 5(60점), 2위 클로드 오퍼스 4.8(56점), 3위 오픈AI GPT-5.5(55점)에 이은 순위로, 빅테크 클로즈드 모델들과 경쟁하는 수준에 도달\n- 실리콘 밸리의 주요 기술 리더들로부터 잇달아 공개적 호평을 받으며 글로벌 AI 커뮤니티의 주목을 받는 중\n\n## 시장 영향\nGLM-5.2의 부상은 오픈소스 AI 생태계에서 중국 모델의 경쟁력이 글로벌 최상위권에 근접했음을 입증하는 사례로, 오픈소스 진영의 판도 변화를 예고한다. 특히 클로즈드 모델 대비 비용 효율성과 접근성을 갖춘 오픈소스 고성능 모델의 등장은 기업 및 개발자 커뮤니티의 모델 선택지를 넓히고, 미국 빅테크 중심의 AI 시장 구도에 변수로 작용할 전망이다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "지푸AI",
+      "GLM-5.2",
+      "오픈소스LLM",
+      "중국AI",
+      "AI벤치마크"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211964",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=211964",
+        "name": "AI타임스 — 세계 4위 등극한 'GLM-5.2'에 실리콘 밸리도 감탄"
+      }
+    ],
+    "communityReaction": "\"오픈소스 모델이 GPT-5.5 바로 아래까지 왔다는 게 실감이 안 날 정도네요. 이 정도 성능이면 온프레미스 구축 비용 대비 효율이 엄청날 것 같은데, 실제 추론 속도랑 컨텍스트 처리 벤치마크도 빨리 나왔으면 좋겠어요.\"",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-9fa57358-2026-06-22",
+    "id": "137"
+  },
+  {
+    "title": "오픈AI, 삼성전자 전 임직원에 챗GPT 엔터프라이즈·코덱스 공급 — 역대 최대 규모 엔터프라이즈 도입",
+    "summary": "오픈AI가 삼성전자 국내 전 임직원 및 DX 부문 전 세계 임직원을 대상으로 챗GPT 엔터프라이즈와 코덱스를 공급한다고 밝혔다. 이번 계약은 오픈AI 엔터프라이즈 도입 사례 중 역대 최대 규모로, 삼성전자 임직원들은 회사 보안 정책과 거버넌스 체계 안에서 AI 도구를 업무 전반에 활용할 수 있게 된다.",
+    "content": "## 배경\n삼성전자는 앞서 2023년 챗GPT를 통한 내부 기밀 유출 사고를 겪은 이후 자체 AI 도구 도입에 신중한 입장을 취해왔다. 이번 오픈AI와의 대규모 엔터프라이즈 계약은 보안과 거버넌스 체계를 갖춘 공식 AI 도입으로, 삼성전자의 AI 업무 환경 전환을 알리는 신호탄으로 해석된다.\n\n## 주요 내용\n- 오픈AI는 삼성전자 국내 전 임직원 및 DX(디바이스경험) 부문 전 세계 임직원을 대상으로 챗GPT 엔터프라이즈와 코덱스를 공급\n- 이번 도입은 오픈AI 엔터프라이즈 계약 중 역대 최대 규모로 기록됨\n- 임직원들은 삼성전자의 보안 정책과 거버넌스 체계 내에서 챗GPT와 코덱스를 안전하게 활용 가능\n- 마케팅, 제품 개발, 제조 등 업무 전반에서 정보 탐색, 문서 작성, 데이터 해석 등 다양한 업무 효율화 기대\n- 코덱스를 통해 아이디어를 실제 업무에 적용하는 소프트웨어 개발 및 자동화 작업도 지원 예정\n\n## 시장 영향\n글로벌 대형 제조·IT 기업이 오픈AI 엔터프라이즈를 전사적으로 도입한 사례 중 최대 규모인 만큼, 국내외 대기업들의 유사한 도입을 촉진하는 기폭제가 될 전망이다. 특히 보안 우려로 AI 도입을 망설이던 기업들에게 '보안 거버넌스 기반의 엔터프라이즈 AI 도입' 모델의 레퍼런스 사례로 작용할 가능성이 높다. 오픈AI 입장에서도 아시아 시장 내 엔터프라이즈 확장의 중요한 발판을 마련한 것으로 평가된다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "오픈AI",
+      "삼성전자",
+      "챗GPT엔터프라이즈",
+      "코덱스",
+      "AI도입"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211959",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=211959",
+        "name": "AI타임스 — 오픈AI, 삼성전자 전 임직원에 챗GPT 엔터프라이즈·코덱스 공급"
+      }
+    ],
+    "communityReaction": "삼성 임직원들 사이에서는 '이제 공식적으로 눈치 안 보고 쓸 수 있겠다'는 반응이 나올 것 같고, IT업계에서는 '결국 오픈AI가 국내 최대 기업도 품었다, 국내 AI 솔루션 업체들은 더 힘들어지겠다'는 우려 섞인 반응도 예상된다.",
+    "communityLinks": null,
+    "slug": "ai-it-cbe57a78-2026-06-22",
+    "id": "138"
+  },
+  {
+    "title": "크랭크GPT, 손으로 직접 전력 생산해야 작동하는 수동 크랭크 구동 AI 음성 비서 공개",
+    "summary": "컴퓨터 과학자 카트린 토마넥과 전 구글 ATAP 그룹 리더 알렉스 카우프만이 사용자가 손잡이를 직접 돌려 전기를 공급해야만 작동하는 AI 음성 비서 '크랭크GPT'를 공개했다. 이 장치는 거대 데이터센터에 의존하지 않고 필요한 용도에 맞춰 전력 소비를 최적화한 것이 특징으로, AI의 막대한 에너지 소비 문제를 정면으로 겨냥한 실험적 프로젝트다.",
+    "content": "## 배경\n생성형 AI 서비스의 급격한 확산으로 데이터센터의 전력 소비량이 폭발적으로 증가하면서, AI가 환경에 미치는 영향에 대한 우려가 전 세계적으로 커지고 있다. 이러한 흐름 속에서 AI 에너지 소비 문제를 직관적으로 체험하고 경각심을 일깨우는 독특한 형태의 장치가 등장해 주목받고 있다.\n\n## 주요 내용\n- 컴퓨터 과학자 카트린 토마넥과 전 구글 첨단 기술 및 프로젝트(ATAP) 그룹 리더 알렉스 카우프만이 수동 크랭크 구동식 음성 AI 비서 '크랭크GPT(CrankGPT)'를 공개했다.\n- 사용자가 직접 손잡이(크랭크)를 돌려 전기를 생산해야만 장치가 작동하며, 내부에 전력을 임시 저장하는 구조로 설계됐다.\n- 대형 데이터센터에 의존하지 않고 실제 사용 목적에 맞게 전력 소비량을 최적화한 온디바이스 AI 구동 방식을 채택해, AI 에너지 효율화의 가능성을 실험적으로 제시한다.\n\n## 시장 영향\n크랭크GPT는 상업적 제품이라기보다 AI의 에너지 소비 문제를 체감하게 만드는 개념 증명(Proof of Concept) 프로젝트로, AI 업계와 연구자들에게 경량·저전력 온디바이스 AI 모델 개발의 중요성을 환기시키는 계기가 될 수 있다. 또한 엣지 AI 및 그린 AI 분야에 대한 관심을 높이고, 거대 클라우드 인프라 없이도 AI를 구현하려는 시도에 영감을 줄 것으로 보인다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-21",
+    "tags": [
+      "크랭크GPT",
+      "온디바이스AI",
+      "그린AI",
+      "에너지효율",
+      "AI하드웨어"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=211953",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=211953",
+        "name": "AI타임스 — 손으로 작동하는 '크랭크GPT'...\"AI 답변 받으려면 직접 전력 생산\""
+      }
+    ],
+    "communityReaction": "\"AI 답변 하나 받으려고 직접 크랭크를 돌려야 한다니, ChatGPT가 전기를 얼마나 쓰는지 몸으로 느끼게 해주는 장치네요 — 과장처럼 보여도 메시지는 명확하다.\" \"실용성은 제로지만, 데이터센터 전력 문제를 이렇게 직관적으로 보여주는 방식은 오히려 어떤 논문보다 임팩트 있을 것 같습니다.\"",
+    "communityLinks": null,
+    "slug": "ai-it-ac5e7b78-2026-06-21",
+    "id": "139"
+  },
+  {
+    "title": "앤트로픽, AI 모델 외국인 사용 금지 열흘째 — 역설적 호재론 속 정부 신뢰 회복이 관건",
+    "summary": "미국 정부가 앤트로픽의 최신 AI 모델 '페이블5'와 '미토스5'에 대해 외국인 사용을 금지한 조치가 열흘째 지속되며 서비스 차질이 현실화되고 있다. 앤트로픽은 백악관에 기술진을 파견해 사태 수습에 나섰으며, 업계 일각에서는 이번 규제가 역설적으로 앤트로픽의 독보적인 기술력을 입증하는 신호로 해석될 수 있다는 관측도 나오고 있다.",
+    "content": "## 배경\n미국 정부는 앤트로픽의 최신 AI 모델 페이블5와 미토스5에 대해 외국인 사용을 금지하는 행정 조치를 내렸으며, 해당 조치는 현재 열흘째 유지되고 있다. 이는 미국의 첨단 AI 기술 수출 통제 기조가 강화되는 흐름 속에서 나온 결정으로, 앤트로픽 서비스를 이용하는 해외 기업과 개인 사용자들에게 직접적인 영향을 미치고 있다.\n\n## 주요 내용\n- 앤트로픽은 사태 수습을 위해 백악관에 기술진을 직접 파견, 정부와의 협의에 착수한 상태\n- 이번 규제로 페이블5·미토스5의 해외 서비스 제공이 사실상 중단되며 글로벌 고객사 대상 서비스 차질 불가피\n- AI 업계 일부에서는 미국 정부가 특정 모델에 수출 통제를 적용했다는 사실 자체가 해당 기술의 전략적 가치를 공인하는 것이라는 역설적 해석 제기\n\n## 시장 영향\n단기적으로는 앤트로픽의 해외 매출 및 글로벌 고객 확보에 부정적 영향이 예상된다. 그러나 중장기적으로는 '미국 정부가 통제할 만큼 강력한 기술'이라는 이미지가 앤트로픽의 기술력 신뢰도를 높이는 요인으로 작용할 수 있다는 분석도 있다. 관건은 앤트로픽이 얼마나 빠르게 정부와의 신뢰 관계를 회복하고 제재 해제 또는 완화를 이끌어낼 수 있느냐다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "앤트로픽",
+      "AI수출규제",
+      "페이블5",
+      "미토스5",
+      "미국AI정책"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260622000407",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260622000407",
+        "name": "전자신문 — 앤트로픽, 'AI 수출 금지' 호재되나…美 정부 신뢰 회복은 과제"
+      }
+    ],
+    "communityReaction": "\"결국 규제받는 AI가 제일 잘 만든 AI라는 거 아니냐\"는 반응이 나오는 한편, 해외 법인 기반으로 앤트로픽 API 연동 서비스를 운영 중인 개발사들은 대체 모델 전환을 급하게 검토하는 분위기다.",
+    "communityLinks": null,
+    "slug": "ai-it-124549ac-2026-06-22",
+    "id": "140"
+  },
+  {
+    "title": "테스코, 2026 FIFA 월드컵 맞아 상추를 축구공으로 변신시킨 한정 패키지 출시",
+    "summary": "영국 유통기업 테스코(Tesco)가 2026 FIFA 월드컵을 기념해 아이스버그 상추를 축구공처럼 보이도록 디자인한 이색 패키지를 선보였다. 농산물 기업 지스 그룹(G's Group)과 협업해 기존 투명 포장 필름에 축구공 무늬를 적용한 것으로, 제품 변경 없이 패키지 디자인만으로 매장 진열대에서 강렬한 시각적 인상을 만들어내는 것이 핵심이다. 월드컵 열기를 활용해 가족과 어린이들이 채소에 더 친근하게 다가갈 수 있도록 유도하는 마케팅 전략이다.",
+    "content": "## 배경\n2026 FIFA 월드컵 시즌을 맞아 유통·식품업계 전반에서 스포츠 마케팅 열기가 고조되는 가운데, 영국 대형 유통기업 테스코가 채소 카테고리에서도 월드컵 무드를 적극 활용하는 이색 시도에 나섰다. 건강한 식습관 장려와 스포츠 이벤트를 결합한 크리에이티브 패키지 전략이 주목받고 있다.\n\n## 주요 내용\n- 테스코는 농산물 기업 지스 그룹(G's Group)과 협업해 아이스버그 상추 제품에 축구공 무늬를 적용한 한정 패키지를 출시했다\n- 기존 투명 포장 필름 위에 축구공 패턴을 인쇄하는 방식으로, 내용물인 상추 자체가 축구공처럼 보이는 착시 효과를 구현했다\n- 제품 구성이나 내용물 변경 없이 패키지 디자인만 교체해 비용 효율적으로 시즌 마케팅을 진행한 점이 특징이며, 어린이와 가족 소비자층을 주요 타깃으로 설정했다\n\n## 시장 영향\n이번 사례는 최소한의 패키지 변경만으로도 매장 진열대에서 강력한 시각적 차별화를 이끌어낼 수 있음을 보여준다. 스포츠 이벤트와 채소 등 비인기 식품 카테고리를 연결하는 전략은 향후 유통업계의 시즌 마케팅 기획에 새로운 참고 사례가 될 것으로 보이며, 패키지 디자인이 소비자의 구매 행동과 식품 친밀도에 미치는 영향력을 재확인시켜 주는 계기가 될 전망이다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-22",
+    "tags": [
+      "테스코",
+      "패키지디자인",
+      "2026월드컵",
+      "식품마케팅",
+      "크리에이티브"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28076",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28076",
+        "name": "매드타임스 — [해외 크리에이티브] 테스코, 상추를 축구공으로 바꿨다… 월드컵 맞아 이색 패키지 선보여"
+      }
+    ],
+    "communityReaction": "패키지 디자이너들 사이에서 '추가 금형이나 구조 변경 없이 필름 인쇄 하나로 이 정도 임팩트를 낸 게 진짜 실력'이라는 반응이 나올 듯하고, 브랜드 마케터들은 '시즌 한정 캠페인 예산 대비 효율 면에서 교과서 같은 레퍼런스'라며 내부 공유 자료로 저장할 것 같다.",
+    "communityLinks": null,
+    "slug": "ai-it-d16d19c8-2026-06-22",
+    "id": "141"
   }
 ]
