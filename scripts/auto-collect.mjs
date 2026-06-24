@@ -157,10 +157,9 @@ const PRIORITY_SOURCES = [
     company: '산돌',
     category: '디자인툴',  // 캔버스·AI스튜디오 등 디자인툴 사업 포함
     rssUrls: [
-      'https://rss.blog.naver.com/sandollcloud.xml',
-      'https://rss.blog.naver.com/sandoll_canvas.xml',
       'https://www.sandoll.co.kr/rss',
       'https://sandoll.co.kr/news/rss',
+      'https://rss.blog.naver.com/sandoll_canvas.xml',
     ],
     scrapeUrls: [
       'https://www.sandoll.co.kr/news',
@@ -559,8 +558,12 @@ function extractDescription(item) {
 const EXCLUDE_KEYWORDS = [
   // 피지컬 AI / 하드웨어
   '피지컬 ai', 'physical ai', '로봇', 'robot', '자율주행', '드론', '반도체', 'risc-v', '가속기',
-  // 금융·투자·주식
+  // 금융·투자·주식·IR
   'ipo', '상장', '주가', '투자', '펀딩', '밸류에이션', '매출', '영업이익', '실적', '시가총액',
+  '자사주', '주주', '주주총회', '소각', '배당', '공시', '감사인', '사업보고서', '분기보고서',
+  '밸류업', '주주환원',
+  // ESG·CSR·채용
+  'esg', '봉사활동', '사회공헌', '채용', '공개채용', '임직원',
   // 정치·정책·규제 (디자인툴 무관)
   '국가ai전략', '디지털헬스', '입법', '규제', '법안', '위원회', '부처',
   // 부동산·건설
