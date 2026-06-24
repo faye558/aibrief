@@ -4403,5 +4403,244 @@
     "communityLinks": null,
     "slug": "ai-it-5b96bffb-2026-06-23",
     "id": "151"
+  },
+  {
+    "title": "OpenAI, 고급 AI 공동 표준 구축 지원 — Appia 재단 통해 글로벌 협력 추진",
+    "summary": "OpenAI가 고급 AI 시스템에 대한 공유 표준 마련을 지원하기 위해 Appia 재단과 협력하며 평가 프레임워크 및 안전 관행 개발에 나섰다. 이는 AI 안전성과 신뢰성을 확보하기 위한 국제적 기준 마련의 일환으로, 업계 전반의 협력을 이끌어내려는 시도다. OpenAI는 이를 통해 개별 기업 차원을 넘어 글로벌 AI 거버넌스 체계 구축에 기여하겠다는 의지를 밝혔다.",
+    "content": "## 배경\nAI 기술이 급격히 발전하면서 각국 정부와 기업들 사이에서 AI 안전성 및 책임 있는 개발에 대한 공통 기준의 필요성이 높아지고 있다. OpenAI는 자사 단독의 안전 정책을 넘어, 업계 전체가 따를 수 있는 표준화된 평가·안전 체계 마련이 시급하다고 판단하고 이번 이니셔티브를 추진했다.\n\n## 주요 내용\n- OpenAI는 Appia 재단을 통해 고급 AI 모델에 대한 평가 프레임워크 개발을 지원하며, 다양한 이해관계자가 활용할 수 있는 공동 기준 마련에 기여\n- AI 안전 관행(safety practices) 표준화를 위한 연구 및 정책 협력을 강화하고, 위험 평가 방법론의 일관성 확보를 목표로 함\n- 글로벌 협력 체계 구축을 통해 각국 규제 기관, 연구 기관, AI 기업들이 공통된 기준 아래 AI 개발·배포를 진행할 수 있는 생태계 조성 추진\n\n## 시장 영향\n이번 OpenAI의 행보는 AI 업계의 자율 규제 및 공동 표준화 움직임에 중요한 신호탄이 될 것으로 보인다. 공통 평가 프레임워크가 확립될 경우 AI 모델의 신뢰성 검증이 보다 객관화되고, 기업들의 안전 투자 방향성도 통일될 수 있다. 다만 표준 설정 과정에서 특정 기업의 영향력이 과도하게 반영될 수 있다는 우려도 제기될 수 있어, 중립적 거버넌스 구조 확보가 관건이다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-23",
+    "tags": [
+      "OpenAI",
+      "AI안전",
+      "AI표준화",
+      "Appia재단",
+      "AI거버넌스",
+      "글로벌협력"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "sourceName": "OpenAI 공식",
+    "sources": [
+      {
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+        "name": "OpenAI 공식 — Helping build shared standards for advanced AI"
+      }
+    ],
+    "communityReaction": "\"결국 AI 평가 기준을 누가 주도하느냐의 싸움인데, OpenAI가 재단을 통해 표준 제정에 깊이 관여하려는 의도가 보인다\"는 반응과 함께, \"공통 평가 프레임워크가 생기면 모델 간 객관적 비교가 가능해져 실무에서 AI 도입 결정이 훨씬 쉬워질 것\"이라는 기대감도 나오고 있다.",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-1b1b1aa4-2026-06-23",
+    "id": "152"
+  },
+  {
+    "title": "OpenAI, GPT-5 Pro로 3년간 미해결 면역학 미스터리 해결 — T세포 연구 돌파구 마련",
+    "summary": "OpenAI의 GPT-5 Pro가 면역학자 데리아 우누트마즈(Derya Unutmaz) 박사가 3년간 풀지 못했던 T세포 행동 관련 면역학적 난제를 해결하는 데 핵심적인 역할을 했다. 이번 성과는 암 및 자가면역질환 연구에 새로운 가능성을 열 수 있는 중요한 과학적 돌파구로 평가된다.",
+    "content": "## 배경\nOpenAI의 GPT-5 Pro는 단순한 텍스트 생성을 넘어 복잡한 과학적 문제 해결에 활용되고 있다. 면역학자 데리아 우누트마즈 박사는 T세포의 특정 행동 패턴과 관련된 문제를 3년 이상 연구해왔으나 돌파구를 찾지 못하고 있었으며, GPT-5 Pro와의 협업을 통해 마침내 핵심 단서를 발견했다.\n\n## 주요 내용\n- GPT-5 Pro는 방대한 면역학 문헌과 데이터를 분석해 기존 연구자들이 간과했던 T세포 행동 패턴에 대한 새로운 가설과 인사이트를 제시했다\n- 3년간 해결되지 않았던 면역학적 메커니즘의 실마리가 AI와의 심층적인 과학 대화를 통해 도출되었으며, 연구자는 AI를 '전문 지식을 갖춴 공동 연구자'로 평가했다\n- 이번 연구 성과는 암 면역치료 및 자가면역질환 치료 전략 개발에 직접적으로 응용될 가능성이 있어 임상적 파급력이 클 것으로 기대된다\n\n## 시장 영향\nGPT-5 Pro의 이번 사례는 AI가 과학 연구의 보조 도구를 넘어 실질적인 공동 연구자로 자리잡을 수 있음을 보여주는 강력한 레퍼런스가 됐다. 제약·바이오 업계에서는 신약 개발 및 난치병 연구에 고성능 AI 모델 도입을 가속화하는 계기가 될 전망이며, 동시에 AI 기반 과학 연구의 신뢰성과 검증 방법론에 대한 논의도 촉발될 것으로 보인다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-23",
+    "tags": [
+      "OpenAI",
+      "GPT-5",
+      "AI의학",
+      "면역학",
+      "T세포",
+      "암연구",
+      "자가면역"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://openai.com/index/gpt-5-immunology-mystery",
+    "sourceName": "OpenAI 공식",
+    "sources": [
+      {
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "name": "OpenAI 공식 — How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery"
+      }
+    ],
+    "communityReaction": "\"이제 AI가 논문 요약이 아니라 진짜 연구 문제를 푸는 수준까지 왔네요, 바이오·제약 쪽 연구자들은 GPT-5 Pro 도입 진지하게 검토해야 할 것 같습니다.\" \"3년짜리 미스터리를 AI랑 대화로 풀었다는 게 충격적인데, 구체적인 프롬프트 방법론이나 워크플로우가 공개되면 더 의미 있을 것 같아요.\"",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-1948945e-2026-06-23",
+    "id": "153"
+  },
+  {
+    "title": "Anthropic, Claude Tag 출시 — Slack 메시지로 기업 조직 맥락 학습하는 AI 팀원",
+    "summary": "Anthropic이 Slack에 상시 연결되는 AI 기능 'Claude Tag'를 출시했다. 단순한 생산성 도구를 넘어, 조직의 내부 맥락·업무 방식·기관 지식을 지속적으로 학습하는 엔터프라이즈 전략의 일환으로 주목받고 있다.",
+    "content": "## 배경\nAnthropicAI 어시스턴트 Claude를 기업 협업 환경에 더 깊숙이 통합하기 위한 전략을 가속화하고 있다. 기존 Claude의 Slack 연동이 단순 질의응답 수준이었다면, 이번 Claude Tag는 조직 내 대화 흐름에 상시 참여하며 맥락을 축적하는 방식으로 한 단계 진화했다.\n\n## 주요 내용\n- Slack 채널에서 @Claude Tag로 호출하면 해당 대화 맥락을 이해하고 즉각 응답하는 '상시 AI 팀원' 기능 제공\n- 단순 답변에 그치지 않고, 반복되는 Slack 대화를 통해 해당 기업의 업무 방식, 용어, 내부 프로세스를 점진적으로 학습\n- 조직의 기관 지식(Institutional Knowledge)과 워크플로우를 AI가 내재화함으로써, 시간이 지날수록 더 정확하고 맥락에 맞는 지원이 가능해지는 구조\n\n## 시장 영향\nClaude Tag는 생산성 툴을 넘어 기업 데이터와 워크플로우를 선점하려는 Anthropic의 엔터프라이즈 전략으로 해석된다. Microsoft Copilot(Teams), Google Gemini(Workspace)와의 직접 경쟁 구도가 형성되며, AI가 단순 도구가 아닌 '조직 기억'을 보유한 존재로 자리잡을 경우 기업의 AI 플랫폼 종속성도 한층 강화될 전망이다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-06-23",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "엔터프라이즈AI",
+      "Slack",
+      "AI협업"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "sourceName": "TechCrunch AI",
+    "sources": [
+      {
+        "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+        "name": "TechCrunch AI — Anthropic’s Claude Tag is learning your company, one Slack message at a time"
+      }
+    ],
+    "communityReaction": "\"결국 회사 내부 대화를 전부 Anthropic 서버로 학습시키는 거 아닌가요? 보안·컴플라이언스 검토 없이 도입했다간 큰일 날 것 같아요.\" — 실제 도입을 검토하는 IT 담당자들 사이에서 데이터 프라이버시와 기업 기밀 유출 우려가 가장 먼저 나올 것으로 보인다.",
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-492604e8-2026-06-23",
+    "id": "154"
+  },
+  {
+    "title": "오픈AI, 칸 라이언즈 첫 참가 — 챗GPT 광고 비즈니스·코덱스 공개로 광고 시장 본격 진출",
+    "summary": "오픈AI가 세계 최대 광고 축제인 칸 라이언즈에 처음으로 참가해 챗GPT 기반 광고 플랫폼과 AI 코딩 에이전트 '코덱스'를 광고·마케팅 업계에 공개했다. 이는 IPO를 앞두고 새로운 수익원을 확보하려는 전략적 행보로, 구글·메타가 장악한 광고 기술 시장에 오픈AI가 본격적으로 도전장을 내민 것으로 풀이된다.",
+    "content": "## 배경\n오픈AI는 기업공개(IPO)를 앞두고 챗GPT 구독료 외의 새로운 수익 모델 확보가 시급한 상황이다. 글로벌 광고 시장은 구글, 메타 등 빅테크가 오랜 기간 지배해왔으나, 생성형 AI의 부상으로 광고 타깃팅·크리에이티브 제작 방식이 급변하고 있어 오픈AI가 이 틈새를 공략하려는 것으로 분석된다.\n\n## 주요 내용\n- 오픈AI는 프랑스 칸에서 열린 칸 라이언즈 2025에 최초로 참가해 별도 전시 공간을 마련하고 광고주·마케팅 업계 관계자들을 대상으로 자사 플랫폼을 소개했다.\n- 챗GPT를 활용한 광고 비즈니스 모델을 전면에 공개하며, AI 기반 광고 타깃팅 및 크리에이티브 솔루션을 시연했다.\n- AI 코딩 에이전트 '코덱스'도 함께 선보이며, 광고 캠페인 자동화 및 마케팅 기술 스택과의 통합 가능성을 강조했다.\n\n## 시장 영향\n오픈AI의 광고 시장 진입은 구글·메타 중심의 디지털 광고 생태계에 새로운 경쟁 변수를 추가한다. 특히 생성형 AI를 활용한 초개인화 광고·콘텐츠 제작 자동화 수요가 급증하는 시점에서, 오픈AI가 광고주에게 직접 플랫폼을 제공할 경우 기존 광고 기술 업체들의 입지가 흔들릴 수 있다. 다만 광고 업계 신뢰 구축과 개인정보 보호 이슈는 넘어야 할 과제로 남아 있다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-24",
+    "tags": [
+      "오픈AI",
+      "챗GPT",
+      "광고AI",
+      "칸라이언즈",
+      "코덱스",
+      "IPO"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212058",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212058",
+        "name": "AI타임스 — 오픈AI, IPO 앞두고 광고 시장 조준…칸에서 챗GPT 광고 비즈니스 공개"
+      }
+    ],
+    "communityReaction": "\"결국 오픈AI도 광고 수익 모델로 가는구나, 챗GPT 무료 플랜에 광고 붙는 날도 머지않은 것 같다\"는 반응과 함께, 마케터들 사이에서는 \"구글·메타 광고 의존도를 줄일 수 있는 새로운 채널이 생길 수 있다\"는 기대감도 나오고 있다.",
+    "communityLinks": null,
+    "slug": "ai-it-629e5bae-2026-06-24",
+    "id": "155"
+  },
+  {
+    "title": "삼성전자, AI 모듈러 홈 — 3년 내 1만호 공급 목표로 아파트·빌딩까지 확장",
+    "summary": "삼성전자가 경기 화성시 쇼룸 행사에서 AI 모듈러 홈 사업의 확장 청사진을 공개했다. 기존 단독주택 중심에서 벗어나 아파트·공공주택·빌딩 등 다양한 주거·상업 공간으로 영역을 넓히며, 3년 후 1만호 공급이라는 구체적인 목표를 제시했다. AI 가전과 급배수 등 설치 환경을 통합 설계하는 방식으로 스마트 주거 시장 선점에 나선다.",
+    "content": "## 배경\n삼성전자는 사용자 맞춤형 모듈러 주택에 AI 가전과 스마트홈 기술을 결합한 'AI 모듈러 홈' 사업을 추진해왔다. 초기에는 단독주택 위주로 전개됐으나, 국내 주거 시장의 대부분을 차지하는 아파트·공공주택 수요를 공략하기 위해 사업 모델을 대폭 확장하는 전략으로 전환했다.\n\n## 주요 내용\n- 삼성전자는 24일 경기 화성시 '삼성 AI 모듈러 홈' 쇼룸 행사에서 사업 확장 계획을 공식 발표\n- 적용 범위를 단독주택에서 아파트, 공공주택, 빌딩 등 다양한 건축 유형으로 확대\n- 3년 후 AI 모듈러 홈 1만호 공급이라는 구체적인 수치 목표 제시\n- AI 모듈러 홈은 사용자 취향과 라이프 스타일을 반영한 공간 설계에 AI 가전 및 급배수 등 설치 환경을 종합적으로 통합하는 방식으로 구성\n\n## 시장 영향\n삼성전자가 AI 모듈러 홈을 아파트·빌딩으로 확장함에 따라 국내 스마트홈·모듈러 건축 시장 경쟁이 본격화될 전망이다. 건설사 및 공공주택 사업자와의 협업 수요가 커지고, AI 가전 생태계와 주거 공간의 통합이 가속화되면서 LG전자 등 경쟁사와의 스마트홈 플랫폼 주도권 경쟁도 심화될 것으로 보인다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-24",
+    "tags": [
+      "삼성전자",
+      "AI모듈러홈",
+      "스마트홈",
+      "모듈러주택",
+      "AI가전"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260624000245",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260624000245",
+        "name": "전자신문 — 삼성전자 “AI 모듈러 홈, 3년 후 1만호 공급 목표”…아파트·빌딩으로 확장"
+      }
+    ],
+    "communityReaction": "\"단독주택 한정이라 그림의 떡이었는데 아파트까지 확장된다니 기대되긴 하는데, 기존 아파트 구조에 모듈러 방식이 현실적으로 얼마나 적용 가능한지 의문\" \"1만호 목표보다 실제 시공 단가와 입주자 커스터마이징 자유도가 어느 수준인지가 더 궁금하다\"",
+    "communityLinks": null,
+    "slug": "ai-it-0376195b-2026-06-24",
+    "id": "156"
+  },
+  {
+    "title": "국가AI전략위원회, 디지털헬스법 일원화 추진 — 보복부·산업부 중복 입법 혼선 해소",
+    "summary": "대통령 직속 국가인공지능전략위원회가 보건복지부와 산업통상자원부가 각각 추진 중인 디지털 헬스케어 관련 법안을 하나로 통합하는 방안을 추진한다. 부처별 유사 입법으로 인한 정책 주도권 및 규율 체계의 혼선을 방지하기 위한 조치로, 4년여간 표류해온 디지털 헬스케어 법제화에 속도가 붙을 전망이다.",
+    "content": "## 배경\n의료 AI와 보건의료 데이터 활용에 대한 법적 근거 마련 필요성이 커지는 가운데, 보건복지부와 산업통상자원부가 각각 별도의 디지털 헬스케어 관련 법안을 추진하면서 중복 입법 문제가 수면 위로 떠올랐다. 관련 법제화는 약 4년간 명확한 주도 부처 없이 표류해온 상황이다.\n\n## 주요 내용\n- 대통령 직속 국가인공지능전략위원회(AI전략위) 내 법률 태스크포스(TF)가 디지털 헬스케어 법안 일원화를 공식 추진\n- 보건복지부와 산업통상자원부가 각각 준비 중인 법안을 단일 체계로 통합해 정책 주도권 혼선 해소가 목표\n- 의료 AI 기술 도입 및 보건의료 데이터 활용을 뒷받침할 통합 법제 마련으로 산업 성장 기반 구축 기대\n\n## 시장 영향\n디지털 헬스케어 법제화가 단일 체계로 정비될 경우, 의료 AI 스타트업과 대형 헬스케어 기업 모두 명확한 규제 환경 하에 사업을 전개할 수 있게 된다. 그동안 법적 불확실성으로 인해 투자 유치와 서비스 출시가 지연됐던 업계에 긍정적 신호로 작용할 전망이며, 글로벌 디지털 헬스케어 시장에서 한국의 경쟁력 제고에도 기여할 것으로 기대된다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-24",
+    "tags": [
+      "디지털헬스케어",
+      "의료AI",
+      "AI전략위원회",
+      "보건의료데이터",
+      "헬스케어법제화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260624000283",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260624000283",
+        "name": "전자신문 — [단독]'디지털헬스법' 중복 없앤다"
+      }
+    ],
+    "communityReaction": "\"드디어 부처 밥그릇 싸움 끝나나요? 4년이면 충분히 싸웠고, 현장에서는 법적 근거 없이 AI 솔루션 도입이 너무 힘들었습니다.\" \"통합 법안이 나온다 해도 세부 규정에서 또 갈등 생길 텐데, TF 구성이 어떻게 되는지가 핵심일 것 같네요.\"",
+    "communityLinks": null,
+    "slug": "ai-it-7659224d-2026-06-24",
+    "id": "157"
+  },
+  {
+    "title": "SHD그룹, RISC-V 기반 AI 가속기 2031년 90억대 돌파 전망 — 연평균 40% 성장률 예측",
+    "summary": "글로벌 반도체·AI 시장조사기업 SHD그룹이 발간한 백서에 따르면, RISC-V 기반 AI 가속기는 2025년 11억5930만개 출하를 시작으로 2031년까지 연평균 40% 이상의 폭발적 성장이 예상된다. 반도체 IP 시장에서 오픈소스 아키텍처인 RISC-V의 존재감이 급격히 커지며, 기존 ARM·x86 중심의 시장 질서에 변화를 예고하고 있다.",
+    "content": "## 배경\n반도체 설계자산(IP) 시장에서 오픈소스 기반 아키텍처인 RISC-V가 'IP의 리눅스'로 불리며 주목받고 있다. 라이선스 비용 없이 자유롭게 활용 가능한 RISC-V는 AI 반도체 설계의 유연성과 비용 효율성을 동시에 제공해, 스타트업부터 대형 팹리스까지 광범위하게 채택이 확산되는 추세다.\n\n## 주요 내용\n- SHD그룹 백서에 따르면 RISC-V 기반 AI 가속기의 2024년 출하량은 약 11억5930만개로 집계됨\n- 2031년까지 연평균 성장률(CAGR) 40% 이상을 유지하며 총 90억5000만대 규모에 달할 것으로 전망\n- 오픈소스 IP 생태계 확장으로 ARM 등 유료 라이선스 기반 아키텍처와의 경쟁이 본격화될 것으로 예측\n\n## 시장 영향\nRISC-V의 급성장은 AI 반도체 설계 진입장벽을 대폭 낮춰, 중소 팹리스 및 스타트업의 자체 AI 칩 개발을 촉진할 전망이다. 특히 엣지 AI, 온디바이스 AI 분야에서 RISC-V 기반 가속기 채택이 늘어나며, 기존 ARM 중심의 모바일·임베디드 생태계와의 경쟁 구도가 심화될 것으로 보인다. 국내 반도체 기업들도 RISC-V IP 내재화 및 관련 생태계 투자 확대를 서두를 필요가 있다는 분석이 나온다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-24",
+    "tags": [
+      "RISC-V",
+      "AI가속기",
+      "반도체IP",
+      "오픈소스",
+      "엣지AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260624000277",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260624000277",
+        "name": "전자신문 — “RISC-V AI 가속기 2031년 90.5억대…연평균 40% 성장”"
+      }
+    ],
+    "communityReaction": "\"ARM 로열티 없이 AI 칩 설계할 수 있다는 게 RISC-V 최대 강점인데, 연평균 40% 성장이면 이미 대세 전환 수순 아닌가요?\" \"국내 팹리스들도 RISC-V 기반 AI 가속기 개발 서두르지 않으면 중국·미국 업체에 시장 다 내줄 것 같아 걱정됩니다.\"",
+    "communityLinks": null,
+    "slug": "ai-it-b2b4f16e-2026-06-24",
+    "id": "158"
   }
 ]
