@@ -558,9 +558,6 @@ function extractDescription(item) {
 const EXCLUDE_KEYWORDS = [
   // 피지컬 AI / 하드웨어
   '피지컬 ai', 'physical ai', '로봇', 'robot', '자율주행', '드론', '반도체', 'risc-v', '가속기',
-  // IR 공시 (투자·실적 뉴스는 포함, 공시 문서류만 제외)
-  '자사주', '주주총회', '소각', '배당', '공시', '감사인', '사업보고서', '분기보고서',
-  '밸류업', '주주환원',
   // ESG·CSR·채용
   'esg', '봉사활동', '사회공헌', '채용', '공개채용', '임직원',
   // 정치·정책·규제 (디자인툴 무관)
@@ -720,7 +717,6 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
     if (link && existingUrls.has(link)) continue;
     const age = Date.now() - extractDate(item).getTime();
     if (age > windowMs) continue;
-    if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
     console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
     try {
