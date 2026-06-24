@@ -555,6 +555,27 @@ function extractDescription(item) {
   ).slice(0, 800);
 }
 
+// 수집 제외 키워드 — 제목/설명에 포함되면 스킵
+const EXCLUDE_KEYWORDS = [
+  // 피지컬 AI / 하드웨어
+  '피지컬 ai', 'physical ai', '로봇', 'robot', '자율주행', '드론', '반도체', 'risc-v', '가속기',
+  // 금융·투자·주식
+  'ipo', '상장', '주가', '투자', '펀딩', '밸류에이션', '매출', '영업이익', '실적', '시가총액',
+  // 정치·정책·규제 (디자인툴 무관)
+  '국가ai전략', '디지털헬스', '입법', '규제', '법안', '위원회', '부처',
+  // 부동산·건설
+  '아파트', '빌딩', '모듈러 홈', '시공', '건설',
+  // 의료·바이오
+  '헬스케어', '의료', '바이오', '병원', '임상',
+  // 군사·보안
+  '사이버보안', '해킹', '군사', '방산', '국방',
+];
+
+function isExcluded(item) {
+  const text = (extractTitle(item) + ' ' + extractDescription(item)).toLowerCase();
+  return EXCLUDE_KEYWORDS.some(kw => text.includes(kw.toLowerCase()));
+}
+
 function matchesKeywords(item, keywords) {
   const text = (extractTitle(item) + ' ' + extractDescription(item)).toLowerCase();
   return keywords.some(kw => text.includes(kw.toLowerCase()));
@@ -697,6 +718,7 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
     if (link && existingUrls.has(link)) continue;
     const age = Date.now() - extractDate(item).getTime();
     if (age > windowMs) continue;
+    if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
     console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
     try {
@@ -748,6 +770,7 @@ async function main() {
       if (link && existingUrls.has(link)) continue;
       const age = Date.now() - extractDate(item).getTime();
       if (age > windowMs) continue;
+      if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
@@ -776,6 +799,7 @@ async function main() {
       const link = extractLink(item);
       if (link && existingUrls.has(link)) continue;
       if (Date.now() - extractDate(item).getTime() > 3 * 24 * 60 * 60 * 1000) continue;
+      if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
       const { company, category } = inferCompanyCategory(extractTitle(item), extractDescription(item));
       console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
@@ -805,6 +829,7 @@ async function main() {
       const link = extractLink(item);
       if (link && existingUrls.has(link)) continue;
       if (Date.now() - extractDate(item).getTime() > 3 * 24 * 60 * 60 * 1000) continue;
+      if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
       const { company, category } = inferCompanyCategory(extractTitle(item), extractDescription(item));
       console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
