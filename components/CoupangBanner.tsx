@@ -7,6 +7,8 @@ export default function CoupangBanner() {
       frameBorder="0"
       scrolling="no"
       referrerPolicy="unsafe-url"
+      // @ts-ignore
+      browsingtopics=""
       style={{ display: "block" }}
     />
   );
