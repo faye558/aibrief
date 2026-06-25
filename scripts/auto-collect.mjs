@@ -618,12 +618,13 @@ function stripHtml(html = '') {
 
 function extractDescription(item) {
   return stripHtml(
+    item._fetchedDesc ||
     item.description ||
     item.summary ||
     item['content:encoded'] ||
     item.content?.['#text'] ||
     ''
-  ).slice(0, 800);
+  ).slice(0, 1500);
 }
 
 // 수집 제외 키워드 — 제목/설명에 포함되면 스킵
@@ -693,23 +694,31 @@ async function generateArticle(company, category, item, sourceName) {
   const pubDate = extractDate(item);
   const description = extractDescription(item);
 
-  const prompt = `당신은 AI·IT 전문 뉴스 에디터입니다. 아래 기사를 한국어 기사로 변환해주세요.
+  if (!description || description.trim().length < 80) {
+    throw new Error(`원문 내용 부족 (${description.trim().length}자) — 생성 건너뜀`);
+  }
 
-[입력 정보]
+  const prompt = `당신은 AI·IT 전문 뉴스 에디터입니다. 아래 원문 내용을 한국어로 요약·정리해주세요.
+
+[원문 정보]
 회사: ${company}
-카테고리: ${category}
 출처: ${sourceName}
 원문 제목: ${title}
 원문 URL: ${link}
-원문 요약: ${description}
+원문 내용: ${description}
+
+[절대 규칙]
+- 원문에 없는 내용, 기능, 수치, 사실을 절대 추가하거나 창작하지 마세요.
+- 원문 내용만을 바탕으로 요약하세요. 추측·상상 금지.
+- 원문이 짧으면 요약도 짧게. 억지로 내용을 늘리지 마세요.
 
 [출력 형식 - JSON만 출력]
 {
-  "title": "한국어 제목 — 회사명 + 핵심 내용 (예: Adobe, Firefly 4 출시 — 이미지 생성 품질 대폭 향상)",
-  "summary": "2~3문장 한국어 요약. 무엇이 출시/발표됐고, 핵심 의의는 무엇인지.",
-  "content": "## 배경\\n(이 발표의 맥락)\\n\\n## 주요 내용\\n- 핵심 사항 1\\n- 핵심 사항 2\\n- 핵심 사항 3\\n\\n## 시장 영향\\n(업계·사용자에 미치는 영향)",
-  "tags": ["태그1", "태그2", "태그3", "태그4"],
-  "communityReaction": "디자이너·실무자 커뮤니티에서 나올 법한 반응 1~2문장. 반드시 현실적이고 구체적으로."
+  "title": "한국어 제목 — 회사명 + 핵심 내용 (원문 기반)",
+  "summary": "2~3문장 한국어 요약. 원문에 있는 내용만.",
+  "content": "## 주요 내용\\n- 원문 핵심 사항 (있는 것만)\\n\\n## 의미\\n원문에 근거한 의의만 1~2문장.",
+  "tags": ["태그1", "태그2", "태그3"],
+  "communityReaction": null
 }
 
 주의: JSON 외 텍스트 출력 금지. 모든 필드 한국어.`;
@@ -800,6 +809,23 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
     const age = Date.now() - extractDate(item).getTime();
     if (age > windowMs) continue;
 
+    const desc = extractDescription(item);
+    if (!desc || desc.trim().length < 80) {
+      if (link) {
+        const fetched = await fetchArticleContent(link);
+        if (fetched?.description && fetched.description.trim().length >= 80) {
+          item._fetchedTitle = fetched.title;
+          item._fetchedDesc = fetched.description;
+        } else {
+          console.log(`  skip (원문 내용 부족): ${extractTitle(item).slice(0, 60)}`);
+          continue;
+        }
+      } else {
+        console.log(`  skip (URL·내용 없음): ${extractTitle(item).slice(0, 60)}`);
+        continue;
+      }
+    }
+
     console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
     try {
       const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`);
@@ -851,6 +877,16 @@ async function main() {
       const age = Date.now() - extractDate(item).getTime();
       if (age > windowMs) continue;
       if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
+
+      const desc2 = extractDescription(item);
+      if (!desc2 || desc2.trim().length < 80) {
+        if (link) {
+          const fetched = await fetchArticleContent(link);
+          if (fetched?.description && fetched.description.trim().length >= 80) {
+            item._fetchedDesc = fetched.description;
+          } else { console.log(`  skip (원문 부족): ${extractTitle(item).slice(0, 55)}`); continue; }
+        } else { console.log(`  skip (내용 없음): ${extractTitle(item).slice(0, 55)}`); continue; }
+      }
 
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {

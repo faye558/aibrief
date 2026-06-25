@@ -3506,7 +3506,8 @@
         "name": "Reddit r/typography",
         "url": "https://www.reddit.com/r/typography/new/"
       }
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "88",
@@ -3707,7 +3708,8 @@
         "name": "눈누 — Pretendard 폰트 페이지"
       }
     ],
-    "communityReaction": "디자이너·개발자 커뮤니티에서 눈누는 '필수 북마크' 사이트로 꼽힙니다.\n\"Pretendard 이전에는 한글 폰트 고르기 정말 힘들었는데 이제 기본값이 됐다.\"\n\"무료 상업용 폰트를 이렇게 한 곳에서 라이선스 정보까지 확인하며 찾을 수 있는 곳이 없다.\"\n\"디자인 공유 게시판 없어진 건 아쉽지만 폰트 플랫폼으로서의 집중도는 더 높아질 것 같다.\""
+    "communityReaction": "디자이너·개발자 커뮤니티에서 눈누는 '필수 북마크' 사이트로 꼽힙니다.\n\"Pretendard 이전에는 한글 폰트 고르기 정말 힘들었는데 이제 기본값이 됐다.\"\n\"무료 상업용 폰트를 이렇게 한 곳에서 라이선스 정보까지 확인하며 찾을 수 있는 곳이 없다.\"\n\"디자인 공유 게시판 없어진 건 아쉽지만 폰트 플랫폼으로서의 집중도는 더 높아질 것 같다.\"",
+    "hidden": true
   },
   {
     "id": "21",
@@ -4269,7 +4271,8 @@
         "name": "Reddit r/typography",
         "url": "https://www.reddit.com/r/typography/new/"
       }
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "43",
@@ -4435,7 +4438,8 @@
         "name": "Reddit r/typography",
         "url": "https://www.reddit.com/r/typography/new/"
       }
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "35",
@@ -4712,7 +4716,8 @@
         "name": "Reddit r/typography",
         "url": "https://www.reddit.com/r/typography/new/"
       }
-    ]
+    ],
+    "hidden": true
   },
   {
     "id": "10",
