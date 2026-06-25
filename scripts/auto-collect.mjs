@@ -688,7 +688,12 @@ async function generateArticle(company, category, item, sourceName) {
   const json = JSON.parse(raw);
   const dateStr = pubDate.toISOString().split('T')[0];
   const hash = createHash('md5').update(link || title).digest('hex').slice(0, 8);
-  const slug = `${company.toLowerCase().replace(/[^a-z0-9가-힣]/g, '-')}-${hash}-${dateStr}`;
+  const COMPANY_SLUG_MAP = {
+    '눈누': 'noonnu', '산돌': 'sandoll', '윤디자인': 'yoondesign',
+    '미리캔버스': 'miricanvas', '망고보드': 'mangoboard', 'LG CNS': 'lg-cns',
+  };
+  const companySlug = (COMPANY_SLUG_MAP[company] || company.toLowerCase()).replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const slug = `${companySlug}-${hash}-${dateStr}`;
 
   return {
     title: json.title,
