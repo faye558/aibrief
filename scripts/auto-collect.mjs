@@ -694,6 +694,13 @@ async function generateArticle(company, category, item, sourceName) {
   const pubDate = extractDate(item);
   const description = extractDescription(item);
 
+  if (!link || link.endsWith('/') || !link.includes('.')) {
+    throw new Error(`실제 기사 URL 없음 — 생성 건너뜀`);
+  }
+  const HOMEPAGE_PATTERNS = [/^https?:\/\/[^/]+\/?$/, /\/(index|home|main|rss|feed)(\.html?)?$/i];
+  if (HOMEPAGE_PATTERNS.some(p => p.test(link))) {
+    throw new Error(`홈페이지 URL — 생성 건너뜀: ${link}`);
+  }
   if (!description || description.trim().length < 80) {
     throw new Error(`원문 내용 부족 (${description.trim().length}자) — 생성 건너뜀`);
   }
