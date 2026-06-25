@@ -3334,47 +3334,6 @@
     "sourceName": "망고보드 블로그"
   },
   {
-    "id": "103",
-    "slug": "sandoll-canvas-design-platform-2025",
-    "title": "산돌, 온라인 디자인 플랫폼 산돌캔버스 정식 출시 — 전문 폰트 2만여 종 즉시 활용",
-    "summary": "산돌이 자사 폰트 라이브러리를 완전 통합한 온라인 디자인 플랫폼 산돌캔버스를 정식 출시했다. 드래그앤드롭 기반 편집 인터페이스에 산돌 보유 2만여 종 이상의 폰트를 실시간 적용할 수 있으며, 국내 폰트 전문 기업의 디자인툴 시장 진출로 주목받고 있다.",
-    "content": "## 배경\n국내 최대 폰트 기업 산돌이 단순 폰트 판매를 넘어 통합 디자인 플랫폼 사업으로 영역을 확장하고 있다. 캔바, 미리캔버스, 망고보드 등 온라인 디자인툴 시장이 급성장하는 가운데, 폰트 자산을 차별점으로 내세운 신규 플랫폼을 선보였다.\n\n## 주요 내용\n- 드래그앤드롭 방식의 직관적인 편집 인터페이스로 비전문가도 손쉽게 디자인 제작 가능\n- 산돌 보유 2만여 종 이상의 폰트를 추가 라이선스 없이 즉시 적용 가능\n- SNS 콘텐츠, 프레젠테이션, 인포그래픽 등 다양한 템플릿 제공\n- 팀 협업 기능 및 브랜드 키트 설정 지원\n- 베이키(Bakey) 앱과 연동해 모바일·웹 크로스플랫폼 작업 가능\n\n## 시장 영향\n폰트 라이선스를 별도 구매해야 했던 기존 디자인툴의 불편함을 해소하며, 특히 한글 콘텐츠 제작이 많은 국내 크리에이터·마케터에게 강력한 대안으로 부상할 전망이다. 미리캔버스·망고보드와의 국내 시장 경쟁이 본격화될 것으로 예상된다.",
-    "company": "산돌",
-    "category": "디자인툴",
-    "date": "2026-03-18",
-    "tags": [
-      "산돌캔버스",
-      "온라인디자인툴",
-      "산돌",
-      "폰트",
-      "디자인플랫폼"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://www.sandoll.co.kr",
-    "sourceName": "산돌 공식",
-    "sources": [
-      {
-        "url": "https://www.sandoll.co.kr",
-        "name": "산돌 공식 — 산돌캔버스 정식 출시"
-      }
-    ],
-    "communityReaction": "디자이너 커뮤니티에서는 국산 폰트 2만 종이 기본 제공된다는 점이 압도적인 차별점이라는 반응과 함께, 한글 디자인 특화 플랫폼으로서의 가능성에 높은 기대감을 나타내고 있다.",
-    "communityLinks": [
-      {
-        "name": "네이버 카페 검색: 산돌캔버스",
-        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
-      },
-      {
-        "name": "클리앙 검색: 산돌",
-        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
-      },
-      {
-        "name": "Reddit r/typography",
-        "url": "https://www.reddit.com/r/typography/new/"
-      }
-    ]
-  },
-  {
     "id": "69",
     "slug": "adobe-firefly-veo-video-2026",
     "title": "Adobe Firefly, Google Veo 2·3.1 영상 생성 통합 — 해상도·길이·비율 선택 가능",
@@ -3505,6 +3464,47 @@
       {
         "url": "https://clickup.com/learn/topic/ai/tools/claude/news/",
         "name": "ClickUp — Claude Updates Changelog 2026"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "slug": "sandoll-canvas-design-platform-2025",
+    "title": "산돌, 온라인 디자인 플랫폼 산돌캔버스 정식 출시 — 전문 폰트 2만여 종 즉시 활용",
+    "summary": "산돌이 자사 폰트 라이브러리를 완전 통합한 온라인 디자인 플랫폼 산돌캔버스를 정식 출시했다. 드래그앤드롭 기반 편집 인터페이스에 산돌 보유 2만여 종 이상의 폰트를 실시간 적용할 수 있으며, 국내 폰트 전문 기업의 디자인툴 시장 진출로 주목받고 있다.",
+    "content": "## 배경\n국내 최대 폰트 기업 산돌이 단순 폰트 판매를 넘어 통합 디자인 플랫폼 사업으로 영역을 확장하고 있다. 캔바, 미리캔버스, 망고보드 등 온라인 디자인툴 시장이 급성장하는 가운데, 폰트 자산을 차별점으로 내세운 신규 플랫폼을 선보였다.\n\n## 주요 내용\n- 드래그앤드롭 방식의 직관적인 편집 인터페이스로 비전문가도 손쉽게 디자인 제작 가능\n- 산돌 보유 2만여 종 이상의 폰트를 추가 라이선스 없이 즉시 적용 가능\n- SNS 콘텐츠, 프레젠테이션, 인포그래픽 등 다양한 템플릿 제공\n- 팀 협업 기능 및 브랜드 키트 설정 지원\n- 베이키(Bakey) 앱과 연동해 모바일·웹 크로스플랫폼 작업 가능\n\n## 시장 영향\n폰트 라이선스를 별도 구매해야 했던 기존 디자인툴의 불편함을 해소하며, 특히 한글 콘텐츠 제작이 많은 국내 크리에이터·마케터에게 강력한 대안으로 부상할 전망이다. 미리캔버스·망고보드와의 국내 시장 경쟁이 본격화될 것으로 예상된다.",
+    "company": "산돌",
+    "category": "디자인툴",
+    "date": "2026-02-10",
+    "tags": [
+      "산돌캔버스",
+      "온라인디자인툴",
+      "산돌",
+      "폰트",
+      "디자인플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.sandoll.co.kr",
+    "sourceName": "산돌 공식",
+    "sources": [
+      {
+        "url": "https://www.sandoll.co.kr",
+        "name": "산돌 공식 — 산돌캔버스 정식 출시"
+      }
+    ],
+    "communityReaction": "디자이너 커뮤니티에서는 국산 폰트 2만 종이 기본 제공된다는 점이 압도적인 차별점이라는 반응과 함께, 한글 디자인 특화 플랫폼으로서의 가능성에 높은 기대감을 나타내고 있다.",
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 산돌캔버스",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
+      },
+      {
+        "name": "클리앙 검색: 산돌",
+        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
+      },
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
       }
     ]
   },
