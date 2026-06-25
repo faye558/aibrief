@@ -170,9 +170,9 @@ export default function ArticlePage({ params }: Props) {
             {/* 태그 목록 */}
             <div className="mt-8 pt-6 border-t border-gray-100 flex flex-wrap gap-2">
               {article.tags.map((tag) => (
-                <span key={tag} className="text-xs px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full">
+                <a key={tag} href={`/?tag=${encodeURIComponent(tag)}`} className="text-xs px-3 py-1.5 bg-gray-100 text-gray-600 rounded-full hover:bg-brand-100 hover:text-brand-700 transition-colors">
                   #{tag}
-                </span>
+                </a>
               ))}
             </div>
 
