@@ -424,14 +424,14 @@ const KOREAN_SOURCES = [
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '산돌구름', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '산돌구름', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 5,
   },
   // IT 전문지
   {
     name: '지디넷코리아',
     rssUrl: 'https://zdnet.co.kr/rss/all.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI 디자인', '생성AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI 디자인', '생성AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 4,
   },
   {
@@ -443,13 +443,13 @@ const KOREAN_SOURCES = [
   {
     name: '디지털데일리',
     rssUrl: 'https://www.ddaily.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '생성AI', 'AI 모델', 'AI 디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '생성AI', 'AI 모델', 'AI 디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 4,
   },
   {
     name: '전자신문',
     rssUrl: 'https://rss.etnews.com/Section901.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 4,
   },
   {
@@ -461,25 +461,25 @@ const KOREAN_SOURCES = [
   {
     name: '연합뉴스 IT',
     rssUrl: 'https://www.yna.co.kr/rss/it.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI', '생성형AI', '디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI', '생성형AI', '디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 3,
   },
   {
     name: '머니투데이 IT',
     rssUrl: 'https://rss.mt.co.kr/rss/',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 3,
   },
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
-    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific', 'AI 에이전트'],
+    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 3,
   },
   {
     name: '디자인정글',
     rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI', '산돌', '눈누', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI', '산돌', '눈누', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
     maxItems: 5,
   },
 ];
