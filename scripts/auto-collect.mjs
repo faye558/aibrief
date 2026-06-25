@@ -125,8 +125,13 @@ const PRIORITY_SOURCES = [
       'https://blog.adobe.com/en/feed',
       'https://blog.adobe.com/feed',
       'https://news.adobe.com/rss.xml',
+      'https://www.aitimes.com/rss/allArticle.xml',
+      'https://zdnet.co.kr/rss/news/latest/',
     ],
-    scrapeUrls: [],
+    scrapeUrls: [
+      'https://www.aitimes.com/news/articleList.html?sc_word=%EC%96%B4%EB%8F%84%EB%B9%84&view_type=sm',
+      'https://zdnet.co.kr/search/?kwd=Adobe+Firefly',
+    ],
     maxItems: 10,
     dayWindow: 7,
   },
@@ -165,6 +170,7 @@ const PRIORITY_SOURCES = [
       'https://mangoboard.net/news/rss',
     ],
     scrapeUrls: [
+      'https://trend.mangoboard.net/news/%EB%A7%9D%EA%B3%A0%EB%B3%B4%EB%93%9C-%EC%86%8C%EC%8B%9D',
       'https://mangoboard.net/news/',
       'https://blog.naver.com/mangoboard',
     ],
@@ -178,12 +184,15 @@ const PRIORITY_SOURCES = [
       'https://www.sandoll.co.kr/rss',
       'https://sandoll.co.kr/news/rss',
       'https://rss.blog.naver.com/sandoll_canvas.xml',
+      'https://rss.blog.naver.com/sandollcomm.xml',
     ],
     scrapeUrls: [
+      'https://www.sandoll.co.kr/press_backup/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9',
+      'https://www.sandoll.co.kr/story',
       'https://www.sandoll.co.kr/news',
-      'https://blog.naver.com/sandollcloud',
-      'https://canvas.sandoll.co.kr',   // 산돌캔버스
-      'https://bakey.ai',               // 베이키(Bakey) - 산돌 AI 앱
+      'https://blog.naver.com/sandollcomm',
+      'https://canvas.sandoll.co.kr',
+      'https://bakey.ai',
     ],
     maxItems: 10,
     dayWindow: 60,  // 업데이트 빈도 낮을 수 있어 넉넉하게
@@ -192,12 +201,10 @@ const PRIORITY_SOURCES = [
     company: '눈누',
     category: '폰트',
     rssUrls: [
-      'https://rss.blog.naver.com/noonnu.xml',
       'https://noonnu.cc/rss',
     ],
     scrapeUrls: [
       'https://noonnu.cc/notice',
-      'https://blog.naver.com/noonnu',
     ],
     maxItems: 8,
     dayWindow: 30,
@@ -417,7 +424,7 @@ const KOREAN_SOURCES = [
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '산돌구름', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
     maxItems: 5,
   },
   // IT 전문지
@@ -523,8 +530,8 @@ async function scrapeArticleLinks(url) {
     const html = await res.text();
 
     const linkPatterns = [
-      /href="(https?:\/\/[^"]*(?:blog|news|notice|post|article)[^"]*\/\d+[^"]*)"/gi,
-      /href="(\/(?:blog|news|notice|post)[^"]*\/\d+[^"]*)"/gi,
+      /href="(https?:\/\/[^"]*(?:blog|news|notice|post|article|press_backup)[^"]*(?:\/\d+|idx=\d+|uid=\d+)[^"]*)"/gi,
+      /href="(\/(?:blog|news|notice|post|press_backup)[^"]*(?:\/\d+|idx=\d+|uid=\d+)[^"]*)"/gi,
       /href="(https?:\/\/blog\.naver\.com\/[^"]+\/\d+)"/gi,
     ];
 
@@ -661,7 +668,7 @@ function inferCompanyCategory(title, description) {
     { keywords: ['canva', '캔바'], company: 'Canva', category: '디자인툴' },
     { keywords: ['adobe', 'firefly', 'photoshop', 'premiere', '어도비'], company: 'Adobe', category: '디자인툴' },
     { keywords: ['freepik', 'magnific'], company: 'Freepik', category: '디자인툴' },
-    { keywords: ['산돌', 'sandoll', '산돌캔버스', 'bakey', '베이키', '산돌ai', 'sandoll canvas'], company: '산돌', category: '디자인툴' },
+    { keywords: ['산돌', 'sandoll', '산돌캔버스', '산돌구름', 'sandollcloud', 'bakey', '베이키', '산돌ai', 'sandoll canvas'], company: '산돌', category: '디자인툴' },
     { keywords: ['눈누', 'noonnu'], company: '눈누', category: '폰트' },
     { keywords: ['윤디자인', 'yoondesign'], company: '윤디자인', category: '폰트' },
     { keywords: ['monotype', 'myfonts'], company: 'Monotype', category: '폰트' },

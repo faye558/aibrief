@@ -4,18 +4,21 @@ import ArticleCard from "@/components/ArticleCard";
 import FilterBar from "@/components/FilterBar";
 import AdBanner from "@/components/AdBanner";
 import CoupangBanner from "@/components/CoupangBanner";
+import SearchBox from "@/components/SearchBox";
 
 interface PageProps {
-  searchParams: { company?: string; category?: string; tag?: string };
+  searchParams: { company?: string; category?: string; tag?: string; search?: string };
 }
 
 export default function HomePage({ searchParams }: PageProps) {
-  const { company, category, tag } = searchParams;
-  const articles = getFilteredArticles(company, category, tag);
+  const { company, category, tag, search } = searchParams;
+  const articles = getFilteredArticles(company, category, tag, search);
   const popularTags = getPopularTags(12);
 
   const pageTitle =
-    tag
+    search
+      ? `"${search}" 검색 결과`
+      : tag
       ? `#${tag} 기사`
       : company && company !== "전체"
       ? `${company} 뉴스`
@@ -91,6 +94,11 @@ export default function HomePage({ searchParams }: PageProps) {
                 ))}
               </div>
             </div>
+
+            {/* 검색 */}
+            <Suspense fallback={null}>
+              <SearchBox />
+            </Suspense>
 
             {/* 회사 바로가기 */}
             <div className="bg-white rounded-xl border border-gray-100 shadow-sm p-5">

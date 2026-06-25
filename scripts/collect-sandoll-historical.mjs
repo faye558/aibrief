@@ -118,6 +118,7 @@ const SOURCES = [
     company: '산돌',
     category: '디자인툴',
     rssUrls: ['https://www.sandoll.co.kr/rss', 'https://sandoll.co.kr/news/rss'],
+    scrapeUrl: 'https://www.sandoll.co.kr/press_backup/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9',
   },
   {
     company: 'Adobe',
@@ -143,9 +144,72 @@ async function main() {
       items = await fetchRSS(url);
       if (items && items.length > 0) { console.log(`  ✓ RSS: ${url} (${items.length}개)`); break; }
     }
-    if (!items) { console.log(`  ✗ RSS 실패`); continue; }
+    // RSS 실패 시 press_backup 스크래핑 시도
+    if (!items && source.scrapeUrl) {
+      console.log(`  RSS 실패, press_backup 스크래핑 시도...`);
+      try {
+        const res = await fetch(source.scrapeUrl, {
+          headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36', Accept: 'text/html', 'Accept-Language': 'ko-KR,ko;q=0.9' },
+          signal: AbortSignal.timeout(15000),
+        });
+        if (res.ok) {
+          const html = await res.text();
+          const linkRe = /href="(https?:\/\/www\.sandoll\.co\.kr\/press_backup\/\?[^"]*idx=\d+[^"]*)"/gi;
+          const relLinkRe = /href="(\/press_backup\/\?[^"]*idx=\d+[^"]*)"/gi;
+          const seen = new Set();
+          const scraped = [];
+          for (const re of [linkRe, relLinkRe]) {
+            let m;
+            while ((m = re.exec(html)) !== null) {
+              const href = m[1].startsWith('/') ? 'https://www.sandoll.co.kr' + m[1] : m[1];
+              if (!seen.has(href)) { seen.add(href); scraped.push(href); }
+            }
+          }
+          if (scraped.length > 0) {
+            console.log(`  ✓ press_backup 링크 ${scraped.length}개 발견`);
+            items = scraped.map(link => ({ _pressBackupUrl: link }));
+          }
+        }
+      } catch (e) { console.log(`  스크래핑 오류: ${e.message}`); }
+    }
+    if (!items || items.length === 0) { console.log(`  ✗ 수집 실패`); continue; }
 
     for (const item of items) {
+      // press_backup 스크래핑 항목 처리
+      if (item._pressBackupUrl) {
+        const link = item._pressBackupUrl;
+        if (existingUrls.has(link)) { console.log(`  skip (기존): ${link.slice(-30)}`); continue; }
+        const fetched = await fetchContent(link);
+        if (!fetched || !fetched.description || fetched.description.trim().length < 80) {
+          console.log(`  skip (내용부족): ${link.slice(-30)}`); continue;
+        }
+        const title = fetched.title || link;
+        const desc = fetched.description;
+        if (isExcluded(title, desc)) { console.log(`  skip (제외): ${title.slice(0, 50)}`); continue; }
+        console.log(`  ✍️  ${title.slice(0, 70)}`);
+        try {
+          const pubDate = new Date(); // press_backup에서 날짜 파싱 어려우므로 현재 날짜 사용 (수동 수정 필요)
+          const json = await generateArticle(source.company, source.category, title, link, pubDate, desc);
+          const dateStr = pubDate.toISOString().split('T')[0];
+          const hash = createHash('md5').update(link).digest('hex').slice(0, 8);
+          const slug = `sandoll-${hash}-${dateStr}`;
+          if (existingSlugs.has(slug)) continue;
+          const article = {
+            id: String(nextId++), title: json.title, summary: json.summary,
+            content: json.content, company: source.company, category: source.category,
+            date: dateStr, tags: json.tags || [], imageUrl: null,
+            sourceUrl: link, sourceName: '산돌 공식 보도자료',
+            sources: [{ url: link, name: `산돌 — ${title}` }],
+            communityReaction: null, communityLinks: null, slug,
+          };
+          newArticles.push(article);
+          existingUrls.add(link);
+          existingSlugs.add(slug);
+          console.log(`    ✓ 추가: ${json.title.slice(0, 60)}`);
+          await new Promise(r => setTimeout(r, 1000));
+        } catch (e) { console.error(`    ✗ 오류: ${e.message}`); }
+        continue;
+      }
       const link = getLink(item);
       const title = getTitle(item);
       const pubDate = getDate(item);

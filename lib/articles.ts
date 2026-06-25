@@ -11,7 +11,7 @@ export function getArticleBySlug(slug: string): Article | undefined {
   return articles.find((a) => a.slug === slug);
 }
 
-export function getFilteredArticles(company?: string, category?: string, tag?: string): Article[] {
+export function getFilteredArticles(company?: string, category?: string, tag?: string, search?: string): Article[] {
   let result = getAllArticles();
   if (company && company !== "전체") {
     result = result.filter((a) => a.company === company);
@@ -21,6 +21,16 @@ export function getFilteredArticles(company?: string, category?: string, tag?: s
   }
   if (tag) {
     result = result.filter((a) => a.tags?.includes(tag));
+  }
+  if (search) {
+    const q = search.toLowerCase();
+    result = result.filter((a) =>
+      a.title.toLowerCase().includes(q) ||
+      a.summary?.toLowerCase().includes(q) ||
+      a.content?.toLowerCase().includes(q) ||
+      a.tags?.some((t) => t.toLowerCase().includes(q)) ||
+      a.company?.toLowerCase().includes(q)
+    );
   }
   return result;
 }
