@@ -90,6 +90,16 @@ const COMMUNITY_LINKS = {
   'Shutterstock': [
     { name: 'Reddit r/stockphotography', url: 'https://www.reddit.com/r/stockphotography/new/' },
   ],
+  'Perplexity':   [
+    { name: 'Reddit r/perplexity_ai', url: 'https://www.reddit.com/r/perplexity_ai/new/' },
+    { name: 'Reddit r/artificial', url: 'https://www.reddit.com/r/artificial/new/' },
+    { name: '클리앙 검색: 퍼플렉시티', url: 'https://www.clien.net/service/search?q=%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0&sort=latest' },
+  ],
+  'LG CNS':       [
+    { name: 'Reddit r/artificial', url: 'https://www.reddit.com/r/artificial/new/' },
+    { name: '클리앙 검색: LG CNS', url: 'https://www.clien.net/service/search?q=LG+CNS&sort=latest' },
+    { name: '디스크립 검색: LG CNS', url: 'https://www.disquiet.io/search?q=LG+CNS' },
+  ],
   'Monotype':     [
     { name: 'Reddit r/typography', url: 'https://www.reddit.com/r/typography/new/' },
     { name: 'Reddit r/fonts', url: 'https://www.reddit.com/r/fonts/new/' },
@@ -287,6 +297,31 @@ const COMPANY_SOURCES = [
     maxItems: 3,
     dayWindow: 7,
   },
+  {
+    company: 'Perplexity',
+    category: 'AI모델',
+    rssUrls: [
+      'https://www.perplexity.ai/blog/rss.xml',
+      'https://blog.perplexity.ai/rss',
+    ],
+    maxItems: 3,
+    dayWindow: 7,
+  },
+  {
+    company: 'LG CNS',
+    category: 'AI모델',
+    rssUrls: [
+      'https://www.lgcns.com/rss',
+      'https://blog.lgcns.com/rss',
+      'https://www.lgcns.com/blog/rss',
+    ],
+    scrapeUrls: [
+      'https://www.lgcns.com/blog/cns-tech',
+      'https://www.lgcns.com/newsroom',
+    ],
+    maxItems: 3,
+    dayWindow: 7,
+  },
 ];
 
 // ───────────────────────────────────────────
@@ -302,19 +337,19 @@ const MEDIA_SOURCES = [
   {
     name: 'TechCrunch AI',
     rssUrl: 'https://techcrunch.com/category/artificial-intelligence/feed/',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'gemini', 'claude', 'gpt', 'elevenlabs', 'shutterstock', 'getty'],
+    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'gemini', 'claude', 'gpt', 'elevenlabs', 'shutterstock', 'getty', 'perplexity', 'ai agent', 'agentic'],
     maxItems: 3,
   },
   {
     name: 'The Verge Design & AI',
     rssUrl: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'claude', 'gpt', 'gemini', 'design'],
+    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'claude', 'gpt', 'gemini', 'design', 'perplexity', 'ai agent'],
     maxItems: 3,
   },
   {
     name: 'VentureBeat AI',
     rssUrl: 'https://venturebeat.com/category/ai/feed/',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google deepmind', 'claude', 'gpt-', 'gemini'],
+    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google deepmind', 'claude', 'gpt-', 'gemini', 'perplexity', 'ai agent', 'agentic ai'],
     maxItems: 3,
   },
   {
@@ -345,32 +380,32 @@ const KOREAN_SOURCES = [
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
     maxItems: 5,
   },
   // IT 전문지
   {
     name: '지디넷코리아',
     rssUrl: 'https://zdnet.co.kr/rss/all.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI 디자인', '생성AI', 'anthropic', 'openai', '구글'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI 디자인', '생성AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
     maxItems: 4,
   },
   {
     name: 'AI타임스',
     rssUrl: 'https://www.aitimes.com/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '윤디자인', '눈누', 'claude', 'gpt', 'gemini', 'adobe', 'canva', 'AI 디자인'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '윤디자인', '눈누', 'claude', 'gpt', 'gemini', 'adobe', 'canva', 'AI 디자인', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '에이전틱'],
     maxItems: 4,
   },
   {
     name: '디지털데일리',
     rssUrl: 'https://www.ddaily.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '생성AI', 'AI 모델', 'AI 디자인'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '생성AI', 'AI 모델', 'AI 디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
     maxItems: 4,
   },
   {
     name: '전자신문',
     rssUrl: 'https://rss.etnews.com/Section901.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI', 'anthropic', 'openai', '구글'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
     maxItems: 4,
   },
   {
@@ -382,25 +417,25 @@ const KOREAN_SOURCES = [
   {
     name: '연합뉴스 IT',
     rssUrl: 'https://www.yna.co.kr/rss/it.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI', '생성형AI', '디자인'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI', '생성형AI', '디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
     maxItems: 3,
   },
   {
     name: '머니투데이 IT',
     rssUrl: 'https://rss.mt.co.kr/rss/',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI', '퍼플렉시티', 'LG CNS', 'AI 에이전트'],
     maxItems: 3,
   },
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
-    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific'],
+    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific', 'AI 에이전트'],
     maxItems: 3,
   },
   {
     name: '디자인정글',
     rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI', '산돌', '눈누'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI', '산돌', '눈누', 'AI 에이전트'],
     maxItems: 5,
   },
 ];
@@ -599,6 +634,8 @@ function inferCompanyCategory(title, description) {
     { keywords: ['google', 'gemini', 'deepmind'], company: 'Google', category: 'AI모델' },
     { keywords: ['elevenlabs'], company: 'ElevenLabs', category: 'AI모델' },
     { keywords: ['suno'], company: 'Suno', category: 'AI모델' },
+    { keywords: ['perplexity', '퍼플렉시티'], company: 'Perplexity', category: 'AI모델' },
+    { keywords: ['lg cns', 'lgcns', 'lg씨엔에스'], company: 'LG CNS', category: 'AI모델' },
   ];
   for (const entry of map) {
     if (entry.keywords.some(kw => text.includes(kw))) {
