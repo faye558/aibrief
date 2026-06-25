@@ -90,6 +90,14 @@ const COMMUNITY_LINKS = {
   'Shutterstock': [
     { name: 'Reddit r/stockphotography', url: 'https://www.reddit.com/r/stockphotography/new/' },
   ],
+  '비비트리':     [
+    { name: '네이버 카페 검색: 비비트리', url: 'https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EB%B9%84%EB%B9%84%ED%8A%B8%EB%A6%AC' },
+    { name: '클리앙 검색: 비비트리', url: 'https://www.clien.net/service/search?q=%EB%B9%84%EB%B9%84%ED%8A%B8%EB%A6%AC&sort=latest' },
+  ],
+  '유토이미지':   [
+    { name: '네이버 카페 검색: 유토이미지', url: 'https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A0%ED%86%A0%EC%9D%B4%EB%AF%B8%EC%A7%80' },
+    { name: '클리앙 검색: 유토이미지', url: 'https://www.clien.net/service/search?q=%EC%9C%A0%ED%86%A0%EC%9D%B4%EB%AF%B8%EC%A7%80&sort=latest' },
+  ],
   'Perplexity':   [
     { name: 'Reddit r/perplexity_ai', url: 'https://www.reddit.com/r/perplexity_ai/new/' },
     { name: 'Reddit r/artificial', url: 'https://www.reddit.com/r/artificial/new/' },
@@ -298,6 +306,35 @@ const COMPANY_SOURCES = [
     dayWindow: 7,
   },
   {
+    company: '비비트리',
+    category: '디자인툴',
+    rssUrls: [
+      'https://rss.blog.naver.com/vivitre.xml',
+      'https://vivitre.com/rss',
+      'https://vivitre.co.kr/rss',
+    ],
+    scrapeUrls: [
+      'https://vivitre.com/blog',
+      'https://blog.naver.com/vivitre',
+    ],
+    maxItems: 8,
+    dayWindow: 30,
+  },
+  {
+    company: '유토이미지',
+    category: '이미지',
+    rssUrls: [
+      'https://rss.blog.naver.com/utoimage.xml',
+      'https://www.utoimage.com/rss',
+    ],
+    scrapeUrls: [
+      'https://www.utoimage.com/news',
+      'https://blog.naver.com/utoimage',
+    ],
+    maxItems: 5,
+    dayWindow: 14,
+  },
+  {
     company: 'Perplexity',
     category: 'AI모델',
     rssUrls: [
@@ -380,7 +417,7 @@ const KOREAN_SOURCES = [
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트'],
     maxItems: 5,
   },
   // IT 전문지
@@ -634,6 +671,8 @@ function inferCompanyCategory(title, description) {
     { keywords: ['google', 'gemini', 'deepmind'], company: 'Google', category: 'AI모델' },
     { keywords: ['elevenlabs'], company: 'ElevenLabs', category: 'AI모델' },
     { keywords: ['suno'], company: 'Suno', category: 'AI모델' },
+    { keywords: ['비비트리', 'vivitre'], company: '비비트리', category: '디자인툴' },
+    { keywords: ['유토이미지', 'utoimage'], company: '유토이미지', category: '이미지' },
     { keywords: ['perplexity', '퍼플렉시티'], company: 'Perplexity', category: 'AI모델' },
     { keywords: ['lg cns', 'lgcns', 'lg씨엔에스'], company: 'LG CNS', category: 'AI모델' },
   ];
@@ -691,6 +730,7 @@ async function generateArticle(company, category, item, sourceName) {
   const COMPANY_SLUG_MAP = {
     '눈누': 'noonnu', '산돌': 'sandoll', '윤디자인': 'yoondesign',
     '미리캔버스': 'miricanvas', '망고보드': 'mangoboard', 'LG CNS': 'lg-cns',
+    '비비트리': 'vivitre', '유토이미지': 'utoimage',
   };
   const companySlug = (COMPANY_SLUG_MAP[company] || company.toLowerCase()).replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
   const slug = `${companySlug}-${hash}-${dateStr}`;
