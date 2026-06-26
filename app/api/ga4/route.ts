@@ -84,23 +84,7 @@ export async function GET() {
     );
     const daily = await dailyRes.json();
 
-    // 오늘 사용자별 PV (익명 ID 기준)
-    const usersRes = await fetch(
-      `https://analyticsdata.googleapis.com/v1beta/properties/${PROPERTY_ID}:runReport`,
-      {
-        method: "POST",
-        headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
-        body: JSON.stringify({
-          dateRanges: [{ startDate: today, endDate: today }],
-          metrics: [{ name: "screenPageViews" }, { name: "sessions" }, { name: "averageSessionDuration" }],
-          dimensions: [{ name: "userPseudoId" }],
-          orderBys: [{ metric: { metricName: "screenPageViews" }, desc: true }],
-        }),
-      }
-    );
-    const users = await usersRes.json();
-
-    return NextResponse.json({ overview, pages, channels, daily, users });
+    return NextResponse.json({ overview, pages, channels, daily });
   } catch (e: any) {
     return NextResponse.json({ error: e.message }, { status: 500 });
   }
