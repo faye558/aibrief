@@ -125,8 +125,6 @@ const PRIORITY_SOURCES = [
       'https://blog.adobe.com/en/feed',
       'https://blog.adobe.com/feed',
       'https://news.adobe.com/rss.xml',
-      'https://www.aitimes.com/rss/allArticle.xml',
-      'https://zdnet.co.kr/rss/news/latest/',
     ],
     scrapeUrls: [
       'https://www.aitimes.com/news/articleList.html?sc_word=%EC%96%B4%EB%8F%84%EB%B9%84&view_type=sm',
