@@ -7,6 +7,12 @@ export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
+    <>
+    <nav className="bg-[#0d1117] text-[#aaa] text-[13px] flex items-center px-6">
+      <a href="https://aibrief.toolr.kr" className="py-2.5 px-4 text-white font-semibold hover:text-white transition-colors">AI Brief</a>
+      <span className="text-[#333]">·</span>
+      <a href="https://travel.toolr.kr" className="py-2.5 px-4 hover:text-white transition-colors">여행 패키지</a>
+    </nav>
     <header className="sticky top-0 z-50 bg-white border-b border-gray-200 shadow-sm">
       {/* 애드센스 승인 후 헤더 상단 배너 삽입 — 728×90 */}
 
@@ -55,5 +61,6 @@ export default function Header() {
         )}
       </div>
     </header>
+    </>
   );
 }
