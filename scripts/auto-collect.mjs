@@ -255,47 +255,10 @@ const PRIORITY_SOURCES = [
 ];
 
 // ───────────────────────────────────────────
-// 2순위: AI 기업 공식 소스 (기사 수 축소)
+// 2순위: 디자인·이미지 관련 회사 공식 소스
+// (AI모델 전용 회사 제거 — 디자인 관련만 유지)
 // ───────────────────────────────────────────
 const COMPANY_SOURCES = [
-  {
-    company: 'Anthropic',
-    category: 'AI모델',
-    rssUrls: ['https://www.anthropic.com/rss.xml', 'https://anthropic.com/index.xml'],
-    maxItems: 3,
-    dayWindow: 3,
-  },
-  {
-    company: 'OpenAI',
-    category: 'AI모델',
-    rssUrls: ['https://openai.com/news/rss.xml', 'https://openai.com/blog/rss.xml'],
-    maxItems: 3,
-    dayWindow: 3,
-  },
-  {
-    company: 'Google',
-    category: 'AI모델',
-    rssUrls: [
-      'https://blog.google/technology/ai/rss/',
-      'https://deepmind.google/discover/blog/rss/',
-    ],
-    maxItems: 3,
-    dayWindow: 3,
-  },
-  {
-    company: 'ElevenLabs',
-    category: 'AI모델',
-    rssUrls: ['https://elevenlabs.io/blog/rss.xml', 'https://elevenlabs.io/blog/feed.xml'],
-    maxItems: 2,
-    dayWindow: 3,
-  },
-  {
-    company: 'Suno',
-    category: 'AI모델',
-    rssUrls: ['https://suno.com/blog/rss.xml'],
-    maxItems: 2,
-    dayWindow: 3,
-  },
   {
     company: 'Getty Images',
     category: '이미지',
@@ -338,31 +301,6 @@ const COMPANY_SOURCES = [
     ],
     maxItems: 5,
     dayWindow: 14,
-  },
-  {
-    company: 'Perplexity',
-    category: 'AI모델',
-    rssUrls: [
-      'https://www.perplexity.ai/blog/rss.xml',
-      'https://blog.perplexity.ai/rss',
-    ],
-    maxItems: 3,
-    dayWindow: 7,
-  },
-  {
-    company: 'LG CNS',
-    category: 'AI모델',
-    rssUrls: [
-      'https://www.lgcns.com/rss',
-      'https://blog.lgcns.com/rss',
-      'https://www.lgcns.com/blog/rss',
-    ],
-    scrapeUrls: [
-      'https://www.lgcns.com/blog/cns-tech',
-      'https://www.lgcns.com/newsroom',
-    ],
-    maxItems: 3,
-    dayWindow: 7,
   },
 ];
 
@@ -687,7 +625,7 @@ function inferCompanyCategory(title, description) {
       return { company: entry.company, category: entry.category };
     }
   }
-  return { company: 'AI·IT', category: 'AI모델' };
+  return null; // 매칭 없으면 수집 안 함
 }
 
 // ───────────────────────────────────────────
@@ -929,7 +867,9 @@ async function main() {
       if (Date.now() - extractDate(item).getTime() > 3 * 24 * 60 * 60 * 1000) continue;
       if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
-      const { company, category } = inferCompanyCategory(extractTitle(item), extractDescription(item));
+      const inferred = inferCompanyCategory(extractTitle(item), extractDescription(item));
+      if (!inferred) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
+      const { company, category } = inferred;
       console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = await generateArticle(company, category, item, source.name);
@@ -959,7 +899,9 @@ async function main() {
       if (Date.now() - extractDate(item).getTime() > 3 * 24 * 60 * 60 * 1000) continue;
       if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
 
-      const { company, category } = inferCompanyCategory(extractTitle(item), extractDescription(item));
+      const inferred2 = inferCompanyCategory(extractTitle(item), extractDescription(item));
+      if (!inferred2) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
+      const { company, category } = inferred2;
       console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = await generateArticle(company, category, item, source.name);
