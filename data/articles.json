@@ -5602,5 +5602,158 @@
     ],
     "slug": "google-e5845719-2026-06-26",
     "id": "199"
+  },
+  {
+    "title": "XLANG 연구소, 장기 컴퓨터 사용 능력 벤치마크 'OS월드 2.0' 공개…클로드 오퍼스 4.8 최고점",
+    "summary": "AI 연구소 X랭(XLANG)이 장기 컴퓨터 사용 능력을 평가하는 'OS월드 2.0'을 공개했다. 기존 벤치마크와 달리 숙련된 사람이 평균 1.6시간 걸리는 실제 업무를 기반으로 AI 에이전트의 장기 작업 수행 능력을 측정하도록 설계됐으며, 평가 결과 클로드 오퍼스 4.8이 최고점을 기록했다.",
+    "content": "## 주요 내용\n- AI 연구소 XLANG이 2025년 6월 26일 'OS월드 2.0' 공개\n- 기존 벤치마크는 수십 단계 안에 끝나는 단순 작업 평가에 그쳤음\n- OS월드 2.0은 숙련된 사람이 평균 1.6시간 소요되는 실제 업무 기반으로 평가\n- 장기 컴퓨터 사용(Long-horizon Computer Use) 능력 측정에 초점\n- 클로드 오퍼스 4.8이 최고점 달성\n\n## 의미\n실제 전문가 수준의 업무 환경을 반영한 새로운 평가 기준을 제시함으로써, AI 에이전트의 장기 작업 수행 능력을 보다 현실적으로 측정할 수 있는 도구가 마련됐다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-28",
+    "tags": [
+      "OS월드2.0",
+      "벤치마크",
+      "AI에이전트",
+      "XLANG",
+      "클로드오퍼스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212199",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212199",
+        "name": "AI타임스 — 장시간 컴퓨터 사용 능력 벤치마크 'OS월드 2.0' 공개…클로드 오퍼스 4.8 최고점"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-it-fdc27139-2026-06-28",
+    "id": "200"
+  },
+  {
+    "title": "KAIST, OpenAI GPT-4o의 노인 대상 연령 고정관념 정량 분석",
+    "summary": "KAIST 과학기술정책대학원 최문정 교수 연구팀이 OpenAI의 GPT-4o가 생성하는 문장 속에 노인에 대한 미묘한 고정관념이 내재되어 있음을 정량적으로 분석했다. 이번 연구는 생성 AI가 학습 데이터에 포함된 사회적 편견을 재생산할 수 있다는 문제를 조명하며, 포용적 AI 개발을 위한 목적으로 수행됐다.",
+    "content": "## 주요 내용\n- KAIST 최문정 교수 연구팀이 GPT-4o의 답변에 내재된 연령 관련 고정관념을 정량적으로 규명\n- 생성 AI가 학습 데이터에 포함된 사회적 편견을 재생산할 수 있음을 지적\n- 생성 AI는 일상 속 정보 탐색과 의사결정 과정에 폭넓게 활용되고 있는 상황\n\n## 의미\nAI의 편향이 사회적 인식에 미칠 영향을 조명하고, 포용적 AI 개발의 필요성을 제기한 연구로 의미가 있다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-06-28",
+    "tags": [
+      "KAIST",
+      "GPT-4o",
+      "AI편향",
+      "연령차별",
+      "생성AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212190",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212190",
+        "name": "AI타임스 — KAIST, AI의 '디지털 연령차별' 정량 분석..."
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-4cfd39c2-2026-06-28",
+    "id": "201"
+  },
+  {
+    "title": "AI 에이전트 마켓플레이스, 글로벌 시장 선도 거점으로 도약 목표",
+    "summary": "정부 지원으로 탄생하는 민간 주도 AI 에이전트 마켓플레이스가 국내 생태계 활성화와 글로벌 시장 선도를 목표로 추진된다. 웹·앱 기반 온라인 서비스로 구축되며 영어 등 다국어 서비스를 제공해 해외 수요도 겨냥할 계획이다.",
+    "content": "## 주요 내용\n- 정부 지원 기반 민간 주도 AI 에이전트 마켓플레이스 구축 추진\n- 국내 생태계 활성화 및 글로벌 AI 에이전트 시장 선도 거점 도약 목표\n- 경쟁력 있는 다양한 AI 에이전트가 한곳에 모이는 허브로 자리매김 예정\n- 웹·앱 기반 온라인 서비스로 구축, 영어 등 다국어 서비스 제공 계획\n- 정부·공공·참여 검토 기업 모두 해외 수요 가능성에 긍정적 판단\n\n## 의미\n국내 AI 에이전트를 한곳에 모아 글로벌 접근성을 높이는 마켓플레이스는 국내 AI 산업의 해외 진출 교두보 역할을 할 것으로 기대된다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-28",
+    "tags": [
+      "AI에이전트",
+      "마켓플레이스",
+      "글로벌AI",
+      "정부지원",
+      "AI생태계"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260628000060",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260628000060",
+        "name": "전자신문 — [뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-it-bf40ad4a-2026-06-28",
+    "id": "202"
+  },
+  {
+    "title": "과기정통부·NIA, AI 에이전트 전용 마켓플레이스 구축 추진",
+    "summary": "과학기술정보통신부와 한국지능정보사회진흥원(NIA)이 AI 에이전트 서비스와 관련 기술을 한곳에서 비교·거래할 수 있는 'AI 에이전트 마켓플레이스'를 구축한다. 정부 출연금 56억원과 민간 매칭 투자를 활용해 올해부터 내년까지 구축하며, 연내 개설 후 내년에 고도화할 계획이다.",
+    "content": "## 주요 내용\n- 과기정통부·NIA, 'AI 에이전트 마켓플레이스' 구축 발표\n- 정부 출연금 56억원 + 민간 매칭 투자 방식으로 재원 마련\n- 구축 기간: 2025년~2026년 (연내 개설, 내년 고도화)\n- AI 에이전트 서비스 및 에이전틱 AI 관련 기술을 한곳에서 비교·거래 가능\n- 민간 주도 에이전틱 AI 생태계 조성이 목표\n\n## 의미\n정부가 AI 에이전트 서비스 거래 플랫폼을 직접 구축함으로써 민간 중심의 에이전틱 AI 생태계 활성화를 제도적으로 뒷받침하는 기반을 마련한다는 점에서 의의가 있다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-28",
+    "tags": [
+      "AI에이전트",
+      "마켓플레이스",
+      "과기정통부",
+      "NIA",
+      "에이전틱AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260626000253",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260626000253",
+        "name": "전자신문 — 모든 AI 에이전트 한곳에...'AI 마켓플레이스' 열린다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-it-532fdf5e-2026-06-28",
+    "id": "203"
+  },
+  {
+    "title": "제일기획·스튜디오좋, 칸 영 라이언즈서 금상·동상 동시 수상",
+    "summary": "한국의 젊은 크리에이터들이 칸 라이언즈 영 라이언즈 컴피티션에서 금상과 동상을 동시에 수상했다. 제일기획은 지난해 디지털 부문 금상에 이어 올해 미디어 부문에서도 금상을 획득해 2년 연속 금상 수상을 달성했으며, 스튜디오좋은 디자인 부문 동상을 받았다.",
+    "content": "## 주요 내용\n- 한국 크리에이터들이 칸 라이언즈 2026 영 라이언즈 컴피티션에서 금상·동상 동시 수상\n- 제일기획: 미디어 부문 금상 수상 (전년 디지털 부문 금상에 이어 2년 연속 금상)\n- 스튜디오좋: 디자인 부문 동상 수상\n- 올해 대회에는 전 세계 30세 이하 크리에이터 400여 명이 참가해 디자인, 디지털, 필름, 미디어 등 부문 경쟁\n\n## 의미\n한국의 젊은 크리에이터들이 세계 최대 크리에이티비티 축제인 칸 라이언즈에서 연속 수상 성과를 거두며 글로벌 크리에이티브 경쟁력을 입증했다.",
+    "company": "AI·IT",
+    "category": "AI모델",
+    "date": "2026-06-28",
+    "tags": [
+      "칸라이언즈",
+      "영라이언즈",
+      "제일기획",
+      "스튜디오좋",
+      "광고크리에이티브"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28155",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28155",
+        "name": "매드타임스 — 한국 젊은 크리에이터들, 칸 영 라이언즈서 금·동 동시 수상… 제일기획 미디어 금상, 스튜디오좋 디자인 동상"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-it-14ac8d27-2026-06-28",
+    "id": "204"
   }
 ]
