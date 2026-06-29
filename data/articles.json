@@ -5755,5 +5755,87 @@
     "communityLinks": null,
     "slug": "ai-it-14ac8d27-2026-06-28",
     "id": "204"
+  },
+  {
+    "title": "Canva·AI 시대에 인간 창의성이 더 중요해질 수 있다 — Mynt 대표 올리 패터슨 인터뷰",
+    "summary": "크리에이티브 에이전시 Mynt의 매니징 디렉터 올리 패터슨이 AI와 Canva에 대한 거부감, 그리고 진정성의 중요성에 대한 생각을 공유했다. 그는 AI의 확산이 역설적으로 인간 창의성의 가치를 높일 수 있다고 주장했다.",
+    "content": "## 주요 내용\n- Mynt 매니징 디렉터 올리 패터슨이 AI, Canva, 진정성에 관한 5가지 질문에 답변\n- AI가 인간 창의성을 대체하는 것이 아니라 오히려 더 중요하게 만들 수 있다는 견해 제시\n- Canva 사용에 대한 크리에이티브 업계의 거부감('Canva ick') 언급\n- 크리에이티브 작업에서 진정성(authenticity)의 중요성 강조\n\n## 의미\n크리에이티브 업계 전문가의 시각에서 AI 도구의 확산과 인간 고유의 창의성 간의 관계를 짚어보는 인터뷰로, AI 시대 크리에이터의 역할에 대한 논의를 환기한다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-06-28",
+    "tags": [
+      "AI",
+      "창의성",
+      "Canva",
+      "크리에이티브",
+      "진정성"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/professional-development/creative-careers/ai-might-end-up-making-human-creativity-more-important-5-questions-with-ollie-patterson",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/professional-development/creative-careers/ai-might-end-up-making-human-creativity-more-important-5-questions-with-ollie-patterson",
+        "name": "Creative Bloq —  \"AI might end up making human creativity more important\": 5 questions with Ollie Patterson "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-70adf9b7-2026-06-28",
+    "id": "205"
+  },
+  {
+    "title": "Anthropic Claude 기반 'AI 코딩 지침 문서' 개발자 커뮤니티서 확산…에이전트 워크플로우 변화 주목",
+    "summary": "AI 연구자 안드레이 카르파시가 작성한 것으로 추정되는 'CLAUDE.md' 파일 형태의 AI 코딩 지침 문서가 X(트위터)를 통해 개발자 커뮤니티에 빠르게 확산되고 있다. 해당 문서는 기존 4가지 원칙을 10가지 규칙으로 확장한 것으로, 단순한 프롬프트 작성법을 넘어 AI가 자율적으로 작업을 수행하는 에이전트 워크플로우 자체를 바꿀 수 있다는 평가를 받고 있다.",
+    "content": "## 주요 내용\n- AI 연구자 안드레이 카르파시 작성 추정 'CLAUDE.md' 문서가 개발자 커뮤니티에서 확산 중\n- 문서 진위는 아직 확인되지 않은 상태\n- 기존에 널리 알려진 4가지 원칙을 10가지 규칙으로 확장한 내용 담겨\n- 문서 부제는 '같은 실수를 두 번 보고 얻은 짧은 규칙'\n- 프롬프트 작성법을 넘어 AI 에이전트 워크플로우 자체를 변화시킬 수 있다는 평가\n\n## 의미\n이 문서는 단순한 프롬프트 엔지니어링 지침을 넘어, AI가 자율적으로 작업을 수행하는 에이전트 워크플로우 설계 방식에 영향을 줄 수 있는 사례로 주목받고 있다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-06-29",
+    "tags": [
+      "AI코딩",
+      "카르파시",
+      "CLAUDE.md",
+      "에이전트워크플로우",
+      "프롬프트엔지니어링"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212236",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212236",
+        "name": "AI타임스 — '카르파시 AI 코딩 지침' 확산…\"프롬프트에서 루프 시대로 진화\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-15c173fa-2026-06-29",
+    "id": "206"
   }
 ]
