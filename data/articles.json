@@ -5837,5 +5837,48 @@
     ],
     "slug": "anthropic-15c173fa-2026-06-29",
     "id": "206"
+  },
+  {
+    "title": "캔바, 태국 첫 브랜드 캠페인 'Anyone Can with Canva'로 편집 진입장벽 허물기 나서",
+    "summary": "캔바(Canva)가 태국에서 첫 브랜드 캠페인 'Anyone Can with Canva'를 선보였다. 태국 독립 에이전시 울프 BKK가 제작한 이번 캠페인은 많은 태국인이 콘텐츠 크리에이터를 꿈꾸면서도 '편집'이라는 벽에서 멈춘다는 인사이트에서 출발했다. 태국의 유명 영화감독 나와폴 탐롱라타나릿이 감독과 주연으로 참여했다.",
+    "content": "## 주요 내용\n- 캔바가 태국 시장 첫 브랜드 캠페인 'Anyone Can with Canva' 공개\n- 태국 독립 에이전시 울프 BKK(Wolf BKK) 제작\n- 태국 유명 영화감독 나와폴 탐롱라타나릿이 감독 및 주연으로 참여\n- 캠페인 핵심 인사이트: 많은 태국인이 콘텐츠 크리에이터를 꿈꾸지만 '편집' 단계에서 포기\n- '편집은 전문가만 할 수 있다'는 고정관념을 깨는 것이 캠페인의 방향\n\n## 의미\n이번 캠페인은 편집을 전문가의 영역으로 여기는 태국 내 고정관념에 도전하며, 누구나 콘텐츠를 만들 수 있다는 캔바의 브랜드 메시지를 태국 시장에 처음으로 본격적으로 알리는 시도다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-06-30",
+    "tags": [
+      "캔바",
+      "Canva",
+      "태국캠페인",
+      "브랜드캠페인",
+      "콘텐츠크리에이터",
+      "울프BKK",
+      "디자인툴"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28173",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28173",
+        "name": "매드타임스 — [해외 크리에이티브] \"누구나 할 수 있다\" 울프 BKK, 캔바 태국 첫 캠페인으로 '편집은 전문가의 일'이라는 고정관념 깨다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-a5c38073-2026-06-30",
+    "id": "207"
   }
 ]
