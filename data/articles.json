@@ -6037,5 +6037,46 @@
     ],
     "slug": "anthropic-6886e690-2026-07-01",
     "id": "211"
+  },
+  {
+    "title": "구글, 차세대 제미나이 플래시 LM 아레나서 테스트 중",
+    "summary": "구글의 경량 AI 모델 '제미나이 플래시'의 새 테스트 버전이 LM 아레나에 등록돼 차기 모델 출시가 임박했다는 관측이 나오고 있다. 초기 사용자 평가에서는 현재 기본 플래시 모델 대비 응답 품질 향상이 확인됐으나, 세대교체 수준의 큰 변화는 아닌 것으로 보인다.",
+    "content": "## 주요 내용\n- 구글 제미나이 플래시의 새로운 체크포인트가 LM 아레나에 등록돼 테스트 진행 중\n- 해당 모델의 정체(버전명 등)는 아직 공개되지 않음\n- 초기 사용자 평가에서 현재 제미나이 앱 기본 플래시 모델보다 응답 품질 개선 확인\n- 성능 향상 폭은 세대교체 수준의 큰 변화는 아닌 것으로 평가됨\n\n## 의미\nLM 아레나 테스트 등장으로 구글의 차기 제미나이 플래시 모델 출시가 임박했다는 관측이 제기되고 있다.",
+    "company": "Google",
+    "category": "AI모델",
+    "date": "2026-07-03",
+    "tags": [
+      "구글",
+      "제미나이 플래시",
+      "LM아레나",
+      "AI모델",
+      "경량모델"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+        "name": "AI타임스 — 구글, 차세대 '제미나이 플래시' 테스트 중...LM 아레나서 포착"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-5d5a4a19-2026-07-03",
+    "id": "212"
   }
 ]
