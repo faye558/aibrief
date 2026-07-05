@@ -6078,5 +6078,47 @@
     ],
     "slug": "google-5d5a4a19-2026-07-03",
     "id": "212"
+  },
+  {
+    "title": "LG CNS, '기업 LLM 시대 AI 경쟁력은 모델이 아닌 컨텍스트 관리 시스템에 있다'",
+    "summary": "삼성과 LG 등 국내 대기업들이 생성 AI를 전사적으로 도입하면서 기업 AI의 관심사가 '도입 여부'에서 '어떻게 업무에 활용할 것인가'로 전환되고 있다. 한국딥러닝은 기업 LLM 시대의 진정한 AI 경쟁력은 모델 자체가 아니라 컨텍스트 관리 시스템에 있다고 주장한다.",
+    "content": "## 주요 내용\n- 삼성은 전 관계사를 대상으로 챗GPT·제미나이 등 생성 AI 서비스를 도입해 전사적 AX(AI 전환)를 추진 중\n- LG그룹은 LG CNS를 중심으로 계열사 전반에 기업용 클로드를 도입해 생성 AI를 업무 환경에 본격 적용\n- 생성 AI는 '도입할 것인가'가 아닌 '어떻게 업무에 활용할 것인가'를 고민하는 단계로 진입\n- 한국딥러닝은 기업 AI 경쟁력의 핵심이 LLM 모델이 아닌 '컨텍스트 관리 시스템'에 있다고 강조\n\n## 의미\n국내 주요 대기업들의 생성 AI 전사 도입이 가속화되는 가운데, 단순 모델 도입을 넘어 기업 내 컨텍스트를 효과적으로 관리하고 활용하는 역량이 향후 기업 AI 경쟁력의 핵심 차별화 요소로 부상하고 있다.",
+    "company": "LG CNS",
+    "category": "AI모델",
+    "date": "2026-07-05",
+    "tags": [
+      "LG CNS",
+      "기업LLM",
+      "생성AI",
+      "컨텍스트관리",
+      "AX",
+      "한국딥러닝"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212435",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212435",
+        "name": "AI타임스 — ​​​​​​​[기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: LG CNS",
+        "url": "https://www.clien.net/service/search?q=LG+CNS&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: LG CNS",
+        "url": "https://www.disquiet.io/search?q=LG+CNS"
+      }
+    ],
+    "slug": "lg-cns-970d99ae-2026-07-05",
+    "id": "213"
   }
 ]
