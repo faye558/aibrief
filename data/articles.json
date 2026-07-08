@@ -6120,5 +6120,93 @@
     ],
     "slug": "lg-cns-970d99ae-2026-07-05",
     "id": "213"
+  },
+  {
+    "title": "산돌, 자체 AI로 한글 폰트 제작 기간 60% 단축…다국어 폰트로 확대 예정",
+    "summary": "산돌이 자체 개발한 AI를 한글 폰트 제작 공정에 적용해 글리프 생성 자동화를 실현하고, 기존 대비 약 60%의 제작 기간 단축 효과를 거두고 있다. AI를 활용해 제작한 모바일 폰트 'Iam 오늘은니팅데이'와 PC용 리테일 폰트 'SD 모닝루틴'을 실제 상품으로 출시했으며, 향후 중국어 등 다국어 폰트 제작에도 AI 적용 범위를 확대해 글로벌 시장 진출을 가속화할 계획이다.",
+    "content": "## 주요 내용\n- 산돌은 한글 폰트 제작 데이터를 기반으로 자체 AI를 개발해 글리프 생성 공정을 자동화, 제작 기간을 약 60% 단축\n- AI 적용 이후 디자이너는 글리프 직접 제작 대신 AI 생성 결과 검수·보완 역할로 업무 방식 전환\n- AI 활용 첫 모바일 폰트 'Iam 오늘은니팅데이'에 이어 PC용 리테일 폰트 'SD 모닝루틴' 출시로 적용 범위 확대\n- 한글은 초성·중성·종성 조합과 수천 자의 조형 일관성 요건으로 AI 적용이 어려운 분야로 꼽혀왔음\n- 향후 중국어 등 대규모 글리프 제작이 필요한 다국어 폰트로 AI 적용을 확대해 글로벌 시장 진출 가속화 예정\n\n## 의미\n산돌이 난이도 높은 한글 폰트 제작에 자체 AI를 성공적으로 상용화하며, 다국어 폰트까지 확장을 통해 글로벌 폰트 시장에서의 경쟁력 강화를 본격화하고 있다.",
+    "company": "산돌",
+    "category": "디자인툴",
+    "date": "2026-07-08",
+    "tags": [
+      "산돌",
+      "AI폰트",
+      "한글폰트",
+      "다국어폰트",
+      "글리프자동화",
+      "폰트AI",
+      "글로벌시장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.sandoll.co.kr/press_backup/?idx=172283010&bmode=view",
+    "sourceName": "산돌 공식",
+    "sources": [
+      {
+        "url": "https://www.sandoll.co.kr/press_backup/?idx=172283010&bmode=view",
+        "name": "산돌 공식 — 산돌, AI 한글 폰트 상용화에 이어 다국어 폰트 AI 개발 나서… 글로벌 시장 확대 박차"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 산돌",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C"
+      },
+      {
+        "name": "네이버 카페 검색: 산돌캔버스",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
+      },
+      {
+        "name": "클리앙 검색: 산돌",
+        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
+      },
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      }
+    ],
+    "slug": "sandoll-bdaa4a2c-2026-07-08",
+    "id": "214"
+  },
+  {
+    "title": "앤트로픽, 클로드 코워크 모바일·웹으로 확장…맥스 구독자 베타 제공",
+    "summary": "앤트로픽이 기존 데스크톱 전용이었던 AI 업무 에이전트 '클로드 코워크'를 모바일과 웹으로 확대 출시했다. 맥스(Max) 구독자를 대상으로 베타 서비스를 제공하며, 사용자가 언제 어디서나 AI에 업무를 위임하고 진행 상황을 확인할 수 있게 됐다.",
+    "content": "## 주요 내용\n- 앤트로픽이 AI 업무 에이전트 '클로드 코워크'를 모바일 및 웹으로 확대 출시\n- 기존에는 데스크톱에서만 사용 가능했으나 다양한 기기로 접근 범위 확장\n- 기기가 꺼져 있어도 백그라운드 자동화 기능 지원\n- 맥스(Max) 구독자 대상으로 베타 서비스 제공 (현지시간 7일 발표)\n\n## 의미\n개발자 중심의 AI 코딩 도구를 넘어 일반 사무직과 지식노동자를 위한 생산성 플랫폼으로 영역을 확장하며 기업용 AI 시장 공략에 속도를 내는 전략으로 풀이된다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-07-08",
+    "tags": [
+      "앤트로픽",
+      "클로드코워크",
+      "AI에이전트",
+      "기업용AI",
+      "생산성플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212530",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212530",
+        "name": "AI타임스 — 앤트로픽, '클로드 코워크' 모바일·웹으로 확장…\"기기 꺼져도 백그라운드 자동화\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-83532dd6-2026-07-08",
+    "id": "215"
   }
 ]
