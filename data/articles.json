@@ -6208,5 +6208,129 @@
     ],
     "slug": "anthropic-83532dd6-2026-07-08",
     "id": "215"
+  },
+  {
+    "title": "퍼플렉시티, AI 코딩 도구 '팀메이트' 개발 중…코딩 시장 진출 본격화",
+    "summary": "퍼플렉시티가 소프트웨어 개발 전 과정 관리 및 버그 탐지·수정 기능을 갖춘 AI 엔지니어링 도구를 개발 중인 것으로 알려졌다. '팀메이트(Teammate)'라는 코드명의 이 도구는 사내에서 이미 운영 중이며, 개발자들이 지난 5월부터 실제 업무에 활용하고 있다.",
+    "content": "## 주요 내용\n- 퍼플렉시티가 AI 코딩 도구 '팀메이트(Teammate)' 코드명으로 사내 운영 중\n- 소프트웨어 개발 전 과정 관리, 버그 탐지 및 수정 기능 포함\n- 개발자들이 2025년 5월부터 실제 업무에 활용 중\n- 외부 공개 일정은 아직 미확정\n\n## 의미\n검색 서비스 중심이었던 퍼플렉시티가 AI 코딩 시장으로 사업 영역을 확장하려는 움직임으로, 출시 시 커서, 오픈AI, 앤트로픽 등과의 경쟁이 예상된다.",
+    "company": "Perplexity",
+    "category": "AI모델",
+    "date": "2026-07-09",
+    "tags": [
+      "퍼플렉시티",
+      "AI코딩",
+      "팀메이트",
+      "AI개발도구",
+      "코딩시장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212590",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212590",
+        "name": "AI타임스 — 퍼플렉시티, AI 코딩 시장 노린다...'프로젝트 전담' AI 도구 구축 중"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/perplexity_ai",
+        "url": "https://www.reddit.com/r/perplexity_ai/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 퍼플렉시티",
+        "url": "https://www.clien.net/service/search?q=%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0&sort=latest"
+      }
+    ],
+    "slug": "perplexity-4200ce80-2026-07-09",
+    "id": "216"
+  },
+  {
+    "title": "구글, 구글 포토에 생성 AI 기반 '비디오 리믹스' 출시…영상을 영화 스타일로 변환",
+    "summary": "구글이 구글 포토에 생성 AI 기반 동영상 편집 기능 '비디오 리믹스(Video Remix)'를 공개했다. 전문적인 편집 기술 없이 몇 번의 터치만으로 일반 영상을 영화 같은 분위기나 예술 작품 스타일로 변환할 수 있다. 이 기능은 구글의 최신 멀티모달 모델 '제미나이 옴니(Gemini Omni)'를 기반으로 한다.",
+    "content": "## 주요 내용\n- 구글이 구글 포토에 생성 AI 기반 동영상 편집 기능 '비디오 리믹스' 출시\n- 전문 편집 기술 없이 터치 몇 번으로 영상 스타일 변환 가능\n- 구글의 최신 멀티모달 모델 '제미나이 옴니' 기반 기술 적용\n- 제미나이 옴니는 텍스트·이미지·영상 등 다양한 입력을 동시에 이해·처리하는 네이티브 멀티모달 모델\n- 비디오 리믹스에서 제미나이 옴니가 영상 편집 및 스타일 변환 담당\n\n## 의미\n생성 AI를 활용해 일반 사용자도 전문 편집 기술 없이 손쉽게 고품질 영상 스타일 변환이 가능해졌으며, 구글 포토의 AI 기반 편집 기능이 한층 강화됐다.",
+    "company": "Google",
+    "category": "AI모델",
+    "date": "2026-07-09",
+    "tags": [
+      "구글",
+      "구글포토",
+      "비디오리믹스",
+      "제미나이옴니",
+      "생성AI",
+      "영상편집"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212592",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212592",
+        "name": "AI타임스 — 구글 포토, '비디오 리믹스' 출시...\"터치 몇 번으로 영화 같은 영상 변환\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-d3c27ba1-2026-07-09",
+    "id": "217"
+  },
+  {
+    "title": "캔바, 국내 교사 대상 AI 활용 교육 상시 운영…4,000명 이상 참여",
+    "summary": "글로벌 비주얼 커뮤니케이션 플랫폼 캔바가 국내 교사를 대상으로 온·오프라인 AI 교육 세션을 상시 운영하며, 지난 5월 시작 이후 현재까지 4,000명 이상의 교사가 참여했다. 5월부터 6월까지 진행된 '선생님을 위한 Canva 공식 후원 교육'에서는 총 3,731명의 교사가 과정을 수료했다.",
+    "content": "## 주요 내용\n- 캔바가 국내 교사 대상 온·오프라인 AI 교육 세션을 상시 운영 중\n- AI 기반 수업 설계 및 학생 중심 학습 활동 소개\n- 지난 5월 프로그램 시작 이후 현재까지 4,000명 이상의 국내 교사 참여\n- 5월~6월 운영된 '선생님을 위한 Canva 공식 후원 교육'에서 3,731명 수료\n\n## 의미\nAI 활용 교육 수요가 높아지는 가운데, 캔바가 국내 교사들의 AI 기반 수업 역량 강화를 위한 교육 지원을 지속적으로 확대하고 있다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-07-09",
+    "tags": [
+      "캔바",
+      "AI교육",
+      "교사연수",
+      "에듀테크",
+      "비주얼커뮤니케이션"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28282",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28282",
+        "name": "매드타임스 — 캔바, 국내 교사 대상 온·오프라인 AI 교육 상시 운영…4,000명 이상 참여"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-cc550376-2026-07-09",
+    "id": "218"
   }
 ]
