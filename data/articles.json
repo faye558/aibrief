@@ -6332,5 +6332,129 @@
     ],
     "slug": "canva-cc550376-2026-07-09",
     "id": "218"
+  },
+  {
+    "title": "메인라인, 50여 종 AI 모델 통합 플랫폼 'AIFuze' 정식 출시",
+    "summary": "AI 전문 기업 메인라인이 GPT, 클로드, 제미나이, 퍼플렉시티 등 50여 종의 최신 AI 모델을 하나의 플랫폼에서 이용할 수 있는 통합 오케스트레이션 AI 서비스 'AIFuze'를 정식 출시했다. 사용자가 작업 성격에 따라 여러 AI 서비스를 오가야 하는 불편을 해소하고, 환각 없는 LLM 서비스를 제공하는 것을 목표로 한다.",
+    "content": "## 주요 내용\n- 메인라인이 통합 AI 플랫폼 'AIFuze'를 정식 출시\n- GPT, 클로드, 제미나이, 퍼플렉시티 등 50여 종의 최신 AI 모델을 단일 플랫폼에서 제공\n- 글쓰기, 코딩, 데이터 분석 등 작업 성격에 따라 강점이 다른 AI 모델을 한곳에서 이용 가능\n- 환각 없는 LLM 서비스 제공을 목표로 제시\n\n## 의미\n여러 AI 서비스를 개별 구독하며 오가야 했던 사용자 불편을 줄이고, 다양한 AI 모델을 하나의 플랫폼에서 비교·활용할 수 있는 통합 환경을 제공한다는 점에서 의의가 있다.",
+    "company": "Perplexity",
+    "category": "AI모델",
+    "date": "2026-07-10",
+    "tags": [
+      "AIFuze",
+      "메인라인",
+      "통합AI플랫폼",
+      "생성형AI",
+      "LLM"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212621",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212621",
+        "name": "AI타임스 — 메인라인, 생성 AI 한곳에 담은 'AIFuze' 공개"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/perplexity_ai",
+        "url": "https://www.reddit.com/r/perplexity_ai/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 퍼플렉시티",
+        "url": "https://www.clien.net/service/search?q=%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0&sort=latest"
+      }
+    ],
+    "slug": "perplexity-128897b9-2026-07-10",
+    "id": "219"
+  },
+  {
+    "title": "OpenAI, 업무용 에이전트 '챗GPT 워크' 출시…기업 AI 자동화 시장 공략",
+    "summary": "오픈AI가 GPT-5.6 기반의 기업용 AI 업무 자동화 서비스 '챗GPT 워크(ChatGPT Work)'를 공식 출시했다. 문서·스프레드시트·프레젠테이션·웹 앱 제작과 복잡한 다단계 업무를 장시간 자율 수행할 수 있도록 설계됐으며, 우선 프로·엔터프라이즈·에듀 요금제 이용자를 대상으로 웹과 모바일에서 제공된다.",
+    "content": "## 주요 내용\n- 오픈AI가 기업용 AI 업무 자동화 에이전트 '챗GPT 워크' 공식 발표\n- 최신 AI 모델 'GPT-5.6' 기반으로 동작\n- 문서, 스프레드시트, 프레젠테이션, 웹 애플리케이션 제작 기능 지원\n- 여러 단계로 구성된 복잡한 업무를 장시간에 걸쳐 자율적으로 수행 가능\n- 웹·모바일에서 프로, 엔터프라이즈, 에듀 요금제 이용자 대상 우선 제공\n- 플러스 및 비즈니스 요금제 관련 내용은 원문이 일부 생략됨\n\n## 의미\n오픈AI가 GPT-5.6 기반의 자율 업무 에이전트를 출시하며 기업용 AI 자동화 시장 공략을 본격화하고 있음을 보여준다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-10",
+    "tags": [
+      "OpenAI",
+      "챗GPT워크",
+      "AI에이전트",
+      "기업용AI",
+      "GPT-5.6",
+      "업무자동화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212610",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212610",
+        "name": "AI타임스 — 업무용 에이전트 '챗GPT 워크' 출시…코덱스 통합 '슈퍼 앱'도 시동"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-942b8d96-2026-07-10",
+    "id": "220"
+  },
+  {
+    "title": "앤트로픽 — 머스크 '내가 틀렸다', AI 선두주자로 공개 인정",
+    "summary": "일론 머스크가 자신의 SNS 엑스(X)를 통해 앤트로픽에 대해 '내가 명백하게 잘못 생각했다'며 오판을 공개적으로 인정했다. 지난해까지 앤트로픽의 성공 가능성을 일축했던 머스크가 이번에는 이례적으로 그 기술력을 높이 평가한 것이다.",
+    "content": "## 주요 내용\n- 일론 머스크가 SNS 엑스(X)에 앤트로픽에 대해 '내가 명백하게 잘못 생각했다'고 직접 게시\n- 평소 경쟁사에 거침없는 독설을 이어온 머스크가 자신의 오판을 인정한 이례적 사례\n- 지난해까지 앤트로픽의 성공 가능성을 일축했으나, 이번에는 AI 선두주자로 기술력을 공개 인정\n\n## 의미\n경쟁사 비판으로 유명한 머스크가 앤트로픽에 대해 공개적으로 오판을 시인한 것은 이례적인 행보로, 앤트로픽의 AI 업계 내 위상이 높아졌음을 보여준다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-07-10",
+    "tags": [
+      "앤트로픽",
+      "일론머스크",
+      "AI",
+      "인공지능",
+      "테슬라"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260710000223",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260710000223",
+        "name": "전자신문 — '앤트로픽'에 독설 퍼붓던 머스크…“내가 틀렸다, 그들은 AI 선두주자”"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-b1e951b7-2026-07-10",
+    "id": "221"
   }
 ]
