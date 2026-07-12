@@ -6498,5 +6498,46 @@
     ],
     "slug": "openai-82afdfae-2026-07-11",
     "id": "222"
+  },
+  {
+    "title": "OpenAI, 상용 모델 'GPT-5.6 솔 울트라'로 50년 수학 난제 증명 생성",
+    "summary": "OpenAI가 상용 AI 모델 'GPT-5.6 솔 울트라'로 50년 넘게 풀리지 않던 수학 난제 '사이클 이중 덮개 추측'의 증명을 생성했다고 발표했다. 아직 수학계의 독립적인 검증 절차가 남아 있는 상태다.",
+    "content": "## 주요 내용\n- OpenAI 연구원 에단 나이트가 X(트위터)를 통해 발표\n- 대상 모델: 2024년 정식 출시한 상용 모델 'GPT-5.6 솔 울트라'\n- 생성한 증명: 그래프 이론의 미해결 문제 '사이클 이중 덮개 추측(Cycle Double Cover Conjecture)'\n- 해당 난제는 50년 넘게 풀리지 않은 문제\n- 수학계의 독립적인 검증 절차는 아직 진행 중\n\n## 의미\n기존에 연구용 내부 모델에서만 가능했던 최첨단 수학 연구 능력을 일반에 공개된 상용 모델로 확장했다는 점에서 주목된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-12",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "수학난제",
+      "사이클이중덮개추측",
+      "AI연구"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212668",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212668",
+        "name": "AI타임스 — 오픈AI \"상용 모델 'GPT-5.6 솔 울트라'로 50년 수학 난제 증명 생성\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-314ba00f-2026-07-12",
+    "id": "223"
   }
 ]
