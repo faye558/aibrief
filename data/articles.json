@@ -6539,5 +6539,120 @@
     ],
     "slug": "openai-314ba00f-2026-07-12",
     "id": "223"
+  },
+  {
+    "title": "윤디자인, 여름밤 손글씨 서체 「Yoon 여름밤의소다」 업데이트",
+    "summary": "윤디자인이 여름밤의 청량한 감성을 담은 손글씨 서체 「Yoon 여름밤의소다」를 업데이트했다. 다이어리에 눌러 쓴 듯한 친근한 손글씨 구조에 서늘하고 싱그러운 여름밤 분위기를 더했으며, 소다를 모티브로 한 히든 딩벳도 함께 구성했다.",
+    "content": "## 주요 내용\n- 여름밤의 청량한 감성을 손글씨로 표현한 서체\n- 다이어리에 꾹꾹 눌러 쓴 듯한 친근한 손글씨 구조\n- 동글동글하고 꽉 찬 'ㅇ'이 탄산 기포를 연상시키는 디자인\n- 소다를 모티브로 한 히든 딩벳 포함\n- FONCO(font.co.kr)에서 폰트 확인 가능\n\n## 의미\n일상적인 기록부터 디자인 작업까지 활용할 수 있는 여름 시즌 감성 서체로, 히든 딩벳을 통해 디자인 포인트 요소도 제공한다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-07-07",
+    "tags": [
+      "윤디자인",
+      "폰트",
+      "손글씨서체",
+      "여름밤의소다",
+      "딩벳"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1149",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1149",
+        "name": "윤디자인 공식 — 청량한 여름밤을 글자에 담다, 「Yoon 여름밤의소다」 업데이트"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-e0cad92a-2026-07-07",
+    "id": "224"
+  },
+  {
+    "title": "OpenAI 코덱스, 하루 만에 사용자 100만 추가…800만 돌파",
+    "summary": "OpenAI의 코딩 에이전트 '코덱스'와 챗GPT 워크의 활성 사용자가 800만명에 도달했다. 불과 하루 전 700만명을 돌파한 데 이어 하루 만에 100만명이 추가된 것으로, 샘 알트먼 CEO는 '성장세가 미쳤다(insane)'고 표현했다.",
+    "content": "## 주요 내용\n- OpenAI 코덱스 책임자 티보 소티오가 X를 통해 코덱스·챗GPT 워크 활성 사용자 800만명 달성을 발표\n- 전날 700만명 돌파 발표 이후 하루 만에 100만명 추가\n- GPT-5.6 출시 이후 빠른 속도로 사용자 확대 중\n- 샘 알트먼 CEO는 해당 성장세에 대해 'insane(미쳤다)'고 언급\n\n## 의미\nGPT-5.6 출시 이후 코덱스의 사용자 수가 하루 단위로 100만명씩 증가하는 등 폭발적인 성장세를 보이고 있어 AI 코딩 에이전트 시장에서의 빠른 확산이 주목된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-15",
+    "tags": [
+      "OpenAI",
+      "코덱스",
+      "AI코딩에이전트",
+      "챗GPT",
+      "샘알트먼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212790",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212790",
+        "name": "AI타임스 — '코덱스' 700만 돌파 하루 만에 800만...알트먼 \"미친 성장세\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-625672fe-2026-07-15",
+    "id": "225"
+  },
+  {
+    "title": "캔바, 'Canva Code 2.0' 출시… AI로 누구나 인터랙티브 웹·앱 제작",
+    "summary": "캔바가 AI 기반 코드 생성 기능을 강화한 'Canva Code 2.0'을 전 세계에 출시했다. 이번 업데이트는 누구나 인터랙티브 웹사이트, 앱, 디지털 콘텐츠를 보다 빠르고 직관적으로 제작할 수 있도록 지원한다.",
+    "content": "## 주요 내용\n- 캔바, 'Canva Code 2.0' 글로벌 출시\n- AI를 활용해 인터랙티브 웹사이트·앱·디지털 콘텐츠 제작 가능\n- 바이브 코딩(Vibe coding) 트렌드에 맞춰 AI 기반 코드 생성과 캔바의 직관적 디자인 기능을 결합\n- 프롬프트에만 의존하는 기존 방식에서 벗어난 새로운 제작 경험 제공\n\n## 의미\n캔바가 AI 코드 생성 기능을 자사 디자인 플랫폼에 통합함으로써, 비개발자도 인터랙티브 웹 콘텐츠를 손쉽게 제작할 수 있는 환경을 제공하게 됐다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-07-15",
+    "tags": [
+      "캔바",
+      "Canva Code 2.0",
+      "AI코딩",
+      "바이브코딩",
+      "노코드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28339",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28339",
+        "name": "매드타임스 — 캔바, Canva Code 2.0 출시… 차세대 AI 기반 제작 경험을 모두에게 제공"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-ed1697c8-2026-07-15",
+    "id": "226"
   }
 ]
