@@ -6982,5 +6982,171 @@
     ],
     "slug": "openai-5b2f7dae-2026-07-19",
     "id": "234"
+  },
+  {
+    "title": "AI 모델 월드컵 베팅 벤치마크 — 제미나이 1위, 클로드 최하위",
+    "summary": "AI 스타트업 옵사이드(Obside)가 대표 AI 모델 7종을 대상으로 2026 월드컵 경기 결과를 예측하고 실시간 배당률에 따라 베팅하는 'AI 베팅 아레나' 벤치마크를 진행했다. 실험 결과 제미나이 3.5 플래시가 1위, 클로드 오퍼스 4.8이 최하위를 기록했다.",
+    "content": "## 주요 내용\n- AI 스타트업 옵사이드가 'AI 베팅 아레나' 벤치마크를 진행\n- 대상 모델: GPT-5.5, 클로드 오퍼스 4.8, 제미나이 3.5 플래시, 딥시크 V4 등 7종 (월드컵 개막 전 출시된 모델)\n- 2026 월드컵 경기 결과 예측 및 실시간 배당률 기반 베팅 방식\n- 제미나이 3.5 플래시 1위, 클로드 오퍼스 4.8 최하위\n\n## 의미\n기존 지식 측정 중심의 AI 평가 체계를 넘어, 실시간 변동 데이터 속 의사결정 능력을 겨루는 새로운 형태의 벤치마크가 등장했다는 점에서 주목된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-20",
+    "tags": [
+      "AI벤치마크",
+      "옵사이드",
+      "제미나이",
+      "클로드",
+      "월드컵"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212958",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212958",
+        "name": "AI타임스 — AI 모델들의 월드컵 베팅 결과는...제미나이 1위·클로드 최하위"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-94867638-2026-07-20",
+    "id": "235"
+  },
+  {
+    "title": "오픈AI, 'GPT-5.6 솔' 사용자 후기 1만건 이상 담은 데이터베이스 공개",
+    "summary": "오픈AI가 'GPT-5.6 솔' 출시 이후 전 세계 사용자들이 제출한 1만개 이상의 활용 후기를 모은 대규모 데이터베이스를 공개했다. 이 데이터는 총 100만달러 상당의 크레딧 보상 캠페인을 통해 수집됐으며, AI가 단순 문장·코드 작성을 넘어 산업별 실제 워크플로우에 활용되는 사례를 담고 있다.",
+    "content": "## 주요 내용\n- 오픈AI가 '사람들이 GPT-5.6 솔을 사랑하는 1만가지 이유'라는 웹사이트를 18일(현지시간) 오픈\n- 사용자 후기 1만건 이상을 한데 모은 대규모 데이터베이스 공개\n- 데이터는 100만달러 상당의 크레딧 보상을 내건 대형 캠페인을 통해 수집\n- AI 활용이 단순 생성(문장·코드 작성)을 넘어 산업별 실제 워크플로우 중심으로 확장되는 양상을 보여줌\n- 캠페인은 티보 소티오 오픈AI 코덱스 책임자가 주도\n\n## 의미\n이번 데이터베이스 공개는 GPT-5.6 솔이 실제 업무 현장에서 어떻게 활용되는지를 구체적으로 보여주며, AI 도구의 활용 범위가 단순 콘텐츠 생성에서 워크플로우 통합으로 이동하고 있음을 시사한다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-20",
+    "tags": [
+      "오픈AI",
+      "GPT-5.6 솔",
+      "워크플로우",
+      "사용자 후기",
+      "AI 활용"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212937",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212937",
+        "name": "AI타임스 — 오픈AI, 'GPT-5.6 솔' 사용자 후기 공개…\"생성 넘어 워크플로우 중심으로\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-58df657c-2026-07-20",
+    "id": "236"
+  },
+  {
+    "title": "퍼플렉시티, AI 연구 에이전트 벤치마크 'WANDR' 공개…최고 AI도 실무 리서치엔 한계",
+    "summary": "퍼플렉시티가 AI 연구 에이전트의 실제 지식 노동 수행 능력을 평가하는 오픈 벤치마크 'WANDR(Wide ANd Deep Research)'를 공개했다. 경쟁사 분석, 시장조사, 기업 실사 등 실무에서 AI 활용이 늘고 있지만, 방대한 정보를 빠짐없이 수집하고 신뢰할 수 있는 근거로 입증하는 수준에는 크게 미치지 못한다는 평가다.",
+    "content": "## 주요 내용\n- 퍼플렉시티가 14일(현지시간) AI 연구 에이전트 평가용 오픈 벤치마크 'WANDR' 공개\n- WANDR는 'Wide ANd Deep Research'의 약자\n- 경쟁사 분석, 시장조사, 기업 실사 등 실제 업무에서 AI 연구 에이전트 활용 사례 증가\n- 벤치마크 결과, 현재 최고 성능 AI도 완전한 리서치 수행에는 크게 미치지 못하는 것으로 확인\n- 방대한 정보의 완전한 수집 및 신뢰할 수 있는 근거 입증이 현재 AI의 주요 한계로 지적\n\n## 의미\nWANDR 벤치마크는 AI 연구 에이전트의 실무 수행 능력을 객관적으로 평가하는 기준을 제시하며, 현재 AI의 실질적인 한계를 공개적으로 드러냈다는 점에서 의미가 있다.",
+    "company": "Perplexity",
+    "category": "AI모델",
+    "date": "2026-07-20",
+    "tags": [
+      "퍼플렉시티",
+      "WANDR",
+      "AI연구에이전트",
+      "벤치마크",
+      "지식노동"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212949",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=212949",
+        "name": "AI타임스 — 퍼플렉시티, 연구 에이전트 벤치마크 'WANDR' 출시…\"최고 AI도 실무는 한계\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/perplexity_ai",
+        "url": "https://www.reddit.com/r/perplexity_ai/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 퍼플렉시티",
+        "url": "https://www.clien.net/service/search?q=%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0&sort=latest"
+      }
+    ],
+    "slug": "perplexity-aacc6d54-2026-07-20",
+    "id": "237"
+  },
+  {
+    "title": "Adobe·오픈AI·뉴욕타임스, TDC72 신설 '타입-하이' 골드 수상",
+    "summary": "글로벌 타이포그래피 단체 타이프 디렉터스 클럽(TDC)이 제72회 TDC72 공모전 수상작을 미국 브루클린 더 라이트하우스에서 발표했다. 올해부터 새롭게 신설된 '타입-하이(Type-High)' 상이 처음으로 수여되었으며, 오픈AI·어도비·뉴욕타임스가 골드 영예를 안았다.",
+    "content": "## 주요 내용\n- 타이프 디렉터스 클럽(TDC)이 미국 브루클린 더 라이트하우스에서 TDC72 시상식 및 전시 개최\n- 올해 처음으로 '타입-하이(Type-High)' 상 신설 및 수여\n- 타입-하이 골드(Gold), 실버(Silver), 브론즈(Bronze) 3개 등급으로 구성\n- 오픈AI, 어도비, 뉴욕타임스가 타입-하이 골드 수상\n- 기존 TDC 메리트 상도 함께 운영\n\n## 의미\nTDC72에서 타입-하이 상이 처음 도입되며 글로벌 타이포그래피 공모전의 새로운 기준이 제시되었고, 오픈AI·어도비·뉴욕타임스 등 주요 기업들이 골드 수상작으로 선정되어 주목받았다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-07-20",
+    "tags": [
+      "TDC",
+      "타이포그래피",
+      "어도비",
+      "오픈AI",
+      "뉴욕타임스",
+      "타입-하이",
+      "디자인어워드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28396",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28396",
+        "name": "매드타임스 — TDC72, 첫 '타입-하이' 수상작 발표…오픈AI·어도비·뉴욕타임스 골드 영예"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-b7aea999-2026-07-20",
+    "id": "238"
   }
 ]
