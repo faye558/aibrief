@@ -7148,5 +7148,89 @@
     ],
     "slug": "adobe-b7aea999-2026-07-20",
     "id": "238"
+  },
+  {
+    "title": "삼성전자, 갤럭시 Z8 시리즈에 구글 '제미나이 인텔리전스' 탑재한 에이전트형 AI 공개",
+    "summary": "삼성전자가 영국 런던 '갤럭시 언팩 2026'에서 갤럭시 Z 폴드8 울트라·폴드8·플립8을 공개했다. 이번 신제품은 모바일 기기 최초로 구글의 '제미나이 인텔리전스'를 탑재해, 사용자 상황과 대화 맥락을 이해하고 필요한 작업을 능동적으로 연결하는 에이전트형 AI를 핵심 기능으로 내세웠다.",
+    "content": "## 주요 내용\n- 삼성전자, 22일(현지시간) 영국 런던 '갤럭시 언팩 2026'에서 갤럭시 Z 폴드8 울트라·폴드8·플립8 공개\n- 모바일 기기 최초로 구글 '제미나이 인텔리전스(Gemini Intelligence)' 탑재\n- 화면과 콘텐츠 맥락을 파악해 배달·예약·쇼핑 등 40여 개 주요 앱을 자동 실행\n- 복잡한 멀티스텝 작업을 능동적으로 처리하는 에이전트형 AI 경험 제공\n\n## 의미\n단순 질의응답을 넘어 앱을 자동 실행하고 복잡한 작업을 대신 처리하는 에이전트형 AI를 모바일에 최초 적용함으로써, 스마트폰 AI 활용의 새로운 기준을 제시했다는 점에서 의미가 있다.",
+    "company": "Google",
+    "category": "AI모델",
+    "date": "2026-07-23",
+    "tags": [
+      "삼성전자",
+      "갤럭시Z폴드8",
+      "제미나이인텔리전스",
+      "에이전트AI",
+      "구글",
+      "갤럭시언팩2026",
+      "폴더블폰"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213062",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213062",
+        "name": "AI타임스 — 삼성전자, '에이전트형 AI' 탑재 갤럭시 Z8 시리즈 공개"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-180a9773-2026-07-23",
+    "id": "239"
+  },
+  {
+    "title": "OpenAI, 코덱스·챗GPT 워크 활성 사용자 1000만 돌파…일주일 새 200만 증가",
+    "summary": "오픈AI의 코딩 에이전트 '코덱스'와 범용 업무 에이전트 '챗GPT 워크'의 활성 사용자가 1000만명을 넘어섰다. 이는 일주일 만에 200만명이 새로 유입된 결과다.",
+    "content": "## 주요 내용\n- 코덱스·챗GPT 워크 활성 사용자 1000만명 돌파\n- 일주일 만에 200만명 추가 유입\n- 오픈AI 코덱스 책임자 티보 소티오가 X(트위터)를 통해 공식 발표\n- 유료 이용자 대상 새로운 사용량 한도 초기화 정책도 곧 적용 예정\n\n## 의미\n오픈AI의 AI 에이전트 서비스가 빠른 성장세를 이어가고 있으며, 유료 이용자 정책 변화도 함께 예고되어 주목된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-22",
+    "tags": [
+      "OpenAI",
+      "코덱스",
+      "챗GPT워크",
+      "AI에이전트",
+      "사용자증가"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213027",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213027",
+        "name": "AI타임스 — 오픈AI, '코덱스·챗GPT 워크' 사용자 1000만 돌파...일주일 만에 200만 추가"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-c3ceab4d-2026-07-22",
+    "id": "240"
   }
 ]
