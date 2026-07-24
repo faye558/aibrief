@@ -7232,5 +7232,46 @@
     ],
     "slug": "openai-c3ceab4d-2026-07-22",
     "id": "240"
+  },
+  {
+    "title": "앤트로픽, '클로드 오퍼스 5' 출시 임박 — 개발 도구·구글 클라우드서 정황 포착",
+    "summary": "앤트로픽의 차세대 플래그십 AI 모델 '클로드 오퍼스 5'의 출시가 임박했다는 정황이 잇따라 포착됐다. 코드 개발 도구의 모델 선택기에 연구용 프리뷰 항목이 일시적으로 등장했다 삭제됐으며, 구글 클라우드 플랫폼(버텍스)에서도 관련 모델 정보가 노출됐다. 이는 지난 6월 클로드 소네트 5 공개 직전과 유사한 출시 전조 현상으로 분석된다.",
+    "content": "## 주요 내용\n- 이달 초 한 코드 개발 도구의 모델 선택기에 '클로드 오퍼스 5' 연구용 프리뷰 항목이 일시적으로 등장했다가 수시간 만에 삭제됨\n- 구글 클라우드 플랫폼(버텍스)에서도 클로드 오퍼스 5 관련 모델 정보가 노출된 정황 포착\n- 해당 항목에는 초기 액세스(Early Access) 관련 내용이 포함된 것으로 알려짐\n- 테스팅카탈로그가 23일(현지시간) 관련 내용을 보도\n\n## 의미\n클로드 소네트 5 출시 직전과 유사한 패턴이 반복되고 있어, 앤트로픽의 플래그십 모델 클로드 오퍼스 5의 공개가 머지않았다는 관측이 제기된다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-07-24",
+    "tags": [
+      "앤트로픽",
+      "클로드 오퍼스 5",
+      "AI 모델",
+      "구글 클라우드",
+      "버텍스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213127",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213127",
+        "name": "AI타임스 — 앤트로픽 '클로드 오퍼스 5' 출시 임박…개발 도구·버텍스서 정황 포착"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-e37df19b-2026-07-24",
+    "id": "241"
   }
 ]
