@@ -7273,5 +7273,128 @@
     ],
     "slug": "anthropic-e37df19b-2026-07-24",
     "id": "241"
+  },
+  {
+    "title": "앤트로픽, 클로드 오퍼스 5 출시 — 페이블 5 대비 절반 가격에 높은 성능",
+    "summary": "앤트로픽이 최상위 모델 수준의 성능을 절반 비용으로 제공하는 클로드 오퍼스 5를 출시했다. 코딩과 에이전트 벤치마크에서 페이블 5를 앞서는 성능을 구현했으며, 클로드 맥스·프로 요금제 사용자 및 주요 클라우드 플랫폼을 통해 제공된다.",
+    "content": "## 주요 내용\n- 앤트로픽이 '클로드 오퍼스 5(Claude Opus 5)'를 24일(현지시간) 공개\n- 코딩 및 에이전트 벤치마크에서 '페이블 5' 대비 높은 성능, 가격은 절반 수준\n- '클로드 맥스'와 '클로드 프로' 요금제 사용자에게 제공\n- 클로드 API, 아마존 베드록, 구글 클라우드, 마이크로소프트 파운드리 등 클라우드 플랫폼을 통해 이용 가능\n\n## 의미\n프론티어 모델 경쟁의 축이 순수 성능에서 비용 효율성과 기업 워크플로우 실용성으로 전환되고 있음을 보여주는 사례로 평가받고 있다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-07-25",
+    "tags": [
+      "앤트로픽",
+      "클로드 오퍼스 5",
+      "AI 모델",
+      "비용 효율",
+      "클라우드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213161",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213161",
+        "name": "AI타임스 — 앤트로픽, '클로드 오퍼스 5' 출시...\"페이블 5 성능에 가격은 절반\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-991c9ca9-2026-07-25",
+    "id": "242"
+  },
+  {
+    "title": "오픈AI, 챗GPT 데스크톱 앱에 'GPT-라이브' 음성 제어 기능 통합",
+    "summary": "오픈AI가 맥OS·윈도우용 챗GPT 데스크톱 앱에 음성 대화 모델 'GPT-라이브'를 통합했다. 이를 통해 코딩 에이전트 '코덱스'와 '챗GPT 워크'를 음성으로 제어할 수 있게 됐다. GPT-라이브 공개 2주 만에 이뤄진 업데이트다.",
+    "content": "## 주요 내용\n- 오픈AI가 맥OS·윈도우용 챗GPT 데스크톱 앱에 GPT-라이브 통합 발표(현지시간 23일)\n- GPT-라이브 공개 후 2주 만에 데스크톱 앱 적용\n- 코딩 에이전트 '코덱스' 및 '챗GPT 워크'를 음성으로 제어 가능\n\n## 의미\n키보드 입력 없이 음성 대화만으로 개발 작업을 수행하는 음성 코딩 환경이 본격화됐다는 평가가 나온다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-24",
+    "tags": [
+      "오픈AI",
+      "GPT-라이브",
+      "음성AI",
+      "챗GPT",
+      "코덱스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+        "name": "AI타임스 — 오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-0fdd49aa-2026-07-24",
+    "id": "243"
+  },
+  {
+    "title": "앤트로픽, 클로드 음성 모드 업그레이드…오퍼스·소네트 지원 및 업무 도구 연동 추가",
+    "summary": "앤트로픽이 클로드 음성 모드를 대폭 업그레이드해 하이쿠, 소네트, 오퍼스 모델을 대화 중 자유롭게 전환할 수 있도록 했다. 또한 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 외부 서비스와 연동해 실제 업무 수행이 가능하도록 지원하며 오픈AI 챗GPT 음성 모드와의 차별화를 시도했다.",
+    "content": "## 주요 내용\n- 앤트로픽, 23일(현지시간) 클로드 음성 모드 업데이트 발표\n- 대화 중 모델 선택기를 통해 하이쿠·소네트·오퍼스 모델 자유 전환 가능\n- 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 외부 서비스 연동으로 실제 업무 수행 지원\n- 음성 모드는 텍스트 채팅에서 마지막으로 사용한 모델을 자동으로 이어받는 기능 포함\n\n## 의미\n클로드 음성 모드가 고성능 모델 선택과 업무 도구 연동 기능을 갖추면서 오픈AI 챗GPT 음성 모드와의 경쟁력 확보에 나선 행보로 볼 수 있다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-07-24",
+    "tags": [
+      "앤트로픽",
+      "클로드",
+      "음성모드",
+      "AI어시스턴트",
+      "업무자동화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+        "name": "AI타임스 — 앤트로픽, '클로드' 음성 모드 대폭 강화…오퍼스·소네트에도 탑재"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-caa5f79d-2026-07-24",
+    "id": "244"
   }
 ]
