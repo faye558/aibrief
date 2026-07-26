@@ -7396,5 +7396,46 @@
     ],
     "slug": "canva-caa5f79d-2026-07-24",
     "id": "244"
+  },
+  {
+    "title": "구글, AI 에이전트 '제미나이 스파크' 월 20달러 프로 요금제로 확대 제공",
+    "summary": "구글이 기존 월 100달러 이상 'AI 울트라' 가입자 전용이었던 개인용 AI 에이전트 '제미나이 스파크'를 미국 내 월 20달러 'AI 프로' 구독자에게도 제공하기 시작했다. 구글은 향후 지원 국가와 언어도 추가로 확대할 계획이다.",
+    "content": "## 주요 내용\n- 제미나이 스파크는 기존 월 100달러 이상 구글 AI 울트라 가입자 전용 서비스였음\n- 미국 내 월 20달러 구글 AI 프로 가입자에게 순차적으로 출시 시작 (현지시간 23일 발표)\n- AI 울트라 가입자 대상으로도 지원 국가 및 언어 확대 진행 중\n- AI 프로 서비스도 조만간 미국 외 국가로 확대 예정\n\n## 의미\n제미나이 스파크의 제공 대상이 고가 요금제에서 중간 요금제로 확대됨에 따라, 더 많은 사용자가 구글의 개인용 AI 에이전트 서비스를 이용할 수 있게 됐다.",
+    "company": "Google",
+    "category": "AI모델",
+    "date": "2026-07-25",
+    "tags": [
+      "구글",
+      "제미나이스파크",
+      "AI에이전트",
+      "구글AI프로",
+      "AI구독"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213166",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213166",
+        "name": "AI타임스 — 구글, AI 에이전트 '제미나이 스파크' 확대 출시...월 20달러 프로 요금제도 적용"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-00c43f7f-2026-07-25",
+    "id": "245"
   }
 ]
