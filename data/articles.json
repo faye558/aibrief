@@ -7554,5 +7554,46 @@
     ],
     "slug": "lg-cns-3a17a028-2026-07-27",
     "id": "248"
+  },
+  {
+    "title": "사카나 AI, 보안 특화 멀티 에이전트 '푸구 사이버' 공개…GPT-5.5·클로드 필적 성능",
+    "summary": "일본 사카나 AI가 기업용 사이버 보안 업무를 위한 멀티 에이전트 AI 모델 '푸구 사이버(Fugu-Cyber)'를 공개했다. 단일 LLM이 아닌 여러 전문 AI 에이전트가 역할을 분담해 취약점 분석과 위협 탐지를 수행하며, 'GPT-5.5-사이버'와 '클로드 미소스 프리뷰'에 필적하는 성능을 구현했다고 밝혔다.",
+    "content": "## 주요 내용\n- 사카나 AI가 21일(현지시간) 기업용 사이버 보안 특화 AI 모델 '푸구 사이버' 공개\n- 단일 LLM 방식이 아닌 여러 전문 AI 에이전트를 유기적으로 협업시키는 '오케스트레이션' 방식 채택\n- 전문 에이전트들이 역할을 분담해 취약점 분석 및 위협 탐지 업무 수행\n- 'GPT-5.5-사이버'와 '클로드 미소스 프리뷰'에 필적하는 성능을 구현했다고 발표\n\n## 의미\n사이버 보안 분야에서 멀티 에이전트 오케스트레이션 방식이 차세대 기술로 주목받는 가운데, 사카나 AI의 푸구 사이버는 전문화된 에이전트 협업을 통해 기존 대형 모델과 경쟁할 수 있는 보안 특화 AI의 가능성을 제시했다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-27",
+    "tags": [
+      "사카나AI",
+      "푸구사이버",
+      "멀티에이전트",
+      "사이버보안",
+      "AI오케스트레이션"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213209",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213209",
+        "name": "AI타임스 — 사카나 AI, 보안 특화 멀티 에이전트 '푸구 사이버' 공개...\"GPT-5.5·클로드 필적\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-3dda5d3f-2026-07-27",
+    "id": "249"
   }
 ]
