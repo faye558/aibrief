@@ -84,7 +84,22 @@ export async function GET() {
     );
     const daily = await dailyRes.json();
 
-    return NextResponse.json({ overview, pages, channels, daily });
+    // 신규 vs 재방문
+    const returningRes = await fetch(
+      `https://analyticsdata.googleapis.com/v1beta/properties/${PROPERTY_ID}:runReport`,
+      {
+        method: "POST",
+        headers: { Authorization: `Bearer ${token}`, "Content-Type": "application/json" },
+        body: JSON.stringify({
+          dateRanges: [{ startDate: thirtyDaysAgo, endDate: today }],
+          metrics: [{ name: "sessions" }, { name: "activeUsers" }],
+          dimensions: [{ name: "newVsReturning" }],
+        }),
+      }
+    );
+    const returning = await returningRes.json();
+
+    return NextResponse.json({ overview, pages, channels, daily, returning });
   } catch (e: any) {
     return NextResponse.json({ error: e.message }, { status: 500 });
   }
