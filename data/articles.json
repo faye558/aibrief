@@ -7595,5 +7595,87 @@
     ],
     "slug": "openai-3dda5d3f-2026-07-27",
     "id": "249"
+  },
+  {
+    "title": "Anthropic 클로드, 대화 내용 구글 검색 노출 논란…공개 설정 문제",
+    "summary": "앤트로픽의 AI 서비스 '클로드'에서 이용자가 공유한 대화 내용과 아티팩트 작업물이 구글 검색 결과에 노출되는 사실이 알려져 개인정보 및 기업 기밀 유출 우려가 제기됐다. 이용자가 생성한 공유 링크가 검색 엔진에 색인되면서 민감한 정보가 의도치 않게 외부에 공개될 수 있다는 지적이다.",
+    "content": "## 주요 내용\n- 클로드 이용자가 공유한 대화 내용과 아티팩트 작업물이 구글 검색 결과에 노출됨\n- 레딧 'r/ClaudeAI' 커뮤니티에서 한 이용자가 'site:claude.ai/share' 검색으로 공개된 대화가 다수 검색된다는 사실을 공개하며 논란 시작\n- 보안 결함이 아닌 이용자의 공개 설정으로 인한 문제로 지적됨\n\n## 의미\n사용자가 생성한 공유 링크가 검색 엔진에 색인되는 구조로 인해, 이용자가 의도치 않게 민감한 정보를 외부에 노출할 수 있다는 점에서 AI 서비스의 공유 기능 설계와 이용자 인식 제고의 중요성이 부각된다.",
+    "company": "Anthropic",
+    "category": "AI모델",
+    "date": "2026-07-28",
+    "tags": [
+      "Anthropic",
+      "클로드",
+      "개인정보",
+      "구글검색",
+      "보안"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213263",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213263",
+        "name": "AI타임스 — '클로드' 대화 내용 구글 검색서 노출...\"보안 결함 아닌 공개 설정 탓\""
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-7786f5a6-2026-07-28",
+    "id": "250"
+  },
+  {
+    "title": "캔바, 여름 여행 시즌 맞아 여행자·여행업계 위한 올인원 플랫폼 활용법 소개",
+    "summary": "캔바가 여름 휴가 시즌을 맞아 여행자와 여행·관광 업계 모두를 위한 플랫폼 활용 방안을 소개했다. 여행 일정 정리부터 추억 기록, 호텔 인스타그램 스토리 제작, 다국어 마케팅 캠페인까지 하나의 직관적인 워크스페이스에서 지원하는 것이 핵심이다.",
+    "content": "## 주요 내용\n- 캔바는 여행자를 위해 여행 계획 단계부터 여행 후 추억 기록까지 하나의 워크스페이스에서 지원\n- 여행·관광 업계를 위해 인쇄물, 소셜 미디어 콘텐츠, 다국어 마케팅 캠페인 제작 기능 제공\n- 호텔 인스타그램 스토리 등 성수기 마케팅 콘텐츠 제작도 지원\n\n## 의미\n여행자 개인과 여행·관광 업계 사업자 모두를 하나의 플랫폼으로 아우르며, 캔바가 여름 성수기 시즌 활용 범위를 확장하고 있음을 보여준다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-07-28",
+    "tags": [
+      "캔바",
+      "여행",
+      "비주얼커뮤니케이션",
+      "마케팅",
+      "콘텐츠제작"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28493",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28493",
+        "name": "매드타임스 — 캔바, 여름 여행 계획부터 여행업계 콘텐츠 제작까지 하나의 플랫폼으로 지원"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/canva",
+        "url": "https://www.reddit.com/r/canva/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 캔바",
+        "url": "https://www.clien.net/service/search?q=%EC%BA%94%EB%B0%94&sort=latest"
+      }
+    ],
+    "slug": "canva-a2c1604e-2026-07-28",
+    "id": "251"
   }
 ]
