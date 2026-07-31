@@ -7718,5 +7718,47 @@
     ],
     "slug": "openai-70f51427-2026-07-29",
     "id": "252"
+  },
+  {
+    "title": "오픈AI, GPT-5.6 중·소형 모델 가격 최대 80% 인하…AI 가격 경쟁 본격 참전",
+    "summary": "오픈AI가 GPT-5.6 시리즈의 루나(Luna) 모델 가격을 80%, 테라(Terra) 모델 가격을 20% 인하한다고 발표했다. 중국 오픈웨이트 모델 및 구글, 앤트로픽 등 경쟁사들의 저비용 모델 공세에 맞서 성능은 유지하면서 비용을 낮춰 기업 고객 확보에 나서겠다는 전략이다.",
+    "content": "## 주요 내용\n- GPT-5.6 시리즈 루나(Luna) 모델 가격 80% 인하\n- GPT-5.6 시리즈 테라(Terra) 모델 가격 20% 인하\n- 최상위 모델 솔(Sol)의 기본 가격은 유지, 단 응답 속도를 최대 2.5배 높인 고속 모드 제공\n- 중국 오픈웨이트 모델, 구글, 앤트로픽 등 경쟁사의 저비용 모델 출시에 대응하는 전략\n\n## 의미\n오픈AI가 AI 서비스 시장의 가격 경쟁에 본격 참전함으로써, 성능 대비 비용 효율성을 앞세운 기업 고객 유치 경쟁이 더욱 가속화될 전망이다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-07-31",
+    "tags": [
+      "오픈AI",
+      "GPT-5.6",
+      "AI가격인하",
+      "가격경쟁",
+      "루나",
+      "테라"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213381",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213381",
+        "name": "AI타임스 — 오픈AI, GPT-5.6 라인업 가격 최대 80% 인하…효율성 경쟁 가속"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-4e1d598f-2026-07-31",
+    "id": "253"
   }
 ]
