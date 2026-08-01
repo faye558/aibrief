@@ -7760,5 +7760,46 @@
     ],
     "slug": "openai-4e1d598f-2026-07-31",
     "id": "253"
+  },
+  {
+    "title": "OpenAI, GPT-5.6 라인업 가격 대폭 인하…핵심은 '추론 시스템 혁신'",
+    "summary": "OpenAI가 GPT-5.6 라인업의 API 가격을 대폭 인하했다. 가장 저렴한 모델 'GPT-5.6 루나'는 80%, 'GPT-5.6 테라'는 20% 인하됐다. 이번 가격 인하의 배경은 단순한 마케팅이나 가격 경쟁이 아닌, 추론 시스템 전체를 바꾸는 기술 혁신에 있다고 알려졌다.",
+    "content": "## 주요 내용\n- GPT-5.6 루나 API 가격 80% 인하\n- GPT-5.6 테라 API 가격 20% 인하\n- 일부에서는 IPO를 앞둔 OpenAI의 수익성 악화 우려 제기\n- 가격 인하의 핵심은 모델 자체가 아닌 추론 시스템 전체를 바꾸는 기술 혁신으로 알려짐\n\n## 의미\n이번 가격 인하는 단순한 경쟁 대응이 아니라 추론 시스템 혁신에 기반한 것으로, OpenAI의 기술적 원가 절감 역량을 보여주는 사례로 주목된다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-08-01",
+    "tags": [
+      "OpenAI",
+      "GPT-5.6",
+      "가격인하",
+      "추론시스템",
+      "API"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213385",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213385",
+        "name": "AI타임스 — [7월31일] 오픈AI, GPT-5.6 가격 인하의 비결은 '컴퓨트 멀티플라이어'"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-e9d870d4-2026-08-01",
+    "id": "254"
   }
 ]
