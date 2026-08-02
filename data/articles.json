@@ -7801,5 +7801,87 @@
     ],
     "slug": "openai-e9d870d4-2026-08-01",
     "id": "254"
+  },
+  {
+    "title": "구글, 크롬에 '제미나이 스파크' 통합…웹 브라우징 자동화 지원",
+    "summary": "구글이 AI 에이전트 '제미나이 스파크'를 웹 브라우저 크롬과 직접 연동하는 기능을 도입했다. 사용자 동의 하에 크롬에 저장된 로그인 정보와 계정을 활용해 여러 단계의 웹 작업을 자동으로 수행할 수 있으며, 서비스 제공 국가도 대폭 확대됐다.",
+    "content": "## 주요 내용\n- 구글이 AI 에이전트 '제미나이 스파크'를 크롬 브라우저와 직접 연동하는 기능 도입\n- 사용자 동의 후 크롬에 저장된 로그인 정보·계정을 활용해 다단계 웹 작업 수행 가능\n- 제미나이 스파크 서비스 제공 국가도 대폭 확대\n\n## 의미\n이번 업데이트는 제미나이 스파크를 웹 브라우저를 직접 조작하고 다양한 온라인 작업을 수행하는 AI 에이전트로 발전시키기 위한 구글의 전략으로 풀이된다.",
+    "company": "Google",
+    "category": "AI모델",
+    "date": "2026-08-02",
+    "tags": [
+      "구글",
+      "제미나이스파크",
+      "크롬",
+      "AI에이전트",
+      "웹브라우징자동화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213447",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213447",
+        "name": "AI타임스 — 구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-2260f18c-2026-08-02",
+    "id": "255"
+  },
+  {
+    "title": "오픈AI, 가격 인하 후 활성 사용자 10억 명 돌파 공식 발표",
+    "summary": "오픈AI가 GPT-4.1 시리즈 대규모 가격 인하 이후 활성 사용자가 10억 명을 넘어섰다고 공식 발표했다. 기업 고객도 200만 개 이상으로 집계되며 개인·기업 시장 모두에서 AI 도입이 빠르게 확대되고 있다.",
+    "content": "## 주요 내용\n- 오픈AI, 공식 블로그를 통해 활성 사용자 10억 명 이상, 기업 고객 200만 개 이상 달성 발표\n- GPT-4.1 시리즈 대규모 가격 인하 단행 후 사용자 급증\n- '저렴한 AI → 더 많은 수요 → 수익 증가 → 차세대 모델·인프라 재투자'로 이어지는 AI 선순환 전략 강조\n\n## 의미\n가격 인하를 통해 사용자 저변을 확대하고 이를 재투자로 연결하는 오픈AI의 선순환 전략이 본격적으로 작동하고 있음을 보여주는 발표다.",
+    "company": "OpenAI",
+    "category": "AI모델",
+    "date": "2026-08-01",
+    "tags": [
+      "오픈AI",
+      "GPT-4.1",
+      "가격인하",
+      "사용자증가",
+      "AI선순환"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+    "sourceName": "AI타임스",
+    "sources": [
+      {
+        "url": "https://www.aitimes.com/news/articleView.html?idxno=213439",
+        "name": "AI타임스 — “저렴한 AI가 더 많은 수요 만든다”...오픈AI, 가격 인하 후 사용자 10억 발표"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-018c89e0-2026-08-01",
+    "id": "256"
   }
 ]
