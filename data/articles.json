@@ -7916,5 +7916,46 @@
     ],
     "slug": "yoondesign-ea29df0d-2026-08-03",
     "id": "257"
+  },
+  {
+    "title": "이파피루스, 문서 열람·보안·비식별화 통합 솔루션 '스트림닥스 7.0' 출시",
+    "summary": "문서 AI 전문 기업 이파피루스가 문서 열람, 보안, 개인정보 비식별화를 하나로 통합한 차세대 웹 문서 뷰어 '스트림닥스(StreamDocs) 7.0'을 공식 출시했다. 이 제품은 Perplexity.ai 등 글로벌 AI 고객에게 제공 중인 MuPDF WebViewer와 동일한 엔진을 탑재했다.",
+    "content": "## 주요 내용\n- 이파피루스(대표 김정희)가 차세대 웹 문서 뷰어 '스트림닥스 7.0' 공식 출시\n- 문서 열람, 고도화된 보안, 개인정보 비식별화를 단일 솔루션으로 통합\n- Perplexity.ai 등 글로벌 AI 고객 대상으로 제공 중인 MuPDF WebViewer와 동일 엔진 탑재\n\n## 의미\n이파피루스가 Perplexity.ai 등 글로벌 AI 서비스에 이미 적용된 검증된 엔진을 기반으로, 문서 보안과 개인정보 비식별화까지 아우르는 통합 솔루션을 국내에 선보였다는 점에서 의미가 있다.",
+    "company": "Perplexity",
+    "category": "AI모델",
+    "date": "2026-08-04",
+    "tags": [
+      "이파피루스",
+      "스트림닥스",
+      "문서AI",
+      "웹문서뷰어",
+      "개인정보비식별화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.etnews.com/20260804000076",
+    "sourceName": "전자신문",
+    "sources": [
+      {
+        "url": "https://www.etnews.com/20260804000076",
+        "name": "전자신문 — 이파피루스, 열람과 비식별화를 하나로! '스트림닥스 7.0' 신제품 출시"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/perplexity_ai",
+        "url": "https://www.reddit.com/r/perplexity_ai/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 퍼플렉시티",
+        "url": "https://www.clien.net/service/search?q=%ED%8D%BC%ED%94%8C%EB%A0%89%EC%8B%9C%ED%8B%B0&sort=latest"
+      }
+    ],
+    "slug": "perplexity-c5596e57-2026-08-04",
+    "id": "258"
   }
 ]
