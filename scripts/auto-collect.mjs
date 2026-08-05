@@ -305,43 +305,32 @@ const COMPANY_SOURCES = [
 ];
 
 // ───────────────────────────────────────────
-// 3순위: 글로벌 IT 미디어 (디자인툴 키워드 강화)
+// 3순위: 글로벌 IT 미디어 + AI/테크 퍼블리케이션
 // ───────────────────────────────────────────
 const MEDIA_SOURCES = [
+  // 디자인/UX 전문
   {
     name: 'Creative Bloq',
     rssUrl: 'https://www.creativebloq.com/feeds/all.xml',
-    keywords: ['adobe', 'canva', 'freepik', 'getty', 'shutterstock', 'monotype', 'font', 'ai design', 'graphic design', 'design tool'],
+    keywords: ['adobe', 'canva', 'freepik', 'getty', 'shutterstock', 'monotype', 'font', 'ai design', 'graphic design', 'design tool', 'ui', 'ux'],
     maxItems: 5,
   },
   {
-    name: 'TechCrunch AI',
-    rssUrl: 'https://techcrunch.com/category/artificial-intelligence/feed/',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'gemini', 'claude', 'gpt', 'elevenlabs', 'shutterstock', 'getty', 'perplexity', 'ai agent', 'agentic'],
+    name: 'UX Collective',
+    rssUrl: 'https://uxdesign.cc/feed',
+    keywords: ['ai', 'design', 'ux', 'product', 'figma', 'interface', 'user experience'],
+    maxItems: 4,
+  },
+  {
+    name: 'Nielsen Norman Group',
+    rssUrl: 'https://www.nngroup.com/feed/rss/',
+    keywords: ['ai', 'ux', 'design', 'usability', 'research', 'interface'],
     maxItems: 3,
   },
   {
-    name: 'The Verge Design & AI',
-    rssUrl: 'https://www.theverge.com/ai-artificial-intelligence/rss/index.xml',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google', 'claude', 'gpt', 'gemini', 'design', 'perplexity', 'ai agent'],
-    maxItems: 3,
-  },
-  {
-    name: 'VentureBeat AI',
-    rssUrl: 'https://venturebeat.com/category/ai/feed/',
-    keywords: ['adobe', 'canva', 'firefly', 'anthropic', 'openai', 'google deepmind', 'claude', 'gpt-', 'gemini', 'perplexity', 'ai agent', 'agentic ai'],
-    maxItems: 3,
-  },
-  {
-    name: 'Wired AI',
-    rssUrl: 'https://www.wired.com/feed/tag/ai/latest/rss',
-    keywords: ['adobe', 'canva', 'anthropic', 'openai', 'google', 'claude', 'gpt', 'gemini'],
-    maxItems: 3,
-  },
-  {
-    name: 'PR Newswire Tech',
-    rssUrl: 'https://www.prnewswire.com/rss/technology-latest-news.rss',
-    keywords: ['adobe', 'canva', 'shutterstock', 'getty', 'monotype', 'anthropic', 'openai', 'elevenlabs', 'suno'],
+    name: 'Smashing Magazine',
+    rssUrl: 'https://www.smashingmagazine.com/feed/',
+    keywords: ['ai', 'design', 'ux', 'ui', 'figma', 'css', 'frontend', 'product'],
     maxItems: 3,
   },
   {
@@ -350,72 +339,138 @@ const MEDIA_SOURCES = [
     keywords: ['adobe', 'canva', 'font', 'typeface', 'graphic design', 'ai design', 'monotype', 'freepik'],
     maxItems: 3,
   },
+  // AI/테크 전문
+  {
+    name: 'Google AI Blog',
+    rssUrl: 'https://blog.google/technology/ai/rss/',
+    keywords: ['ai', 'model', 'gemini', 'design', 'product', 'research'],
+    maxItems: 4,
+  },
+  {
+    name: 'Hugging Face Blog',
+    rssUrl: 'https://huggingface.co/blog/feed.xml',
+    keywords: ['ai', 'model', 'llm', 'image', 'design', 'multimodal', 'agent'],
+    maxItems: 3,
+  },
+  {
+    name: 'TechCrunch AI',
+    rssUrl: 'https://techcrunch.com/category/artificial-intelligence/feed/',
+    keywords: ['ai', 'model', 'startup', 'product', 'design', 'platform', 'saas', 'agent'],
+    maxItems: 4,
+  },
+  {
+    name: 'The Verge Tech',
+    rssUrl: 'https://www.theverge.com/rss/index.xml',
+    keywords: ['ai', 'design', 'product', 'platform', 'app', 'tech', 'google', 'apple', 'meta', 'openai', 'anthropic'],
+    maxItems: 4,
+  },
+  {
+    name: 'Wired AI',
+    rssUrl: 'https://www.wired.com/feed/tag/ai/latest/rss',
+    keywords: ['ai', 'design', 'tech', 'platform', 'product', 'startup'],
+    maxItems: 3,
+  },
+  {
+    name: 'MIT Technology Review',
+    rssUrl: 'https://www.technologyreview.com/feed/',
+    keywords: ['ai', 'llm', 'design', 'product', 'platform', 'research', 'model'],
+    maxItems: 3,
+  },
+  {
+    name: 'GeekNews',
+    rssUrl: 'https://feeds.feedburner.com/geeknews-feed',
+    keywords: ['ai', '디자인', '테크', '스타트업', '플랫폼', '서비스', '개발', '인공지능'],
+    maxItems: 5,
+  },
+  // 콘텐츠/플랫폼 소스
+  {
+    name: 'PR Newswire Tech',
+    rssUrl: 'https://www.prnewswire.com/rss/technology-latest-news.rss',
+    keywords: ['adobe', 'canva', 'shutterstock', 'getty', 'monotype', 'anthropic', 'openai', 'ai platform', 'saas', 'design'],
+    maxItems: 3,
+  },
+];
+
+// ───────────────────────────────────────────
+// 3.5순위: 국내 기업 테크 블로그 (직접 RSS)
+// ───────────────────────────────────────────
+const TECH_BLOG_SOURCES = [
+  // company/category 지정 → inferCompanyCategory 통과 없이 바로 수집
+  { name: '토스', company: '토스', category: '테크블로그', rssUrl: 'https://toss.tech/rss.xml', maxItems: 4, dayWindow: 14 },
+  { name: '우아한형제들', company: '우아한형제들', category: '테크블로그', rssUrl: 'https://techblog.woowahan.com/feed/', maxItems: 3, dayWindow: 14 },
+  { name: '당근', company: '당근', category: '테크블로그', rssUrl: 'https://medium.com/feed/daangn', maxItems: 3, dayWindow: 14 },
+  { name: '뱅크샐러드', company: '뱅크샐러드', category: '테크블로그', rssUrl: 'https://blog.banksalad.com/rss.xml', maxItems: 3, dayWindow: 14 },
+  { name: '라인', company: '라인', category: '테크블로그', rssUrl: 'https://engineering.linecorp.com/ko/feed/', maxItems: 3, dayWindow: 14 },
+  { name: '쿠팡', company: '쿠팡', category: '테크블로그', rssUrl: 'https://medium.com/feed/coupang-tech', maxItems: 3, dayWindow: 14 },
+  { name: '데브시스터즈', company: '데브시스터즈', category: '테크블로그', rssUrl: 'https://tech.devsisters.com/rss.xml', maxItems: 2, dayWindow: 14 },
+  { name: '무신사', company: '무신사', category: '테크블로그', rssUrl: 'https://medium.com/feed/musinsa-tech', maxItems: 2, dayWindow: 14 },
+  { name: '네이버 D2', company: '네이버', category: '테크블로그', rssUrl: 'https://d2.naver.com/d2.atom', maxItems: 3, dayWindow: 14 },
+  { name: '쏘카', company: '쏘카', category: '테크블로그', rssUrl: 'https://tech.socarcorp.kr/rss.xml', maxItems: 2, dayWindow: 14 },
 ];
 
 // ───────────────────────────────────────────
 // 4순위: 국내 언론 보도자료 전체
 // ───────────────────────────────────────────
 const KOREAN_SOURCES = [
-  // 보도자료 전문
+  // 공통 광범위 키워드: AI, 테크, 플랫폼, 콘텐츠, IT 서비스, 스타트업
   {
     name: '뉴스와이어',
     rssUrl: 'https://www.newswire.co.kr/rss.php?cat=all',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '산돌캔버스', '산돌구름', '베이키', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'magnific', 'AI 디자인', '생성형 AI', '폰트', '이미지', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', '윤디자인', '비비트리', '유토이미지', 'adobe', 'canva', 'freepik', 'AI 디자인', '생성형 AI', '생성AI', '인공지능', '대화형 AI', 'LLM', 'AI 에이전트', '토스', '카카오', '네이버', '쿠팡', '배민', '플랫폼', '스타트업', 'SaaS', '구독', '테크', '콘텐츠'],
     maxItems: 5,
   },
-  // IT 전문지
   {
     name: '지디넷코리아',
     rssUrl: 'https://zdnet.co.kr/rss/all.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI 디자인', '생성AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
-    maxItems: 4,
+    keywords: ['AI', '인공지능', '생성AI', 'LLM', '대규모 언어모델', 'AI 에이전트', '플랫폼', '스타트업', '콘텐츠', '디자인', '서비스', 'UX', '카카오', '네이버', '토스', '쿠팡', '배민', '어도비', '캔바', 'SaaS'],
+    maxItems: 5,
   },
   {
     name: 'AI타임스',
     rssUrl: 'https://www.aitimes.com/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '윤디자인', '눈누', 'claude', 'gpt', 'gemini', 'adobe', 'canva', 'AI 디자인', '퍼플렉시티', 'perplexity', 'LG CNS', 'AI 에이전트', '에이전틱'],
-    maxItems: 4,
+    keywords: ['AI', '인공지능', '생성AI', 'LLM', 'GPT', 'claude', 'gemini', 'AI 에이전트', 'AI 모델', '멀티모달', 'AI 서비스', '플랫폼', '스타트업', '디자인', 'UX', 'UI', '콘텐츠', '에이전틱'],
+    maxItems: 5,
   },
   {
     name: '디지털데일리',
     rssUrl: 'https://www.ddaily.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '생성AI', 'AI 모델', 'AI 디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '인공지능', '생성AI', '플랫폼', '콘텐츠', '스타트업', '테크', '서비스', 'SaaS', '구독', '디자인', '카카오', '네이버', '토스', '쿠팡', '배민', 'AI 에이전트'],
     maxItems: 4,
   },
   {
     name: '전자신문',
     rssUrl: 'https://rss.etnews.com/Section901.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI', 'anthropic', 'openai', '구글', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '인공지능', '생성AI', 'AI 에이전트', '플랫폼', '콘텐츠', 'IT', '스타트업', '테크', '디자인', '카카오', '네이버', '토스', '어도비', '캔바'],
     maxItems: 4,
   },
   {
     name: '아이뉴스24',
     rssUrl: 'https://www.inews24.com/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI', '폰트'],
+    keywords: ['AI', '인공지능', '생성AI', '플랫폼', '콘텐츠', 'IT', '테크', '스타트업', '디자인', 'UX', 'UI'],
     maxItems: 3,
   },
   {
     name: '연합뉴스 IT',
     rssUrl: 'https://www.yna.co.kr/rss/it.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', '눈누', 'AI', '생성형AI', '디자인', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '인공지능', '생성형AI', 'AI 에이전트', '플랫폼', '콘텐츠', 'IT', '테크', '스타트업', '디자인', '카카오', '네이버', '토스'],
     maxItems: 3,
   },
   {
     name: '머니투데이 IT',
     rssUrl: 'https://rss.mt.co.kr/rss/',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '산돌', 'AI 디자인', '생성AI', '퍼플렉시티', 'LG CNS', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '인공지능', '생성AI', '플랫폼', '콘텐츠', 'IT', '테크', '스타트업', '디자인', 'SaaS', '구독'],
     maxItems: 3,
   },
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
-    keywords: ['산돌', '산돌캔버스', '베이키', '윤디자인', 'AI 폰트', '망고보드', '미리캔버스', '어도비', '캔바', '디자인', 'freepik', 'magnific', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '디자인', '콘텐츠', '마케팅', '플랫폼', '광고', '브랜드', '산돌', '윤디자인', '어도비', '캔바', '망고보드', '미리캔버스'],
     maxItems: 3,
   },
   {
     name: '디자인정글',
     rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
-    keywords: ['어도비', '캔바', '망고보드', '미리캔버스', '폰트', '디자인', 'AI', '산돌', '눈누', 'AI 에이전트', '수익화', '구독모델', '광고수익', 'SaaS'],
+    keywords: ['AI', '디자인', 'UX', 'UI', '어도비', '캔바', '폰트', '산돌', '눈누', '미리캔버스', '망고보드', '콘텐츠', '브랜드'],
     maxItems: 5,
   },
 ];
@@ -610,22 +665,34 @@ function inferCompanyCategory(title, description) {
     { keywords: ['monotype', 'myfonts'], company: 'Monotype', category: '폰트' },
     { keywords: ['getty'], company: 'Getty Images', category: '이미지' },
     { keywords: ['shutterstock'], company: 'Shutterstock', category: '이미지' },
-    { keywords: ['anthropic', 'claude'], company: 'Anthropic', category: 'AI모델' },
-    { keywords: ['openai', 'chatgpt', 'gpt-'], company: 'OpenAI', category: 'AI모델' },
-    { keywords: ['google', 'gemini', 'deepmind'], company: 'Google', category: 'AI모델' },
-    { keywords: ['elevenlabs'], company: 'ElevenLabs', category: 'AI모델' },
-    { keywords: ['suno'], company: 'Suno', category: 'AI모델' },
+    { keywords: ['anthropic', 'claude'], company: 'Anthropic', category: 'AI' },
+    { keywords: ['openai', 'chatgpt', 'gpt-'], company: 'OpenAI', category: 'AI' },
+    { keywords: ['google', 'gemini', 'deepmind'], company: 'Google', category: 'AI' },
+    { keywords: ['elevenlabs'], company: 'ElevenLabs', category: 'AI' },
+    { keywords: ['suno'], company: 'Suno', category: 'AI' },
     { keywords: ['비비트리', 'vivitre'], company: '비비트리', category: '디자인툴' },
     { keywords: ['유토이미지', 'utoimage'], company: '유토이미지', category: '이미지' },
-    { keywords: ['perplexity', '퍼플렉시티'], company: 'Perplexity', category: 'AI모델' },
-    { keywords: ['lg cns', 'lgcns', 'lg씨엔에스'], company: 'LG CNS', category: 'AI모델' },
+    { keywords: ['perplexity', '퍼플렉시티'], company: 'Perplexity', category: 'AI' },
+    { keywords: ['lg cns', 'lgcns', 'lg씨엔에스'], company: 'LG CNS', category: 'AI' },
+    // 테크 기업
+    { keywords: ['토스', 'toss'], company: '토스', category: '테크' },
+    { keywords: ['카카오', 'kakao'], company: '카카오', category: '테크' },
+    { keywords: ['네이버', 'naver'], company: '네이버', category: '테크' },
+    { keywords: ['쿠팡', 'coupang'], company: '쿠팡', category: '테크' },
+    { keywords: ['배민', '우아한형제들', 'woowa'], company: '우아한형제들', category: '테크' },
+    { keywords: ['당근', 'daangn'], company: '당근', category: '테크' },
+    { keywords: ['라인', 'line corp'], company: '라인', category: '테크' },
+    // 광범위 AI/테크 — 특정 회사 미매칭 시 fallback
+    { keywords: ['생성ai', '생성형 ai', '생성형ai', 'llm', '대규모 언어', 'ai 에이전트', 'agentic', '인공지능 모델', 'ai model', 'multimodal', '멀티모달'], company: 'AI·테크', category: 'AI' },
+    { keywords: ['ux', 'ui/ux', 'ui ux', 'user experience', '사용자 경험', '서비스 기획', '프로덕트 디자인', 'product design'], company: 'UX·디자인', category: 'UX' },
+    { keywords: ['스타트업', 'startup', 'saas', '플랫폼 서비스', '콘텐츠 플랫폼', '테크 트렌드', 'it 트렌드'], company: 'IT·테크', category: '테크' },
   ];
   for (const entry of map) {
     if (entry.keywords.some(kw => text.includes(kw))) {
       return { company: entry.company, category: entry.category };
     }
   }
-  return null; // 매칭 없으면 수집 안 함
+  return null;
 }
 
 // ───────────────────────────────────────────
@@ -873,6 +940,35 @@ async function main() {
       console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = await generateArticle(company, category, item, source.name);
+        if (!existingSlugs.has(article.slug)) {
+          article.id = String(nextId++);
+          newArticles.push(article);
+          if (link) existingUrls.add(link);
+          existingSlugs.add(article.slug);
+        }
+        await new Promise(r => setTimeout(r, 800));
+      } catch (e) { console.error(`    ❌ ${e.message}`); }
+    }
+  }
+
+  // ── 3.5순위: 국내 기업 테크 블로그 ──
+  console.log('\n🏢 3.5순위 — 국내 기업 테크 블로그');
+  for (const source of TECH_BLOG_SOURCES) {
+    const items = await fetchRSS(source.rssUrl);
+    if (!items) { console.log(`  ⚠️  ${source.name}: RSS 없음`); continue; }
+
+    const cutoff = Date.now() - (source.dayWindow ?? 14) * 24 * 60 * 60 * 1000;
+    const recent = items.filter(item => extractDate(item).getTime() > cutoff);
+    console.log(`  ✓ ${source.name}: ${items.length}개 중 최근 ${recent.length}개`);
+
+    for (const item of recent.slice(0, source.maxItems ?? 3)) {
+      const link = extractLink(item);
+      if (link && existingUrls.has(link)) continue;
+      if (isExcluded(item)) { console.log(`  ⛔ 제외: ${extractTitle(item).slice(0, 60)}`); continue; }
+
+      console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
+      try {
+        const article = await generateArticle(source.company, source.category, item, source.name);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
