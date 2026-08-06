@@ -1,45 +1,144 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-@layer base {
-  html {
-    font-family: "Pretendard Variable", "Pretendard", "Apple SD Gothic Neo", -apple-system,
-      BlinkMacSystemFont, "Segoe UI", sans-serif;
-    -webkit-font-smoothing: antialiased;
+:root {
+  --bg: #08080D;
+  --surface: #0F0F18;
+  --surface-hover: #141420;
+  --border: #1C1C2E;
+  --border-hover: #2A2A40;
+  --accent: #7C6FF7;
+  --accent-hover: #9489FA;
+  --accent-dim: rgba(124, 111, 247, 0.12);
+  --text: #E6E6F2;
+  --text-muted: #84849C;
+  --text-faint: #3E3E54;
+
+  --tag-ai-bg: rgba(232, 121, 249, 0.1);
+  --tag-ai: #E879F9;
+  --tag-ux-bg: rgba(56, 189, 248, 0.1);
+  --tag-ux: #38BDF8;
+  --tag-tech-bg: rgba(52, 211, 153, 0.1);
+  --tag-tech: #34D399;
+  --tag-platform-bg: rgba(251, 146, 60, 0.1);
+  --tag-platform: #FB923C;
+  --tag-design-bg: rgba(167, 139, 250, 0.1);
+  --tag-design: #A78BFA;
+  --tag-blog-bg: rgba(244, 114, 135, 0.1);
+  --tag-blog: #F47287;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+}
+
+body {
+  background: var(--bg);
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--accent-dim);
+}
+
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-hover); border-radius: 2px; }
+
+/* Layout */
+.page-shell {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: var(--bg);
+}
+
+.feed-layout {
+  display: flex;
+  flex: 1;
+}
+
+.left-sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  border-right: 1px solid var(--border);
+  position: sticky;
+  top: 56px;
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-rail {
+  width: 260px;
+  flex-shrink: 0;
+  border-left: 1px solid var(--border);
+  padding: 28px 20px;
+  position: sticky;
+  top: 56px;
+  height: calc(100vh - 56px);
+  overflow-y: auto;
+}
+
+.feed-main {
+  flex: 1;
+  min-width: 0;
+  padding: 28px;
+  overflow-y: auto;
+}
+
+/* Mobile category strip (hidden on desktop) */
+.mobile-cats {
+  display: none;
+}
+
+/* Card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .left-sidebar { display: none; }
+  .right-rail { display: none; }
+
+  .mobile-cats {
+    display: flex;
+    gap: 6px;
+    overflow-x: auto;
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+    position: sticky;
+    top: 56px;
+    z-index: 50;
+    background: var(--bg);
+  }
+  .mobile-cats::-webkit-scrollbar { display: none; }
+
+  .feed-main {
+    padding: 16px;
   }
 
-  .line-clamp-2 {
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .line-clamp-3 {
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .prose-custom h2 {
-    @apply text-xl font-bold text-gray-900 mt-8 mb-3;
-  }
-
-  .prose-custom h3 {
-    @apply text-lg font-semibold text-gray-800 mt-6 mb-2;
-  }
-
-  .prose-custom p {
-    @apply text-gray-700 leading-relaxed mb-4;
-  }
-
-  .prose-custom ul {
-    @apply list-disc list-inside space-y-1 text-gray-700 mb-4;
-  }
-
-  .prose-custom strong {
-    @apply font-bold text-gray-900;
+  .card-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
   }
 }
+
+/* Tablet */
+@media (min-width: 769px) and (max-width: 1100px) {
+  .right-rail { display: none; }
+  .left-sidebar { width: 180px; }
+}
+
