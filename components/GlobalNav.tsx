@@ -17,7 +17,7 @@ export default function GlobalNav() {
       }}
     >
       {/* Logo */}
-      <div style={{ display: "flex", alignItems: "center", gap: "9px" }}>
+      <a href="/" style={{ display: "flex", alignItems: "center", gap: "9px", textDecoration: "none" }}>
         <div
           style={{
             width: "32px",
@@ -45,7 +45,7 @@ export default function GlobalNav() {
         >
           brief
         </span>
-      </div>
+      </a>
 
       <div style={{ flex: 1 }} />
 
