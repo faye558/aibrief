@@ -87,10 +87,10 @@ export default function DraftsPage() {
   async function generateDraft() {
     if (!topic.trim()) return;
     setGenerating(true);
-    const res = await fetch(`/api/generate?key=${encodeURIComponent(key)}`, {
+    const res = await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ topic }),
+      body: JSON.stringify({ action: "generate", topic }),
     });
     if (res.ok) {
       const data = await res.json();
