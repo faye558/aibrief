@@ -457,12 +457,12 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
             </div>
           )}
 
-          {/* 이전 기사 */}
+          {/* 이전 아티클 */}
           {olderCards.length > 0 && (
             <div>
               {newCards.length > 0 && (
                 <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "14px" }}>
-                  <span style={{ fontSize: "12px", color: "var(--text-faint)", fontWeight: 500 }}>이전 기사</span>
+                  <span style={{ fontSize: "12px", color: "var(--text-faint)", fontWeight: 500 }}>이전 아티클</span>
                   <div style={{ flex: 1, height: "1px", background: "var(--border)" }} />
                 </div>
               )}
