@@ -376,7 +376,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
             <span style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", fontSize: "14px", color: "var(--text-faint)", pointerEvents: "none" }}>🔍</span>
             <input
               type="text"
-              placeholder="기사 검색..."
+              placeholder="콘텐츠 검색..."
               value={searchQuery}
               onChange={(e) => setSearchQuery(e.target.value)}
               style={{ width: "100%", padding: "10px 14px 10px 38px", borderRadius: "10px", border: "1px solid var(--border)", background: "var(--surface)", color: "var(--text)", fontSize: "14px", outline: "none", boxSizing: "border-box" }}
