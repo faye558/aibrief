@@ -268,6 +268,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
   const [activeCategory, setActiveCategory] = useState("all");
   const [activeTag, setActiveTag] = useState<string | null>(() => searchParams.get("tag"));
   const [activeSource, setActiveSource] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
     const tag = searchParams.get("tag");
@@ -278,6 +279,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
     setActiveCategory("all");
     setActiveTag(null);
     setActiveSource(null);
+    setSearchQuery("");
   }
 
   // 실제 데이터 변환
@@ -295,11 +297,16 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
     tags: a.tags ?? [],
   }));
 
-  // 필터 적용: 카테고리 → 태그 → 소스 순서로
+  // 필터 적용: 카테고리 → 태그 → 소스 → 검색어
   const filtered = cards
     .filter((a) => activeCategory === "all" || a.uiCategory === activeCategory)
     .filter((a) => !activeTag || a.tags.includes(activeTag))
-    .filter((a) => !activeSource || a.sourceName === activeSource);
+    .filter((a) => !activeSource || a.sourceName === activeSource)
+    .filter((a) => {
+      if (!searchQuery.trim()) return true;
+      const q = searchQuery.toLowerCase();
+      return a.title.toLowerCase().includes(q) || a.summary.toLowerCase().includes(q) || a.sourceName.toLowerCase().includes(q) || a.tags.some((t) => t.toLowerCase().includes(q));
+    });
 
   // NEW 섹션: 3일 이내 기사
   const newCutoff = Date.now() - 3 * 86400000;
@@ -364,10 +371,25 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
 
         {/* ── 메인 피드 ── */}
         <main className="feed-main">
+          {/* 검색창 */}
+          <div style={{ position: "relative", marginBottom: "20px" }}>
+            <span style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", fontSize: "14px", color: "var(--text-faint)", pointerEvents: "none" }}>🔍</span>
+            <input
+              type="text"
+              placeholder="기사 검색..."
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              style={{ width: "100%", padding: "10px 14px 10px 38px", borderRadius: "10px", border: "1px solid var(--border)", background: "var(--surface)", color: "var(--text)", fontSize: "14px", outline: "none", boxSizing: "border-box" }}
+            />
+            {searchQuery && (
+              <button onClick={() => setSearchQuery("")} style={{ position: "absolute", right: "12px", top: "50%", transform: "translateY(-50%)", background: "none", border: "none", color: "var(--text-faint)", cursor: "pointer", fontSize: "16px" }}>×</button>
+            )}
+          </div>
+
           <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: hasFilter ? "12px" : "20px" }}>
             <div>
               <h1 style={{ fontSize: "20px", fontWeight: 700, color: "var(--text)", letterSpacing: "-0.4px" }}>
-                {activeTag ? `#${activeTag}` : activeSource ? activeSource : CATEGORIES.find((c) => c.id === activeCategory)?.label ?? "전체"}
+                {searchQuery ? `"${searchQuery}" 검색 결과` : activeTag ? `#${activeTag}` : activeSource ? activeSource : CATEGORIES.find((c) => c.id === activeCategory)?.label ?? "전체"}
               </h1>
               <p style={{ fontSize: "12px", color: "var(--text-faint)", marginTop: "2px" }}>
                 {filtered.length}개 아티클

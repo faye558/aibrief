@@ -4,6 +4,7 @@ const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN ?? "";
 const GITHUB_REPO = process.env.GITHUB_REPO ?? "faye558/aibrief";
 const FILE_PATH = "data/articles.json";
+const EXCLUDED_PATH = "data/excluded.json";
 
 function checkAuth(req: NextRequest) {
   const key = req.headers.get("x-drafts-key") ?? req.nextUrl.searchParams.get("key");
@@ -87,7 +88,32 @@ export async function DELETE(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   const { id } = await req.json();
   const { articles, sha } = await getFile();
+  const target = articles.find((a: { id: string }) => a.id === id) as { id: string; sourceUrl?: string } | undefined;
   const filtered = articles.filter((a: { id: string }) => a.id !== id);
   await putFile(filtered, sha);
+
+  // sourceUrl을 excluded.json에 추가
+  if (target?.sourceUrl) {
+    try {
+      const excRes = await fetch(
+        `https://api.github.com/repos/${GITHUB_REPO}/contents/${EXCLUDED_PATH}`,
+        { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json" }, cache: "no-store" }
+      );
+      if (excRes.ok) {
+        const excData = await excRes.json();
+        const excList: string[] = JSON.parse(Buffer.from(excData.content, "base64").toString("utf-8"));
+        if (!excList.includes(target.sourceUrl)) {
+          excList.push(target.sourceUrl);
+          const excContent = Buffer.from(JSON.stringify(excList, null, 2)).toString("base64");
+          await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${EXCLUDED_PATH}`, {
+            method: "PUT",
+            headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "Content-Type": "application/json" },
+            body: JSON.stringify({ message: "excluded: 삭제된 기사 URL 추가", content: excContent, sha: excData.sha }),
+          });
+        }
+      }
+    } catch { /* excluded 업데이트 실패해도 삭제는 성공 */ }
+  }
+
   return NextResponse.json({ ok: true });
 }

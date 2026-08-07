@@ -900,9 +900,15 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
 // ───────────────────────────────────────────
 async function main() {
   const articles = JSON.parse(readFileSync('data/articles.json', 'utf-8'));
+  const excludedUrls = (() => {
+    try { return new Set(JSON.parse(readFileSync('data/excluded.json', 'utf-8'))); }
+    catch { return new Set(); }
+  })();
   const existingUrls = new Set(
     articles.flatMap(a => [a.sourceUrl, ...(a.sources?.map(s => s.url) || [])]).filter(Boolean)
   );
+  // excluded URL도 existingUrls에 추가해서 수집 건너뜀
+  excludedUrls.forEach(url => existingUrls.add(url));
   const existingSlugs = new Set(articles.map(a => a.slug));
   let nextId = Math.max(...articles.map(a => parseInt(a.id) || 0)) + 1;
   const newArticles = [];
