@@ -1,49 +1,62 @@
-import { readFileSync, writeFileSync } from "fs";
-import { join } from "path";
 import { NextRequest, NextResponse } from "next/server";
 
 const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
-const filePath = join(process.cwd(), "data", "articles.json");
-
-function readArticles() {
-  return JSON.parse(readFileSync(filePath, "utf-8"));
-}
-
-function writeArticles(articles: unknown[]) {
-  writeFileSync(filePath, JSON.stringify(articles, null, 2));
-}
+const GITHUB_TOKEN = process.env.GITHUB_TOKEN ?? "";
+const GITHUB_REPO = process.env.GITHUB_REPO ?? "faye558/aibrief";
+const FILE_PATH = "data/articles.json";
 
 function checkAuth(req: NextRequest) {
   const key = req.headers.get("x-drafts-key") ?? req.nextUrl.searchParams.get("key");
   return key === DRAFTS_KEY;
 }
 
-// GET /api/drafts — draft 목록
+async function getFile() {
+  const res = await fetch(
+    `https://api.github.com/repos/${GITHUB_REPO}/contents/${FILE_PATH}`,
+    { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json" }, cache: "no-store" }
+  );
+  if (!res.ok) throw new Error("GitHub API error: " + res.status);
+  const data = await res.json();
+  const content = Buffer.from(data.content, "base64").toString("utf-8");
+  return { articles: JSON.parse(content), sha: data.sha };
+}
+
+async function putFile(articles: unknown[], sha: string) {
+  const content = Buffer.from(JSON.stringify(articles, null, 2)).toString("base64");
+  const res = await fetch(
+    `https://api.github.com/repos/${GITHUB_REPO}/contents/${FILE_PATH}`,
+    {
+      method: "PUT",
+      headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json", "Content-Type": "application/json" },
+      body: JSON.stringify({ message: "drafts: update articles", content, sha }),
+    }
+  );
+  if (!res.ok) throw new Error("GitHub PUT error: " + res.status);
+}
+
 export async function GET(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
-  const all = readArticles();
-  const drafts = all.filter((a: { draft?: boolean }) => a.draft);
+  const { articles } = await getFile();
+  const drafts = articles.filter((a: { draft?: boolean }) => a.draft);
   return NextResponse.json(drafts);
 }
 
-// PATCH /api/drafts — 승인 (draft: false)
 export async function PATCH(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   const { id } = await req.json();
-  const all = readArticles();
-  const idx = all.findIndex((a: { id: string }) => a.id === id);
+  const { articles, sha } = await getFile();
+  const idx = articles.findIndex((a: { id: string }) => a.id === id);
   if (idx === -1) return NextResponse.json({ error: "not found" }, { status: 404 });
-  all[idx].draft = false;
-  writeArticles(all);
+  (articles[idx] as { draft: boolean }).draft = false;
+  await putFile(articles, sha);
   return NextResponse.json({ ok: true });
 }
 
-// DELETE /api/drafts — 삭제
 export async function DELETE(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   const { id } = await req.json();
-  const all = readArticles();
-  const filtered = all.filter((a: { id: string }) => a.id !== id);
-  writeArticles(filtered);
+  const { articles, sha } = await getFile();
+  const filtered = articles.filter((a: { id: string }) => a.id !== id);
+  await putFile(filtered, sha);
   return NextResponse.json({ ok: true });
 }
