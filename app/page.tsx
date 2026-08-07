@@ -17,6 +17,7 @@ export interface Article {
   sourceName: string;
   content?: string;
   hidden?: boolean;
+  draft?: boolean;
 }
 
 function loadArticles(): Article[] {
@@ -24,7 +25,7 @@ function loadArticles(): Article[] {
   const raw = readFileSync(filePath, "utf-8");
   const all: Article[] = JSON.parse(raw);
   return all
-    .filter((a) => !a.hidden)
+    .filter((a) => !a.hidden && !a.draft)
     .sort((a, b) => b.date.localeCompare(a.date));
 }
 
