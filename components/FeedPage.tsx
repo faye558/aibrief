@@ -127,6 +127,7 @@ interface CardArticle {
   slug: string;
   title: string;
   summary: string;
+  content?: string;
   uiCategory: string;
   sourceName: string;
   sourceInitial: string;
@@ -290,6 +291,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
     slug: a.slug,
     title: a.title,
     summary: a.summary,
+    content: a.content,
     uiCategory: mapCategory(a.category),
     sourceName: a.sourceName,
     sourceInitial: sourceInitial(a.company),
