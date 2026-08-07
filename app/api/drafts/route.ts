@@ -39,9 +39,10 @@ export async function GET(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   const tab = req.nextUrl.searchParams.get("tab") ?? "drafts";
   const { articles } = await getFile();
-  const result = tab === "published"
+  const result = (tab === "published"
     ? articles.filter((a: { draft?: boolean; hidden?: boolean }) => !a.draft)
-    : articles.filter((a: { draft?: boolean }) => a.draft);
+    : articles.filter((a: { draft?: boolean }) => a.draft))
+    .sort((a: { date?: string }, b: { date?: string }) => (b.date ?? "").localeCompare(a.date ?? ""));
   return NextResponse.json(result);
 }
 
