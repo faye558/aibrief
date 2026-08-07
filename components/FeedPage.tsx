@@ -190,7 +190,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
         border: `1px solid ${hovered ? accent + "55" : "var(--border)"}`,
         borderRadius: "14px", padding: "0",
         textDecoration: "none", transition: "all 0.18s ease",
-        transform: hovered ? "translateY(-2px) scale(1.008)" : "none",
+        transform: hovered ? "translateY(-2px)" : "none",
         boxShadow: hovered ? `0 8px 28px ${accent}20` : "none",
         overflow: "hidden",
         position: "relative",
