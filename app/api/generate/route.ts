@@ -4,7 +4,6 @@ import { NextRequest, NextResponse } from "next/server";
 export const runtime = "nodejs";
 
 const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
-const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 function checkAuth(req: NextRequest) {
   const key = req.headers.get("x-drafts-key") ?? req.nextUrl.searchParams.get("key");
@@ -17,6 +16,7 @@ export async function POST(req: NextRequest) {
   const { topic } = await req.json();
   if (!topic) return NextResponse.json({ error: "topic required" }, { status: 400 });
 
+  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
   const msg = await client.messages.create({
     model: "claude-haiku-4-5-20251001",
     max_tokens: 2000,
