@@ -456,55 +456,63 @@ const KOREAN_SOURCES = [
     keywords: ['AI', '인공지능', 'LLM', 'UX', 'UI', '플랫폼', '오픈소스', '서비스'],
     maxItems: 4,
   },
-  // ── 국내 IT/업무환경 커뮤니티 ──
+  // ── 국내 IT/업무환경 커뮤니티 (아웃링크 전용) ──
   {
     name: '요즘IT',
     rssUrl: 'https://yozm.wishket.com/magazine/rss/',
     keywords: ['AI', '인공지능', 'LLM', 'AI 에이전트', '업무 자동화', '생산성', '미래 직업', '일하는 방식', '테크', '프로덕트', 'SaaS', '스타트업', 'AI 시대', '업무 환경'],
     maxItems: 5,
+    outlink: true,
   },
   {
     name: 'disquiet',
     rssUrl: 'https://disquiet.io/feed',
     keywords: ['AI', '인공지능', 'AI 에이전트', '업무 자동화', '생산성', '프로덕트', '스타트업', 'SaaS', '미래 직업', '일하는 방식', 'AI 시대'],
     maxItems: 4,
+    outlink: true,
   },
   {
     name: 'wanted 블로그',
     rssUrl: 'https://medium.com/feed/wantedjobs',
     keywords: ['AI', '인공지능', 'AI 에이전트', '업무 자동화', '생산성', '미래 직업', '일하는 방식', '테크', '스타트업', 'AI 시대', '업무 환경', '커리어'],
     maxItems: 4,
+    outlink: true,
   },
-  // ── 글로벌 테크 미디어 추가 ──
+  // ── 글로벌 테크 미디어 (아웃링크 전용) ──
   {
     name: 'VentureBeat AI',
     rssUrl: 'https://venturebeat.com/category/ai/feed/',
     keywords: ['AI', 'LLM', 'agent', 'agentic', 'enterprise', 'workplace', 'productivity', 'future of work', 'Claude', 'OpenAI', 'Anthropic', 'Google', 'platform'],
     maxItems: 5,
+    outlink: true,
   },
   {
     name: 'Harvard Business Review AI',
     rssUrl: 'https://feeds.hbr.org/harvardbusiness',
     keywords: ['AI', 'artificial intelligence', 'future of work', 'workplace', 'productivity', 'automation', 'digital transformation', 'leadership', 'generative AI'],
     maxItems: 4,
+    outlink: true,
   },
   {
     name: 'Fast Company',
     rssUrl: 'https://www.fastcompany.com/technology/rss',
     keywords: ['AI', 'artificial intelligence', 'future of work', 'workplace', 'productivity', 'automation', 'generative AI', 'startup', 'tech'],
     maxItems: 4,
+    outlink: true,
   },
   {
     name: '매드타임스',
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
     keywords: ['AI', '디자인', '콘텐츠', '마케팅', '플랫폼', '광고', '브랜드', '산돌', '윤디자인', '어도비', '캔바', '망고보드', '미리캔버스'],
     maxItems: 3,
+    outlink: true,
   },
   {
     name: '디자인정글',
     rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
     keywords: ['AI', '디자인', 'UX', 'UI', '어도비', '캔바', '폰트', '산돌', '눈누', '미리캔버스', '망고보드', '콘텐츠', '브랜드'],
     maxItems: 5,
+    outlink: true,
   },
 ];
 
