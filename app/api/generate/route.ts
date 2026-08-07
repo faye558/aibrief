@@ -1,4 +1,3 @@
-import Anthropic from "@anthropic-ai/sdk";
 import { NextRequest, NextResponse } from "next/server";
 
 export const runtime = "nodejs";
@@ -16,13 +15,22 @@ export async function POST(req: NextRequest) {
   const { topic } = await req.json();
   if (!topic) return NextResponse.json({ error: "topic required" }, { status: 400 });
 
-  const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
-  const msg = await client.messages.create({
-    model: "claude-haiku-4-5-20251001",
-    max_tokens: 2000,
-    messages: [{
-      role: "user",
-      content: `다음 주제로 aibrief 사이트에 올릴 한국어 아티클 초안을 작성해줘.
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) return NextResponse.json({ error: "no api key" }, { status: 500 });
+
+  const res = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: {
+      "x-api-key": apiKey,
+      "anthropic-version": "2023-06-01",
+      "content-type": "application/json",
+    },
+    body: JSON.stringify({
+      model: "claude-haiku-4-5-20251001",
+      max_tokens: 2000,
+      messages: [{
+        role: "user",
+        content: `다음 주제로 aibrief 사이트에 올릴 한국어 아티클 초안을 작성해줘.
 
 주제: ${topic}
 
@@ -37,10 +45,17 @@ export async function POST(req: NextRequest) {
 }
 
 톤: 전문적이지만 읽기 쉬운 한국어. 직접 경험/관찰을 바탕으로 한 인사이트 중심.`,
-    }],
+      }],
+    }),
   });
 
-  const text = (msg.content[0] as { type: string; text: string }).text.trim();
+  if (!res.ok) {
+    const err = await res.text();
+    return NextResponse.json({ error: `anthropic ${res.status}`, detail: err }, { status: 500 });
+  }
+
+  const data = await res.json();
+  const text = data.content?.[0]?.text?.trim() ?? "";
   try {
     const json = JSON.parse(text);
     return NextResponse.json(json);
