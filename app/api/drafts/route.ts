@@ -52,6 +52,32 @@ export async function PATCH(req: NextRequest) {
   return NextResponse.json({ ok: true });
 }
 
+export async function POST(req: NextRequest) {
+  if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
+  const body = await req.json();
+  const { articles, sha } = await getFile();
+  const id = Date.now().toString();
+  const slug = id;
+  const newArticle = {
+    id,
+    slug,
+    title: body.title ?? "",
+    summary: body.summary ?? "",
+    content: body.content ?? "",
+    category: body.category ?? "IT·테크",
+    tags: body.tags ?? [],
+    company: body.company ?? "",
+    sourceName: body.sourceName ?? "",
+    sourceUrl: body.sourceUrl ?? null,
+    imageUrl: null,
+    date: new Date().toISOString().slice(0, 10),
+    draft: true,
+  };
+  articles.unshift(newArticle);
+  await putFile(articles, sha);
+  return NextResponse.json({ ok: true, id });
+}
+
 export async function DELETE(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   const { id } = await req.json();
