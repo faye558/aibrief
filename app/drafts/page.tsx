@@ -63,10 +63,10 @@ export default function DraftsPage() {
     return (
       <div style={{ minHeight: "100vh", background: "var(--bg)", display: "flex", alignItems: "center", justifyContent: "center" }}>
         <div style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "16px", padding: "40px", width: "320px" }}>
-          <p style={{ fontSize: "18px", fontWeight: 700, color: "var(--text)", marginBottom: "20px" }}>초안 검수</p>
+          <p style={{ fontSize: "18px", fontWeight: 700, color: "var(--text)", marginBottom: "20px" }}>비밀번호</p>
           <input
             type="password"
-            placeholder="접근 키 입력"
+            placeholder="비밀번호 입력"
             value={key}
             onChange={(e) => setKey(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && fetchDrafts(key)}
