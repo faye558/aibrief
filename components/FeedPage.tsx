@@ -377,7 +377,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
         <main className="feed-main">
           {/* 검색창 */}
           <div style={{ position: "relative", marginBottom: "20px" }}>
-            <span style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", fontSize: "14px", color: "var(--text-faint)", pointerEvents: "none" }}>🔍</span>
+            <svg style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", pointerEvents: "none" }} width="14" height="14" viewBox="0 0 14 14" fill="none"><circle cx="6" cy="6" r="4.5" stroke="var(--text-faint)" strokeWidth="1.5"/><line x1="9.5" y1="9.5" x2="13" y2="13" stroke="var(--text-faint)" strokeWidth="1.5" strokeLinecap="round"/></svg>
             <input
               type="text"
               placeholder="콘텐츠 검색..."
