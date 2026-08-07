@@ -28,6 +28,7 @@ export default function DraftsPage() {
   const [key, setKey] = useState("");
   const [authed, setAuthed] = useState(false);
   const [drafts, setDrafts] = useState<Draft[]>([]);
+  const [tab, setTab] = useState<"drafts" | "published">("drafts");
   const [expanded, setExpanded] = useState<string | null>(null);
   const [loading, setLoading] = useState(false);
   const [msg, setMsg] = useState("");
@@ -35,9 +36,9 @@ export default function DraftsPage() {
   const [form, setForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
   const [saving, setSaving] = useState(false);
 
-  const fetchDrafts = useCallback(async (k: string) => {
+  const fetchDrafts = useCallback(async (k: string, t: "drafts" | "published" = "drafts") => {
     setLoading(true);
-    const res = await fetch(`/api/drafts?key=${encodeURIComponent(k)}`);
+    const res = await fetch(`/api/drafts?key=${encodeURIComponent(k)}&tab=${t}`);
     if (res.ok) {
       const data = await res.json();
       setDrafts(data);
@@ -56,6 +57,17 @@ export default function DraftsPage() {
     });
     setDrafts((d) => d.filter((a) => a.id !== id));
     setMsg("✓ 발행됨");
+    setTimeout(() => setMsg(""), 2000);
+  }
+
+  async function toggleHidden(id: string, hide: boolean) {
+    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ id, action: hide ? "hide" : "unhide" }),
+    });
+    setDrafts((d) => d.filter((a) => a.id !== id));
+    setMsg(hide ? "숨김 처리됨" : "복원됨");
     setTimeout(() => setMsg(""), 2000);
   }
 
@@ -120,17 +132,23 @@ export default function DraftsPage() {
     <div style={{ minHeight: "100vh", background: "var(--bg)" }}>
       <GlobalNav />
       <div style={{ maxWidth: "800px", margin: "0 auto", padding: "40px 24px" }}>
-        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "28px" }}>
-          <div>
-            <h1 style={{ fontSize: "22px", fontWeight: 700, color: "var(--text)" }}>초안 검수</h1>
-            <p style={{ fontSize: "13px", color: "var(--text-faint)", marginTop: "4px" }}>{drafts.length}개 대기 중</p>
-          </div>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "20px" }}>
+          <h1 style={{ fontSize: "22px", fontWeight: 700, color: "var(--text)" }}>콘텐츠 관리</h1>
           <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
             {msg && <span style={{ fontSize: "13px", color: "var(--accent-hover)", fontWeight: 600 }}>{msg}</span>}
             <button onClick={() => setShowWrite(!showWrite)} style={{ padding: "8px 18px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
               {showWrite ? "닫기" : "+ 새 글"}
             </button>
           </div>
+        </div>
+
+        {/* 탭 */}
+        <div style={{ display: "flex", gap: "4px", marginBottom: "24px", background: "var(--surface)", borderRadius: "10px", padding: "4px", width: "fit-content" }}>
+          {(["drafts", "published"] as const).map((t) => (
+            <button key={t} onClick={() => { setTab(t); fetchDrafts(key, t); }} style={{ padding: "7px 18px", borderRadius: "7px", border: "none", background: tab === t ? "var(--accent)" : "transparent", color: tab === t ? "#fff" : "var(--text-faint)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+              {t === "drafts" ? `초안 ${drafts.length > 0 && tab === "drafts" ? `(${drafts.length})` : ""}` : "발행됨"}
+            </button>
+          ))}
         </div>
 
         {/* 글쓰기 폼 */}
@@ -204,9 +222,15 @@ export default function DraftsPage() {
                   <button onClick={() => remove(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text-faint)", fontSize: "13px", cursor: "pointer" }}>
                     삭제
                   </button>
-                  <button onClick={() => approve(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
-                    발행 ✓
-                  </button>
+                  {tab === "published" ? (
+                    <button onClick={() => toggleHidden(d.id, !(d as Draft & { hidden?: boolean }).hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+                      숨기기
+                    </button>
+                  ) : (
+                    <button onClick={() => approve(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+                      발행 ✓
+                    </button>
+                  )}
                 </div>
               </div>
             ))}

@@ -36,18 +36,23 @@ async function putFile(articles: unknown[], sha: string) {
 
 export async function GET(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
+  const tab = req.nextUrl.searchParams.get("tab") ?? "drafts";
   const { articles } = await getFile();
-  const drafts = articles.filter((a: { draft?: boolean }) => a.draft);
-  return NextResponse.json(drafts);
+  const result = tab === "published"
+    ? articles.filter((a: { draft?: boolean; hidden?: boolean }) => !a.draft)
+    : articles.filter((a: { draft?: boolean }) => a.draft);
+  return NextResponse.json(result);
 }
 
 export async function PATCH(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
-  const { id } = await req.json();
+  const { id, action } = await req.json();
   const { articles, sha } = await getFile();
   const idx = articles.findIndex((a: { id: string }) => a.id === id);
   if (idx === -1) return NextResponse.json({ error: "not found" }, { status: 404 });
-  (articles[idx] as { draft: boolean }).draft = false;
+  if (action === "hide") (articles[idx] as { hidden: boolean }).hidden = true;
+  else if (action === "unhide") (articles[idx] as { hidden: boolean }).hidden = false;
+  else (articles[idx] as { draft: boolean }).draft = false;
   await putFile(articles, sha);
   return NextResponse.json({ ok: true });
 }
