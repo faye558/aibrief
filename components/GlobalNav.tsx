@@ -5,8 +5,8 @@ export default function GlobalNav() {
     <header
       style={{
         height: "56px",
-        background: "#0C0C16",
-        borderBottom: "1px solid #1C1C2E",
+        background: "#111318",
+        borderBottom: "1px solid #2A2B30",
         display: "flex",
         alignItems: "center",
         padding: "0 24px",
