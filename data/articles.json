@@ -7938,35 +7938,6 @@
     "id": "267"
   },
   {
-    "title": "라인 LY Corporation, AIDD 워크숍을 통한 AI 조직 도입 조건 공개",
-    "summary": "LY Corporation은 기존 AI 활용 역량 향상 워크숍인 ODW(Orchestration Development Workshop)를 통해 개인 단위의 AI 개발 활용을 추진해왔으며, 이를 조직 차원으로 확장하는 AIDD(AI-Driven Development) 도입 조건을 워크숍 경험을 통해 살펴봤다. 원문은 개인 AI 활용의 다음 단계로 조직적 AIDD 도입을 위한 조건을 주제로 다루고 있다.",
-    "content": "## 주요 내용\n- LY Corporation은 AI 활용 역량 향상을 위한 ODW(Orchestration Development Workshop)를 운영해옴\n- 해당 워크숍은 개인이 AI를 활용해 개발하는 역량 향상에 초점을 맞춰왔음\n- 이번 내용은 개인 수준을 넘어 조직 단위의 AIDD 도입 조건을 탐색하는 내용을 다룸\n\n## 의미\n개인 AI 활용에서 조직 전체로의 AIDD 확산을 모색하는 LY Corporation의 실제 워크숍 경험을 바탕으로, 기업 내 AI 개발 문화 정착을 위한 실질적 조건을 제시한다는 점에서 의미가 있다.",
-    "company": "라인",
-    "category": "테크블로그",
-    "date": "2026-08-07",
-    "tags": [
-      "LY Corporation",
-      "AIDD",
-      "AI활용",
-      "워크숍",
-      "조직도입"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
-    "sourceName": "라인",
-    "sources": [
-      {
-        "url": "https://techblog.lycorp.co.jp/ko/conditions-for-organizational-aidd-adoption",
-        "name": "라인 — 개인 AI 활용의 다음 단계는 무엇인가 - LY Corporation에서 AIDD 워크숍을 통해 살펴본 AIDD 조직 도입의 조건"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "slug": "-3ed696c1-2026-08-07",
-    "draft": true,
-    "id": "268"
-  },
-  {
     "title": "라인, LLM 에이전트 기반 장애 원인 분석 도구 'SRELens' 개발",
     "summary": "LY Corporation의 Home SRE팀이 Grafana에서 자연어로 장애 원인을 분석할 수 있는 LLM 에이전트 기반 도구 'SRELens'를 개발했다. 관측성 데이터는 늘어났지만 분석이 여전히 어렵다는 문제의식에서 출발한 프로젝트다.",
     "content": "## 주요 내용\n- LY Corporation Home SRE팀이 LLM 에이전트 기반의 장애 원인 분석 도구 'SRELens'를 개발\n- Grafana 환경에서 자연어를 통해 장애 원인 분석이 가능하도록 구현\n- 관측성 데이터가 증가했음에도 실질적인 분석은 여전히 어렵다는 문제를 해결하기 위해 개발\n\n## 의미\n증가하는 관측성 데이터를 효과적으로 활용하기 위해 LLM을 SRE 업무에 접목한 사례로, 자연어 기반 장애 분석을 통해 운영 효율화를 도모하는 시도로 평가된다.",
