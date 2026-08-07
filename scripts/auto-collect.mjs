@@ -602,6 +602,7 @@ async function fetchArticleContent(url) {
     });
     if (!res.ok) return null;
     const html = await res.text();
+    if (!html || typeof html !== 'string') return null;
 
     const title = html.match(/<meta[^>]+property="og:title"[^>]+content="([^"]+)"/i)?.[1]
       || html.match(/<title[^>]*>([^<]+)<\/title>/i)?.[1]
