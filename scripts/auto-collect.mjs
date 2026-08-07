@@ -811,7 +811,7 @@ async function generateArticle(company, category, item, sourceName) {
     communityReaction: json.communityReaction || null,
     communityLinks: COMMUNITY_LINKS[company] || null,
     slug,
-    draft: true,
+    draft: false,
   };
 }
 
