@@ -466,7 +466,7 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
                   <div style={{ flex: 1, height: "1px", background: "var(--border)" }} />
                 </div>
               )}
-              <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
+              <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
                 {groupCards(olderCards).map((block, i) =>
                   block.type === "featured" ? (
                     <ArticleCard key={`f-${block.card.id}`} article={block.card} large />
