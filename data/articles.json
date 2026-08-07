@@ -7938,36 +7938,6 @@
     "id": "267"
   },
   {
-    "title": "라인, LLM 에이전트 기반 장애 원인 분석 도구 'SRELens' 개발",
-    "summary": "LY Corporation의 Home SRE팀이 Grafana에서 자연어로 장애 원인을 분석할 수 있는 LLM 에이전트 기반 도구 'SRELens'를 개발했다. 관측성 데이터는 늘어났지만 분석이 여전히 어렵다는 문제의식에서 출발한 프로젝트다.",
-    "content": "## 주요 내용\n- LY Corporation Home SRE팀이 LLM 에이전트 기반의 장애 원인 분석 도구 'SRELens'를 개발\n- Grafana 환경에서 자연어를 통해 장애 원인 분석이 가능하도록 구현\n- 관측성 데이터가 증가했음에도 실질적인 분석은 여전히 어렵다는 문제를 해결하기 위해 개발\n\n## 의미\n증가하는 관측성 데이터를 효과적으로 활용하기 위해 LLM을 SRE 업무에 접목한 사례로, 자연어 기반 장애 분석을 통해 운영 효율화를 도모하는 시도로 평가된다.",
-    "company": "라인",
-    "category": "테크블로그",
-    "date": "2026-07-31",
-    "tags": [
-      "라인",
-      "LLM",
-      "SRE",
-      "Grafana",
-      "장애분석",
-      "AI에이전트"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent",
-    "sourceName": "라인",
-    "sources": [
-      {
-        "url": "https://techblog.lycorp.co.jp/ko/analyzing-incident-root-causes-in-grafana-using-natural-language-with-llm-agent",
-        "name": "라인 — Grafana에서 자연어로 장애 원인을 분석하기: LLM 에이전트 기반 SRELens 개발기"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "slug": "-c9aca481-2026-07-31",
-    "draft": true,
-    "id": "269"
-  },
-  {
     "title": "라인, AI 에이전트를 위한 Android CLI 대규모 모바일 개발 환경 적용 공개",
     "summary": "라인의 Android 앱은 수백 명의 개발자가 하나의 Git 저장소에서 협업하는 수백 개의 Gradle 모듈로 구성된 대규모 프로젝트다. 라인은 이러한 대규모 모바일 개발 환경에 AI 에이전트를 적용하기 위한 Android CLI 구축 경험을 공개했다.",
     "content": "## 주요 내용\n- LINE Android 앱은 수백 명의 개발자가 단일 Git 저장소에서 협업하는 대규모 프로젝트\n- 수백 개의 Gradle 모듈로 구성된 복잡한 구조\n- AI 에이전트 활용을 위한 Android CLI 환경 구축 및 대규모 적용 경험 소개\n\n## 의미\n대규모 모바일 개발 환경에서 AI 에이전트를 실질적으로 활용하기 위한 CLI 접근 방식을 제시함으로써, 유사한 규모의 Android 개발 조직에 실질적인 참고 사례가 될 수 있다.",
