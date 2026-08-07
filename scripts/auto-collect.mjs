@@ -741,6 +741,29 @@ function inferCompanyCategory(title, description) {
 // ───────────────────────────────────────────
 // Claude API로 한국어 기사 생성
 // ───────────────────────────────────────────
+function makeOutlinkArticle(company, category, item, sourceName) {
+  const title = extractTitle(item);
+  const link = extractLink(item);
+  if (!link || !title) throw new Error('URL 또는 제목 없음');
+  const pubDate = extractDate(item);
+  const description = extractDescription(item);
+  const slug = createHash('md5').update(link).digest('hex').slice(0, 12);
+  return {
+    slug, title,
+    summary: description ? description.slice(0, 200) : title,
+    content: '',
+    company, category,
+    date: pubDate.toISOString().slice(0, 10),
+    tags: [company].filter(Boolean),
+    imageUrl: null,
+    sourceUrl: link,
+    sourceName,
+    sources: [{ url: link, name: `${sourceName} — ${title}` }],
+    communityLinks: null,
+    draft: false,
+  };
+}
+
 async function generateArticle(company, category, item, sourceName) {
   const title = extractTitle(item);
   const link = extractLink(item);
@@ -987,16 +1010,18 @@ async function main() {
       const inferred = inferCompanyCategory(extractTitle(item), extractDescription(item));
       if (!inferred) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
       const { company, category } = inferred;
-      console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
+      console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
-        const article = await generateArticle(company, category, item, source.name);
+        const article = source.outlink
+          ? makeOutlinkArticle(company, category, item, source.name)
+          : await generateArticle(company, category, item, source.name);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
           if (link) existingUrls.add(link);
           existingSlugs.add(article.slug);
         }
-        await new Promise(r => setTimeout(r, 800));
+        if (!source.outlink) await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
   }
@@ -1048,16 +1073,18 @@ async function main() {
       const inferred2 = inferCompanyCategory(extractTitle(item), extractDescription(item));
       if (!inferred2) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
       const { company, category } = inferred2;
-      console.log(`  ✍️  [${company}] ${extractTitle(item).slice(0, 60)}`);
+      console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
-        const article = await generateArticle(company, category, item, source.name);
+        const article = source.outlink
+          ? makeOutlinkArticle(company, category, item, source.name)
+          : await generateArticle(company, category, item, source.name);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
           if (link) existingUrls.add(link);
           existingSlugs.add(article.slug);
         }
-        await new Promise(r => setTimeout(r, 800));
+        if (!source.outlink) await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
   }
