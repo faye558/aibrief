@@ -598,50 +598,6 @@
     "hidden": true
   },
   {
-    "title": "OpenAI, GPT-5 Pro로 3년간 미해결 면역학 미스터리 해결 — T세포 연구 돌파구 마련",
-    "summary": "OpenAI의 GPT-5 Pro가 면역학자 데리아 우누트마즈(Derya Unutmaz) 박사가 3년간 풀지 못했던 T세포 행동 관련 면역학적 난제를 해결하는 데 핵심적인 역할을 했다. 이번 성과는 암 및 자가면역질환 연구에 새로운 가능성을 열 수 있는 중요한 과학적 돌파구로 평가된다.",
-    "content": "## 배경\nOpenAI의 GPT-5 Pro는 단순한 텍스트 생성을 넘어 복잡한 과학적 문제 해결에 활용되고 있다. 면역학자 데리아 우누트마즈 박사는 T세포의 특정 행동 패턴과 관련된 문제를 3년 이상 연구해왔으나 돌파구를 찾지 못하고 있었으며, GPT-5 Pro와의 협업을 통해 마침내 핵심 단서를 발견했다.\n\n## 주요 내용\n- GPT-5 Pro는 방대한 면역학 문헌과 데이터를 분석해 기존 연구자들이 간과했던 T세포 행동 패턴에 대한 새로운 가설과 인사이트를 제시했다\n- 3년간 해결되지 않았던 면역학적 메커니즘의 실마리가 AI와의 심층적인 과학 대화를 통해 도출되었으며, 연구자는 AI를 '전문 지식을 갖춴 공동 연구자'로 평가했다\n- 이번 연구 성과는 암 면역치료 및 자가면역질환 치료 전략 개발에 직접적으로 응용될 가능성이 있어 임상적 파급력이 클 것으로 기대된다\n\n## 시장 영향\nGPT-5 Pro의 이번 사례는 AI가 과학 연구의 보조 도구를 넘어 실질적인 공동 연구자로 자리잡을 수 있음을 보여주는 강력한 레퍼런스가 됐다. 제약·바이오 업계에서는 신약 개발 및 난치병 연구에 고성능 AI 모델 도입을 가속화하는 계기가 될 전망이며, 동시에 AI 기반 과학 연구의 신뢰성과 검증 방법론에 대한 논의도 촉발될 것으로 보인다.",
-    "company": "OpenAI",
-    "category": "AI모델",
-    "date": "2026-06-23",
-    "tags": [
-      "OpenAI",
-      "GPT-5",
-      "AI의학",
-      "면역학",
-      "T세포",
-      "암연구",
-      "자가면역"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://openai.com/index/gpt-5-immunology-mystery",
-    "sourceName": "OpenAI 공식",
-    "sources": [
-      {
-        "url": "https://openai.com/index/gpt-5-immunology-mystery",
-        "name": "OpenAI 공식 — How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery"
-      }
-    ],
-    "communityReaction": "\"이제 AI가 논문 요약이 아니라 진짜 연구 문제를 푸는 수준까지 왔네요, 바이오·제약 쪽 연구자들은 GPT-5 Pro 도입 진지하게 검토해야 할 것 같습니다.\" \"3년짜리 미스터리를 AI랑 대화로 풀었다는 게 충격적인데, 구체적인 프롬프트 방법론이나 워크플로우가 공개되면 더 의미 있을 것 같아요.\"",
-    "communityLinks": [
-      {
-        "name": "Reddit r/ChatGPT",
-        "url": "https://www.reddit.com/r/ChatGPT/new/"
-      },
-      {
-        "name": "Reddit r/OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/new/"
-      },
-      {
-        "name": "클리앙 검색: ChatGPT",
-        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
-      }
-    ],
-    "slug": "openai-1948945e-2026-06-23",
-    "id": "153",
-    "hidden": true
-  },
-  {
     "title": "Anthropic, Claude Tag 출시 — Slack 메시지로 기업 조직 맥락 학습하는 AI 팀원",
     "summary": "Anthropic이 Slack에 상시 연결되는 AI 기능 'Claude Tag'를 출시했다. 단순한 생산성 도구를 넘어, 조직의 내부 맥락·업무 방식·기관 지식을 지속적으로 학습하는 엔터프라이즈 전략의 일환으로 주목받고 있다.",
     "content": "## 배경\nAnthropicAI 어시스턴트 Claude를 기업 협업 환경에 더 깊숙이 통합하기 위한 전략을 가속화하고 있다. 기존 Claude의 Slack 연동이 단순 질의응답 수준이었다면, 이번 Claude Tag는 조직 내 대화 흐름에 상시 참여하며 맥락을 축적하는 방식으로 한 단계 진화했다.\n\n## 주요 내용\n- Slack 채널에서 @Claude Tag로 호출하면 해당 대화 맥락을 이해하고 즉각 응답하는 '상시 AI 팀원' 기능 제공\n- 단순 답변에 그치지 않고, 반복되는 Slack 대화를 통해 해당 기업의 업무 방식, 용어, 내부 프로세스를 점진적으로 학습\n- 조직의 기관 지식(Institutional Knowledge)과 워크플로우를 AI가 내재화함으로써, 시간이 지날수록 더 정확하고 맥락에 맞는 지원이 가능해지는 구조\n\n## 시장 영향\nClaude Tag는 생산성 툴을 넘어 기업 데이터와 워크플로우를 선점하려는 Anthropic의 엔터프라이즈 전략으로 해석된다. Microsoft Copilot(Teams), Google Gemini(Workspace)와의 직접 경쟁 구도가 형성되며, AI가 단순 도구가 아닌 '조직 기억'을 보유한 존재로 자리잡을 경우 기업의 AI 플랫폼 종속성도 한층 강화될 전망이다.",
