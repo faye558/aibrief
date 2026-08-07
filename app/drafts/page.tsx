@@ -35,6 +35,8 @@ export default function DraftsPage() {
   const [showWrite, setShowWrite] = useState(false);
   const [form, setForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
   const [saving, setSaving] = useState(false);
+  const [topic, setTopic] = useState("");
+  const [generating, setGenerating] = useState(false);
 
   const fetchDrafts = useCallback(async (k: string, t: "drafts" | "published" = "drafts") => {
     setLoading(true);
@@ -80,6 +82,33 @@ export default function DraftsPage() {
     setDrafts((d) => d.filter((a) => a.id !== id));
     setMsg("🗑 삭제됨");
     setTimeout(() => setMsg(""), 2000);
+  }
+
+  async function generateDraft() {
+    if (!topic.trim()) return;
+    setGenerating(true);
+    const res = await fetch(`/api/generate?key=${encodeURIComponent(key)}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ topic }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      setForm({
+        title: data.title ?? "",
+        summary: data.summary ?? "",
+        content: data.content ?? "",
+        category: data.category ?? "IT·테크",
+        tags: (data.tags ?? []).join(", "),
+        sourceName: data.sourceName ?? "직접 작성",
+        sourceUrl: "",
+      });
+      setMsg("✓ 초안 생성됨");
+      setTimeout(() => setMsg(""), 2000);
+    } else {
+      setMsg("생성 실패");
+    }
+    setGenerating(false);
   }
 
   async function saveArticle() {
@@ -155,6 +184,21 @@ export default function DraftsPage() {
         {showWrite && (
           <div style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "14px", padding: "24px", marginBottom: "24px" }}>
             <p style={{ fontSize: "15px", fontWeight: 700, color: "var(--text)", marginBottom: "18px" }}>새 글 작성</p>
+            {/* AI 초안 생성 */}
+            <div style={{ display: "flex", gap: "8px", marginBottom: "4px" }}>
+              <input
+                placeholder="주제 입력 (예: 사내 AX 구축기, ChatGPT 업무 활용법...)"
+                value={topic}
+                onChange={(e) => setTopic(e.target.value)}
+                onKeyDown={(e) => e.key === "Enter" && generateDraft()}
+                style={{ ...inputStyle, flex: 1 }}
+              />
+              <button onClick={generateDraft} disabled={generating || !topic.trim()} style={{ padding: "10px 18px", borderRadius: "8px", border: "none", background: "#5B4FE8", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer", whiteSpace: "nowrap", opacity: generating ? 0.6 : 1 }}>
+                {generating ? "생성 중..." : "✨ AI 초안"}
+              </button>
+            </div>
+            <div style={{ borderBottom: "1px solid var(--border)", margin: "4px 0 8px" }} />
+
             <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
               <input placeholder="제목 *" value={form.title} onChange={(e) => setForm({ ...form, title: e.target.value })} style={inputStyle} />
               <textarea placeholder="요약 (한 줄 설명)" value={form.summary} onChange={(e) => setForm({ ...form, summary: e.target.value })} rows={3} style={{ ...inputStyle, resize: "vertical" }} />
