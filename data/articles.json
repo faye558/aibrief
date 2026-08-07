@@ -555,49 +555,6 @@
     "hidden": true
   },
   {
-    "title": "OpenAI, 고급 AI 공동 표준 구축 지원 — Appia 재단 통해 글로벌 협력 추진",
-    "summary": "OpenAI가 고급 AI 시스템에 대한 공유 표준 마련을 지원하기 위해 Appia 재단과 협력하며 평가 프레임워크 및 안전 관행 개발에 나섰다. 이는 AI 안전성과 신뢰성을 확보하기 위한 국제적 기준 마련의 일환으로, 업계 전반의 협력을 이끌어내려는 시도다. OpenAI는 이를 통해 개별 기업 차원을 넘어 글로벌 AI 거버넌스 체계 구축에 기여하겠다는 의지를 밝혔다.",
-    "content": "## 배경\nAI 기술이 급격히 발전하면서 각국 정부와 기업들 사이에서 AI 안전성 및 책임 있는 개발에 대한 공통 기준의 필요성이 높아지고 있다. OpenAI는 자사 단독의 안전 정책을 넘어, 업계 전체가 따를 수 있는 표준화된 평가·안전 체계 마련이 시급하다고 판단하고 이번 이니셔티브를 추진했다.\n\n## 주요 내용\n- OpenAI는 Appia 재단을 통해 고급 AI 모델에 대한 평가 프레임워크 개발을 지원하며, 다양한 이해관계자가 활용할 수 있는 공동 기준 마련에 기여\n- AI 안전 관행(safety practices) 표준화를 위한 연구 및 정책 협력을 강화하고, 위험 평가 방법론의 일관성 확보를 목표로 함\n- 글로벌 협력 체계 구축을 통해 각국 규제 기관, 연구 기관, AI 기업들이 공통된 기준 아래 AI 개발·배포를 진행할 수 있는 생태계 조성 추진\n\n## 시장 영향\n이번 OpenAI의 행보는 AI 업계의 자율 규제 및 공동 표준화 움직임에 중요한 신호탄이 될 것으로 보인다. 공통 평가 프레임워크가 확립될 경우 AI 모델의 신뢰성 검증이 보다 객관화되고, 기업들의 안전 투자 방향성도 통일될 수 있다. 다만 표준 설정 과정에서 특정 기업의 영향력이 과도하게 반영될 수 있다는 우려도 제기될 수 있어, 중립적 거버넌스 구조 확보가 관건이다.",
-    "company": "OpenAI",
-    "category": "AI모델",
-    "date": "2026-06-23",
-    "tags": [
-      "OpenAI",
-      "AI안전",
-      "AI표준화",
-      "Appia재단",
-      "AI거버넌스",
-      "글로벌협력"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "sourceName": "OpenAI 공식",
-    "sources": [
-      {
-        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-        "name": "OpenAI 공식 — Helping build shared standards for advanced AI"
-      }
-    ],
-    "communityReaction": "\"결국 AI 평가 기준을 누가 주도하느냐의 싸움인데, OpenAI가 재단을 통해 표준 제정에 깊이 관여하려는 의도가 보인다\"는 반응과 함께, \"공통 평가 프레임워크가 생기면 모델 간 객관적 비교가 가능해져 실무에서 AI 도입 결정이 훨씬 쉬워질 것\"이라는 기대감도 나오고 있다.",
-    "communityLinks": [
-      {
-        "name": "Reddit r/ChatGPT",
-        "url": "https://www.reddit.com/r/ChatGPT/new/"
-      },
-      {
-        "name": "Reddit r/OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/new/"
-      },
-      {
-        "name": "클리앙 검색: ChatGPT",
-        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
-      }
-    ],
-    "slug": "openai-1b1b1aa4-2026-06-23",
-    "id": "152",
-    "hidden": true
-  },
-  {
     "title": "Anthropic, Claude Tag 출시 — Slack 메시지로 기업 조직 맥락 학습하는 AI 팀원",
     "summary": "Anthropic이 Slack에 상시 연결되는 AI 기능 'Claude Tag'를 출시했다. 단순한 생산성 도구를 넘어, 조직의 내부 맥락·업무 방식·기관 지식을 지속적으로 학습하는 엔터프라이즈 전략의 일환으로 주목받고 있다.",
     "content": "## 배경\nAnthropicAI 어시스턴트 Claude를 기업 협업 환경에 더 깊숙이 통합하기 위한 전략을 가속화하고 있다. 기존 Claude의 Slack 연동이 단순 질의응답 수준이었다면, 이번 Claude Tag는 조직 내 대화 흐름에 상시 참여하며 맥락을 축적하는 방식으로 한 단계 진화했다.\n\n## 주요 내용\n- Slack 채널에서 @Claude Tag로 호출하면 해당 대화 맥락을 이해하고 즉각 응답하는 '상시 AI 팀원' 기능 제공\n- 단순 답변에 그치지 않고, 반복되는 Slack 대화를 통해 해당 기업의 업무 방식, 용어, 내부 프로세스를 점진적으로 학습\n- 조직의 기관 지식(Institutional Knowledge)과 워크플로우를 AI가 내재화함으로써, 시간이 지날수록 더 정확하고 맥락에 맞는 지원이 가능해지는 구조\n\n## 시장 영향\nClaude Tag는 생산성 툴을 넘어 기업 데이터와 워크플로우를 선점하려는 Anthropic의 엔터프라이즈 전략으로 해석된다. Microsoft Copilot(Teams), Google Gemini(Workspace)와의 직접 경쟁 구도가 형성되며, AI가 단순 도구가 아닌 '조직 기억'을 보유한 존재로 자리잡을 경우 기업의 AI 플랫폼 종속성도 한층 강화될 전망이다.",
