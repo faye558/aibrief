@@ -176,7 +176,9 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
 
   return (
     <a
-      href={`/article/${article.slug}`}
+      href={article.content ? `/article/${article.slug}` : (article.sourceUrl ?? `/article/${article.slug}`)}
+      target={article.content ? undefined : "_blank"}
+      rel={article.content ? undefined : "noopener noreferrer"}
       onMouseEnter={() => setHovered(true)}
       onMouseLeave={() => setHovered(false)}
       style={{
