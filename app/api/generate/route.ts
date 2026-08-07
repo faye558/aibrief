@@ -1,7 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 
-export const runtime = "nodejs";
-
 const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
 
 function checkAuth(req: NextRequest) {
