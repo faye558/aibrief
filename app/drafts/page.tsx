@@ -34,6 +34,10 @@ export default function DraftsPage() {
   const [msg, setMsg] = useState("");
   const [showWrite, setShowWrite] = useState(false);
   const [form, setForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
+  const [editingId, setEditingId] = useState<string | null>(null);
+  const [editForm, setEditForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
+  const [editSaving, setEditSaving] = useState(false);
+  const [search, setSearch] = useState("");
   const [saving, setSaving] = useState(false);
   const [topic, setTopic] = useState("");
   const [generating, setGenerating] = useState(false);
@@ -71,6 +75,46 @@ export default function DraftsPage() {
     setDrafts((d) => d.filter((a) => a.id !== id));
     setMsg(hide ? "숨김 처리됨" : "복원됨");
     setTimeout(() => setMsg(""), 2000);
+  }
+
+  function startEdit(d: Draft) {
+    setEditingId(d.id);
+    setEditForm({
+      title: d.title,
+      summary: d.summary,
+      content: d.content ?? "",
+      category: d.category,
+      tags: d.tags.join(", "),
+      sourceName: d.sourceName,
+      sourceUrl: d.sourceUrl ?? "",
+    });
+    setExpanded(d.id);
+  }
+
+  async function saveEdit(id: string) {
+    setEditSaving(true);
+    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+      method: "PATCH",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        id,
+        action: "edit",
+        ...editForm,
+        tags: editForm.tags.split(",").map((t) => t.trim()).filter(Boolean),
+        sourceUrl: editForm.sourceUrl || null,
+      }),
+    });
+    setDrafts((prev) =>
+      prev.map((a) =>
+        a.id === id
+          ? { ...a, ...editForm, tags: editForm.tags.split(",").map((t) => t.trim()).filter(Boolean), sourceUrl: editForm.sourceUrl || null }
+          : a
+      )
+    );
+    setEditingId(null);
+    setMsg("✓ 수정됨");
+    setTimeout(() => setMsg(""), 2000);
+    setEditSaving(false);
   }
 
   async function remove(id: string) {
@@ -171,6 +215,14 @@ export default function DraftsPage() {
           </div>
         </div>
 
+        {/* 검색 */}
+        <input
+          placeholder="제목으로 검색..."
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          style={{ ...inputStyle, marginBottom: "16px" }}
+        />
+
         {/* 탭 */}
         <div style={{ display: "flex", gap: "4px", marginBottom: "24px", background: "var(--surface)", borderRadius: "10px", padding: "4px", width: "fit-content" }}>
           {(["drafts", "published"] as const).map((t) => (
@@ -229,7 +281,7 @@ export default function DraftsPage() {
           </div>
         ) : (
           <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
-            {drafts.map((d) => (
+            {drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase())).map((d) => (
               <div key={d.id} style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "14px", overflow: "hidden" }}>
                 <div style={{ padding: "20px 24px", cursor: "pointer" }} onClick={() => setExpanded(expanded === d.id ? null : d.id)}>
                   <div style={{ display: "flex", alignItems: "flex-start", gap: "12px", justifyContent: "space-between" }}>
@@ -247,17 +299,41 @@ export default function DraftsPage() {
 
                 {expanded === d.id && (
                   <div style={{ borderTop: "1px solid var(--border)", padding: "20px 24px" }}>
-                    <p style={{ fontSize: "14px", lineHeight: 1.7, color: "var(--text-muted)", marginBottom: "16px" }}>{d.summary}</p>
-                    {d.content && (
-                      <pre style={{ fontSize: "13px", lineHeight: 1.7, color: "var(--text-faint)", whiteSpace: "pre-wrap", fontFamily: "inherit", marginBottom: "16px" }}>{d.content}</pre>
-                    )}
-                    {d.tags.length > 0 && (
-                      <div style={{ display: "flex", gap: "6px", flexWrap: "wrap", marginBottom: "16px" }}>
-                        {d.tags.map((t) => <span key={t} style={{ fontSize: "12px", color: "var(--text-faint)", background: "var(--bg)", border: "1px solid var(--border)", padding: "2px 8px", borderRadius: "20px" }}>#{t}</span>)}
+                    {editingId === d.id ? (
+                      <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
+                        <input value={editForm.title} onChange={(e) => setEditForm({ ...editForm, title: e.target.value })} placeholder="제목" style={inputStyle} />
+                        <textarea value={editForm.summary} onChange={(e) => setEditForm({ ...editForm, summary: e.target.value })} placeholder="요약" rows={2} style={{ ...inputStyle, resize: "vertical" }} />
+                        <textarea value={editForm.content} onChange={(e) => setEditForm({ ...editForm, content: e.target.value })} placeholder="본문" rows={8} style={{ ...inputStyle, resize: "vertical", fontFamily: "monospace", fontSize: "13px" }} />
+                        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px" }}>
+                          <select value={editForm.category} onChange={(e) => setEditForm({ ...editForm, category: e.target.value })} style={inputStyle}>
+                            {CATEGORIES.map((c) => <option key={c} value={c}>{c}</option>)}
+                          </select>
+                          <input value={editForm.tags} onChange={(e) => setEditForm({ ...editForm, tags: e.target.value })} placeholder="태그 (쉼표로 구분)" style={inputStyle} />
+                        </div>
+                        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "10px" }}>
+                          <input value={editForm.sourceName} onChange={(e) => setEditForm({ ...editForm, sourceName: e.target.value })} placeholder="출처명" style={inputStyle} />
+                          <input value={editForm.sourceUrl} onChange={(e) => setEditForm({ ...editForm, sourceUrl: e.target.value })} placeholder="출처 URL" style={inputStyle} />
+                        </div>
+                        <div style={{ display: "flex", gap: "8px", justifyContent: "flex-end", marginTop: "4px" }}>
+                          <button onClick={() => setEditingId(null)} style={{ padding: "7px 16px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text-faint)", fontSize: "13px", cursor: "pointer" }}>취소</button>
+                          <button onClick={() => saveEdit(d.id)} disabled={editSaving} style={{ padding: "7px 18px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer", opacity: editSaving ? 0.6 : 1 }}>{editSaving ? "저장 중..." : "저장"}</button>
+                        </div>
                       </div>
-                    )}
-                    {d.sourceUrl && (
-                      <a href={d.sourceUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: "12px", color: "var(--accent-hover)", textDecoration: "none" }}>{d.sourceUrl}</a>
+                    ) : (
+                      <>
+                        <p style={{ fontSize: "14px", lineHeight: 1.7, color: "var(--text-muted)", marginBottom: "16px" }}>{d.summary}</p>
+                        {d.content && (
+                          <pre style={{ fontSize: "13px", lineHeight: 1.7, color: "var(--text-faint)", whiteSpace: "pre-wrap", fontFamily: "inherit", marginBottom: "16px" }}>{d.content}</pre>
+                        )}
+                        {d.tags.length > 0 && (
+                          <div style={{ display: "flex", gap: "6px", flexWrap: "wrap", marginBottom: "16px" }}>
+                            {d.tags.map((t) => <span key={t} style={{ fontSize: "12px", color: "var(--text-faint)", background: "var(--bg)", border: "1px solid var(--border)", padding: "2px 8px", borderRadius: "20px" }}>#{t}</span>)}
+                          </div>
+                        )}
+                        {d.sourceUrl && (
+                          <a href={d.sourceUrl} target="_blank" rel="noopener noreferrer" style={{ fontSize: "12px", color: "var(--accent-hover)", textDecoration: "none" }}>{d.sourceUrl}</a>
+                        )}
+                      </>
                     )}
                   </div>
                 )}
@@ -266,6 +342,11 @@ export default function DraftsPage() {
                   <button onClick={() => remove(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text-faint)", fontSize: "13px", cursor: "pointer" }}>
                     삭제
                   </button>
+                  {editingId !== d.id && (
+                    <button onClick={() => startEdit(d)} style={{ padding: "7px 16px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text)", fontSize: "13px", cursor: "pointer" }}>
+                      수정
+                    </button>
+                  )}
                   {tab === "published" ? (
                     <button onClick={() => toggleHidden(d.id, !(d as Draft & { hidden?: boolean }).hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
                       숨기기

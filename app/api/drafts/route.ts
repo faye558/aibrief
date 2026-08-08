@@ -48,12 +48,17 @@ export async function GET(req: NextRequest) {
 
 export async function PATCH(req: NextRequest) {
   if (!checkAuth(req)) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
-  const { id, action } = await req.json();
+  const body = await req.json();
+  const { id, action } = body;
   const { articles, sha } = await getFile();
   const idx = articles.findIndex((a: { id: string }) => a.id === id);
   if (idx === -1) return NextResponse.json({ error: "not found" }, { status: 404 });
   if (action === "hide") (articles[idx] as { hidden: boolean }).hidden = true;
   else if (action === "unhide") (articles[idx] as { hidden: boolean }).hidden = false;
+  else if (action === "edit") {
+    const { title, summary, content, category, tags, sourceName, sourceUrl } = body;
+    Object.assign(articles[idx], { title, summary, content, category, tags, sourceName, sourceUrl: sourceUrl || null });
+  }
   else (articles[idx] as { draft: boolean }).draft = false;
   await putFile(articles, sha);
   return NextResponse.json({ ok: true });
