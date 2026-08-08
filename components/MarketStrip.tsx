@@ -61,7 +61,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
   }
 
   return (
-    <div style={{ display: "flex", gap: "8px", overflowX: "auto", padding: "12px 16px", borderBottom: "1px solid var(--border)", scrollbarWidth: "none" }}>
+    <div style={{ display: "flex", gap: "8px", overflowX: "auto", padding: "12px 16px", borderBottom: "1px solid var(--border)", scrollbarWidth: "none", justifyContent: "center", flexWrap: "wrap" }}>
       {loading ? (
         [1,2,3,4,5].map((i) => (
           <div key={i} style={{ flexShrink: 0, width: "110px", height: "60px", borderRadius: "10px", background: "var(--surface)", opacity: 0.5 }} />
