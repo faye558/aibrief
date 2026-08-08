@@ -1,11 +1,20 @@
 import { NextResponse } from "next/server";
 
+function prevBusinessDay(): string {
+  const d = new Date();
+  d.setDate(d.getDate() - 1);
+  if (d.getDay() === 0) d.setDate(d.getDate() - 2);
+  if (d.getDay() === 6) d.setDate(d.getDate() - 1);
+  return d.toISOString().slice(0, 10);
+}
+
 async function fetchExchangeRates() {
+  const prev = prevBusinessDay();
   const [usdRes, jpyRes, usdPrevRes, jpyPrevRes] = await Promise.all([
     fetch("https://api.frankfurter.app/latest?from=USD&to=KRW", { next: { revalidate: 300 } }),
     fetch("https://api.frankfurter.app/latest?from=JPY&to=KRW", { next: { revalidate: 300 } }),
-    fetch("https://api.frankfurter.app/2d-ago?from=USD&to=KRW", { next: { revalidate: 300 } }),
-    fetch("https://api.frankfurter.app/2d-ago?from=JPY&to=KRW", { next: { revalidate: 300 } }),
+    fetch(`https://api.frankfurter.app/${prev}?from=USD&to=KRW`, { next: { revalidate: 3600 } }),
+    fetch(`https://api.frankfurter.app/${prev}?from=JPY&to=KRW`, { next: { revalidate: 3600 } }),
   ]);
   const [usd, jpy, usdPrev, jpyPrev] = await Promise.all([usdRes.json(), jpyRes.json(), usdPrevRes.json(), jpyPrevRes.json()]);
   const usdNow = usd.rates?.KRW as number;
