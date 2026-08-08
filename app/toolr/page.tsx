@@ -12,8 +12,11 @@ export default function ToolrPage() {
         <div style={{ fontSize: "32px", fontWeight: 800, letterSpacing: "-0.02em", marginBottom: "12px" }}>
           toolr
         </div>
-        <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.6, marginBottom: "48px" }}>
-          AI·테크 분야의 유용한 서비스를 만듭니다.
+        <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.6, marginBottom: "8px" }}>
+          실용적인 웹 툴을 만드는 작은 스튜디오.
+        </p>
+        <p style={{ fontSize: "14px", color: "#484f58", lineHeight: 1.6, marginBottom: "48px" }}>
+          도움이 되는 것들을 만듭니다.
         </p>
 
         <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
