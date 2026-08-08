@@ -1,12 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getAccessToken } from "@/lib/google-auth";
 
-const PROPERTY_ID = process.env.GA4_PROPERTY_ID;
+const DEFAULT_PROPERTY_ID = process.env.GA4_PROPERTY_ID;
 const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
 
 export async function GET(req: NextRequest) {
   const key = req.headers.get("x-drafts-key") ?? req.nextUrl.searchParams.get("key");
   if (key !== DRAFTS_KEY) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
+  const PROPERTY_ID = req.nextUrl.searchParams.get("propertyId") || DEFAULT_PROPERTY_ID;
   if (!PROPERTY_ID) return NextResponse.json({ error: "GA4_PROPERTY_ID 없음" }, { status: 500 });
 
   try {
