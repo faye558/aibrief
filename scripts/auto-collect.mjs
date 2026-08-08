@@ -566,14 +566,14 @@ const KOREAN_SOURCES = [
     rssUrl: 'https://www.madtimes.co.kr/rss/allArticle.xml',
     keywords: ['AI', '디자인', '콘텐츠', '마케팅', '플랫폼', '광고', '브랜드', '산돌', '윤디자인', '어도비', '캔바', '망고보드', '미리캔버스'],
     maxItems: 3,
-    outlink: true,
+    curation: true,
   },
   {
     name: '디자인정글',
     rssUrl: 'https://www.jungle.co.kr/rss/allArticle.xml',
     keywords: ['AI', '디자인', 'UX', 'UI', '어도비', '캔바', '폰트', '산돌', '눈누', '미리캔버스', '망고보드', '콘텐츠', '브랜드'],
     maxItems: 5,
-    outlink: true,
+    curation: true,
   },
 ];
 
