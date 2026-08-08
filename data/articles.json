@@ -8100,29 +8100,5 @@
     "slug": "anthropic-model",
     "draft": true,
     "id": "275"
-  },
-  {
-    "slug": "ai-how-humanitarian-organizations",
-    "title": "How humanitarian organizations are using AI to reach people faster",
-    "summary": "Minutes after catastrophic earthquakes struck Venezuela in June, GiveDirectly got an AI -generated snapshot of the disaster from an internal tool. Then it used other AI tools that analyze satellite im",
-    "content": "",
-    "company": "AI·테크",
-    "category": "AI",
-    "date": "2026-08-07",
-    "tags": [
-      "AI·테크"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://www.fastcompany.com/91585589/how-humanitarian-organizations-are-using-ai-to-reach-people-faster?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "sourceName": "Fast Company",
-    "sources": [
-      {
-        "url": "https://www.fastcompany.com/91585589/how-humanitarian-organizations-are-using-ai-to-reach-people-faster?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-        "name": "Fast Company — How humanitarian organizations are using AI to reach people faster"
-      }
-    ],
-    "communityLinks": null,
-    "draft": false,
-    "id": "276"
   }
 ]
