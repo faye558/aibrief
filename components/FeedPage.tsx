@@ -349,7 +349,9 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   return (
     <div className="page-shell">
       <GlobalNav />
-      <MarketStrip />
+
+      {/* 모바일 전용 마켓 스트립 */}
+      <div className="mobile-market"><MarketStrip /></div>
 
       {/* 모바일 카테고리 스트립 */}
       <div className="mobile-cats">
@@ -394,6 +396,11 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               );
             })}
           </nav>
+          {/* PC 전용 마켓 데이터 */}
+          <div style={{ padding: "8px 12px" }}>
+            <MarketStrip sidebar />
+          </div>
+
           <div style={{ padding: "0 12px 16px", marginTop: "auto", display: "flex", flexDirection: "column", gap: "6px" }}>
             <a href="mailto:fanfaye1@gmail.com" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>문의</a>
             <a href="/privacy" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>개인정보처리방침</a>

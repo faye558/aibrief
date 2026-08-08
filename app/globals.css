@@ -98,6 +98,16 @@ body {
   display: none;
 }
 
+.mobile-market {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .mobile-market {
+    display: block;
+  }
+}
+
 /* Card grid */
 .card-grid {
   display: grid;

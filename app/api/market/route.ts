@@ -29,11 +29,13 @@ async function fetchIndex(symbol: string) {
 
 export async function GET() {
   try {
-    const [rates, sp500, nasdaq, kospi] = await Promise.all([
+    const [rates, sp500, nasdaq, kodex, samsung, hynix] = await Promise.all([
       fetchExchangeRates(),
       fetchIndex("^GSPC"),
       fetchIndex("^IXIC"),
-      fetchIndex("^KS200"),
+      fetchIndex("069500.KS"),
+      fetchIndex("005930.KS"),
+      fetchIndex("000660.KS"),
     ]);
 
     return NextResponse.json({
@@ -42,7 +44,9 @@ export async function GET() {
         { id: "jpy", label: "엔화 (100엔)", value: Math.round(rates.jpy * 100), unit: "원", change: null },
         { id: "sp500", label: "S&P 500", value: sp500.value, unit: "", change: sp500.change },
         { id: "nasdaq", label: "나스닥", value: nasdaq.value, unit: "", change: nasdaq.change },
-        { id: "kospi200", label: "코스피200", value: kospi.value, unit: "", change: kospi.change },
+        { id: "kodex200", label: "KODEX200", value: kodex.value, unit: "", change: kodex.change },
+        { id: "samsung", label: "삼성전자", value: samsung.value, unit: "", change: samsung.change },
+        { id: "hynix", label: "SK하이닉스", value: hynix.value, unit: "", change: hynix.change },
       ],
       updatedAt: new Date().toISOString(),
     });
