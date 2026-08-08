@@ -70,7 +70,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
         const up = item.change != null && item.change > 0;
         const down = item.change != null && item.change < 0;
         return (
-          <div key={item.id} style={{ flexShrink: 0, background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "10px", padding: "10px 14px", minWidth: "110px" }}>
+          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "10px", padding: "10px 14px", minWidth: "100px" }}>
             <div style={{ fontSize: "11px", color: "var(--text-faint)", marginBottom: "4px", whiteSpace: "nowrap" }}>{item.label}</div>
             <div style={{ fontSize: "14px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
               {fmtValue(item)}
