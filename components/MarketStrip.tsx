@@ -70,16 +70,18 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
         const up = item.change != null && item.change > 0;
         const down = item.change != null && item.change < 0;
         return (
-          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "10px", padding: "10px 14px", minWidth: "100px" }}>
-            <div style={{ fontSize: "11px", color: "var(--text-faint)", marginBottom: "4px", whiteSpace: "nowrap" }}>{item.label}</div>
-            <div style={{ fontSize: "14px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
-              {fmtValue(item)}
+          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "8px", padding: "8px 12px", minWidth: "100px" }}>
+            <div style={{ fontSize: "10px", color: "var(--text-faint)", marginBottom: "3px", whiteSpace: "nowrap" }}>{item.label}</div>
+            <div style={{ display: "flex", alignItems: "baseline", gap: "6px", flexWrap: "nowrap" }}>
+              <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
+                {fmtValue(item)}
+              </span>
+              {item.change != null && (
+                <span style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
+                  {up ? "▲" : down ? "▼" : ""}{Math.abs(item.change).toFixed(2)}%
+                </span>
+              )}
             </div>
-            {item.change != null && (
-              <div style={{ fontSize: "11px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", marginTop: "2px", fontVariantNumeric: "tabular-nums" }}>
-                {up ? "▲" : down ? "▼" : ""} {Math.abs(item.change).toFixed(2)}%
-              </div>
-            )}
           </div>
         );
       })}
