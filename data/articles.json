@@ -6978,7 +6978,8 @@
       }
     ],
     "slug": "lg-cns-cns",
-    "id": "247"
+    "id": "247",
+    "hidden": true
   },
   {
     "title": "LG CNS, 엔비디아·메타 참여 글로벌 AI 신소재 연합 창립멤버 합류",
