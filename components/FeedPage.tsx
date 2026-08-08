@@ -392,7 +392,8 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               );
             })}
           </nav>
-          <div style={{ padding: "0 12px 16px", marginTop: "auto" }}>
+          <div style={{ padding: "0 12px 16px", marginTop: "auto", display: "flex", flexDirection: "column", gap: "6px" }}>
+            <a href="mailto:fanfaye1@gmail.com" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>문의</a>
             <a href="/privacy" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>개인정보처리방침</a>
           </div>
         </aside>
