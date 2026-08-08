@@ -70,15 +70,15 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
         const up = item.change != null && item.change > 0;
         const down = item.change != null && item.change < 0;
         return (
-          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--bg)", border: "1px solid var(--border)", borderRadius: "8px", padding: "8px 12px", minWidth: "100px" }}>
-            <div style={{ fontSize: "10px", color: "var(--text-faint)", marginBottom: "3px", whiteSpace: "nowrap" }}>{item.label}</div>
-            <div style={{ display: "flex", alignItems: "baseline", gap: "6px", flexWrap: "nowrap" }}>
-              <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
+          <div key={item.id} style={{ flex: "1 0 90px", background: "var(--bg)", border: "1px solid var(--border)", borderRadius: "8px", padding: "7px 10px", minWidth: "90px", overflow: "hidden" }}>
+            <div style={{ fontSize: "10px", color: "var(--text-faint)", marginBottom: "3px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{item.label}</div>
+            <div style={{ display: "flex", alignItems: "baseline", gap: "4px", overflow: "hidden" }}>
+              <span style={{ fontSize: "12px", fontWeight: 700, color: "var(--text)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums", minWidth: 0 }}>
                 {fmtValue(item)}
               </span>
               {item.change != null && (
-                <span style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
-                  {up ? "▲" : down ? "▼" : ""}{Math.abs(item.change).toFixed(2)}%
+                <span style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", whiteSpace: "nowrap", flexShrink: 0, fontVariantNumeric: "tabular-nums" }}>
+                  {up ? "▲" : down ? "▼" : ""}{Math.abs(item.change).toFixed(1)}%
                 </span>
               )}
             </div>
