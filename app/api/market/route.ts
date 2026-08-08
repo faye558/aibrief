@@ -1,14 +1,22 @@
 import { NextResponse } from "next/server";
 
 async function fetchExchangeRates() {
-  const [usdRes, jpyRes] = await Promise.all([
+  const [usdRes, jpyRes, usdPrevRes, jpyPrevRes] = await Promise.all([
     fetch("https://api.frankfurter.app/latest?from=USD&to=KRW", { next: { revalidate: 300 } }),
     fetch("https://api.frankfurter.app/latest?from=JPY&to=KRW", { next: { revalidate: 300 } }),
+    fetch("https://api.frankfurter.app/2d-ago?from=USD&to=KRW", { next: { revalidate: 300 } }),
+    fetch("https://api.frankfurter.app/2d-ago?from=JPY&to=KRW", { next: { revalidate: 300 } }),
   ]);
-  const [usd, jpy] = await Promise.all([usdRes.json(), jpyRes.json()]);
+  const [usd, jpy, usdPrev, jpyPrev] = await Promise.all([usdRes.json(), jpyRes.json(), usdPrevRes.json(), jpyPrevRes.json()]);
+  const usdNow = usd.rates?.KRW as number;
+  const jpyNow = jpy.rates?.KRW as number;
+  const usdPrevVal = usdPrev.rates?.KRW as number;
+  const jpyPrevVal = jpyPrev.rates?.KRW as number;
   return {
-    usd: usd.rates?.KRW as number,
-    jpy: jpy.rates?.KRW as number,
+    usd: usdNow,
+    usdChange: usdPrevVal ? ((usdNow - usdPrevVal) / usdPrevVal) * 100 : null,
+    jpy: jpyNow,
+    jpyChange: jpyPrevVal ? ((jpyNow - jpyPrevVal) / jpyPrevVal) * 100 : null,
   };
 }
 
@@ -40,13 +48,13 @@ export async function GET() {
 
     return NextResponse.json({
       items: [
-        { id: "usd", label: "달러", value: rates.usd, unit: "원", change: null },
-        { id: "jpy", label: "엔화 (100엔)", value: Math.round(rates.jpy * 100), unit: "원", change: null },
-        { id: "sp500", label: "S&P 500", value: sp500.value, unit: "", change: sp500.change },
-        { id: "nasdaq", label: "나스닥", value: nasdaq.value, unit: "", change: nasdaq.change },
+        { id: "jpy", label: "엔화 (100엔)", value: Math.round(rates.jpy * 100), unit: "원", change: rates.jpyChange },
+        { id: "usd", label: "달러", value: rates.usd, unit: "원", change: rates.usdChange },
         { id: "kodex200", label: "KODEX200", value: kodex.value, unit: "", change: kodex.change },
         { id: "samsung", label: "삼성전자", value: samsung.value, unit: "", change: samsung.change },
         { id: "hynix", label: "SK하이닉스", value: hynix.value, unit: "", change: hynix.change },
+        { id: "sp500", label: "S&P 500", value: sp500.value, unit: "", change: sp500.change },
+        { id: "nasdaq", label: "나스닥", value: nasdaq.value, unit: "", change: nasdaq.change },
       ],
       updatedAt: new Date().toISOString(),
     });

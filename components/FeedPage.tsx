@@ -349,9 +349,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   return (
     <div className="page-shell">
       <GlobalNav />
-
-      {/* 모바일 전용 마켓 스트립 */}
-      <div className="mobile-market"><MarketStrip /></div>
+      <MarketStrip />
 
       {/* 모바일 카테고리 스트립 */}
       <div className="mobile-cats">
@@ -396,11 +394,6 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               );
             })}
           </nav>
-          {/* PC 전용 마켓 데이터 */}
-          <div style={{ padding: "8px 12px" }}>
-            <MarketStrip sidebar />
-          </div>
-
           <div style={{ padding: "0 12px 16px", marginTop: "auto", display: "flex", flexDirection: "column", gap: "6px" }}>
             <a href="mailto:fanfaye1@gmail.com" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>문의</a>
             <a href="/privacy" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>개인정보처리방침</a>
@@ -411,7 +404,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
         <main className="feed-main">
           {/* 검색창 */}
           <div style={{ position: "relative", marginBottom: "20px" }}>
-            <svg style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", pointerEvents: "none" }} width="14" height="14" viewBox="0 0 14 14" fill="none"><circle cx="7" cy="7" r="5" stroke="var(--text-faint)" strokeWidth="1.5"/></svg>
+            <svg style={{ position: "absolute", left: "14px", top: "50%", transform: "translateY(-50%)", pointerEvents: "none" }} width="14" height="14" viewBox="0 0 14 14" fill="none"><circle cx="5.5" cy="5.5" r="4" stroke="var(--text-faint)" strokeWidth="1.5"/><line x1="8.5" y1="8.5" x2="12.5" y2="12.5" stroke="var(--text-faint)" strokeWidth="1.5" strokeLinecap="round"/></svg>
             <input
               type="text"
               placeholder="콘텐츠 검색..."
@@ -533,23 +526,6 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
             </div>
           ))}
 
-          <div style={{ marginTop: "28px", display: "flex", flexWrap: "wrap", gap: "6px" }}>
-            {topSources.map(([name]) => {
-              const cs = getCompanyStyle(name);
-              const active = activeSource === name;
-              return (
-                <button key={name} onClick={() => setActiveSource(active ? null : name)} style={{
-                  padding: "5px 12px", borderRadius: "20px", border: `1px solid ${active ? cs.color + "80" : "var(--border)"}`,
-                  background: active ? cs.bg : "transparent",
-                  color: active ? cs.color : "var(--text-muted)",
-                  fontSize: "12px", fontWeight: active ? 600 : 400,
-                  cursor: "pointer", transition: "all 0.12s",
-                }}>
-                  {name}
-                </button>
-              );
-            })}
-          </div>
         </aside>
       </div>
     </div>

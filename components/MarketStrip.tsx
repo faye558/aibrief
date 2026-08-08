@@ -23,6 +23,11 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
   if (!loading && items.length === 0) return null;
 
   const isKrw = (id: string) => id === "usd" || id === "jpy";
+  const fmtValue = (item: MarketItem) => {
+    if (item.value == null) return "—";
+    if (isKrw(item.id)) return item.value.toLocaleString("ko-KR") + item.unit;
+    return item.value.toLocaleString("en-US", { maximumFractionDigits: 2 });
+  };
 
   if (sidebar) {
     return (
@@ -40,11 +45,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
               <span style={{ fontSize: "11px", color: "var(--text-faint)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", maxWidth: "80px" }}>{item.label}</span>
               <div style={{ textAlign: "right", flexShrink: 0 }}>
                 <div style={{ fontSize: "12px", fontWeight: 700, color: "var(--text)", fontVariantNumeric: "tabular-nums" }}>
-                  {item.value != null
-                    ? isKrw(item.id)
-                      ? item.value.toLocaleString("ko-KR") + item.unit
-                      : item.value.toLocaleString("en-US", { maximumFractionDigits: 2 })
-                    : "—"}
+                  {fmtValue(item)}
                 </div>
                 {item.change != null && (
                   <div style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", fontVariantNumeric: "tabular-nums" }}>
@@ -72,11 +73,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
           <div key={item.id} style={{ flexShrink: 0, background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "10px", padding: "10px 14px", minWidth: "110px" }}>
             <div style={{ fontSize: "11px", color: "var(--text-faint)", marginBottom: "4px", whiteSpace: "nowrap" }}>{item.label}</div>
             <div style={{ fontSize: "14px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
-              {item.value != null
-                ? isKrw(item.id)
-                  ? item.value.toLocaleString("ko-KR") + item.unit
-                  : item.value.toLocaleString("en-US", { maximumFractionDigits: 2 })
-                : "—"}
+              {fmtValue(item)}
             </div>
             {item.change != null && (
               <div style={{ fontSize: "11px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", marginTop: "2px", fontVariantNumeric: "tabular-nums" }}>
