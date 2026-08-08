@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import GlobalNav from "./GlobalNav";
+import MarketStrip from "./MarketStrip";
 import type { Article as RawArticle } from "@/app/page";
 
 // ── 카테고리 매핑 ──────────────────────────────
@@ -348,6 +349,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   return (
     <div className="page-shell">
       <GlobalNav />
+      <MarketStrip />
 
       {/* 모바일 카테고리 스트립 */}
       <div className="mobile-cats">
