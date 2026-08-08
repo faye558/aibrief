@@ -70,7 +70,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
         const up = item.change != null && item.change > 0;
         const down = item.change != null && item.change < 0;
         return (
-          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "8px", padding: "8px 12px", minWidth: "100px" }}>
+          <div key={item.id} style={{ flex: "1 0 100px", background: "var(--bg)", border: "1px solid var(--border)", borderRadius: "8px", padding: "8px 12px", minWidth: "100px" }}>
             <div style={{ fontSize: "10px", color: "var(--text-faint)", marginBottom: "3px", whiteSpace: "nowrap" }}>{item.label}</div>
             <div style={{ display: "flex", alignItems: "baseline", gap: "6px", flexWrap: "nowrap" }}>
               <span style={{ fontSize: "13px", fontWeight: 700, color: "var(--text)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
