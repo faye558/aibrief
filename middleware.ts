@@ -2,11 +2,19 @@ import { NextRequest, NextResponse } from "next/server";
 
 export function middleware(req: NextRequest) {
   const host = req.headers.get("host") ?? "";
+  const pathname = req.nextUrl.pathname;
+
   if (host === "toolr.kr" || host === "www.toolr.kr") {
     const url = req.nextUrl.clone();
-    url.pathname = "/toolr";
+    url.pathname = pathname === "/privacy" ? "/toolr-privacy" : "/toolr";
     return NextResponse.rewrite(url);
   }
+
+  // aibrief.toolr.kr/privacy → toolr.kr/privacy
+  if ((host === "aibrief.toolr.kr") && pathname === "/privacy") {
+    return NextResponse.redirect("https://toolr.kr/privacy");
+  }
+
   return NextResponse.next();
 }
 
