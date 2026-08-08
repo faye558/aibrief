@@ -16,7 +16,7 @@ export default function ToolrPage() {
           툴러
         </div>
         <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.8, marginBottom: "48px" }}>
-          일하는 사람들에게 실제로 도움이 되는 것들을 만듭니다.<br />
+          쓸모 있는 것들을 만듭니다.<br />
           작고 실용적인 웹 툴을 하나씩 쌓아가는 작은 스튜디오예요.
         </p>
 
