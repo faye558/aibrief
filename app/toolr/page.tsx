@@ -32,6 +32,7 @@ export default function ToolrPage() {
 
         <div style={{ marginTop: "48px", fontSize: "12px", color: "#484f58", display: "flex", gap: "16px", justifyContent: "center" }}>
           <span>© 2026 toolr.kr</span>
+          <a href="mailto:fanfaye1@gmail.com" style={{ color: "#484f58", textDecoration: "none" }}>문의</a>
           <a href="https://aibrief.toolr.kr/privacy" style={{ color: "#484f58", textDecoration: "none" }}>개인정보처리방침</a>
         </div>
       </div>
