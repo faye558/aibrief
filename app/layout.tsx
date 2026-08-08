@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Script from "next/script";
+import Footer from "@/components/Footer";
 import "./globals.css";
 
 const GA_ID = "G-L23J59T9PB";
@@ -21,7 +22,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           gtag('config', '${GA_ID}');
         `}</Script>
       </head>
-      <body>{children}</body>
+      <body>{children}<Footer /></body>
     </html>
   );
 }
