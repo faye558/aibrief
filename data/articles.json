@@ -6617,47 +6617,6 @@
     "id": "231"
   },
   {
-    "title": "OpenAI, GPT-5.6 파일 삭제 오작동 원인 공개…샌드박스·오토 리뷰 비활성화가 주요 원인",
-    "summary": "OpenAI가 GPT-5.6의 파일 삭제 오작동 조사 결과를 발표했다. 풀 액세스 권한 모드에서 샌드박스 보호 기능과 오토 리뷰 기능을 사용하지 않은 경우 문제가 주로 발생한 것으로 확인됐다. OpenAI는 재발 방지를 위해 개발자들에게 안전 장치 활성화와 권한 설정 조정을 권고했다.",
-    "content": "## 주요 내용\n- OpenAI 코덱스 책임자 티보 소티오가 GPT-5.6 파일 삭제 오작동 조사 결과를 X(트위터)를 통해 공개\n- 문제는 '풀 액세스(Full Access)' 권한 모드로 코덱스 에이전트를 실행하면서 샌드박스 보호 기능과 오토 리뷰 기능을 미사용한 경우 주로 발생\n- OpenAI는 개발자들에게 안전 장치 활성화 및 권한 설정 조정을 재발 방지책으로 권고\n\n## 의미\n이번 사례는 AI 에이전트 운영 시 샌드박스 및 검토 기능 등 안전 장치 활성화의 중요성을 다시 한번 부각시킨 사건으로, 개발자 환경 설정의 중요성이 강조된다.",
-    "company": "OpenAI",
-    "category": "AI모델",
-    "date": "2026-07-17",
-    "tags": [
-      "OpenAI",
-      "GPT-5.6",
-      "코덱스",
-      "파일삭제",
-      "AI안전"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=212888",
-    "sourceName": "AI타임스",
-    "sources": [
-      {
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=212888",
-        "name": "AI타임스 — 오픈AI, GPT-5.6 '파일 삭제' 원인 규명...\"샌드박스·오토 리뷰 필수\""
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": [
-      {
-        "name": "Reddit r/ChatGPT",
-        "url": "https://www.reddit.com/r/ChatGPT/new/"
-      },
-      {
-        "name": "Reddit r/OpenAI",
-        "url": "https://www.reddit.com/r/OpenAI/new/"
-      },
-      {
-        "name": "클리앙 검색: ChatGPT",
-        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
-      }
-    ],
-    "slug": "openai-gpt-5-6-release",
-    "id": "232"
-  },
-  {
     "title": "앤트로픽, '페이블 5' 무료 프로모션 종료…맥스·팀 프리미엄 요금제에 정식 편입·50% 사용 제한 적용",
     "summary": "앤트로픽이 페이블 5의 한시적 무료 프로모션을 종료하고, 20일부터 맥스 및 팀 프리미엄 요금제에 정식 포함하는 유료 플랜 정책으로 전환한다. 단, 주간 사용량의 50% 제한이 적용되며, 기존 프로·팀 스탠다드 이용자는 정기 구독 범위 내에서만 이용 가능하다.",
     "content": "## 주요 내용\n- 앤트로픽은 18일(현지시간) X를 통해 페이블 5 정식 유료 플랜 전환을 발표\n- 20일부터 맥스 및 팀 프리미엄 요금제에 페이블 5 정식 포함\n- 주간 사용량 50% 제한 적용\n- 기존 프로·팀 스탠다드 이용자는 정기 구독 범위 내 이용으로 제한\n- GPT-5.6 공세에 대응해 연장해 온 전면 개방을 마무리한 것으로 분석\n\n## 의미\n인프라 비용 부담과 수요 예측 한계를 감안해 본격적인 수익화 및 사용량 통제 전략으로 선회한 것으로, 무료 개방 경쟁에서 유료 플랜 중심의 운영 체계로 전환하는 신호로 볼 수 있다.",
