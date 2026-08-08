@@ -545,21 +545,21 @@ const KOREAN_SOURCES = [
     rssUrl: 'https://venturebeat.com/category/ai/feed/',
     keywords: ['AI', 'LLM', 'agent', 'agentic', 'enterprise', 'workplace', 'productivity', 'future of work', 'Claude', 'OpenAI', 'Anthropic', 'Google', 'platform'],
     maxItems: 5,
-    outlink: true,
+    curation: true,
   },
   {
     name: 'Harvard Business Review AI',
     rssUrl: 'https://feeds.hbr.org/harvardbusiness',
     keywords: ['AI', 'artificial intelligence', 'future of work', 'workplace', 'productivity', 'automation', 'digital transformation', 'leadership', 'generative AI'],
     maxItems: 4,
-    outlink: true,
+    curation: true,
   },
   {
     name: 'Fast Company',
     rssUrl: 'https://www.fastcompany.com/technology/rss',
     keywords: ['AI', 'artificial intelligence', 'future of work', 'workplace', 'productivity', 'automation', 'generative AI', 'startup', 'tech'],
     maxItems: 4,
-    outlink: true,
+    curation: true,
   },
   {
     name: '매드타임스',
@@ -802,12 +802,28 @@ function inferCompanyCategory(title, description) {
 // ───────────────────────────────────────────
 // Claude API로 한국어 기사 생성
 // ───────────────────────────────────────────
-function makeOutlinkArticle(company, category, item, sourceName, usedSlugs = new Set()) {
-  const title = extractTitle(item);
+function isEnglishTitle(title) {
+  const englishChars = (title.match(/[A-Za-z\s]/g) || []).length;
+  return englishChars / title.length > 0.5;
+}
+
+async function translateTitle(title) {
+  const msg = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 200,
+    messages: [{ role: 'user', content: `다음 영어 제목을 자연스러운 한국어로 번역해줘. 번역문만 출력:\n${title}` }],
+  });
+  return msg.content[0].text.trim();
+}
+
+async function makeOutlinkArticle(company, category, item, sourceName, usedSlugs = new Set()) {
+  const rawTitle = extractTitle(item);
   const link = extractLink(item);
-  if (!link || !title) throw new Error('URL 또는 제목 없음');
+  if (!link || !rawTitle) throw new Error('URL 또는 제목 없음');
   const pubDate = extractDate(item);
   const description = extractDescription(item);
+
+  const title = isEnglishTitle(rawTitle) ? await translateTitle(rawTitle) : rawTitle;
   const slug = makeSlug(company, title, usedSlugs);
   return {
     slug, title,
@@ -819,7 +835,61 @@ function makeOutlinkArticle(company, category, item, sourceName, usedSlugs = new
     imageUrl: null,
     sourceUrl: link,
     sourceName,
-    sources: [{ url: link, name: `${sourceName} — ${title}` }],
+    sources: [{ url: link, name: `${sourceName} — ${rawTitle}` }],
+    communityLinks: null,
+    draft: false,
+  };
+}
+
+async function generateCurationArticle(company, category, item, sourceName, usedSlugs = new Set()) {
+  const rawTitle = extractTitle(item);
+  const link = extractLink(item);
+  const pubDate = extractDate(item);
+  if (!link || !rawTitle) throw new Error('URL 또는 제목 없음');
+
+  const prompt = `당신은 AI·IT 분야 큐레이터입니다. 아래 기사 제목과 링크를 보고 큐레이션 노트를 작성해주세요.
+
+[기사 정보]
+제목: ${rawTitle}
+출처: ${sourceName}
+URL: ${link}
+
+[규칙]
+- 기사 내용을 요약하거나 발췌하지 마세요 (저작권 이슈).
+- 대신 이 뉴스가 업계/시장에서 왜 중요한지, 어떤 맥락인지를 당신의 관점으로 1~2문장 작성.
+- 한국어 제목은 원문을 자연스럽게 번역.
+
+[출력 형식 - JSON만]
+{
+  "title": "한국어 제목",
+  "summary": "이 뉴스가 왜 중요한가 (1문장, 큐레이터 관점)",
+  "content": "## 큐레이션 노트\\n이 뉴스가 업계에서 갖는 의미를 2~3문장으로. 기사 내용 발췌 금지, 맥락과 의의 중심.",
+  "tags": ["태그1", "태그2"]
+}`;
+
+  const message = await client.messages.create({
+    model: 'claude-haiku-4-5-20251001',
+    max_tokens: 600,
+    messages: [{ role: 'user', content: prompt }],
+  });
+
+  const raw = message.content[0].text.trim().replace(/^```json\s*/i, '').replace(/\s*```$/, '');
+  const json = JSON.parse(raw);
+  const dateStr = pubDate.toISOString().split('T')[0];
+  const slug = makeSlug(company, json.title || rawTitle, usedSlugs);
+
+  return {
+    slug,
+    title: json.title,
+    summary: json.summary,
+    content: json.content,
+    company, category,
+    date: dateStr,
+    tags: json.tags || [],
+    imageUrl: null,
+    sourceUrl: link,
+    sourceName,
+    sources: [{ url: link, name: `${sourceName} — ${rawTitle}` }],
     communityLinks: null,
     draft: false,
   };
@@ -1064,18 +1134,21 @@ async function main() {
       const inferred = inferCompanyCategory(extractTitle(item), extractDescription(item));
       if (!inferred) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
       const { company, category } = inferred;
-      console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
+      const mode = source.outlink ? '🔗' : source.curation ? '📌' : '✍️ ';
+      console.log(`  ${mode} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = source.outlink
-          ? makeOutlinkArticle(company, category, item, source.name, existingSlugs)
-          : await generateArticle(company, category, item, source.name, existingSlugs);
+          ? await makeOutlinkArticle(company, category, item, source.name, existingSlugs)
+          : source.curation
+            ? await generateCurationArticle(company, category, item, source.name, existingSlugs)
+            : await generateArticle(company, category, item, source.name, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
           if (link) existingUrls.add(link);
           existingSlugs.add(article.slug);
         }
-        if (!source.outlink) await new Promise(r => setTimeout(r, 800));
+        await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
   }
@@ -1127,18 +1200,21 @@ async function main() {
       const inferred2 = inferCompanyCategory(extractTitle(item), extractDescription(item));
       if (!inferred2) { console.log(`  skip (디자인 무관): ${extractTitle(item).slice(0, 60)}`); continue; }
       const { company, category } = inferred2;
-      console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
+      const mode2 = source.outlink ? '🔗' : source.curation ? '📌' : '✍️ ';
+      console.log(`  ${mode2} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = source.outlink
-          ? makeOutlinkArticle(company, category, item, source.name, existingSlugs)
-          : await generateArticle(company, category, item, source.name, existingSlugs);
+          ? await makeOutlinkArticle(company, category, item, source.name, existingSlugs)
+          : source.curation
+            ? await generateCurationArticle(company, category, item, source.name, existingSlugs)
+            : await generateArticle(company, category, item, source.name, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
           if (link) existingUrls.add(link);
           existingSlugs.add(article.slug);
         }
-        if (!source.outlink) await new Promise(r => setTimeout(r, 800));
+        await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
   }
