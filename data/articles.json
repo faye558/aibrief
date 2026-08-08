@@ -7424,47 +7424,6 @@
     "id": "260"
   },
   {
-    "title": "LG CNS, 전국 14개 공항에 AI 마스터플랜 수립 사업 착수",
-    "summary": "LG CNS가 한국공항공사의 'KAC AI 마스터플랜 수립 사업'에 선정돼 김포·김해·제주 등 전국 14개 공항 운영 전반에 AI를 적용하는 중장기 프로젝트를 수행한다. AI 전략 컨설팅부터 아키텍처 설계, 거버넌스 구축, 핵심 과제 기술검증(PoC), 후속 사업 실행계획 수립까지 전 과정을 지원한다.",
-    "content": "## 주요 내용\n- LG CNS, 한국공항공사 'KAC AI 마스터플랜 수립 사업' 선정\n- 대상: 김포·김해·제주 등 전국 14개 공항\n- 한국공항공사는 기획재정부 'AI 선도기관'으로 선정, 총 50개 AI 혁신 과제 추진 중\n- 수행 범위: AI 전략 컨설팅, AI·데이터 아키텍처 설계, AI 거버넌스 구축, 핵심 과제 PoC, 후속 사업 실행계획 수립\n\n## 의미\n한국공항공사가 'AI 혁신을 통한 미래공항 구현'을 목표로 추진 중인 대규모 AX(AI 전환) 사업에 LG CNS가 참여함으로써, 국내 주요 공항 운영 전반에 AI 기술 도입이 본격화될 전망이다.",
-    "company": "LG CNS",
-    "category": "AI모델",
-    "date": "2026-08-05",
-    "tags": [
-      "LG CNS",
-      "한국공항공사",
-      "AI마스터플랜",
-      "공항AI",
-      "AX"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=213540",
-    "sourceName": "AI타임스",
-    "sources": [
-      {
-        "url": "https://www.aitimes.com/news/articleView.html?idxno=213540",
-        "name": "AI타임스 — LG CNS, 김포, 제주 등 전국 14개 공항에 AI 프로젝트 추진"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": [
-      {
-        "name": "Reddit r/artificial",
-        "url": "https://www.reddit.com/r/artificial/new/"
-      },
-      {
-        "name": "클리앙 검색: LG CNS",
-        "url": "https://www.clien.net/service/search?q=LG+CNS&sort=latest"
-      },
-      {
-        "name": "디스크립 검색: LG CNS",
-        "url": "https://www.disquiet.io/search?q=LG+CNS"
-      }
-    ],
-    "slug": "lg-cns-cns-3",
-    "id": "261"
-  },
-  {
     "title": "Adobe — AI 설계 지침을 위한 윤리적 디자인 정의: DESIGN.md 파일의 부상",
     "summary": "AI 보조 디자인이 보편화되면서 많은 팀이 'DESIGN.md' 파일 형식으로 디자인 지침을 문서화하기 시작했다. 이 파일은 AI가 프로젝트의 디자인 결정을 내릴 수 있도록 타이포그래피, 간격, 색상, 컴포넌트 등의 규칙을 일반 텍스트로 정의한 일종의 규칙서다. 마크다운 파일 자체는 오래전부터 존재했지만, 현대 AI 모델이 이를 컨텍스트로 읽고 학습된 패턴 대신 문서화된 규칙을 따를 수 있게 된 것이 핵심 변화다.",
     "content": "## 주요 내용\n- AI 보조 디자인 확산으로 인해 디자인 기준을 사람과 기계 모두가 이해할 수 있는 형식으로 문서화할 필요성이 증가함\n- DESIGN.md 파일은 AI에게 타이포그래피, 간격, 색상, 컴포넌트 상호작용, 네이밍 규칙, 코딩 표준 등을 알려주는 지침서 역할을 함\n- 마크다운(.md) 파일은 소프트웨어 프로젝트 문서화 수단으로 오래전부터 사용됐으나, 현대 AI 모델이 이를 컨텍스트로 직접 읽고 규칙을 따를 수 있게 되면서 활용 방식이 변화함\n- 예시 구조: 폰트(Inter, 본문 16px, 줄 간격 1.5), 간격(8px 시스템) 등이 포함됨\n\n## 의미\nDESIGN.md 파일은 AI가 제품 전반의 일관성을 유지하며 디자인을 생성할 수 있도록 돕는 기계 가독성 규칙서로, 윤리적 설계 원칙을 AI에 적용하기 위해선 먼저 사람들이 합의할 수 있는 규칙 형태로 번역되어야 함을 시사한다.",
