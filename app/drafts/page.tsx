@@ -348,8 +348,8 @@ export default function DraftsPage() {
                     </button>
                   )}
                   {tab === "published" ? (
-                    <button onClick={() => toggleHidden(d.id, !(d as Draft & { hidden?: boolean }).hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
-                      숨기기
+                    <button onClick={() => toggleHidden(d.id, !(d as Draft & { hidden?: boolean }).hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: (d as Draft & { hidden?: boolean }).hidden ? "var(--accent)" : "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+                      {(d as Draft & { hidden?: boolean }).hidden ? "노출" : "숨기기"}
                     </button>
                   ) : (
                     <button onClick={() => approve(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
