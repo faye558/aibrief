@@ -16,7 +16,7 @@ export default function PrivacyPage() {
           <section>
             <h2 className="text-base font-bold text-gray-900 mb-3">1. 개인정보 수집 및 이용 목적</h2>
             <p>
-              toolr(이하 &quot;서비스&quot;)는 toolr.kr 및 하위 서비스(ai brief, travel 등)를 운영합니다.
+              toolr(이하 &quot;서비스&quot;)는 toolr.kr 및 하위 서비스를 운영합니다.
               별도의 회원가입 없이 이용 가능하며, 서비스 이용 과정에서 아래와 같은 정보가 수집될 수 있습니다.
             </p>
           </section>
