@@ -7062,7 +7062,8 @@
       }
     ],
     "slug": "openai-gpt-5-5-release",
-    "id": "249"
+    "id": "249",
+    "hidden": true
   },
   {
     "title": "Anthropic 클로드, 대화 내용 구글 검색 노출 논란…공개 설정 문제",
