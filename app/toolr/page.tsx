@@ -9,14 +9,15 @@ export default function ToolrPage() {
   return (
     <div style={{ minHeight: "100vh", background: "#0d0d0f", color: "#e6edf3", fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "40px 24px" }}>
       <div style={{ maxWidth: "480px", width: "100%", textAlign: "center" }}>
-        <div style={{ fontSize: "32px", fontWeight: 800, letterSpacing: "-0.02em", marginBottom: "12px" }}>
+        <div style={{ fontSize: "32px", fontWeight: 800, letterSpacing: "-0.02em", marginBottom: "4px" }}>
           toolr
         </div>
-        <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.6, marginBottom: "8px" }}>
-          실용적인 웹 툴을 만드는 작은 스튜디오.
-        </p>
-        <p style={{ fontSize: "14px", color: "#484f58", lineHeight: 1.6, marginBottom: "48px" }}>
-          도움이 되는 것들을 만듭니다.
+        <div style={{ fontSize: "13px", color: "#484f58", marginBottom: "20px", letterSpacing: "0.08em" }}>
+          툴러
+        </div>
+        <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.8, marginBottom: "48px" }}>
+          일하는 사람들에게 실제로 도움이 되는 것들을 만듭니다.<br />
+          작고 실용적인 웹 툴을 하나씩 쌓아가는 작은 스튜디오예요.
         </p>
 
         <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
