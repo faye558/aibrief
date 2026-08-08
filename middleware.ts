@@ -6,7 +6,9 @@ export function middleware(req: NextRequest) {
 
   if (host === "toolr.kr" || host === "www.toolr.kr") {
     const url = req.nextUrl.clone();
-    url.pathname = pathname === "/privacy" ? "/toolr-privacy" : "/toolr";
+    if (pathname === "/privacy") url.pathname = "/toolr-privacy";
+    else if (pathname.startsWith("/ads.txt") || pathname.startsWith("/.well-known")) return NextResponse.next();
+    else url.pathname = "/toolr";
     return NextResponse.rewrite(url);
   }
 
