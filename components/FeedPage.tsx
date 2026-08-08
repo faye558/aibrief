@@ -265,10 +265,15 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
   );
 }
 
+const LABEL_TO_ID: Record<string, string> = {
+  "AI·머신러닝": "ai", "디자인·UX": "design", "IT·테크": "tech",
+  "이미지": "image", "폰트": "font", "3D AI": "3d",
+};
+
 // ── 메인 컴포넌트 ──────────────────────────────
-export default function FeedPage({ articles }: { articles: RawArticle[] }) {
+export default function FeedPage({ articles, categoryFilter }: { articles: RawArticle[]; categoryFilter?: string }) {
   const searchParams = useSearchParams();
-  const [activeCategory, setActiveCategory] = useState("all");
+  const [activeCategory, setActiveCategory] = useState(() => categoryFilter ? (LABEL_TO_ID[categoryFilter] ?? "all") : "all");
   const [activeTag, setActiveTag] = useState<string | null>(() => searchParams.get("tag"));
   const [activeSource, setActiveSource] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
@@ -338,38 +343,46 @@ export default function FeedPage({ articles }: { articles: RawArticle[] }) {
 
       {/* 모바일 카테고리 스트립 */}
       <div className="mobile-cats">
-        {CATEGORIES.map((cat) => (
-          <button key={cat.id} onClick={() => setActiveCategory(cat.id)} style={{
-            flexShrink: 0, padding: "6px 14px", borderRadius: "20px", border: "none",
-            cursor: "pointer",
-            background: activeCategory === cat.id ? "var(--accent-dim)" : "var(--surface)",
-            color: activeCategory === cat.id ? "var(--accent-hover)" : "var(--text-muted)",
-            fontSize: "13px", fontWeight: activeCategory === cat.id ? 600 : 400,
-            whiteSpace: "nowrap", transition: "all 0.12s ease",
-          }}>
-            {cat.label}
-          </button>
-        ))}
+        {CATEGORIES.map((cat) => {
+          const isActive = activeCategory === cat.id;
+          const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
+          return (
+            <a key={cat.id} href={href} onClick={(e) => { e.preventDefault(); setActiveCategory(cat.id); }} style={{
+              flexShrink: 0, padding: "6px 14px", borderRadius: "20px", border: "none",
+              cursor: "pointer", textDecoration: "none",
+              background: isActive ? "var(--accent-dim)" : "var(--surface)",
+              color: isActive ? "var(--accent-hover)" : "var(--text-muted)",
+              fontSize: "13px", fontWeight: isActive ? 600 : 400,
+              whiteSpace: "nowrap", transition: "all 0.12s ease",
+            }}>
+              {cat.label}
+            </a>
+          );
+        })}
       </div>
 
       <div className="feed-layout">
         {/* ── 좌 사이드바 ── */}
         <aside className="left-sidebar">
           <nav style={{ padding: "12px", flex: 1 }}>
-            {CATEGORIES.map((cat) => (
-              <button key={cat.id} onClick={() => setActiveCategory(cat.id)} style={{
-                display: "flex", alignItems: "center", gap: "8px",
-                width: "100%", padding: "8px 10px", borderRadius: "8px", border: "none",
-                cursor: "pointer",
-                background: activeCategory === cat.id ? "var(--accent-dim)" : "transparent",
-                color: activeCategory === cat.id ? "var(--accent-hover)" : "var(--text-muted)",
-                fontSize: "13px", fontWeight: activeCategory === cat.id ? 600 : 400,
-                textAlign: "left", transition: "all 0.12s ease", marginBottom: "2px",
-              }}>
-                <span style={{ fontSize: "12px", opacity: 0.8 }}>{cat.icon}</span>
-                {cat.label}
-              </button>
-            ))}
+            {CATEGORIES.map((cat) => {
+              const isActive = activeCategory === cat.id;
+              const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
+              return (
+                <a key={cat.id} href={href} onClick={(e) => { e.preventDefault(); setActiveCategory(cat.id); }} style={{
+                  display: "flex", alignItems: "center", gap: "8px",
+                  width: "100%", padding: "8px 10px", borderRadius: "8px", border: "none",
+                  cursor: "pointer", textDecoration: "none",
+                  background: isActive ? "var(--accent-dim)" : "transparent",
+                  color: isActive ? "var(--accent-hover)" : "var(--text-muted)",
+                  fontSize: "13px", fontWeight: isActive ? 600 : 400,
+                  textAlign: "left", transition: "all 0.12s ease", marginBottom: "2px",
+                }}>
+                  <span style={{ fontSize: "12px", opacity: 0.8 }}>{cat.icon}</span>
+                  {cat.label}
+                </a>
+              );
+            })}
           </nav>
         </aside>
 
