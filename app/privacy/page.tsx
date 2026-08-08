@@ -76,7 +76,7 @@ export default function PrivacyPage() {
               개인정보 처리와 관련한 불만 및 피해구제 등의 문의는 아래로 연락해 주시기 바랍니다.
             </p>
             <div className="mt-2 bg-gray-50 rounded-lg p-4">
-              <p>이메일: <span className="text-brand-600">admin@aibrief.kr</span></p>
+              <p>이메일: <span className="text-brand-600">fanfaye1@gmail.com</span></p>
             </div>
           </section>
 
