@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "개인정보처리방침 | AI Brief",
-  description: "AI Brief의 개인정보처리방침입니다.",
+  title: "개인정보처리방침 | toolr",
+  description: "toolr 서비스의 개인정보처리방침입니다.",
 };
 
 export default function PrivacyPage() {
@@ -10,14 +10,14 @@ export default function PrivacyPage() {
     <div className="max-w-3xl mx-auto px-4 py-12">
       <div className="bg-white rounded-2xl border border-gray-100 shadow-sm p-8 md:p-12">
         <h1 className="text-2xl font-black text-gray-900 mb-2">개인정보처리방침</h1>
-        <p className="text-sm text-gray-400 mb-8">최종 업데이트: 2026년 6월 20일</p>
+        <p className="text-sm text-gray-400 mb-8">최종 업데이트: 2026년 8월 8일</p>
 
         <div className="space-y-8 text-sm text-gray-700 leading-relaxed">
           <section>
             <h2 className="text-base font-bold text-gray-900 mb-3">1. 개인정보 수집 및 이용 목적</h2>
             <p>
-              AI Brief(이하 &quot;서비스&quot;)는 별도의 회원가입 없이 이용 가능한 뉴스 큐레이션 서비스입니다.
-              서비스 이용 과정에서 아래와 같은 정보가 수집될 수 있습니다.
+              toolr(이하 &quot;서비스&quot;)는 toolr.kr 및 하위 서비스(ai brief, travel 등)를 운영합니다.
+              별도의 회원가입 없이 이용 가능하며, 서비스 이용 과정에서 아래와 같은 정보가 수집될 수 있습니다.
             </p>
           </section>
 
