@@ -108,6 +108,18 @@ body {
   }
 }
 
+.market-strip-row {
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .market-strip-row {
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+}
+
 /* Card grid */
 .card-grid {
   display: grid;
