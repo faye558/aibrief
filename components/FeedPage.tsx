@@ -1,7 +1,7 @@
 "use client";
 
-import { useState, useEffect } from "react";
-import { useSearchParams } from "next/navigation";
+import { useState, useEffect, useCallback } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
 import GlobalNav from "./GlobalNav";
 import type { Article as RawArticle } from "@/app/page";
 
@@ -271,9 +271,20 @@ const LABEL_TO_ID: Record<string, string> = {
 };
 
 // ── 메인 컴포넌트 ──────────────────────────────
+declare global { interface Window { gtag?: (...args: unknown[]) => void } }
+
 export default function FeedPage({ articles, categoryFilter }: { articles: RawArticle[]; categoryFilter?: string }) {
   const searchParams = useSearchParams();
+  const router = useRouter();
   const [activeCategory, setActiveCategory] = useState(() => categoryFilter ? (LABEL_TO_ID[categoryFilter] ?? "all") : "all");
+
+  const handleCategoryClick = useCallback((catId: string, e: React.MouseEvent) => {
+    e.preventDefault();
+    setActiveCategory(catId);
+    const href = catId === "all" ? "/" : `/category/${catId}`;
+    router.push(href, { scroll: false });
+    window.gtag?.("event", "category_tab_click", { category: catId });
+  }, [router]);
   const [activeTag, setActiveTag] = useState<string | null>(() => searchParams.get("tag"));
   const [activeSource, setActiveSource] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
@@ -347,7 +358,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
           const isActive = activeCategory === cat.id;
           const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
           return (
-            <a key={cat.id} href={href} onClick={(e) => { e.preventDefault(); setActiveCategory(cat.id); }} style={{
+            <a key={cat.id} href={href} onClick={(e) => handleCategoryClick(cat.id, e)} style={{
               flexShrink: 0, padding: "6px 14px", borderRadius: "20px", border: "none",
               cursor: "pointer", textDecoration: "none",
               background: isActive ? "var(--accent-dim)" : "var(--surface)",
@@ -369,7 +380,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               const isActive = activeCategory === cat.id;
               const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
               return (
-                <a key={cat.id} href={href} onClick={(e) => { e.preventDefault(); setActiveCategory(cat.id); }} style={{
+                <a key={cat.id} href={href} onClick={(e) => handleCategoryClick(cat.id, e)} style={{
                   display: "flex", alignItems: "center", gap: "8px",
                   width: "100%", padding: "8px 10px", borderRadius: "8px", border: "none",
                   cursor: "pointer", textDecoration: "none",
