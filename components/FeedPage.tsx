@@ -14,8 +14,8 @@ const CAT_MAP: Record<string, string> = {
   "폰트":    "design",
   "이미지":  "design",
   "UX":     "ux",
-  "테크":   "tech",
-  "테크블로그": "blog",
+  "테크":     "tech",
+  "테크블로그": "tech",
 };
 
 function mapCategory(raw: string): string {
@@ -40,12 +40,11 @@ function sourceInitial(name: string): string {
 
 // ── UI 카테고리 목록 ───────────────────────────
 const CATEGORIES = [
-  { id: "all",    label: "전체",     icon: "⚡" },
-  { id: "ai",     label: "AI",       icon: "◉" },
-  { id: "design", label: "디자인",   icon: "✦" },
-  { id: "ux",     label: "UX",       icon: "◎" },
-  { id: "tech",   label: "테크",     icon: "⌨" },
-  { id: "blog",   label: "기업블로그", icon: "◫" },
+  { id: "all",    label: "전체",   icon: "⚡" },
+  { id: "ai",     label: "AI",     icon: "◉" },
+  { id: "design", label: "디자인", icon: "✦" },
+  { id: "ux",     label: "UX",     icon: "◎" },
+  { id: "tech",   label: "테크",   icon: "⌨" },
 ];
 
 const TAG_STYLES: Record<string, { bg: string; color: string }> = {
@@ -53,7 +52,6 @@ const TAG_STYLES: Record<string, { bg: string; color: string }> = {
   ux:     { bg: "var(--tag-ux-bg)",       color: "var(--tag-ux)" },
   tech:   { bg: "var(--tag-tech-bg)",     color: "var(--tag-tech)" },
   design: { bg: "var(--tag-design-bg)",   color: "var(--tag-design)" },
-  blog:   { bg: "var(--tag-blog-bg)",     color: "var(--tag-blog)" },
 };
 
 // 회사별 pill 색상 — 다크 톤에 맞게 조정
@@ -266,8 +264,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
 }
 
 const LABEL_TO_ID: Record<string, string> = {
-  "AI·머신러닝": "ai", "디자인·UX": "design", "IT·테크": "tech",
-  "이미지": "image", "폰트": "font", "3D AI": "3d",
+  "AI": "ai", "디자인": "design", "UX": "ux", "테크": "tech",
 };
 
 // ── 메인 컴포넌트 ──────────────────────────────

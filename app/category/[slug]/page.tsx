@@ -6,12 +6,10 @@ import FeedPage from "@/components/FeedPage";
 import type { Article } from "@/app/page";
 
 const CATEGORY_MAP: Record<string, { label: string; values: string[] }> = {
-  "ai": { label: "AI·머신러닝", values: ["AI", "AI모델"] },
-  "design": { label: "디자인·UX", values: ["디자인툴"] },
-  "tech": { label: "IT·테크", values: ["테크", "테크블로그"] },
-  "image": { label: "이미지", values: ["이미지"] },
-  "font": { label: "폰트", values: ["폰트"] },
-  "3d": { label: "3D AI", values: ["3D AI"] },
+  "ai":     { label: "AI",     values: ["AI", "AI모델", "3D AI"] },
+  "design": { label: "디자인", values: ["디자인툴", "이미지", "폰트"] },
+  "ux":     { label: "UX",     values: ["UX"] },
+  "tech":   { label: "테크",   values: ["테크", "테크블로그"] },
 };
 
 function loadArticles(): Article[] {
