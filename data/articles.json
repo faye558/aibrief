@@ -7185,7 +7185,8 @@
       }
     ],
     "slug": "openai-gpt-5-6-model-2",
-    "id": "253"
+    "id": "253",
+    "hidden": true
   },
   {
     "title": "OpenAI, GPT-5.6 라인업 가격 대폭 인하…핵심은 '추론 시스템 혁신'",
