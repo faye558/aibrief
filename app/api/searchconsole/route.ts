@@ -1,9 +1,12 @@
-import { NextResponse } from "next/server";
+import { NextRequest, NextResponse } from "next/server";
 import { getAccessToken } from "@/lib/google-auth";
 
 const SITE_URL = "https://aibrief.toolr.kr/";
+const DRAFTS_KEY = process.env.DRAFTS_KEY ?? "aibrief-drafts";
 
-export async function GET() {
+export async function GET(req: NextRequest) {
+  const key = req.headers.get("x-drafts-key") ?? req.nextUrl.searchParams.get("key");
+  if (key !== DRAFTS_KEY) return NextResponse.json({ error: "unauthorized" }, { status: 401 });
   try {
     const token = await getAccessToken();
     const today = new Date().toISOString().split("T")[0];
