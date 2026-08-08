@@ -14,6 +14,67 @@ import { XMLParser } from 'fast-xml-parser';
 import { readFileSync, writeFileSync } from 'fs';
 import { createHash } from 'crypto';
 
+// ── 슬러그 생성 유틸 ──────────────────────────
+const SLUG_COMPANY_MAP = {
+  '눈누': 'noonnu', '산돌': 'sandoll', '윤디자인': 'yoondesign',
+  '미리캔버스': 'miricanvas', '망고보드': 'mangoboard', 'LG CNS': 'lg-cns',
+  '비비트리': 'vivitre', '유토이미지': 'utoimage',
+};
+const KOREAN_TO_EN = {
+  '출시': 'launch', '발표': 'announce', '업데이트': 'update', '공개': 'release',
+  '도입': 'intro', '확장': 'expand', '협력': 'partner', '인수': 'acquire',
+  '투자': 'invest', '신규': 'new', '기능': 'feature', '서비스': 'service',
+  '모델': 'model', '에이전트': 'agent', '플랫폼': 'platform', '도구': 'tool',
+  '생성': 'generate', '검색': 'search', '번역': 'translate', '음성': 'voice',
+  '이미지': 'image', '영상': 'video', '디자인': 'design', '폰트': 'font',
+  '구독': 'subscription', '요금': 'pricing', '무료': 'free', '유료': 'paid',
+  '오픈소스': 'opensource', '연구': 'research', '보안': 'security',
+  '칩': 'chip', '반도체': 'chip', '데이터': 'data', '클라우드': 'cloud',
+};
+const SLUG_STOP_WORDS = new Set(['ai', 'the', 'and', 'for', 'with', 'from', 'to', 'of', 'in', 'a', 'an', 'is', 'llm', 'api', 'inc', 'ltd', 'co', 'corp']);
+const SLUG_COMPANY_NAMES = new Set([
+  'openai', 'anthropic', 'google', 'adobe', 'canva', 'freepik', 'monotype',
+  'elevenlabs', 'suno', 'microsoft', 'apple', 'meta', 'amazon', 'nvidia',
+  'broadcom', 'samsung', 'lg', 'kakao', 'naver', 'coupang', 'toss', 'line',
+  'getty', 'shutterstock', 'midjourney', 'stability', 'runway', 'pika',
+  'figma', 'notion', 'slack', 'discord',
+]);
+
+function extractSlugKeyword(title, company = '') {
+  const companyLower = company.toLowerCase();
+  const englishWords = title.match(/[A-Za-z][A-Za-z0-9\-\.]*(?:[0-9]+)?/g) || [];
+  const meaningful = englishWords.filter(w => {
+    const wl = w.toLowerCase();
+    return w.length > 2 && !SLUG_STOP_WORDS.has(wl) && !SLUG_COMPANY_NAMES.has(wl) && wl !== companyLower;
+  });
+  if (meaningful.length >= 2) return meaningful.slice(0, 3).join('-').toLowerCase();
+  if (meaningful.length === 1) {
+    for (const [ko, en] of Object.entries(KOREAN_TO_EN)) {
+      if (title.includes(ko)) return `${meaningful[0]}-${en}`.toLowerCase();
+    }
+    return meaningful[0].toLowerCase();
+  }
+  const koreanKeys = [];
+  for (const [ko, en] of Object.entries(KOREAN_TO_EN)) {
+    if (title.includes(ko)) koreanKeys.push(en);
+    if (koreanKeys.length >= 2) break;
+  }
+  return koreanKeys.length > 0 ? koreanKeys.join('-') : 'news';
+}
+
+function makeSlug(company, title, usedSlugs) {
+  const companySlug = (SLUG_COMPANY_MAP[company] || company.toLowerCase())
+    .replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
+  const keyword = extractSlugKeyword(title, company);
+  const keySlug = keyword.replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '').slice(0, 40);
+  const base = `${companySlug}-${keySlug}`;
+  if (!usedSlugs.has(base)) { usedSlugs.add(base); return base; }
+  let i = 2;
+  while (usedSlugs.has(`${base}-${i}`)) i++;
+  usedSlugs.add(`${base}-${i}`);
+  return `${base}-${i}`;
+}
+
 const client = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY });
 
 // ───────────────────────────────────────────
@@ -741,13 +802,13 @@ function inferCompanyCategory(title, description) {
 // ───────────────────────────────────────────
 // Claude API로 한국어 기사 생성
 // ───────────────────────────────────────────
-function makeOutlinkArticle(company, category, item, sourceName) {
+function makeOutlinkArticle(company, category, item, sourceName, usedSlugs = new Set()) {
   const title = extractTitle(item);
   const link = extractLink(item);
   if (!link || !title) throw new Error('URL 또는 제목 없음');
   const pubDate = extractDate(item);
   const description = extractDescription(item);
-  const slug = createHash('md5').update(link).digest('hex').slice(0, 12);
+  const slug = makeSlug(company, title, usedSlugs);
   return {
     slug, title,
     summary: description ? description.slice(0, 200) : title,
@@ -764,7 +825,7 @@ function makeOutlinkArticle(company, category, item, sourceName) {
   };
 }
 
-async function generateArticle(company, category, item, sourceName) {
+async function generateArticle(company, category, item, sourceName, usedSlugs = new Set()) {
   const title = extractTitle(item);
   const link = extractLink(item);
   const pubDate = extractDate(item);
@@ -818,14 +879,7 @@ async function generateArticle(company, category, item, sourceName) {
 
   const json = JSON.parse(raw);
   const dateStr = pubDate.toISOString().split('T')[0];
-  const hash = createHash('md5').update(link || title).digest('hex').slice(0, 8);
-  const COMPANY_SLUG_MAP = {
-    '눈누': 'noonnu', '산돌': 'sandoll', '윤디자인': 'yoondesign',
-    '미리캔버스': 'miricanvas', '망고보드': 'mangoboard', 'LG CNS': 'lg-cns',
-    '비비트리': 'vivitre', '유토이미지': 'utoimage',
-  };
-  const companySlug = (COMPANY_SLUG_MAP[company] || company.toLowerCase()).replace(/[^a-z0-9]/g, '-').replace(/-+/g, '-').replace(/^-|-$/g, '');
-  const slug = `${companySlug}-${hash}-${dateStr}`;
+  const slug = makeSlug(company, json.title || title, usedSlugs);
 
   return {
     title: json.title,
@@ -912,7 +966,7 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
 
     console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
     try {
-      const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`);
+      const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`, existingSlugs);
       if (!existingSlugs.has(article.slug)) {
         article.id = String(nextId++);
         newArticles.push(article);
@@ -980,7 +1034,7 @@ async function main() {
 
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
-        const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`);
+        const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
@@ -1013,8 +1067,8 @@ async function main() {
       console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = source.outlink
-          ? makeOutlinkArticle(company, category, item, source.name)
-          : await generateArticle(company, category, item, source.name);
+          ? makeOutlinkArticle(company, category, item, source.name, existingSlugs)
+          : await generateArticle(company, category, item, source.name, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
@@ -1043,7 +1097,7 @@ async function main() {
 
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
-        const article = await generateArticle(source.company, source.category, item, source.name);
+        const article = await generateArticle(source.company, source.category, item, source.name, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
@@ -1076,8 +1130,8 @@ async function main() {
       console.log(`  ${source.outlink ? '🔗' : '✍️ '} [${company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = source.outlink
-          ? makeOutlinkArticle(company, category, item, source.name)
-          : await generateArticle(company, category, item, source.name);
+          ? makeOutlinkArticle(company, category, item, source.name, existingSlugs)
+          : await generateArticle(company, category, item, source.name, existingSlugs);
         if (!existingSlugs.has(article.slug)) {
           article.id = String(nextId++);
           newArticles.push(article);
