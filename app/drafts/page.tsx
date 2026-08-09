@@ -33,6 +33,9 @@ export default function DraftsPage() {
   const [loading, setLoading] = useState(false);
   const [msg, setMsg] = useState("");
   const [showWrite, setShowWrite] = useState(false);
+  const [writeMode, setWriteMode] = useState<"article" | "outlink">("article");
+  const [outlinkForm, setOutlinkForm] = useState({ title: "", teaser: "", sourceUrl: "", sourceName: "", category: "IT·테크", tags: "" });
+  const [outlinkSaving, setOutlinkSaving] = useState(false);
   const [form, setForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
   const [editingId, setEditingId] = useState<string | null>(null);
   const [editForm, setEditForm] = useState({ title: "", summary: "", content: "", category: "IT·테크", tags: "", sourceName: "", sourceUrl: "" });
@@ -155,6 +158,35 @@ export default function DraftsPage() {
     setGenerating(false);
   }
 
+  async function saveOutlink() {
+    if (!outlinkForm.title.trim() || !outlinkForm.sourceUrl.trim()) return;
+    setOutlinkSaving(true);
+    const res = await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        title: outlinkForm.title,
+        summary: outlinkForm.teaser,
+        content: "",
+        category: outlinkForm.category,
+        tags: outlinkForm.tags.split(",").map((t) => t.trim()).filter(Boolean),
+        sourceName: outlinkForm.sourceName,
+        sourceUrl: outlinkForm.sourceUrl,
+        type: "outlink",
+      }),
+    });
+    if (res.ok) {
+      setMsg("✓ 아웃링크 저장됨");
+      setOutlinkForm({ title: "", teaser: "", sourceUrl: "", sourceName: "", category: "IT·테크", tags: "" });
+      setShowWrite(false);
+      fetchDrafts(key);
+    } else {
+      setMsg("저장 실패");
+    }
+    setOutlinkSaving(false);
+    setTimeout(() => setMsg(""), 3000);
+  }
+
   async function saveArticle() {
     if (!form.title.trim()) return;
     setSaving(true);
@@ -209,8 +241,11 @@ export default function DraftsPage() {
           <h1 style={{ fontSize: "22px", fontWeight: 700, color: "var(--text)" }}>콘텐츠 관리</h1>
           <div style={{ display: "flex", alignItems: "center", gap: "12px" }}>
             {msg && <span style={{ fontSize: "13px", color: "var(--accent-hover)", fontWeight: 600 }}>{msg}</span>}
-            <button onClick={() => setShowWrite(!showWrite)} style={{ padding: "8px 18px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
-              {showWrite ? "닫기" : "+ 새 글"}
+            <button onClick={() => { setShowWrite(!showWrite); setWriteMode("outlink"); }} style={{ padding: "8px 18px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+              {showWrite && writeMode === "outlink" ? "닫기" : "+ 아웃링크"}
+            </button>
+            <button onClick={() => { setShowWrite(!showWrite); setWriteMode("article"); }} style={{ padding: "8px 18px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+              {showWrite && writeMode === "article" ? "닫기" : "+ 새 글"}
             </button>
           </div>
         </div>
@@ -232,10 +267,36 @@ export default function DraftsPage() {
           ))}
         </div>
 
-        {/* 글쓰기 폼 */}
-        {showWrite && (
+        {/* 아웃링크 폼 */}
+        {showWrite && writeMode === "outlink" && (
           <div style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "14px", padding: "24px", marginBottom: "24px" }}>
-            <p style={{ fontSize: "15px", fontWeight: 700, color: "var(--text)", marginBottom: "18px" }}>새 글 작성</p>
+            <p style={{ fontSize: "15px", fontWeight: 700, color: "var(--text)", marginBottom: "4px" }}>아웃링크 추가</p>
+            <p style={{ fontSize: "12px", color: "var(--text-faint)", marginBottom: "18px" }}>브런치·블로그 등 외부 글 — 제목+티저만 노출, 원문으로 연결</p>
+            <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
+              <input placeholder="원문 URL *" value={outlinkForm.sourceUrl} onChange={(e) => setOutlinkForm({ ...outlinkForm, sourceUrl: e.target.value })} style={inputStyle} />
+              <input placeholder="제목 *" value={outlinkForm.title} onChange={(e) => setOutlinkForm({ ...outlinkForm, title: e.target.value })} style={inputStyle} />
+              <textarea placeholder="티저 (1-2줄 소개)" value={outlinkForm.teaser} onChange={(e) => setOutlinkForm({ ...outlinkForm, teaser: e.target.value })} rows={3} style={{ ...inputStyle, resize: "vertical" }} />
+              <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "12px" }}>
+                <input placeholder="출처명 (예: 브런치, Medium)" value={outlinkForm.sourceName} onChange={(e) => setOutlinkForm({ ...outlinkForm, sourceName: e.target.value })} style={inputStyle} />
+                <select value={outlinkForm.category} onChange={(e) => setOutlinkForm({ ...outlinkForm, category: e.target.value })} style={inputStyle}>
+                  {CATEGORIES.map((c) => <option key={c} value={c}>{c}</option>)}
+                </select>
+              </div>
+              <input placeholder="태그 (쉼표로 구분)" value={outlinkForm.tags} onChange={(e) => setOutlinkForm({ ...outlinkForm, tags: e.target.value })} style={inputStyle} />
+              <div style={{ display: "flex", justifyContent: "flex-end", gap: "8px", marginTop: "4px" }}>
+                <button onClick={() => setShowWrite(false)} style={{ padding: "8px 18px", borderRadius: "8px", border: "1px solid var(--border)", background: "transparent", color: "var(--text-faint)", fontSize: "13px", cursor: "pointer" }}>취소</button>
+                <button onClick={saveOutlink} disabled={outlinkSaving || !outlinkForm.title.trim() || !outlinkForm.sourceUrl.trim()} style={{ padding: "8px 20px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer", opacity: outlinkSaving ? 0.6 : 1 }}>
+                  {outlinkSaving ? "저장 중..." : "초안 저장"}
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* 글쓰기 폼 */}
+        {showWrite && writeMode === "article" && (
+          <div style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "14px", padding: "24px", marginBottom: "24px" }}>
+            <p style={{ fontSize: "15px", fontWeight: 700, color: "var(--text)", marginBottom: "18px" }}>새 글 작성 (AI 요약)</p>
             {/* AI 초안 생성 */}
             <div style={{ display: "flex", gap: "8px", marginBottom: "4px" }}>
               <input

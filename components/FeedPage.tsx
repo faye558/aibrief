@@ -134,6 +134,7 @@ interface CardArticle {
   gradient: string;
   sourceUrl: string | null;
   tags: string[];
+  type?: string;
 }
 
 const FEATURED_SOURCES = new Set([
@@ -256,7 +257,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
             fontSize: "12px", fontWeight: 600, color: accent,
             opacity: hovered ? 1 : 0.7, transition: "opacity 0.15s",
           }}>
-            자세히 보기 →
+            {article.type === "outlink" ? "원문 보기 →" : "자세히 보기 →"}
           </span>
         </div>
       </div>
@@ -313,6 +314,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     gradient: GRADIENTS[i % GRADIENTS.length],
     sourceUrl: a.sourceUrl,
     tags: a.tags ?? [],
+    type: a.type,
   }));
 
   // 필터 적용: 카테고리 → 태그 → 소스 → 검색어
