@@ -6655,7 +6655,8 @@
       }
     ],
     "slug": "perplexity-wandr-release",
-    "id": "237"
+    "id": "237",
+    "hidden": true
   },
   {
     "title": "삼성전자, 갤럭시 Z8 시리즈에 구글 '제미나이 인텔리전스' 탑재한 에이전트형 AI 공개",
