@@ -11,12 +11,13 @@ interface MarketItem {
 
 export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) {
   const [items, setItems] = useState<MarketItem[]>([]);
+  const [asOf, setAsOf] = useState("");
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     fetch("/api/market")
       .then((r) => r.json())
-      .then((d) => { setItems(d.items ?? []); setLoading(false); })
+      .then((d) => { setItems(d.items ?? []); setAsOf(d.asOf ?? ""); setLoading(false); })
       .catch(() => setLoading(false));
   }, []);
 
@@ -32,7 +33,10 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
   if (sidebar) {
     return (
       <div style={{ display: "flex", flexDirection: "column", gap: "4px" }}>
-        <div style={{ fontSize: "10px", letterSpacing: "0.08em", color: "var(--text-faint)", textTransform: "uppercase", padding: "4px 2px 6px", fontWeight: 600 }}>시장</div>
+        <div style={{ display: "flex", alignItems: "baseline", justifyContent: "space-between", padding: "4px 2px 6px" }}>
+          <span style={{ fontSize: "10px", letterSpacing: "0.08em", color: "var(--text-faint)", textTransform: "uppercase", fontWeight: 600 }}>시장</span>
+          {asOf && <span style={{ fontSize: "10px", color: "var(--text-faint)" }}>{asOf}</span>}
+        </div>
         {loading ? (
           [1,2,3,4,5,6,7].map((i) => (
             <div key={i} style={{ height: "36px", borderRadius: "8px", background: "var(--surface)", opacity: 0.4 }} />
@@ -61,7 +65,11 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
   }
 
   return (
-    <div className="market-strip-row" style={{ display: "flex", gap: "8px", overflowX: "auto", padding: "12px 16px", borderBottom: "1px solid var(--border)", scrollbarWidth: "none" }}>
+    <div style={{ borderBottom: "1px solid var(--border)" }}>
+      {asOf && (
+        <div style={{ fontSize: "10px", color: "var(--text-faint)", padding: "8px 16px 0" }}>{asOf}</div>
+      )}
+      <div className="market-strip-row" style={{ display: "flex", gap: "8px", overflowX: "auto", padding: "8px 16px 12px", scrollbarWidth: "none" }}>
       {loading ? (
         [1,2,3,4,5].map((i) => (
           <div key={i} style={{ flexShrink: 0, width: "110px", height: "60px", borderRadius: "10px", background: "var(--surface)", opacity: 0.5 }} />
@@ -85,6 +93,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
           </div>
         );
       })}
+      </div>
     </div>
   );
 }
