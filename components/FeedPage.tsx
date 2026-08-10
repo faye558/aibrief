@@ -135,6 +135,7 @@ interface CardArticle {
   sourceUrl: string | null;
   tags: string[];
   type?: string;
+  isNew?: "today" | "new" | false;
 }
 
 const FEATURED_SOURCES = new Set([
@@ -143,6 +144,7 @@ const FEATURED_SOURCES = new Set([
 ]);
 
 function isFeatured(article: CardArticle): boolean {
+  if (article.type === "outlink") return true;
   return FEATURED_SOURCES.has(article.sourceName) ||
     article.tags.some((t) => FEATURED_SOURCES.has(t));
 }
@@ -223,7 +225,21 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
               </span>
             );
           })}
-          <div style={{ marginLeft: "auto" }}>
+          <div style={{ marginLeft: "auto", display: "flex", alignItems: "center", gap: "6px" }}>
+            {article.isNew === "today" && (
+              <span style={{
+                fontSize: "10px", fontWeight: 700, padding: "2px 7px",
+                borderRadius: "20px", background: "rgba(251,146,60,0.15)", color: "#FB923C",
+                letterSpacing: "0.04em",
+              }}>TODAY</span>
+            )}
+            {article.isNew === "new" && (
+              <span style={{
+                fontSize: "10px", fontWeight: 700, padding: "2px 7px",
+                borderRadius: "20px", background: "rgba(63,185,80,0.15)", color: "#3fb950",
+                letterSpacing: "0.04em",
+              }}>NEW</span>
+            )}
             <Tag uiCat={article.uiCategory} />
           </div>
         </div>
@@ -287,6 +303,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const [activeTag, setActiveTag] = useState<string | null>(() => searchParams.get("tag"));
   const [activeSource, setActiveSource] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
+  const [sortOrder, setSortOrder] = useState<"newest" | "oldest">("newest");
 
   useEffect(() => {
     const tag = searchParams.get("tag");
@@ -315,9 +332,15 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     sourceUrl: a.sourceUrl,
     tags: a.tags ?? [],
     type: a.type,
+    isNew: (() => {
+      const diff = (Date.now() - new Date(a.date).getTime()) / 86400000;
+      if (diff < 1) return "today" as const;
+      if (diff <= 3) return "new" as const;
+      return false as const;
+    })(),
   }));
 
-  // 필터 적용: 카테고리 → 태그 → 소스 → 검색어
+  // 필터 적용: 카테고리 → 태그 → 소스 → 검색어 → 정렬
   const filtered = cards
     .filter((a) => activeCategory === "all" || a.uiCategory === activeCategory)
     .filter((a) => !activeTag || a.tags.includes(activeTag))
@@ -326,6 +349,11 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
       if (!searchQuery.trim()) return true;
       const q = searchQuery.toLowerCase();
       return a.title.toLowerCase().includes(q) || a.summary.toLowerCase().includes(q) || a.sourceName.toLowerCase().includes(q) || a.tags.some((t) => t.toLowerCase().includes(q));
+    })
+    .sort((a, b) => {
+      const da = new Date(articles.find(x => x.id === a.id)?.date ?? 0).getTime();
+      const db = new Date(articles.find(x => x.id === b.id)?.date ?? 0).getTime();
+      return sortOrder === "newest" ? db - da : da - db;
     });
 
   // NEW 섹션: 3일 이내 기사
@@ -336,10 +364,18 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const featured = filtered[0];
   const rest = filtered.slice(1);
 
-  // 우측 레일 — 태그 집계 (전체 기준)
+  // 우측 레일 — 태그 집계 (관심사 태그 우선 고정)
+  const PRIORITY_TAGS = [
+    "AI워크플로우", "팀협업", "AI도입", "AI에이전트", "GEO", "AI검색",
+    "vibe코딩", "AI마케팅", "개발자역할", "AI시대", "llms.txt", "AI인용",
+  ];
   const tagCounts: Record<string, number> = {};
   articles.forEach((a) => a.tags?.forEach((t) => { tagCounts[t] = (tagCounts[t] ?? 0) + 1; }));
-  const topTags = Object.entries(tagCounts).sort((a, b) => b[1] - a[1]).slice(0, 8);
+  const priorityTags = PRIORITY_TAGS.filter((t) => tagCounts[t]).map((t) => [t, tagCounts[t]] as [string, number]);
+  const otherTags = Object.entries(tagCounts)
+    .filter(([t]) => !PRIORITY_TAGS.includes(t))
+    .sort((a, b) => b[1] - a[1]);
+  const topTags = [...priorityTags, ...otherTags].slice(0, 8);
 
   // 우측 레일 — 소스 집계
   const srcCounts: Record<string, number> = {};
@@ -428,8 +464,11 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
                 {filtered.length}개 아티클
               </p>
             </div>
-            <div style={{ fontSize: "12px", color: "var(--text-faint)", background: "var(--surface)", border: "1px solid var(--border)", padding: "5px 12px", borderRadius: "20px", cursor: "pointer" }}>
-              최신순 ↓
+            <div
+              onClick={() => setSortOrder(s => s === "newest" ? "oldest" : "newest")}
+              style={{ fontSize: "12px", color: "var(--text-faint)", background: "var(--surface)", border: "1px solid var(--border)", padding: "5px 12px", borderRadius: "20px", cursor: "pointer" }}
+            >
+              {sortOrder === "newest" ? "최신순 ↓" : "오래된순 ↑"}
             </div>
           </div>
 
@@ -472,17 +511,12 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
                 <span style={{ fontSize: "12px", color: "var(--text-faint)" }}>최근 3일 · {newCards.length}개</span>
                 <div style={{ flex: 1, height: "1px", background: "var(--border)" }} />
               </div>
-              {/* 첫 번째는 featured */}
-              <div style={{ marginBottom: "12px" }}>
-                <ArticleCard article={newCards[0]} large />
+              {/* NEW 섹션은 1단 */}
+              <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
+                {newCards.map((a) => (
+                  <ArticleCard key={a.id} article={a} large />
+                ))}
               </div>
-              {newCards.length > 1 && (
-                <div className="card-grid">
-                  {newCards.slice(1).map((a) => (
-                    <ArticleCard key={a.id} article={a} />
-                  ))}
-                </div>
-              )}
             </div>
           )}
 
