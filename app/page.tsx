@@ -18,6 +18,7 @@ export interface Article {
   content?: string;
   hidden?: boolean;
   draft?: boolean;
+  type?: string;
 }
 
 function loadArticles(): Article[] {
