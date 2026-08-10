@@ -2,7 +2,7 @@ name: 매일 AI 뉴스 자동 수집
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 매일 00:00 UTC = 한국 시간 오전 9시
+    - cron: '0 0,4,8,13 * * *'  # 한국 시간 09:00 / 13:00 / 17:00 / 22:00
   workflow_dispatch:      # 수동 실행 버튼
 
 jobs:
