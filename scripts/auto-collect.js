@@ -203,6 +203,7 @@ async function main() {
         existingSlugs.add(slug);
         existingUrls.add(item.link);
 
+        const today = new Date().toISOString().slice(0, 10);
         const article = {
           id: String(nextId++),
           slug,
@@ -211,7 +212,7 @@ async function main() {
           content: null,
           company: feed.company,
           category: feed.category,
-          date: new Date().toISOString().slice(0, 10), // aibrief 등록일
+          date: today, // aibrief 등록일 (TODAY 뱃지 기준)
           tags: [feed.company],
           imageUrl: null,
           sourceUrl: item.link,
