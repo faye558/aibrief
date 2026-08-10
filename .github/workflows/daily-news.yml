@@ -32,6 +32,9 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/auto-collect.mjs
 
+      - name: 아웃링크 피드 수집
+        run: node scripts/auto-collect.js
+
       - name: 변경사항 커밋 및 푸시
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

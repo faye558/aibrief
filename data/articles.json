@@ -1,5 +1,1817 @@
 [
   {
+    "id": "317",
+    "slug": "프론트엔드와-백엔드를-한-팀으로-합치면-어떤-일이-일어날까",
+    "title": "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?",
+    "summary": "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?",
+    "content": null,
+    "company": "당근",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "당근"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1?source=rss----4505f82a2dbd---4",
+        "name": "당근 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "287",
+    "slug": "-하네스는-어디까지-쌓아야-하는가",
+    "title": "🤔 하네스는 어디까지 쌓아야 하는가?",
+    "summary": "🤔 하네스는 어디까지 쌓아야 하는가?",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%ED%95%98%EB%84%A4%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%8C%93%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%ED%95%98%EB%84%A4%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%8C%93%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94%EA%B0%80",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "288",
+    "slug": "2탄-ai한테-해커톤을-시켜봤다-삼성-scpc-2026-ai-challenge-dacon",
+    "title": "2탄 : AI한테 해커톤을 시켜봤다 - 삼성 SCPC 2026 AI Challenge (DACON)",
+    "summary": "2탄 : AI한테 해커톤을 시켜봤다 - 삼성 SCPC 2026 AI Challenge (DACON)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/2%ED%83%84-AI%ED%95%9C%ED%85%8C-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EC%8B%9C%EC%BC%9C%EB%B4%A4%EB%8B%A4-%EC%82%BC%EC%84%B1-SCPC-2026-AI-Challenge-DACON",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/2%ED%83%84-AI%ED%95%9C%ED%85%8C-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EC%8B%9C%EC%BC%9C%EB%B4%A4%EB%8B%A4-%EC%82%BC%EC%84%B1-SCPC-2026-AI-Challenge-DACON",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "289",
+    "slug": "1탄-ai한테-해커톤을-시켜봤다-삼성-scpc-2026-ai-challenge-dacon",
+    "title": "1탄 : AI한테 해커톤을 시켜봤다 - 삼성 SCPC 2026 AI Challenge (DACON)",
+    "summary": "1탄 : AI한테 해커톤을 시켜봤다 - 삼성 SCPC 2026 AI Challenge (DACON)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/1%ED%83%84-AI%ED%95%9C%ED%85%8C-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EC%8B%9C%EC%BC%9C%EB%B4%A4%EB%8B%A4-%EC%82%BC%EC%84%B1-SCPC-2026-AI-Challenge-DACON",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/1%ED%83%84-AI%ED%95%9C%ED%85%8C-%ED%95%B4%EC%BB%A4%ED%86%A4%EC%9D%84-%EC%8B%9C%EC%BC%9C%EB%B4%A4%EB%8B%A4-%EC%82%BC%EC%84%B1-SCPC-2026-AI-Challenge-DACON",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "290",
+    "slug": "우아한-테크코스-8기-level-1을-돌아보며",
+    "title": "[우아한 테크코스 8기] Level 1을 돌아보며",
+    "summary": "[우아한 테크코스 8기] Level 1을 돌아보며",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-Level-1%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-Level-1%EC%9D%84-%EB%8F%8C%EC%95%84%EB%B3%B4%EB%A9%B0",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "291",
+    "slug": "우아한-테크코스-8기-6주차-패턴의-무게와-실용주의-사이의-균형",
+    "title": "[우아한 테크코스 8기] 6주차 : 패턴의 무게와 실용주의 사이의 균형",
+    "summary": "[우아한 테크코스 8기] 6주차 : 패턴의 무게와 실용주의 사이의 균형",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-6%EC%A3%BC%EC%B0%A8-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%AC%B4%EA%B2%8C%EC%99%80-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%EA%B7%A0%ED%98%95",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-6%EC%A3%BC%EC%B0%A8-%ED%8C%A8%ED%84%B4%EC%9D%98-%EB%AC%B4%EA%B2%8C%EC%99%80-%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%EC%82%AC%EC%9D%B4%EC%9D%98-%EA%B7%A0%ED%98%95",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "292",
+    "slug": "우아한-테크코스-8기-5주차-사랑받는-리더란-무엇일까",
+    "title": "[우아한 테크코스 8기] 5주차: 사랑받는 리더란 무엇일까 🤔",
+    "summary": "[우아한 테크코스 8기] 5주차: 사랑받는 리더란 무엇일까 🤔",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-5%EC%A3%BC%EC%B0%A8-%EC%82%AC%EB%9E%91%EB%B0%9B%EB%8A%94-%EB%A6%AC%EB%8D%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-5%EC%A3%BC%EC%B0%A8-%EC%82%AC%EB%9E%91%EB%B0%9B%EB%8A%94-%EB%A6%AC%EB%8D%94%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "293",
+    "slug": "우아한-테크코스-8기-4주차-ai-시대-경계를-허무는-개발자가-된다는-것",
+    "title": "[우아한 테크코스 8기] 4주차 : AI 시대, 경계를 허무는 개발자가 된다는 것",
+    "summary": "[우아한 테크코스 8기] 4주차 : AI 시대, 경계를 허무는 개발자가 된다는 것",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-4%EC%A3%BC%EC%B0%A8-AI-%EC%8B%9C%EB%8C%80-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-4%EC%A3%BC%EC%B0%A8-AI-%EC%8B%9C%EB%8C%80-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C%EB%8B%A4%EB%8A%94-%EA%B2%83",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "294",
+    "slug": "우아한-테크코스-8기-3주차-내-코드는-쓰레기다",
+    "title": "[우아한 테크코스 8기] 3주차 : 내 코드는 쓰레기다 🚮",
+    "summary": "[우아한 테크코스 8기] 3주차 : 내 코드는 쓰레기다 🚮",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-3%EC%A3%BC%EC%B0%A8-%EB%82%B4-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8B%A4",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-3%EC%A3%BC%EC%B0%A8-%EB%82%B4-%EC%BD%94%EB%93%9C%EB%8A%94-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8B%A4",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "295",
+    "slug": "우아한-테크코스-8기-2주차-제발-생각좀-하고-말해요",
+    "title": "[우아한 테크코스 8기] 2주차 : 제발 생각좀 하고 말해요🤯",
+    "summary": "[우아한 테크코스 8기] 2주차 : 제발 생각좀 하고 말해요🤯",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-%EC%A0%9C%EB%B0%9C-%EC%83%9D%EA%B0%81%EC%A2%80-%ED%95%98%EA%B3%A0-%EB%A7%90%ED%95%B4%EC%9A%94",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4-8%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-%EC%A0%9C%EB%B0%9C-%EC%83%9D%EA%B0%81%EC%A2%80-%ED%95%98%EA%B3%A0-%EB%A7%90%ED%95%B4%EC%9A%94",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "296",
+    "slug": "우리-프로그래머들-md로-코딩하는-시대",
+    "title": "우리, 프로그래머들 — .md로 코딩하는 시대",
+    "summary": "우리, 프로그래머들 — .md로 코딩하는 시대",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/we-programmer",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/we-programmer",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "297",
+    "slug": "진짜로-코딩의-판도는-바뀌었다-개발자는-어떻게-해야-할까",
+    "title": "진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?",
+    "summary": "진짜로 코딩의 판도는 바뀌었다. 개발자는 어떻게 해야 할까?",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/ai-agent-prolog",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/ai-agent-prolog",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "298",
+    "slug": "조선개발실록-제8화1부-최종-유수불부",
+    "title": "조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)",
+    "summary": "조선개발실록 - 제8화(1부 최종): 유수불부 (流水不腐)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-1%EB%B6%80-%EC%A0%9C8%ED%99%94-%EC%9C%A0%EC%88%98%EB%B6%88%EB%B6%80-%E6%B5%81%E6%B0%B4%E4%B8%8D%E8%85%90",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "299",
+    "slug": "조선개발실록-제6화-기룡지술",
+    "title": "조선개발실록 - 제6화: 기룡지술 (騎龍之術)",
+    "summary": "조선개발실록 - 제6화: 기룡지술 (騎龍之術)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C6%ED%99%94-%EA%B8%B0%EB%A3%A1%EC%A7%80%EC%88%A0-%E9%A8%8E%E9%BE%8D%E4%B9%8B%E8%A1%93-l6pjn8jj",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C6%ED%99%94-%EA%B8%B0%EB%A3%A1%EC%A7%80%EC%88%A0-%E9%A8%8E%E9%BE%8D%E4%B9%8B%E8%A1%93-l6pjn8jj",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "300",
+    "slug": "조선개발실록-제5화-지행합일",
+    "title": "조선개발실록 - 제5화: 지행합일 (知行合一)",
+    "summary": "조선개발실록 - 제5화: 지행합일 (知行合一)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C5%ED%99%94-%EC%A7%80%ED%96%89%ED%95%A9%EC%9D%BC-%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80-1f3kl261",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C5%ED%99%94-%EC%A7%80%ED%96%89%ED%95%A9%EC%9D%BC-%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80-1f3kl261",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "301",
+    "slug": "조선개발실록-제4화-익숙함의-감옥",
+    "title": "조선개발실록 - 제4화: 익숙함의 감옥 (習慣之獄)",
+    "summary": "조선개발실록 - 제4화: 익숙함의 감옥 (習慣之獄)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C4%ED%99%94-%EC%9D%B5%EC%88%99%ED%95%A8%EC%9D%98-%EA%B0%90%EC%98%A5-%E7%BF%92%E6%85%A3%E4%B9%8B%E7%8D%84-ytfcsl4a",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C4%ED%99%94-%EC%9D%B5%EC%88%99%ED%95%A8%EC%9D%98-%EA%B0%90%EC%98%A5-%E7%BF%92%E6%85%A3%E4%B9%8B%E7%8D%84-ytfcsl4a",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "302",
+    "slug": "조선개발실록-제3화-천리마의-역설",
+    "title": "조선개발실록 - 제3화: 천리마의 역설 (千里馬逆說)",
+    "summary": "조선개발실록 - 제3화: 천리마의 역설 (千里馬逆說)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%B2%9C%EB%A6%AC%EB%A7%88%EC%9D%98-%EC%97%AD%EC%84%A4-%E5%8D%83%E9%87%8C%E9%A6%AC%E9%80%86%E8%AA%AA-gwe11ttq",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%B2%9C%EB%A6%AC%EB%A7%88%EC%9D%98-%EC%97%AD%EC%84%A4-%E5%8D%83%E9%87%8C%E9%A6%AC%E9%80%86%E8%AA%AA-gwe11ttq",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "303",
+    "slug": "조선개발실록-제2화-사상누각",
+    "title": "조선개발실록 - 제2화: 사상누각 (沙上樓閣)",
+    "summary": "조선개발실록 - 제2화: 사상누각 (沙上樓閣)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C2%ED%99%94-%EC%82%AC%EC%83%81%EB%88%84%EA%B0%81-%E6%B2%99%E4%B8%8A%E6%A8%93%E9%96%A3",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C2%ED%99%94-%EC%82%AC%EC%83%81%EB%88%84%EA%B0%81-%E6%B2%99%E4%B8%8A%E6%A8%93%E9%96%A3",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "304",
+    "slug": "조선개발실록-제1화-이름을-알아야-부른다",
+    "title": "조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)",
+    "summary": "조선개발실록 - 제1화: 이름을 알아야 부른다 (知名乃呼)",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C1%ED%99%94-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%EB%B6%80%EB%A5%B8%EB%8B%A4-%E7%9F%A5%E5%90%8D%E4%B9%83%E5%91%BC",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/%EC%A1%B0%EC%84%A0%EA%B0%9C%EB%B0%9C%EC%8B%A4%EB%A1%9D-%EC%A0%9C1%ED%99%94-%EC%9D%B4%EB%A6%84%EC%9D%84-%EC%95%8C%EC%95%84%EC%95%BC-%EB%B6%80%EB%A5%B8%EB%8B%A4-%E7%9F%A5%E5%90%8D%E4%B9%83%E5%91%BC",
+        "name": "teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "305",
+    "slug": "제품이-잘-되는데-브랜딩이-왜-필요할까",
+    "title": "제품이 잘 되는데, 브랜딩이 왜 필요할까?",
+    "summary": "제품이 잘 되는데, 브랜딩이 왜 필요할까?",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EC%A0%9C%ED%92%88%EC%9D%B4-%EC%9E%98-%EB%90%98%EB%8A%94%EB%8D%B0-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%B4-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-907660756d9c?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EC%A0%9C%ED%92%88%EC%9D%B4-%EC%9E%98-%EB%90%98%EB%8A%94%EB%8D%B0-%EB%B8%8C%EB%9E%9C%EB%94%A9%EC%9D%B4-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%A0%EA%B9%8C-907660756d9c?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "306",
+    "slug": "신생-스쿼드인줄-알았는데요",
+    "title": "신생 스쿼드인줄 알았는데요,",
+    "summary": "신생 스쿼드인줄 알았는데요,",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EC%8B%A0%EC%83%9D-%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%9D%B8%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0%EC%9A%94-69fbad9bedb1?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EC%8B%A0%EC%83%9D-%EC%8A%A4%EC%BF%BC%EB%93%9C%EC%9D%B8%EC%A4%84-%EC%95%8C%EC%95%98%EB%8A%94%EB%8D%B0%EC%9A%94-69fbad9bedb1?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "307",
+    "slug": "글로벌-앱-시장이-보내는-2가지-신호",
+    "title": "글로벌 앱 시장이 보내는 2가지 신호",
+    "summary": "글로벌 앱 시장이 보내는 2가지 신호",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%95%B1-%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EB%B3%B4%EB%82%B4%EB%8A%94-2%EA%B0%80%EC%A7%80-%EC%8B%A0%ED%98%B8-21e47c4faeb6?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%95%B1-%EC%8B%9C%EC%9E%A5%EC%9D%B4-%EB%B3%B4%EB%82%B4%EB%8A%94-2%EA%B0%80%EC%A7%80-%EC%8B%A0%ED%98%B8-21e47c4faeb6?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "308",
+    "slug": "claude-code를-42주-동안-사용한-팀의-워크플로우",
+    "title": "Claude Code를 42주 동안 사용한 팀의 워크플로우",
+    "summary": "Claude Code를 42주 동안 사용한 팀의 워크플로우",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/claude-code%EB%A5%BC-42%EC%A3%BC-%EB%8F%99%EC%95%88-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8C%80%EC%9D%98-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-7d32da52d73a?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/claude-code%EB%A5%BC-42%EC%A3%BC-%EB%8F%99%EC%95%88-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8C%80%EC%9D%98-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-7d32da52d73a?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "309",
+    "slug": "기억에-대해서",
+    "title": "기억에 대해서",
+    "summary": "기억에 대해서",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EA%B8%B0%EC%96%B5%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-149b3568ea7c?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EA%B8%B0%EC%96%B5%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-149b3568ea7c?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "310",
+    "slug": "delighthub-딜라이트룸의-세-번째-사업부는-왜-만들어졌나",
+    "title": "DelightHub: 딜라이트룸의 세 번째 사업부는 왜 만들어졌나?",
+    "summary": "DelightHub: 딜라이트룸의 세 번째 사업부는 왜 만들어졌나?",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/delighthub-%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8%EC%9D%98-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EC%82%AC%EC%97%85%EB%B6%80%EB%8A%94-%EC%99%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EB%82%98-ae777556d3cb?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/delighthub-%EB%94%9C%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%A3%B8%EC%9D%98-%EC%84%B8-%EB%B2%88%EC%A7%B8-%EC%82%AC%EC%97%85%EB%B6%80%EB%8A%94-%EC%99%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EB%82%98-ae777556d3cb?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "311",
+    "slug": "ai와-함께-이끌어온-2개의-스쿼드",
+    "title": "AI와 함께 이끌어온 2개의 스쿼드",
+    "summary": "AI와 함께 이끌어온 2개의 스쿼드",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/ai%EC%99%80-%ED%95%A8%EA%BB%98-%EC%9D%B4%EB%81%8C%EC%96%B4%EC%98%A8-2%EA%B0%9C%EC%9D%98-%EC%8A%A4%EC%BF%BC%EB%93%9C-90fd9a343873?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/ai%EC%99%80-%ED%95%A8%EA%BB%98-%EC%9D%B4%EB%81%8C%EC%96%B4%EC%98%A8-2%EA%B0%9C%EC%9D%98-%EC%8A%A4%EC%BF%BC%EB%93%9C-90fd9a343873?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "312",
+    "slug": "제품을-깊이-이해하고-치열하게-만들어갑니다-ios-engineer",
+    "title": "제품을 깊이 이해하고, 치열하게 만들어갑니다— iOS Engineer",
+    "summary": "제품을 깊이 이해하고, 치열하게 만들어갑니다— iOS Engineer",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EC%A0%9C%ED%92%88%EC%9D%84-%EA%B9%8A%EC%9D%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%B9%98%EC%97%B4%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%91%EB%8B%88%EB%8B%A4-ios-engineer-39e3a06e2aaa?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EC%A0%9C%ED%92%88%EC%9D%84-%EA%B9%8A%EC%9D%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%B9%98%EC%97%B4%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%91%EB%8B%88%EB%8B%A4-ios-engineer-39e3a06e2aaa?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "313",
+    "slug": "애드테크-세일즈-매출로-증명하다-business-developer",
+    "title": "애드테크 세일즈, 매출로 증명하다 — Business Developer",
+    "summary": "애드테크 세일즈, 매출로 증명하다 — Business Developer",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EC%95%A0%EB%93%9C%ED%85%8C%ED%81%AC-%EC%84%B8%EC%9D%BC%EC%A6%88-%EB%A7%A4%EC%B6%9C%EB%A1%9C-%EC%A6%9D%EB%AA%85%ED%95%98%EB%8B%A4-business-developer-80dfdcde495b?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EC%95%A0%EB%93%9C%ED%85%8C%ED%81%AC-%EC%84%B8%EC%9D%BC%EC%A6%88-%EB%A7%A4%EC%B6%9C%EB%A1%9C-%EC%A6%9D%EB%AA%85%ED%95%98%EB%8B%A4-business-developer-80dfdcde495b?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "314",
+    "slug": "유저-경험의-본질을-날카롭게-구현하는-product-designer",
+    "title": "유저 경험의 본질을 날카롭게 구현하는 — Product Designer",
+    "summary": "유저 경험의 본질을 날카롭게 구현하는 — Product Designer",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "딜라이트룸"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/%EC%9C%A0%EC%A0%80-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%B3%B8%EC%A7%88%EC%9D%84-%EB%82%A0%EC%B9%B4%EB%A1%AD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-product-designer-b5a11dbbc354?source=rss----47cd81ed863---4",
+    "sourceName": "딜라이트룸 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/%EC%9C%A0%EC%A0%80-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%B3%B8%EC%A7%88%EC%9D%84-%EB%82%A0%EC%B9%B4%EB%A1%AD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-product-designer-b5a11dbbc354?source=rss----47cd81ed863---4",
+        "name": "딜라이트룸 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "315",
+    "slug": "ds와-mle가-함께-일하는-법",
+    "title": "DS와 MLE가 함께 일하는 법",
+    "summary": "노트북과 서빙 사이",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/ds-mle-cowork",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/ds-mle-cowork",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "316",
+    "slug": "4-우리-팀의-문서화는-왜-실패할까-2",
+    "title": "4. 우리 팀의 문서화는 왜 실패할까? (2)",
+    "summary": "서로 다른 조직에서 부딪힌 시행착오의 경험을 나누고, 이제 막 문서화를 시작하는 조직이 무엇부터 시작하면 좋을지 이야기해요.",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/technical-writing-4",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/technical-writing-4",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "318",
+    "slug": "디자인-시스템-팀은-디자인-시스템만-잘-만들면-될까",
+    "title": "디자인 시스템 팀은 디자인 시스템만 잘 만들면 될까",
+    "summary": "디자인 시스템 팀은 디자인 시스템만 잘 만들면 될까",
+    "content": null,
+    "company": "당근",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "당근"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%80%EC%9D%80-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%A7%8C-%EC%9E%98-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%90%A0%EA%B9%8C-4f6f2478a8db?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%80%EC%9D%80-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C%EB%A7%8C-%EC%9E%98-%EB%A7%8C%EB%93%A4%EB%A9%B4-%EB%90%A0%EA%B9%8C-4f6f2478a8db?source=rss----4505f82a2dbd---4",
+        "name": "당근 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "319",
+    "slug": "beyond-ai-that-speaks-well-making-kananao-speak-the-way-user",
+    "title": "Beyond AI That Speaks Well: Making Kanana-o Speak the Way Users Want",
+    "summary": "Hello, we are Martin (Daejin Jo), Abigail (Heayoung Park), and Edwin (Wooyoung Kang) from Kanana, the team responsible for developing AI models at Kak",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/828",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/828",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "320",
+    "slug": "잘-말하는-ai를-넘어-원하는-대로-말하는-ai로-kananao-음성-생성-고도화-과정",
+    "title": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정",
+    "summary": "잘 말하는 AI를 넘어, 원하는 대로 말하는 AI로: Kanana-o 음성 생성 고도화 과정",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/827",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/827",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "321",
+    "slug": "개발을-넘어-ai로-사회문제를-해결하다",
+    "title": "개발을 넘어 AI로 사회문제를 해결하다",
+    "summary": "개발을 넘어 AI로 사회문제를 해결하다",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/825",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/825",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "322",
+    "slug": "ai-에이전트로-카카오톡-추천-지표-분석-자동화하기",
+    "title": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기",
+    "summary": "AI 에이전트로 카카오톡 추천 지표 분석 자동화하기",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/824",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/824",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "323",
+    "slug": "에이전틱-ai-생태계의-주인공들-mcp-player-10-성료와-next",
+    "title": "에이전틱 AI 생태계의 주인공들, MCP Player 10 성료와 Next!",
+    "summary": "에이전틱 AI 생태계의 주인공들, MCP Player 10 성료와 Next!",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/818",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/818",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "324",
+    "slug": "음성-ai-모델을-프로덕션에-올리기까지-kananao-서빙-최적화-여정",
+    "title": "음성 AI 모델을 프로덕션에 올리기까지: Kanana-O 서빙 최적화 여정",
+    "summary": "음성 AI 모델을 프로덕션에 올리기까지: Kanana-O 서빙 최적화 여정",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/821",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/821",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "325",
+    "slug": "-ai",
+    "title": "文件治理多 AI 協作：從模糊需求到開發維護",
+    "summary": "&#x7576; Session &#x88AB;&#x8FEB;&#x4E2D;&#x65B7;&#x3001;&#x9808;&#x7528;&#x53E6;&#x4E00;&#x500B; AI &#x91CD;&#x65B0;&#x958B;&#x59CB;&#x6642;&#xFF0C;&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@winnie810208/%E6%96%87%E4%BB%B6%E6%B2%BB%E7%90%86%E5%A4%9A-ai-%E5%8D%94%E4%BD%9C-%E5%BE%9E%E6%A8%A1%E7%B3%8A%E9%9C%80%E6%B1%82%E5%88%B0%E9%96%8B%E7%99%BC%E7%B6%AD%E8%AD%B7-d87afcc015fa?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@winnie810208/%E6%96%87%E4%BB%B6%E6%B2%BB%E7%90%86%E5%A4%9A-ai-%E5%8D%94%E4%BD%9C-%E5%BE%9E%E6%A8%A1%E7%B3%8A%E9%9C%80%E6%B1%82%E5%88%B0%E9%96%8B%E7%99%BC%E7%B6%AD%E8%AD%B7-d87afcc015fa?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "326",
+    "slug": "the-only-chatgpt-guide-you-need-to-save-10-hours-on-content",
+    "title": "The Only ChatGPT Guide You Need to Save 10 Hours on Content Planning",
+    "summary": "Ask ten creators how they use ChatGPT for content planning and eight will say some version of &#x201C;I ask it for ideas.&#x201D; That&#x2019;s the mo",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chienwa1007/the-only-chatgpt-guide-you-need-to-save-10-hours-on-content-planning-2ffda260020e?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chienwa1007/the-only-chatgpt-guide-you-need-to-save-10-hours-on-content-planning-2ffda260020e?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "327",
+    "slug": "why-workflow-matters-more-than-another-skill",
+    "title": "Why Workflow Matters More Than Another Skill",
+    "summary": "Why Workflow Matters More Than Another Skill",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@eladzoarets/why-workflow-matters-more-than-another-skill-3bf142c4a64b?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@eladzoarets/why-workflow-matters-more-than-another-skill-3bf142c4a64b?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "328",
+    "slug": "what-i-learned-from-using-ai-on-a-work-project",
+    "title": "What I Learned From Using AI on a Work Project",
+    "summary": "AI sounded exciting when I first started using it at work. I had seen people talk about how it could save time, write code, analyze&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ahmaddotml.medium.com/what-i-learned-from-using-ai-on-a-work-project-93287c8c25d0?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ahmaddotml.medium.com/what-i-learned-from-using-ai-on-a-work-project-93287c8c25d0?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "329",
+    "slug": "working-better-with-agentic-ai-lessons-from-practice",
+    "title": "Working Better with Agentic AI: Lessons from Practice",
+    "summary": "I&#x2019;ve been working with agentic AI tools for a while, mostly experimenting with how to make everyday business work faster, more reliable&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pawitrachai/working-better-with-agentic-ai-lessons-from-practice-c3c38d83468e?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pawitrachai/working-better-with-agentic-ai-lessons-from-practice-c3c38d83468e?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "330",
+    "slug": "ai-bookkeeping",
+    "title": "AI Bookkeeping",
+    "summary": "What changed when I stopped doing the matching myselfContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@naveensky/ai-bookkeeping-f9087fa8318a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@naveensky/ai-bookkeeping-f9087fa8318a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "331",
+    "slug": "why-businesses-are-moving-beyond-traditional-automation-to-a",
+    "title": "Why Businesses Are Moving Beyond Traditional Automation to AI Workflow Automation",
+    "summary": "For years, businesses have relied on automation to eliminate repetitive work and improve efficiency. Simple rules, predefined workflows&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@infomaze.seo/why-businesses-are-moving-beyond-traditional-automation-to-ai-workflow-automation-e19cef1c76dc?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@infomaze.seo/why-businesses-are-moving-beyond-traditional-automation-to-ai-workflow-automation-e19cef1c76dc?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "332",
+    "slug": "multiagent-evaluation-a-correct-answer-can-still-fail",
+    "title": "Multi-Agent Evaluation: A Correct Answer Can Still Fail",
+    "summary": "Friday, my golden retriever, can return the tennis ball and still knock over a plant on the way back. If I evaluated only the final result&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://oscarmorgan-2.medium.com/multi-agent-evaluation-a-correct-answer-can-still-fail-db2473c83a85?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://oscarmorgan-2.medium.com/multi-agent-evaluation-a-correct-answer-can-still-fail-db2473c83a85?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "333",
+    "slug": "the-honest-guide-to-claudes-chrome-extension",
+    "title": "The Honest Guide to Claude’s Chrome Extension",
+    "summary": "What it fills, reads, and skipsContinue reading on Small Wonders Daily »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/small-wonders-daily/the-honest-guide-to-claudes-chrome-extension-8f76c9d8781d?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/small-wonders-daily/the-honest-guide-to-claudes-chrome-extension-8f76c9d8781d?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "334",
+    "slug": "the-top-5-finder-replacements-for-mac-in-2026-and-why-i-ende",
+    "title": "The Top 5 Finder Replacements for Mac in 2026 (And Why I Ended Up Building a Sixth)",
+    "summary": "Finder is fine. That&#x2019;s the most damning thing you can say about it.Continue reading on Mac O’Clock »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/macoclock/the-top-5-finder-replacements-for-mac-in-2026-and-why-i-ended-up-building-a-sixth-805826b3f526?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/macoclock/the-top-5-finder-replacements-for-mac-in-2026-and-why-i-ended-up-building-a-sixth-805826b3f526?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "335",
+    "slug": "claude-fable-5-slashes-medical-false-refusals-by-85-top-10-a",
+    "title": "Claude Fable 5 Slashes Medical False Refusals by 85% — Top 10 AI & Flutter News August 10, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/claude-fable-5-slashes-medical-false-refusals-by-85-top-10-ai-flutter-news-august-10-2026-df9cbe860fbf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/claude-fable-5-slashes-medical-false-refusals-by-85-top-10-ai-flutter-news-august-10-2026-df9cbe860fbf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "336",
+    "slug": "start-your-ai-journey-with-claude-code-ai-new-batch",
+    "title": "Start Your AI Journey with Claude Code AI New Batch",
+    "summary": "&#x1F680; Kickstart Your AI Development Journey with Claude Code AI!Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sivavisualpath668/start-your-ai-journey-with-claude-code-ai-new-batch-3cf9c1202de4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sivavisualpath668/start-your-ai-journey-with-claude-code-ai-new-batch-3cf9c1202de4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "337",
+    "slug": "how-to-use-claude-code-without-wasting-your-context-window",
+    "title": "How to Use Claude Code Without Wasting Your Context Window",
+    "summary": "Claude Code becomes significantly more useful once you stop treating it like a chatbot that happens to have access to your terminal.Continue reading o",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ioana.recianu/how-to-use-claude-code-without-wasting-your-context-window-4c45033e9981?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ioana.recianu/how-to-use-claude-code-without-wasting-your-context-window-4c45033e9981?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "338",
+    "slug": "properties-of-a-good-multiturn-agent-harness",
+    "title": "Properties of a Good Multi-Turn Agent Harness",
+    "summary": "A multi-turn agent harness can be understood as the system that maintains a reliable interaction loop between an agent and the environment&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ohadrubin/properties-of-a-good-multi-turn-agent-harness-4d3a5b3bde45?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ohadrubin/properties-of-a-good-multi-turn-agent-harness-4d3a5b3bde45?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "339",
+    "slug": "i-built-a-rainfallonly-harvest-timing-agent-on-databricks-wi",
+    "title": "I Built a Rainfall-Only Harvest Timing Agent on Databricks — With Claude Code Doing the Heavy…",
+    "summary": "How a single-purpose AI agent, a Streamlit app, and an AI pair-programmer turned a rainfall forecasting problem into a running Databricks&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@debayankar/i-built-a-rainfall-only-harvest-timing-agent-on-databricks-with-claude-code-doing-the-heavy-8b119b4cd445?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@debayankar/i-built-a-rainfall-only-harvest-timing-agent-on-databricks-with-claude-code-doing-the-heavy-8b119b4cd445?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "340",
+    "slug": "anthropic-claude-code-auto-mode-2026-default-switch-security",
+    "title": "Anthropic Claude Code Auto Mode (2026): Default Switch & Security Data",
+    "summary": "Anthropic just flipped a switch that changes how millions of developers will write code from the terminal.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@cartseoservice/anthropic-claude-code-auto-mode-2026-default-switch-security-data-88ca66063bee?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@cartseoservice/anthropic-claude-code-auto-mode-2026-default-switch-security-data-88ca66063bee?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "341",
+    "slug": "how-i-stopped-ai-context-pollution-and-drastically-reduced-t",
+    "title": "How I Stopped AI “Context Pollution” and Drastically Reduced Token Usage",
+    "summary": "If you&#x2019;ve spent any time building projects with AI coding assistants, you know the honeymoon phase.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kundansinghsorout/how-i-stopped-ai-context-pollution-and-drastically-reduced-token-usage-bdf61594d278?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kundansinghsorout/how-i-stopped-ai-context-pollution-and-drastically-reduced-token-usage-bdf61594d278?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "342",
+    "slug": "-claude-code-openai-codex-avalai",
+    "title": "✅استفاده از Claude Code و OpenAI Codex با AvalAI؛ بدون کارمزد اضافه",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ehsanazizi.ir/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-claude-code-%D9%88-openai-codex-%D8%A8%D8%A7-avalai-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%D8%A7%D8%B1%D9%85%D8%B2%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%D9%87-f0ee5427a33e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ehsanazizi.ir/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-claude-code-%D9%88-openai-codex-%D8%A8%D8%A7-avalai-%D8%A8%D8%AF%D9%88%D9%86-%DA%A9%D8%A7%D8%B1%D9%85%D8%B2%D8%AF-%D8%A7%D8%B6%D8%A7%D9%81%D9%87-f0ee5427a33e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "343",
+    "slug": "why-backend-developers-should-learn-mcp-arent-apis-and-funct",
+    "title": "Why Backend Developers Should Learn MCP  Aren’t APIs and Function Calling Enough?",
+    "summary": "Why Backend Developers Should Learn MCP &#x2014; Aren&#x2019;t APIs and Function Calling Enough?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://codewitharash.medium.com/why-backend-developers-should-learn-mcp-arent-apis-and-function-calling-enough-8724b9eafad8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://codewitharash.medium.com/why-backend-developers-should-learn-mcp-arent-apis-and-function-calling-enough-8724b9eafad8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "286",
+    "slug": "daangn-frontend-backend-one-team",
+    "title": "프론트엔드와 백엔드를 한 팀으로 합치면 어떤 일이 일어날까?",
+    "summary": "당근이 프론트엔드와 백엔드 개발자를 하나의 팀으로 통합한 실험 이야기. 조직 구조 변화가 실제 협업 방식과 개발 속도에 어떤 영향을 미쳤는지 솔직하게 기록했다.",
+    "content": null,
+    "company": "당근",
+    "category": "블로그",
+    "date": "2026-08-09",
+    "tags": [
+      "조직설계",
+      "팀협업",
+      "당근",
+      "개발문화",
+      "프론트엔드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1",
+    "sourceName": "당근 Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%99%80-%EB%B0%B1%EC%97%94%EB%93%9C%EB%A5%BC-%ED%95%9C-%ED%8C%80%EC%9C%BC%EB%A1%9C-%ED%95%A9%EC%B9%98%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C-f8b32edb2eb1",
+        "name": "당근 Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "285",
+    "slug": "toss-design-roles-two",
+    "title": "토스가 디자인 직무를 2개로 줄인 이유",
+    "summary": "토스가 6개였던 디자인 직무를 Visual Designer, Product Designer 2개로 통합했다. 직무 세분화의 역설과 협업 구조를 어떻게 재설계했는지 내부 관점에서 풀어낸다.",
+    "content": null,
+    "company": "토스",
+    "category": "UX",
+    "date": "2026-08-09",
+    "tags": [
+      "토스",
+      "디자인직무",
+      "조직설계",
+      "프로덕트디자인",
+      "팀협업"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/47067",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/47067",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "284",
+    "slug": "yozm-11-vibe-coders-platform",
+    "title": "11명의 바이브 코더와 함께 사내 플랫폼 만들어봤습니다",
+    "summary": "비개발자 11명이 바이브 코딩으로 사내 플랫폼을 만드는 과정을 곁에서 지켜본 개발자의 기록. 개발자의 역할이 AI 시대에 어떻게 달라지는지, 실제 부딪힌 문제와 깨달음을 솔직하게 풀어낸다.",
+    "content": null,
+    "company": "요즘IT",
+    "category": "블로그",
+    "date": "2026-08-09",
+    "tags": [
+      "vibe코딩",
+      "AI도입",
+      "개발자역할",
+      "팀협업",
+      "사내플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://yozm.wishket.com/magazine/detail/3758/",
+    "sourceName": "요즘IT",
+    "sources": [
+      {
+        "url": "https://yozm.wishket.com/magazine/detail/3758/",
+        "name": "요즘IT"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "283",
+    "slug": "delightroom-claude-code-42weeks-workflow",
+    "title": "Claude Code를 42주 동안 사용한 팀의 워크플로우",
+    "summary": "딜라이트룸 팀이 Claude Code를 42주간 실제 프로덕션 개발에 사용하며 겪은 경험을 정리했다. 어떻게 팀 워크플로우에 녹여냈는지, 무엇이 달라졌는지 실무 관점에서 솔직하게 풀어낸 글.",
+    "content": null,
+    "company": "딜라이트룸",
+    "category": "블로그",
+    "date": "2026-08-09",
+    "tags": [
+      "ClaudeCode",
+      "AI워크플로우",
+      "팀협업",
+      "AI도입",
+      "개발문화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/delightroom/claude-code%EB%A5%BC-42%EC%A3%BC-%EB%8F%99%EC%95%88-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8C%80%EC%9D%98-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-7d32da52d73a",
+    "sourceName": "딜라이트룸 미디엄",
+    "sources": [
+      {
+        "url": "https://medium.com/delightroom/claude-code%EB%A7%AC-42%EC%A3%BC-%EB%8F%99%EC%95%88-%EC%82%AC%EC%9A%A9%ED%95%9C-%ED%8C%80%EC%9D%98-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0-7d32da52d73a",
+        "name": "Medium — 딜라이트룸"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "278",
+    "slug": "openads-answer-layer-ai-search",
+    "title": "답변 레이어(Answer Layer)란: AI 검색에서 브랜드가 노출되는 새로운 컨텍스트",
+    "summary": "AI 검색 시대에 브랜드가 노출되는 새로운 방식, '답변 레이어'의 개념과 작동 원리를 설명한다. ChatGPT·Perplexity 등 AI 검색에서 브랜드를 어떻게 노출시킬 수 있는지 마케터 관점에서 풀어낸다.",
+    "content": null,
+    "company": "오픈애즈",
+    "category": "AI모델",
+    "date": "2026-08-09",
+    "tags": [
+      "AI검색",
+      "GEO",
+      "브랜드마케팅",
+      "Answer Layer",
+      "오픈애즈"
+    ],
+    "imageUrl": "https://openads-real.s3.amazonaws.com/openadsAdmin/images/contsThumb/답변 레이어 Answer Layer 란  AI 검색에서 브랜드가 노출되는 새로운 컨텍스트.png",
+    "sourceUrl": "https://www.openads.co.kr/content/contentDetail?contsId=20028",
+    "sourceName": "오픈애즈",
+    "sources": [
+      {
+        "url": "https://www.openads.co.kr/content/contentDetail?contsId=20028",
+        "name": "오픈애즈 — GEO리드젠랩"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "279",
+    "slug": "openads-semantic-authority-ai",
+    "title": "시맨틱 권위(Semantic Authority)란: AI가 브랜드를 전문 소스로 인식하는 기준",
+    "summary": "AI가 특정 브랜드를 전문 출처로 인식하게 만드는 '시맨틱 권위'의 개념을 소개한다. GEO(생성형 엔진 최적화) 시대에 브랜드 콘텐츠 전략을 어떻게 바꿔야 하는지 설명한다.",
+    "content": null,
+    "company": "오픈애즈",
+    "category": "AI모델",
+    "date": "2026-08-08",
+    "tags": [
+      "AI마케팅",
+      "GEO",
+      "시맨틱권위",
+      "브랜드전략",
+      "오픈애즈"
+    ],
+    "imageUrl": "https://openads-real.s3.amazonaws.com/openadsAdmin/images/contsThumb/시맨틱 권위 Semantic Authority 란  AI가 브랜드를 전문 소스로 인식하는 기준.png",
+    "sourceUrl": "https://www.openads.co.kr/content/contentDetail?contsId=20027",
+    "sourceName": "오픈애즈",
+    "sources": [
+      {
+        "url": "https://www.openads.co.kr/content/contentDetail?contsId=20027",
+        "name": "오픈애즈 — GEO리드젠랩"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "280",
+    "slug": "openads-ai-citation-content",
+    "title": "AI 인용이란: AI가 내 콘텐츠를 출처로 선택하는 기준",
+    "summary": "ChatGPT·Claude·Perplexity가 답변 생성 시 어떤 기준으로 출처를 선택하는지 분석한다. 내 콘텐츠가 AI에 인용되려면 어떤 조건을 갖춰야 하는지 실무적으로 정리했다.",
+    "content": null,
+    "company": "오픈애즈",
+    "category": "AI모델",
+    "date": "2026-08-07",
+    "tags": [
+      "AI인용",
+      "GEO",
+      "콘텐츠마케팅",
+      "SEO",
+      "오픈애즈"
+    ],
+    "imageUrl": "https://openads-real.s3.amazonaws.com/openadsAdmin/images/contsThumb/AI 인용이란  AI가 내 콘텐츠를 출처로 선택하는 기준.png",
+    "sourceUrl": "https://www.openads.co.kr/content/contentDetail?contsId=20026",
+    "sourceName": "오픈애즈",
+    "sources": [
+      {
+        "url": "https://www.openads.co.kr/content/contentDetail?contsId=20026",
+        "name": "오픈애즈 — GEO리드젠랩"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "281",
+    "slug": "openads-llms-txt-ai-crawler",
+    "title": "llms.txt란 무엇인가: AI 크롤러에게 사이트를 설명하는 방법과 실효성 논란",
+    "summary": "AI 크롤러를 위한 새로운 표준 'llms.txt'의 개념과 도입 방법, 그리고 실제 효과에 대한 논란을 정리한다. robots.txt의 AI 버전이라고도 불리는 이 파일이 GEO 전략에 어떤 의미를 갖는지 살펴본다.",
+    "content": null,
+    "company": "오픈애즈",
+    "category": "AI모델",
+    "date": "2026-08-06",
+    "tags": [
+      "llms.txt",
+      "AI크롤러",
+      "GEO",
+      "SEO",
+      "오픈애즈"
+    ],
+    "imageUrl": "https://openads-real.s3.amazonaws.com/openadsAdmin/images/contsThumb/llms txt란 무엇인가  AI 크롤러에게 사이트를 설명하는 방법과 실효성 논란.png",
+    "sourceUrl": "https://www.openads.co.kr/content/contentDetail?contsId=20025",
+    "sourceName": "오픈애즈",
+    "sources": [
+      {
+        "url": "https://www.openads.co.kr/content/contentDetail?contsId=20025",
+        "name": "오픈애즈 — GEO리드젠랩"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "282",
+    "slug": "openads-ai-agent-search",
+    "title": "AI 에이전트 검색이란: AI가 직접 검색·비교·구매하는 시대",
+    "summary": "AI 에이전트가 사람 대신 직접 검색하고 비교해 구매까지 하는 시대가 오고 있다. 이 변화가 마케터와 브랜드 전략에 어떤 의미인지, 어떻게 대비해야 하는지 정리했다.",
+    "content": null,
+    "company": "오픈애즈",
+    "category": "AI모델",
+    "date": "2026-08-06",
+    "tags": [
+      "AI에이전트",
+      "에이전트검색",
+      "마케팅전략",
+      "GEO",
+      "오픈애즈"
+    ],
+    "imageUrl": "https://openads-real.s3.amazonaws.com/openadsAdmin/images/contsThumb/AI 에이전트 검색이란  AI가 직접 검색·비교·구매하는 시대.png",
+    "sourceUrl": "https://www.openads.co.kr/content/contentDetail?contsId=20024",
+    "sourceName": "오픈애즈",
+    "sources": [
+      {
+        "url": "https://www.openads.co.kr/content/contentDetail?contsId=20024",
+        "name": "오픈애즈 — GEO리드젠랩"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "276",
+    "slug": "giyoul-ai-workflow-team",
+    "title": "AI는 발전하는데 사람의 워크플로우는 왜 변하지 않는가?",
+    "summary": "개인이 AI를 쓰는 것과 팀이 AI를 쓰는 것은 전혀 다른 문제다. AI 도입 이후에도 팀의 협업 방식과 워크플로우가 바뀌지 않는 이유를 짚어보고, AI 시대에 맞는 팀 단위 워크플로우 변화 방향을 제시한다.",
+    "content": null,
+    "company": "블로그",
+    "category": "블로그",
+    "date": "2026-08-09",
+    "tags": [
+      "AI워크플로우",
+      "팀협업",
+      "AI도입",
+      "개발문화",
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/how-to-use-ai-in-team",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/how-to-use-ai-in-team",
+        "name": "velog — 달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "277",
+    "slug": "teo-ai-era-developer-role",
+    "title": "더이상 사람이 코딩하지 않는 시대, 개발자는 무엇을 해야 할까?",
+    "summary": "AI 에이전트가 코드를 직접 작성하는 시대가 도래했다. 그렇다면 개발자의 역할은 무엇으로 재정의되어야 하는가. 코딩 그 너머의 개발자 본질을 탐구한다.",
+    "content": null,
+    "company": "블로그",
+    "category": "블로그",
+    "date": "2026-08-09",
+    "tags": [
+      "AI시대",
+      "개발자역할",
+      "vibe코딩",
+      "커리어",
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@teo/ai-era-developer-role",
+    "sourceName": "teo의 블로그",
+    "sources": [
+      {
+        "url": "https://velog.io/@teo/ai-era-developer-role",
+        "name": "velog — teo의 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
     "title": "오픈AI, 칸 라이언즈 첫 참가 — 챗GPT 광고 비즈니스·코덱스 공개로 광고 시장 본격 진출",
     "summary": "오픈AI가 세계 최대 광고 축제인 칸 라이언즈에 처음으로 참가해 챗GPT 기반 광고 플랫폼과 AI 코딩 에이전트 '코덱스'를 광고·마케팅 업계에 공개했다. 이는 IPO를 앞두고 새로운 수익원을 확보하려는 전략적 행보로, 구글·메타가 장악한 광고 기술 시장에 오픈AI가 본격적으로 도전장을 내민 것으로 풀이된다.",
     "content": "## 배경\n오픈AI는 기업공개(IPO)를 앞두고 챗GPT 구독료 외의 새로운 수익 모델 확보가 시급한 상황이다. 글로벌 광고 시장은 구글, 메타 등 빅테크가 오랜 기간 지배해왔으나, 생성형 AI의 부상으로 광고 타깃팅·크리에이티브 제작 방식이 급변하고 있어 오픈AI가 이 틈새를 공략하려는 것으로 분석된다.\n\n## 주요 내용\n- 오픈AI는 프랑스 칸에서 열린 칸 라이언즈 2025에 최초로 참가해 별도 전시 공간을 마련하고 광고주·마케팅 업계 관계자들을 대상으로 자사 플랫폼을 소개했다.\n- 챗GPT를 활용한 광고 비즈니스 모델을 전면에 공개하며, AI 기반 광고 타깃팅 및 크리에이티브 솔루션을 시연했다.\n- AI 코딩 에이전트 '코덱스'도 함께 선보이며, 광고 캠페인 자동화 및 마케팅 기술 스택과의 통합 가능성을 강조했다.\n\n## 시장 영향\n오픈AI의 광고 시장 진입은 구글·메타 중심의 디지털 광고 생태계에 새로운 경쟁 변수를 추가한다. 특히 생성형 AI를 활용한 초개인화 광고·콘텐츠 제작 자동화 수요가 급증하는 시점에서, 오픈AI가 광고주에게 직접 플랫폼을 제공할 경우 기존 광고 기술 업체들의 입지가 흔들릴 수 있다. 다만 광고 업계 신뢰 구축과 개인정보 보호 이슈는 넘어야 할 과제로 남아 있다.",
