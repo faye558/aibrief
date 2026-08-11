@@ -1,5 +1,291 @@
 [
   {
+    "id": "354",
+    "slug": "how-i-built-an-aipowered-weekly-report-system-with-n8n-and-l",
+    "title": "How I Built an AI-Powered Weekly Report System with n8n and LLMs",
+    "summary": "How I automated my weekly progress reviews using n8n, an LLM, and zero manual effort, and what I learned about building real AI pipelines&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/how-i-built-an-ai-powered-weekly-report-system-with-n8n-and-llms-18f4a612d78a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/how-i-built-an-ai-powered-weekly-report-system-with-n8n-and-llms-18f4a612d78a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "355",
+    "slug": "como-um-time-de-poucos-devs-monitora-infra-de-time-grande",
+    "title": "Como um time de poucos devs monitora infra de time grande.",
+    "summary": "A barreira nunca foi intelig&#xEA;ncia, era tradu&#xE7;&#xE3;o. Com IA e observabilidade em linguagem natural, quem v&#xEA; o problema passou a dar o",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@nicolasbarrosdesouza/como-um-time-de-poucos-devs-monitora-infra-de-time-grande-2eaea702d71b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@nicolasbarrosdesouza/como-um-time-de-poucos-devs-monitora-infra-de-time-grande-2eaea702d71b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "356",
+    "slug": "i-spent-a-week-designing-an-architecture-i-was-proud-of",
+    "title": "I Spent a Week Designing an Architecture I Was Proud Of.",
+    "summary": "It was right. That&#x2019;s the part I keep thinking about.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-spent-a-week-designing-an-architecture-i-was-proud-of-326d42abcecf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-spent-a-week-designing-an-architecture-i-was-proud-of-326d42abcecf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "357",
+    "slug": "i-stopped-opening-my-editor-first-heres-what-i-do-instead-an",
+    "title": "I Stopped Opening My Editor First. Here’s What I Do Instead — and Why My Code Got Better.",
+    "summary": "20 minutes before the code. Every time. The habit nobody told me about.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-stopped-opening-my-editor-first-heres-what-i-do-instead-and-why-my-code-got-better-a0c0b7d26096?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-stopped-opening-my-editor-first-heres-what-i-do-instead-and-why-my-code-got-better-a0c0b7d26096?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "358",
+    "slug": "i-trusted-my-security-reviews-then-i-let-claude-run-one",
+    "title": "I Trusted My Security Reviews. Then I Let Claude Run One.",
+    "summary": "Three years of manual audits. One 20-minute session. I wish I hadn&#x2019;t looked.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-trusted-my-security-reviews-then-i-let-claude-run-one-252813559d35?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-trusted-my-security-reviews-then-i-let-claude-run-one-252813559d35?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "359",
+    "slug": "playwright-162-bundles-the-mcp-server-in-now-its-just-npx-pl",
+    "title": "Playwright 1.62 Bundles the MCP Server In: Now It’s Just npx playwright mcp",
+    "summary": "Originally published in Japanese on katsulog.techContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@katsuya.ds/playwright-1-62-bundles-the-mcp-server-in-now-its-just-npx-playwright-mcp-0232025eb75a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@katsuya.ds/playwright-1-62-bundles-the-mcp-server-in-now-its-just-npx-playwright-mcp-0232025eb75a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "360",
+    "slug": "i-stopped-managing-ai-coding-work-in-chat",
+    "title": "I Stopped Managing AI Coding Work in Chat",
+    "summary": "I started turning AI conversations into plans, GitHub issues, and isolated worktrees. It changed how I handle large coding tasks.Continue reading on M",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://gasatrya.medium.com/i-stopped-managing-ai-coding-work-in-chat-33177a93e67f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://gasatrya.medium.com/i-stopped-managing-ai-coding-work-in-chat-33177a93e67f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "361",
+    "slug": "stepbystep-guide-connecting-agentrouter-to-vs-code-ai-agents",
+    "title": "Step-by-Step Guide: Connecting AgentRouter to VS Code AI Agents (Cline / Roo Code)",
+    "summary": "If you are trying to use AgentRouter as your API proxy for advanced AI coding agents like Cline or Roo Code, you might run into confusing&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pointtroubleshooting/step-by-step-guide-connecting-agentrouter-to-vs-code-ai-agents-cline-roo-code-89f52fca435f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pointtroubleshooting/step-by-step-guide-connecting-agentrouter-to-vs-code-ai-agents-cline-roo-code-89f52fca435f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "362",
+    "slug": "skills-hooks-and-subagents-optimizing-claude-code-around-wha",
+    "title": "Skills, Hooks and Subagents: Optimizing Claude Code Around What Stays in the Window",
+    "summary": "Every mechanism in the tool is a way of spending or protecting one budget. Once you price a context window per turn, most decisions about&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/skills-hooks-and-subagents-optimizing-claude-code-around-what-stays-in-the-window-36299cf2b986?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/skills-hooks-and-subagents-optimizing-claude-code-around-what-stays-in-the-window-36299cf2b986?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "363",
+    "slug": "the-apis-you-cant-see-closing-the-internal-blind-spot",
+    "title": "The APIs You Can’t See: Closing the Internal Blind Spot",
+    "summary": "Most API security programs are built around one assumption: if an API matters, it eventually shows up in traffic that crosses the&#x2026;Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@riddhinsanghvi/the-apis-you-cant-see-closing-the-internal-blind-spot-017fc4e1c943?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@riddhinsanghvi/the-apis-you-cant-see-closing-the-internal-blind-spot-017fc4e1c943?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "364",
+    "slug": "the-future-of-longhorizon-ai-agents-claude-code-vs-codex",
+    "title": "The Future of Long-Horizon AI Agents: Claude Code vs. Codex",
+    "summary": "How to move beyond simple prompts and let AI handle multi-hour coding campaigns using automated loops and condition-based goals.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@andrew22dev/the-future-of-long-horizon-ai-agents-claude-code-vs-codex-e4f4410424c4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@andrew22dev/the-future-of-long-horizon-ai-agents-claude-code-vs-codex-e4f4410424c4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "344",
     "slug": "this-is-how-professional-mobile-app-developers-use-claude-co",
     "title": "This Is How Professional Mobile App Developers Use Claude Code to Build Their Apps in 2026",
