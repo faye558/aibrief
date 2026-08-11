@@ -1,5 +1,161 @@
 [
   {
+    "id": "365",
+    "slug": "how-to-build-a-shared-ai-harness-for-your-team-the-opensourc",
+    "title": "How to Build a Shared AI Harness for Your Team — The Open-Source Setup for Faster AI Development",
+    "summary": "Most companies don&#x2019;t have an AI problem. They have a coordination problem. One engineer has a powerful Claude workflow. Another has a&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/how-to-build-a-shared-ai-harness-for-your-team-the-open-source-setup-for-faster-ai-development-d3b33bc9c1e0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/how-to-build-a-shared-ai-harness-for-your-team-the-open-source-setup-for-faster-ai-development-d3b33bc9c1e0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "366",
+    "slug": "i-used-claude-code-and-manus-to-build-a-tiktok-content-calen",
+    "title": "I Used Claude Code and Manus to Build a TikTok Content Calendar Generator In 1 Week",
+    "summary": "Interactive tools are the best digital products in 2026.Continue reading on Data Science Collective »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/data-science-collective/i-used-claude-code-and-manus-to-build-a-tiktok-content-calendar-generator-in-1-week-a8a7e31343cc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/data-science-collective/i-used-claude-code-and-manus-to-build-a-tiktok-content-calendar-generator-in-1-week-a8a7e31343cc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "367",
+    "slug": "why-i-stare-at-a-dark-screen-all-day",
+    "title": "Why I Stare at a Dark Screen All Day",
+    "summary": "My wife walked past my desk last week, glanced at the monitor, and asked the question she&#x2019;s clearly been sitting on for months: &#x201C;Why are",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jotheeswarang/why-i-stare-at-a-dark-screen-all-day-b0a9fcf7447d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jotheeswarang/why-i-stare-at-a-dark-screen-all-day-b0a9fcf7447d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "368",
+    "slug": "termcast-control-your-mac-or-linux-terminal-right-from-your",
+    "title": "Termcast: Control Your Mac or Linux Terminal Right From Your iPhone",
+    "summary": "There&#x2019;s something oddly useful about being able to reach your terminal when you&#x2019;re nowhere near your computer. Your Mac is running a lon",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/termcast-control-your-mac-or-linux-terminal-right-from-your-iphone-87e95f37c9bb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/termcast-control-your-mac-or-linux-terminal-right-from-your-iphone-87e95f37c9bb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "369",
+    "slug": "i-made-claude-code-quiz-me-before-i-ship",
+    "title": "I Made Claude Code Quiz Me Before I Ship",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@emanzurv/i-made-claude-code-quiz-me-before-i-ship-d1a4c7c49bfe?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@emanzurv/i-made-claude-code-quiz-me-before-i-ship-d1a4c7c49bfe?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "370",
+    "slug": "use-claude-code-with-any-model-a-practical-router-setup",
+    "title": "Use Claude Code With Any Model: A Practical Router Setup",
+    "summary": "Point Claude Code at a compatible gateway, use a dedicated budgeted key, and retain a clean rollback path.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://routerrplex.medium.com/use-claude-code-with-any-model-a-practical-router-setup-24e8cebfa94d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://routerrplex.medium.com/use-claude-code-with-any-model-a-practical-router-setup-24e8cebfa94d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "354",
     "slug": "how-i-built-an-aipowered-weekly-report-system-with-n8n-and-l",
     "title": "How I Built an AI-Powered Weekly Report System with n8n and LLMs",
