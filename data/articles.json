@@ -1,5 +1,135 @@
 [
   {
+    "id": "404",
+    "slug": "your-ai-agent-can-now-control-an-iphone-without-jailbreaking",
+    "title": "Your AI Agent Can Now Control an iPhone Without Jailbreaking It",
+    "summary": "Most AI agents are pretty good at controlling things that have APIs. Give an agent a browser, and it can inspect the DOM. Give it a&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/your-ai-agent-can-now-control-an-iphone-without-jailbreaking-it-d88360b2d374?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/your-ai-agent-can-now-control-an-iphone-without-jailbreaking-it-d88360b2d374?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "405",
+    "slug": "from-a-messy-requirements-doc-to-readytoship-jira-stories-wi",
+    "title": "From a Messy Requirements Doc to Ready-to-Ship Jira Stories — With Diagrams",
+    "summary": "I built an open-source Claude Skill (that also works with ChatGPT) that turns rough requirements into structured, traceable Jira work &#x2014;&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://kirtikau.medium.com/from-a-messy-requirements-doc-to-ready-to-ship-jira-stories-with-diagrams-4791afa0f7f8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://kirtikau.medium.com/from-a-messy-requirements-doc-to-ready-to-ship-jira-stories-with-diagrams-4791afa0f7f8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "406",
+    "slug": "claude-now-watermarks-everything-it-makes",
+    "title": "Claude Now Watermarks Everything It Makes",
+    "summary": "What Anthropic&#x2019;s new AI-content marking means for your text, code, images, and filesContinue reading on CodeToDeploy »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codetodeploy/claude-now-watermarks-everything-it-makes-29e093146074?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codetodeploy/claude-now-watermarks-everything-it-makes-29e093146074?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "407",
+    "slug": "claude-codes-context-window-what-actually-happens-when-you-h",
+    "title": "Claude Code’s Context Window: What Actually Happens When You Hit 100%",
+    "summary": "Claude Code&#x2019;s Context Window: What Actually Happens When You Hit 100%Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@talkit/claude-codes-context-window-what-actually-happens-when-you-hit-100-b5eaceba4905?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@talkit/claude-codes-context-window-what-actually-happens-when-you-hit-100-b5eaceba4905?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "408",
+    "slug": "free-udemy-course-limited-time",
+    "title": "FREE Udemy Course — Limited Time!",
+    "summary": "&#x1F393; Hello Claude Learners!Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://indiancareers2008.medium.com/free-udemy-course-limited-time-dea106a0192a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://indiancareers2008.medium.com/free-udemy-course-limited-time-dea106a0192a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "393",
     "slug": "i-made-animation-with-codex-without-using-a-video-model",
     "title": "I made animation with Codex, without using a video model",
