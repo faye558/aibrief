@@ -1037,12 +1037,9 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
     console.log(`  ✍️  ${extractTitle(item).slice(0, 70)}`);
     try {
       const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`, existingSlugs);
-      if (!existingSlugs.has(article.slug)) {
-        article.id = String(nextId++);
-        newArticles.push(article);
-        if (link) existingUrls.add(link);
-        existingSlugs.add(article.slug);
-      }
+      article.id = String(nextId++);
+      newArticles.push(article);
+      if (link) existingUrls.add(link);
       await new Promise(r => setTimeout(r, 800));
     } catch (e) { console.error(`    ❌ ${e.message}`); }
   }
@@ -1105,12 +1102,9 @@ async function main() {
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = await generateArticle(source.company, source.category, item, `${source.company} 공식`, existingSlugs);
-        if (!existingSlugs.has(article.slug)) {
-          article.id = String(nextId++);
-          newArticles.push(article);
-          if (link) existingUrls.add(link);
-          existingSlugs.add(article.slug);
-        }
+        article.id = String(nextId++);
+        newArticles.push(article);
+        if (link) existingUrls.add(link);
         await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
@@ -1142,12 +1136,9 @@ async function main() {
           : source.curation
             ? await generateCurationArticle(company, category, item, source.name, existingSlugs)
             : await generateArticle(company, category, item, source.name, existingSlugs);
-        if (!existingSlugs.has(article.slug)) {
-          article.id = String(nextId++);
-          newArticles.push(article);
-          if (link) existingUrls.add(link);
-          existingSlugs.add(article.slug);
-        }
+        article.id = String(nextId++);
+        newArticles.push(article);
+        if (link) existingUrls.add(link);
         await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
@@ -1171,12 +1162,9 @@ async function main() {
       console.log(`  ✍️  [${source.company}] ${extractTitle(item).slice(0, 60)}`);
       try {
         const article = await generateArticle(source.company, source.category, item, source.name, existingSlugs);
-        if (!existingSlugs.has(article.slug)) {
-          article.id = String(nextId++);
-          newArticles.push(article);
-          if (link) existingUrls.add(link);
-          existingSlugs.add(article.slug);
-        }
+        article.id = String(nextId++);
+        newArticles.push(article);
+        if (link) existingUrls.add(link);
         await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
@@ -1208,12 +1196,9 @@ async function main() {
           : source.curation
             ? await generateCurationArticle(company, category, item, source.name, existingSlugs)
             : await generateArticle(company, category, item, source.name, existingSlugs);
-        if (!existingSlugs.has(article.slug)) {
-          article.id = String(nextId++);
-          newArticles.push(article);
-          if (link) existingUrls.add(link);
-          existingSlugs.add(article.slug);
-        }
+        article.id = String(nextId++);
+        newArticles.push(article);
+        if (link) existingUrls.add(link);
         await new Promise(r => setTimeout(r, 800));
       } catch (e) { console.error(`    ❌ ${e.message}`); }
     }
