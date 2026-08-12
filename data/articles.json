@@ -1,5 +1,57 @@
 [
   {
+    "id": "444",
+    "slug": "-ai-2",
+    "title": "我裁掉了兩個 AI 檢查員，留下的那個能者過勞",
+    "summary": "&#x6211;&#x7D66;&#x6BCF;&#x500B;&#x81EA;&#x52D5;&#x5316;&#x6A5F;&#x5236;&#x90FD;&#x8A2D;&#x89C0;&#x5BDF;&#x671F;&#xFF0C;&#x5230;&#x671F;&#x8981;&#x4EA",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/%E6%88%91%E8%A3%81%E6%8E%89%E4%BA%86%E5%85%A9%E5%80%8B-ai-%E6%AA%A2%E6%9F%A5%E5%93%A1-%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E5%80%8B%E8%83%BD%E8%80%85%E9%81%8E%E5%8B%9E-d2a8fd2087a7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/%E6%88%91%E8%A3%81%E6%8E%89%E4%BA%86%E5%85%A9%E5%80%8B-ai-%E6%AA%A2%E6%9F%A5%E5%93%A1-%E7%95%99%E4%B8%8B%E7%9A%84%E9%82%A3%E5%80%8B%E8%83%BD%E8%80%85%E9%81%8E%E5%8B%9E-d2a8fd2087a7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "445",
+    "slug": "claude-is-about-to-secretly-mark-everything-it-writes",
+    "title": "Claude Is About to Secretly Mark Everything It Writes",
+    "summary": "This one isn&#x2019;t a rumor. Anthropic has confirmed it: new Claude models are shipping with an invisible watermark baked into every piece of&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kanishks772/claude-is-about-to-secretly-mark-everything-it-writes-06ecdb8e59ea?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kanishks772/claude-is-about-to-secretly-mark-everything-it-writes-06ecdb8e59ea?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "421",
     "slug": "stop-wasting-20-hours-a-week-why-every-corporate-team-needs",
     "title": "Stop Wasting 20 Hours a Week: Why Every Corporate Team Needs n8n Automation",
@@ -11767,5 +11819,377 @@
     "slug": "anthropic-model",
     "draft": true,
     "id": "275"
+  },
+  {
+    "title": "윤디자인, 스프링 탄성 영감 장체 폰트 「Yoon 팅글」 업데이트",
+    "summary": "윤디자인이 스프링의 탄성에서 영감을 받은 장체 폰트 「Yoon 팅글」을 업데이트했다. 길게 뻗은 비례와 탄력 있는 곡선이 특징으로, 썸네일 등 첫인상이 중요한 디자인에 적합하다.",
+    "content": "## 주요 내용\n- 「Yoon 팅글」은 스프링의 탄성에서 영감을 받은 장체 폰트로, 경쾌한 리듬감이 특징\n- 제목·포인트 문구에 자연스럽게 시선을 집중시키는 효과\n- 썸네일처럼 첫인상이 중요한 디자인에 특히 적합\n- 무료 체험 기간: 2026년 8월 12일(수) ~ 9월 10일(목), 폰코자키 회원 대상 업데이트 후 30일간 무료 체험 가능(임베딩 라이선스 제외)\n- 사용 방법: 폰코자키 앱 → FONT → 신규체험폰트 활성화\n\n## 의미\n폰코자키 회원이라면 누구나 무료 체험이 가능해, 다양한 콘텐츠 제작에 활기 있는 서체를 부담 없이 경험해볼 수 있다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-08-11",
+    "tags": [
+      "윤디자인",
+      "Yoon팅글",
+      "폰트",
+      "장체",
+      "폰코자키"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1152",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1152",
+        "name": "윤디자인 공식 — 팅글! 기분 좋게 튀어오르다, 「Yoon 팅글」 업데이트"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-yoon-update-2",
+    "draft": false,
+    "id": "432"
+  },
+  {
+    "title": "UX Collective — '누구나 디자인할 수 있다'는 말이 돌아왔다, 이번엔 디자이너가 주도권을 쥔다",
+    "summary": "'누구나 디자인할 수 있다'는 디자이너들이 꺼려하던 문구가 다시 주목받고 있다. 이번에는 디자이너들이 허락을 기다리지 않아도 된다는 맥락에서 재해석되고 있다.",
+    "content": "## 주요 내용\n- '누구나 디자인할 수 있다(Everyone can Design)'는 문구가 다시 등장하고 있음\n- 이번에는 디자이너들이 주도권을 가지는 방향으로 해석됨\n- 디자이너들이 허락을 기다릴 필요가 없다는 메시지를 담고 있음\n\n## 의미\n과거 디자이너들이 위협으로 받아들였던 문구가, 이제는 디자이너 스스로의 역량과 자율성을 강조하는 방향으로 전환되고 있음을 시사한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-12",
+    "tags": [
+      "UX디자인",
+      "디자인트렌드",
+      "디자이너역할"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/designs-dreaded-phrase-is-coming-back-this-time-we-re-in-control-ab0c6996dc1e?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Design’s dreaded phrase is coming back. This time we’re in control."
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design",
+    "draft": false,
+    "id": "433"
+  },
+  {
+    "title": "UX Collective — iOS Safari에서 웹사이트를 더 고급스럽게 만드는 CSS 트릭",
+    "summary": "iOS Safari는 웹사이트 상단(상태 표시줄 뒤)과 하단(탭 바 뒤)으로 화면을 확장하는 특성이 있으며, 간단한 CSS 설정으로 해당 영역의 색상을 지정할 수 있다. 이를 활용하면 모바일 사용자에게 보다 고급스러운 웹 경험을 제공할 수 있다.",
+    "content": "## 주요 내용\n- iOS Safari는 웹페이지를 상단 상태 표시줄 뒤와 하단 탭 바 뒤까지 확장하여 표시함\n- CSS 트릭을 통해 해당 확장 영역의 색상을 개발자가 직접 지정할 수 있음\n- 이 효과는 iOS 사용자에게만 적용됨\n- 원문은 이 기법을 하드커버 책의 테두리처럼 웹사이트에 '고급스러운 느낌'을 부여하는 수단으로 설명함\n\n## 의미\n단순한 CSS 설정으로 iOS 모바일 사용자의 시각적 경험을 향상시킬 수 있으며, 웹사이트를 단순한 정보 전달 수단이 아닌 하나의 경험으로 만들 수 있다는 점에서 UX 관점의 실용적 팁으로 주목된다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-12",
+    "tags": [
+      "CSS",
+      "iOS Safari",
+      "UX",
+      "모바일웹",
+      "웹디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/the-css-hack-that-extends-your-website-on-ios-safari-973b4241e612?source=rss----138adf9c44c---4",
+        "name": "UX Collective — The CSS hack that extends your website on iOS Safari"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-ios-safari",
+    "draft": false,
+    "id": "434"
+  },
+  {
+    "title": "UX Collective 주간 큐레이션 — AI 시대의 판단력 병입, 챗봇 UI의 한계, 디자인 권위",
+    "summary": "UX Collective가 디자이너를 위한 주간 큐레이션 콘텐츠를 발행했다. 특정인의 사고방식과 의사결정 방법론을 소프트웨어로 패키징하는 '판단력의 제품화' 개념을 비롯해, AI 에이전트 인터페이스로서 채팅 UI의 과도한 단순화 문제, 디자인의 권위를 약화시키는 습관 등을 다룬다.",
+    "content": "## 주요 내용\n- Dan Maccarone: 특정인의 사고방식과 의사결정 방법론을 소프트웨어로 패키징하는 '판단력의 제품화' 개념 소개\n- Maxim Kich: AI 에이전트 인터페이스로 채팅 UI를 사용하는 것의 과도한 단순화 문제 지적\n- Jessa Parette: 디자인의 권위를 조용히 약화시키는 습관을 버리는 법 논의\n- Darren Yeo: AI 시대에 최고의 UX는 종종 사라지지만, 그래서는 안 될 때도 있다는 마찰(friction) 재고\n- 기타: React용 드로잉 툴바 'Drawesome' 소개 및 역량의 위계에 관한 에세이 포함\n\n## 의미\nAI가 인간의 판단력과 인터페이스 설계 방식에 미치는 영향을 다양한 관점에서 조명하며, 디자이너가 AI 시대에 비판적으로 사고해야 할 주제들을 제시한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-10",
+    "tags": [
+      "UX디자인",
+      "AI인터페이스",
+      "챗봇UI",
+      "디자인철학",
+      "UXCollective"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Bottle your judgment, Chat is the wrong UI, Design.md"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-2",
+    "draft": false,
+    "id": "435"
+  },
+  {
+    "title": "OpenAI 윤리 책임자, 합류 1년 만에 조용히 퇴사",
+    "summary": "OpenAI의 AI 윤리 책임자 Chloé Bakalar가 2025년 8월 합류한 지 1년도 채 되지 않아 2026년 7월 퇴사했으며, 별도의 공개 발표는 없었다. 최근 안전 시스템 책임자 Johannes Heidecke와 최고 미래 책임자이자 전 미션 정렬 책임자 Joshua Achiam도 퇴사한 것으로 알려졌다.",
+    "content": "## 주요 내용\n- OpenAI 윤리 책임자 Chloé Bakalar, 2025년 8월 합류 후 1년 미만인 2026년 7월 퇴사\n- 퇴사 관련 별도 공개 발표 없이 조용히 이뤄짐\n- 안전 시스템 책임자 Johannes Heidecke도 최근 퇴사\n- 최고 미래 책임자이자 전 미션 정렬 책임자 Joshua Achiam도 퇴사\n\n## 의미\n윤리, 안전, 미션 정렬 등 AI 거버넌스 핵심 직책을 맡았던 인물들이 연이어 OpenAI를 떠나면서 회사의 안전·윤리 체계에 대한 우려가 제기될 수 있다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-08-12",
+    "tags": [
+      "OpenAI",
+      "AI윤리",
+      "인사이동",
+      "AI안전",
+      "거버넌스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32424",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32424",
+        "name": "GeekNews — OpenAI 윤리 책임자, 합류 1년도 안 돼 퇴사"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-news-2",
+    "draft": false,
+    "id": "436"
+  },
+  {
+    "title": "토스, 자체 개발 QA 플랫폼 '토션(Tossion)' 공개 — 흩어진 테스트 데이터 통합 관리",
+    "summary": "토스 QA Platform 팀이 자동화 테스트 결과, 매뉴얼 테스트 결과, 테스트 케이스를 한곳에서 관리하기 위한 자체 플랫폼 '토션(Tossion)'을 개발했다. 기존 상용 TCM(Test Case Management System)은 기능 추가나 개선이 어렵고 내부 QA 데이터를 직접 활용할 수 없다는 한계가 있어, 이를 해결하기 위해 직접 구축했다. 테스트 런 생성 시 해당 시점의 테스트 케이스 내용을 복사해 보존하며, 완료된 테스트 런은 스냅샷으로 고정해 과거 검증 이력을 추적할 수 있도록 설계했다.",
+    "content": "## 주요 내용\n- 기존에는 자동화 테스트 결과, 매뉴얼 테스트 결과, 테스트 케이스가 각기 다른 곳에 분산되어 있어 과거 테스트 이력 확인에 불편이 있었음\n- 상용 TCM은 기능 개선 요청이 반영되지 않거나 오래 걸려 직접 활용에 한계가 있었음\n- 토션의 구조는 프로젝트 → 스위트 → 섹션 → 테스트 케이스로 구성\n- 테스트 런 생성 시 테스트 케이스를 단순 참조하지 않고, Assignee·Test Step·Description 등 해당 시점의 값을 복사해 별도 행으로 저장\n- 상태 변경 이력은 History에 누적되며, 누가 언제 어느 버전에서 판단했는지 기록됨\n- 테스트 런은 Active → Completed → Closed 순으로 진행되며, Closed 시 테스트 케이스·코멘트·자동화 결과를 스냅샷으로 고정\n- 테스트 런에 담을 섹션 선택 시, 사람이 직접 지정한 테스트 케이스에는 필터를 적용하지 않는 규칙을 적용\n\n## 의미\n토스가 상용 도구의 한계를 극복하기 위해 QA 관리 플랫폼을 자체 개발함으로써, 테스트 이력의 일관된 보존과 내부 데이터 활용 가능성을 확보한 사례로 볼 수 있다.",
+    "company": "토스",
+    "category": "테크블로그",
+    "date": "2026-08-11",
+    "tags": [
+      "토스",
+      "QA",
+      "토션",
+      "테스트관리",
+      "TCM",
+      "자체개발",
+      "QA플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/tossion",
+    "sourceName": "토스",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/tossion",
+        "name": "토스 — 토스의 속도와 품질, 상용 도구로 충분한가 — 토션(Tossion)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-tossion-release",
+    "draft": false,
+    "id": "437"
+  },
+  {
+    "title": "당근, WebView 한계 극복 위해 Lynx 기술 도입 결정한 이유",
+    "summary": "당근 프론트엔드 코어팀은 WebView 기반 화면의 초기 로딩 지연 문제를 해결하기 위해 새로운 렌더링 기술인 Lynx를 도입하기로 결정했다. SSR, Service Worker 캐싱 등 기존 최적화 방식들은 네트워크 요청 경로를 완전히 제거하지 못하고 제품 복잡도를 높인다는 한계가 있었다. 당근이 원한 것은 첫 프레임부터 의도한 UI를 렌더링할 수 있는 실행 환경이었다.",
+    "content": "## 주요 내용\n- 당근 앱의 많은 화면은 WebView로 구성되어 있으며, 초기 로딩 시 네트워크를 통해 웹 문서와 데이터를 받아와야 하는 비용이 오랜 과제였음\n- SSR은 JavaScript 평가 및 DOM 조작 병목을 줄이지만, 네트워크를 통한 웹 문서 및 데이터 요청 경로는 여전히 남아 있음\n- WebView 로딩 전 네이티브 화면 노출, Service Worker를 통한 클라이언트 앱 캐싱 등의 최적화 방법도 있으나 제품 복잡도를 높이는 단점이 있음\n- 당근은 기존 제약 안에서의 최적화를 넘어, 첫 프레임부터 UI를 렌더링할 수 있는 실행 환경을 목표로 Lynx 도입을 검토하고 실제 프로덕션에 적용함\n\n## 의미\n실사용 레퍼런스가 거의 없던 시점에 Lynx를 평가하고 프로덕션에 도입한 당근의 사례는, 새로운 기술 도입 의사결정 과정의 실질적인 참고 사례가 될 수 있다.",
+    "company": "당근",
+    "category": "테크블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "당근",
+      "Lynx",
+      "WebView",
+      "프론트엔드",
+      "모바일앱",
+      "렌더링"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/laying-the-rails-beyond-webview-why-karrot-chose-lynx-db1aa92af5e4?source=rss----4505f82a2dbd---4",
+        "name": "당근 — Laying the Rails Beyond WebView: Why Karrot Chose Lynx"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-webview-lynx",
+    "draft": false,
+    "id": "438"
+  },
+  {
+    "title": "당근, 웹뷰 성능 한계 극복 위해 크로스플랫폼 기술 'Lynx' 도입",
+    "summary": "당근 프론트엔드코어팀이 웹뷰의 초기 로딩 성능 문제를 근본적으로 해결하기 위해 크로스플랫폼 렌더링 기술 Lynx를 검토하고 프로덕션에 도입하기로 결정했다. 목표는 로딩 시간을 단순히 줄이는 것이 아니라, 사용자가 로딩 자체를 느끼지 못하도록 첫 프레임부터 실제 제품 UI를 보여주는 것이었다. Lynx는 React와 CSS에 가까운 개발 모델로 iOS·Android UI를 구성할 수 있으며, 기존 네이티브 앱 구조를 유지한 채 화면 단위로 적용할 수 있다는 점이 선택의 핵심 이유였다.",
+    "content": "## 주요 내용\n- 당근 앱의 다수 화면은 웹뷰로 구성되어 있으며, 웹 문서와 데이터를 네트워크에서 가져오는 초기 로딩 문제가 오래된 과제였음\n- SSR, 서비스 워커 캐싱 등 기존 최적화 방법은 제품 복잡도를 높이는 한계가 있었음\n- 새로운 실행 환경의 조건: 첫 프레임부터 실제 제품 UI 표시, 화면 단위 적용 가능, 앱 바이너리와 독립적인 프론트엔드 번들 배포, 소규모 팀(프론트엔드·iOS·Android 각 1명)으로 시작 가능, 문제 발생 시 웹뷰로 롤백 가능\n- 당근 앱 전체를 새 크로스플랫폼 프레임워크로 교체하는 것은 목표가 아니었으며, 홈 피드·채팅 등 핵심 화면은 기존 네이티브 스택 유지\n- 2025년 3월 사내 슬랙을 통해 Lynx를 접했으며, 검토 시 JavaScript 엔진과 첫 화면 렌더링 과정을 우선적으로 살펴봄\n- Lynx는 React·CSS 기반 개발 모델로 iOS·Android UI를 구성할 수 있고, 기존 네이티브 구성 안에 UI 블록으로 삽입도 가능\n\n## 의미\n당근이 Lynx를 선택한 과정은 새로운 기술 도입 시 전면 교체가 아닌 점진적 적용과 롤백 가능성을 조건으로 삼은 실용적 의사결정 사례로, 유사한 고민을 하는 프론트엔드 팀에 참고가 될 수 있다.",
+    "company": "당근",
+    "category": "테크블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "당근",
+      "Lynx",
+      "웹뷰",
+      "크로스플랫폼",
+      "프론트엔드",
+      "모바일",
+      "렌더링"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%EC%9B%B9%EB%B7%B0-%EB%8B%A4%EC%9D%8C%EC%9D%98-%EB%A0%88%EC%9D%BC%EC%9D%84-%EA%B9%94%EB%8B%A4-%EB%8B%B9%EA%B7%BC%EC%9D%B4-lynx%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-34dd50abbfb7?source=rss----4505f82a2dbd---4",
+        "name": "당근 — 웹뷰 다음의 레일을 깔다: 당근이 Lynx를 선택한 이유"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-lynx-intro",
+    "draft": false,
+    "id": "439"
+  },
+  {
+    "title": "네이버, vLLM 모델 변환·배포를 AI-native로 자동화한 과정 공개",
+    "summary": "네이버 D2는 Hugging Face 모델을 vLLM 플러그인으로 변환하는 복잡한 절차를 Claude Code Skill 기반으로 자동화한 경험을 공개했다. 서로 다른 유형의 모델 7개를 동일한 절차로 변환·운영에 적용했으며, 변환 과정에서 발견한 주의사항 45개를 재사용 가능한 지식으로 축적했다. 호출당 토큰 수를 6,900개에서 170개로 97% 줄이고, GitHub Issue 하나로 변환부터 배포까지 이어지는 E2E 파이프라인도 구축했다.",
+    "content": "## 주요 내용\n- 모델 변환이 어려운 이유: 모델 내부 구조를 아는 모델 개발자와 vLLM 인프라를 아는 MLOps 엔지니어 사이의 지식 공백이 존재하며, 어느 한쪽 혼자 수행하기 어려운 작업\n- vLLM은 약 3년간 v0.1에서 v0.20까지 약 2주 간격으로 새 버전이 배포되며 인터페이스가 지속적으로 변화해 사람이 매번 추적·적용하기 어려움\n- 변환 절차를 'convert-vllm'이라는 Claude Code Skill로 구현해 자동화 추진\n- 실제 모델 변환 과정에서 두 번의 큰 시행착오를 거치며 스킬 자체를 지속 개선\n- 변환 시 발견한 주의사항 45개를 재사용 가능한 지식으로 축적, 필요한 지식만 선택적으로 호출하는 구조로 개선해 호출당 토큰 수를 6,900개에서 170개로 97% 절감\n- GitHub Issue 하나를 작성하면 모델 변환부터 배포까지 이어지는 E2E 파이프라인 구현으로 저장소 경계를 넘어 협업 확장\n\n## 의미\n모델 개발자와 MLOps 엔지니어 간 지식 공백 문제를 AI-native 자동화로 해소한 사례로, 반복적인 변환 작업의 효율을 높이고 축적된 지식을 재사용 가능한 구조로 관리하는 방법론을 제시했다는 점에서 의의가 있다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "네이버",
+      "vLLM",
+      "AI자동화",
+      "Claude",
+      "MLOps",
+      "모델서빙",
+      "LLM"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/7337586",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/7337586",
+        "name": "네이버 D2 — 우리 팀만의 vLLM 플러그인 만들기 2편 - 모델 변환부터 배포까지 AI-native로 자동화하기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-vllm-ai-native",
+    "draft": false,
+    "id": "440"
+  },
+  {
+    "title": "네이버, vLLM 플러그인으로 검색 AI 모델 서빙 성능 최대 16.5배 향상",
+    "summary": "네이버 플레이스 AI MLOps 팀이 검색·추천 스코어링 모델의 서빙 구조를 vLLM 기반으로 전환해 대폭적인 성능 개선을 달성했다. 재순위화 모델 처리량은 약 6.2배, CLIP 기반 이미지 랭킹 모델 처리량은 누적 16.5배 증가했으며, 감성 분석 모델의 p50 지연 시간은 83.8% 감소했다. 모델 자체를 수정하지 않고 순전파 전후의 요청 경로를 최적화한 결과다.",
+    "content": "## 주요 내용\n- 0.6B 재순위화 모델: Hugging Face 기반 63.85 QPS → vLLM score 태스크 전환 후 397.21 QPS (약 6.2배 향상)\n- ABSA(속성 기반 감성 분석) 모델: 단건 p50 지연 시간 101.22ms → 16.43ms (83.8% 감소)\n- CLIP 기반 이미지 랭킹 모델: 5단계 최적화 적용 후 3.76 img/s → 62.2 img/s (누적 16.5배 향상)\n- 기존 구조의 문제: 모델마다 별도 추론 경로 운영, 전후처리 로직이 여러 서비스에 분산, 네트워크 구간 비용·JSON 직렬화 비용·배치 구성 미흡이 지연 시간 저하의 주요 원인\n- 개선 방향: 모델을 vLLM 사용자 정의 모델로 구현해 풀링 런타임에 올리고, 전처리·후처리를 IO Processor 내부로 통합\n- 결과물을 플러그인 패키지로 만들어 pip install 한 번으로 설치 가능하도록 배포\n\n## 의미\n모델 자체 최적화 없이 서빙 경로 구조 개선만으로 수 배~수십 배의 성능 향상이 가능함을 실증한 사례로, 검색·추천처럼 짧은 지연 시간 예산이 요구되는 실서비스 환경에서 vLLM 기반 서빙 구조 전환의 실질적 효과를 보여준다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-08-10",
+    "tags": [
+      "네이버",
+      "vLLM",
+      "모델서빙",
+      "MLOps",
+      "검색AI",
+      "성능최적화",
+      "LLM"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/0525182",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/0525182",
+        "name": "네이버 D2 — 우리 팀만의 vLLM 플러그인 만들기 1편 - 검색 AI 모델 서빙 성능 극대화하기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-vllm-model",
+    "draft": false,
+    "id": "441"
+  },
+  {
+    "slug": "it-news",
+    "title": "스타트업, 온수기를 스마트 열 배터리로 전환하려 한다",
+    "summary": "분산 에너지 자원(DER) 관점에서 가정의 온수기를 그리드 안정화 자산으로 활용하려는 시도로, 재생에너지 변동성 대응과 수요반응(DR) 시장의 새로운 기회를 제시한다.",
+    "content": "## 큐레이션 노트\n기존에 수동적 소비 자산으로만 여겨지던 온수기를 AI와 IoT 기술로 '능동적 저장' 자산으로 재정의하는 것은, 스마트 그리드 전환 과정에서 인프라 투자 없이 기존 자산을 활용하는 효율적 패러다임이다. 태양광·풍력 확대로 인한 전력 수급 불균형 문제가 심화되는 시점에서, 수백만 가정의 온수기를 통합 제어하면 대규모 배터리 저장소 수준의 조정 용량을 확보할 수 있다는 점에서 에너지 시스템 혁신의 실마리를 제공한다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-08-12",
+    "tags": [
+      "에너지전환",
+      "IoT",
+      "스마트그리드",
+      "재생에너지",
+      "분산에너지자원",
+      "수요반응"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91588110/this-startup-wants-to-turn-your-water-heater-into-a-smart-thermal-battery?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91588110/this-startup-wants-to-turn-your-water-heater-into-a-smart-thermal-battery?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — This startup wants to turn your water heater into a smart thermal battery"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "442"
+  },
+  {
+    "slug": "ai-news-6",
+    "title": "국내 AI 캠페인의 글로벌 성공 사례: 이너스커뮤니티·코렐 'AI 플레이트' 대만 진출",
+    "summary": "한국에서 시작한 AI 기반 마케팅 캠페인이 대만으로 확장되면서, 아시아 시장에서 로컬 AI 혁신의 글로벌 경쟁력을 입증하는 사례로 주목된다.",
+    "content": "## 큐레이션 노트\n\n이 사례는 한국의 AI 기업과 커뮤니티 플랫폼이 국내 파일럿을 통해 검증한 솔루션을 아시아 시장으로 성공적으로 확장하고 있음을 보여준다. 단순한 기술 수출을 넘어 문화·마케팅 콘텐츠 영역에서 한국형 AI 솔루션의 적용 가능성이 확대되는 추세를 반영하며, 특히 생성형 AI 시대에 국내 스타트업이 빠른 실행 속도(first-mover advantage)로 경쟁력을 확보하고 있다는 점이 의미있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-12",
+    "tags": [
+      "AI마케팅",
+      "스타트업국제화",
+      "생성형AI",
+      "아시아시장진출",
+      "디지털캠페인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28641",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28641",
+        "name": "매드타임스 — \"국내에서 시작한 AI 캠페인, 글로벌로 확장\" 이너스커뮤니티, 코렐 ‘AI 플레이트’ 캠페인 대만 진출"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "443"
   }
 ]
