@@ -432,7 +432,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               );
             })}
           </nav>
-          <div style={{ padding: "0 12px 16px", marginTop: "auto", display: "flex", flexDirection: "column", gap: "6px" }}>
+          <div style={{ padding: "0 12px 16px", display: "flex", flexDirection: "column", gap: "6px" }}>
             <a href="mailto:fanfaye1@gmail.com" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>문의</a>
             <a href="/privacy" style={{ fontSize: "11px", color: "var(--text-faint)", textDecoration: "none", opacity: 0.6 }}>개인정보처리방침</a>
           </div>
@@ -520,6 +520,13 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
             </div>
           )}
 
+          {/* 쿠팡 배너 1 — NEW 섹션 직후 */}
+          <div style={{ margin: "4px 0 20px" }}>
+            <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
+              <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
+            </a>
+          </div>
+
           {/* 이전 아티클 */}
           {olderCards.length > 0 && (
             <div>
@@ -530,15 +537,31 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
                 </div>
               )}
               <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
-                {groupCards(olderCards).map((block, i) =>
-                  block.type === "featured" ? (
-                    <ArticleCard key={`f-${block.card.id}`} article={block.card} large />
-                  ) : (
-                    <div key={`b-${i}-${block.cards[0]?.id}`} className="card-grid">
-                      {block.cards.map((a) => <ArticleCard key={a.id} article={a} />)}
-                    </div>
-                  )
-                )}
+                {groupCards(olderCards).map((block, i) => (
+                  <div key={`wrap-${i}`}>
+                    {i === 2 && (
+                      <div style={{ marginBottom: "20px" }}>
+                        <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
+                          <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
+                        </a>
+                      </div>
+                    )}
+                    {i === 4 && (
+                      <div style={{ marginBottom: "20px" }}>
+                        <a href="https://link.coupang.com/a/f76U5O21uK" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
+                          <img src="https://ads-partners.coupang.com/banners/1016467?trackingCode=AF5585556&subId=&traceId=V0-301-969b06e95b87326d-I1016467&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
+                        </a>
+                      </div>
+                    )}
+                    {block.type === "featured" ? (
+                      <ArticleCard key={`f-${block.card.id}`} article={block.card} large />
+                    ) : (
+                      <div key={`b-${i}-${block.cards[0]?.id}`} className="card-grid">
+                        {block.cards.map((a) => <ArticleCard key={a.id} article={a} />)}
+                      </div>
+                    )}
+                  </div>
+                ))}
               </div>
             </div>
           )}
@@ -561,6 +584,10 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               {activeTag === tag && <span style={{ fontSize: "10px", color: "#38BDF8" }}>✓</span>}
             </div>
           ))}
+
+          <div style={{ marginTop: "20px" }}>
+            <iframe src="https://coupa.ng/coHLmp" width="100%" height="36" frameBorder={0} scrolling="no" referrerPolicy="unsafe-url" style={{ display: "block", borderRadius: "6px" }} />
+          </div>
 
         </aside>
       </div>

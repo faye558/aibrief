@@ -228,6 +228,13 @@ export default function ArticleDetail({ article, related }: { article: Article; 
           )}
         </div>
 
+        {/* 쿠팡 배너 */}
+        <div style={{ marginBottom: "32px" }}>
+          <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
+            <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
+          </a>
+        </div>
+
         {/* 관련 기사 */}
         {related.length > 0 && (
           <div>
