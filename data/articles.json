@@ -1,5 +1,291 @@
 [
   {
+    "id": "393",
+    "slug": "i-made-animation-with-codex-without-using-a-video-model",
+    "title": "I made animation with Codex, without using a video model",
+    "summary": "ImageGen supplied the artwork. Python supplied the motion. Codex directed the whole process.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sherrysun/i-made-animation-with-codex-without-using-a-video-model-435b812c140e?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sherrysun/i-made-animation-with-codex-without-using-a-video-model-435b812c140e?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "394",
+    "slug": "nobody-talks-about-what-happens-to-your-claude-output-at-3am",
+    "title": "Nobody Talks About What Happens to Your Claude Output at 3AM in Production",
+    "summary": "My demo was perfect. My system prompt held. Then real users arrived.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/nobody-talks-about-what-happens-to-your-claude-output-at-3am-in-production-b07366e73201?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/nobody-talks-about-what-happens-to-your-claude-output-at-3am-in-production-b07366e73201?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "395",
+    "slug": "i-gave-a-junior-developer-a-claude-prompt-instead-of-an-expl",
+    "title": "I Gave a Junior Developer a Claude Prompt Instead of an Explanation. I Regret Not Doing It Sooner.",
+    "summary": "Eight minutes. Better outcome. Three years of mentoring and I&#x2019;d been doing it the slow way.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-gave-a-junior-developer-a-claude-prompt-instead-of-an-explanation-i-regret-not-doing-it-sooner-b6504edc6bd0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-gave-a-junior-developer-a-claude-prompt-instead-of-an-explanation-i-regret-not-doing-it-sooner-b6504edc6bd0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "396",
+    "slug": "i-let-claude-read-six-months-of-my-git-history-i-wish-i-coul",
+    "title": "I Let Claude Read Six Months of My Git History. I Wish I Could Unread What It Said.",
+    "summary": "It wasn&#x2019;t wrong. Not even a little bit.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-let-claude-read-six-months-of-my-git-history-i-wish-i-could-unread-what-it-said-1246a5bf9549?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-let-claude-read-six-months-of-my-git-history-i-wish-i-could-unread-what-it-said-1246a5bf9549?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "397",
+    "slug": "my-team-shipped-a-feature-in-3-days-that-would-have-taken-2",
+    "title": "My Team Shipped a Feature in 3 Days That Would Have Taken 2 Weeks. Here’s the Exact Workflow.",
+    "summary": "Not AI magic. A specific sequence. Reproducible every time.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/my-team-shipped-a-feature-in-3-days-that-would-have-taken-2-weeks-heres-the-exact-workflow-a37fe94a1212?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/my-team-shipped-a-feature-in-3-days-that-would-have-taken-2-weeks-heres-the-exact-workflow-a37fe94a1212?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "398",
+    "slug": "context-engineering-the-skill-that-outshines-prompt-engineer",
+    "title": "Context Engineering: The Skill That Outshines Prompt Engineering in the AI Era",
+    "summary": "If you&#x2019;ve ever wondered why an advanced AI model like Claude Code or GPT-4o produces flawless code one moment and completely off-target&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@giathien179/context-engineering-the-skill-that-outshines-prompt-engineering-in-the-ai-era-5c5de13eb0a5?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@giathien179/context-engineering-the-skill-that-outshines-prompt-engineering-in-the-ai-era-5c5de13eb0a5?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "399",
+    "slug": "obsolete-or-empowered-my-agentic-ai-journey-as-a-lowcode-dev",
+    "title": "Obsolete or empowered? My agentic AI journey as a low-code developer",
+    "summary": "Claude Design took 15 minutes creating a design system. My existential crisis took months.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ricorobinson.medium.com/obsolete-or-empowered-my-agentic-ai-journey-as-a-low-code-developer-9fab722e20e7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ricorobinson.medium.com/obsolete-or-empowered-my-agentic-ai-journey-as-a-low-code-developer-9fab722e20e7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "400",
+    "slug": "most-developers-never-use-top-8-claude-code-commands",
+    "title": "Most Developers Never Use Top 8 Claude Code Commands",
+    "summary": "Most developers use Claude Code the same way: open terminal, ask a question, paste the answer.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://manishpathak99.medium.com/most-developers-never-use-top-8-claude-code-commands-67c1dff1a519?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://manishpathak99.medium.com/most-developers-never-use-top-8-claude-code-commands-67c1dff1a519?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "401",
+    "slug": "anthropic-adds-invisible-watermarks-to-claudes-aigenerated-t",
+    "title": "Anthropic Adds Invisible Watermarks to Claude’s AI-Generated Text",
+    "summary": "Anthropic is making it more difficult to disguise AI-generated text as human writing.Continue reading on Techx_official »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/techx-official/anthropic-adds-invisible-watermarks-to-claudes-ai-generated-text-2a9a185feb19?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/techx-official/anthropic-adds-invisible-watermarks-to-claudes-ai-generated-text-2a9a185feb19?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "402",
+    "slug": "building-a-game-with-kiro-and-no-experience",
+    "title": "Building a Game with Kiro and No Experience",
+    "summary": "I&#x2019;ve been a professional C# and TypeScript developer for years.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dguisinger/building-a-game-with-kiro-and-no-experience-c2645bc691a1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dguisinger/building-a-game-with-kiro-and-no-experience-c2645bc691a1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "403",
+    "slug": "specs-from-requirements-to-working-code",
+    "title": "Specs: From Requirements to Working Code",
+    "summary": "The Problem with Vibe CodingContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dguisinger/specs-from-requirements-to-working-code-afa7a3d9fffa?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dguisinger/specs-from-requirements-to-working-code-afa7a3d9fffa?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "383",
     "slug": "i-ran-claude-code-on-metas-new-30b-model-on-my-macbook-m4-ma",
     "title": "I ran Claude Code on Meta’s new 30B model on my MacBook M4 MAX. Here’s my findings.",
