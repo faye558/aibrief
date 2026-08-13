@@ -1,5 +1,239 @@
 [
   {
+    "id": "474",
+    "slug": "deploying-ai-is-not-the-same-as-creating-value",
+    "title": "Deploying AI Is Not the Same as Creating Value",
+    "summary": "Why adoption, workflow change, and measurement matter more than a successful launch.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aprilcheong/deploying-ai-is-not-the-same-as-creating-value-9f6f72307239?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aprilcheong/deploying-ai-is-not-the-same-as-creating-value-9f6f72307239?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "475",
+    "slug": "opus-5-vs-sol-56-when-two-strong-models-disagree-pay-attenti",
+    "title": "Opus 5 vs Sol 5.6: When Two Strong Models Disagree, Pay Attention",
+    "summary": "Why ChatGPT 5.6 Sol finds issues in Claude Opus 5&#x2019;s workContinue reading on AmanERP »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/amanerp/opus-5-vs-sol-5-6-when-two-strong-models-disagree-pay-attention-661342d78c1d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/amanerp/opus-5-vs-sol-5-6-when-two-strong-models-disagree-pay-attention-661342d78c1d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "476",
+    "slug": "i-prototyped-before-i-prioritized-a-pms-spectoclickableproto",
+    "title": "I Prototyped Before I Prioritized: A PM’s Spec-to-Clickable-Prototype Workflow",
+    "summary": "How a markdown PRD and one afternoon with Claude Code turned a three-meeting roadmap fight into a fifteen-minute decisionContinue reading on Bootcamp",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/design-bootcamp/i-prototyped-before-i-prioritized-a-pms-spec-to-clickable-prototype-workflow-a9cf434b7992?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/design-bootcamp/i-prototyped-before-i-prioritized-a-pms-spec-to-clickable-prototype-workflow-a9cf434b7992?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "477",
+    "slug": "we-said-we-would-measure-it-in-a-month",
+    "title": "We Said We Would Measure It in a Month",
+    "summary": "A pilot with no recheck date is a pilot you will never finish. Here is our registry, with the numbers that show what it does and does not&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/we-said-we-would-measure-it-in-a-month-a297d3e707e8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/we-said-we-would-measure-it-in-a-month-a297d3e707e8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "478",
+    "slug": "approve-approve-approve",
+    "title": "Approve, Approve, Approve",
+    "summary": "Sessions stall waiting for a human. Here is what that costs us, measured, and why auto-clicking the button is the wrong fix.*Continue reading on Mediu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/approve-approve-approve-5cf8d49e13df?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/approve-approve-approve-5cf8d49e13df?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "479",
+    "slug": "eight-weeks-into-deep-ai-engineering-i-still-havent-found-th",
+    "title": "Eight Weeks Into Deep AI Engineering: I Still Haven’t Found the Limit",
+    "summary": "AI started as a tool. It has become something closer to a company I lead.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@andypescado_69518/eight-weeks-into-deep-ai-engineering-i-still-havent-found-the-limit-9a70983f7fe7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@andypescado_69518/eight-weeks-into-deep-ai-engineering-i-still-havent-found-the-limit-9a70983f7fe7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "480",
+    "slug": "claude-code-zendesk-how-to-manage-your-tickets",
+    "title": "Claude Code + Zendesk: How to manage your Tickets",
+    "summary": "Zendesk AI is sold by the resolution. That is the part worth stopping on, because it decides everything else about whether the tool makes&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/claude-code-zendesk-how-to-manage-your-tickets-b04a531646d3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/claude-code-zendesk-how-to-manage-your-tickets-b04a531646d3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "481",
+    "slug": "ai-workflows-explained-simply-how-to-combine-multiple-ai-too",
+    "title": "AI Workflows Explained Simply: How to Combine Multiple AI Tools into Repeatable Daily Workflows",
+    "summary": "As AI becomes ubiquitous in software development, the next challenge is creating efficient workflows that leverage multiple AI tools. But&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dineshshuttler/ai-workflows-explained-simply-how-to-combine-multiple-ai-tools-into-repeatable-daily-workflows-37273c630a56?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dineshshuttler/ai-workflows-explained-simply-how-to-combine-multiple-ai-tools-into-repeatable-daily-workflows-37273c630a56?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "482",
+    "slug": "fde-is-no-longer-one-job-the-rise-of-forward-deployed-engine",
+    "title": "FDE Is No Longer One Job: The Rise of Forward Deployed Engineers, Architects, AI Engineers “A…",
+    "summary": "Forward Deployed Engineer is becoming a family of roles across software, AI, architecture, infrastructure and security. Here is what each&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/the-story-well/fde-is-no-longer-one-job-the-rise-of-forward-deployed-engineers-architects-ai-engineers-a-3956772cc26e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/the-story-well/fde-is-no-longer-one-job-the-rise-of-forward-deployed-engineers-architects-ai-engineers-a-3956772cc26e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "467",
     "slug": "-claude-code-issue",
     "title": "寫了等於沒寫：用 Claude Code 建立 Issue 驗收標準的自動化閉環",
