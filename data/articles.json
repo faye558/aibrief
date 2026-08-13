@@ -1,5 +1,317 @@
 [
   {
+    "id": "452",
+    "slug": "ai에게-투자정보를-말하게-하기까지",
+    "title": "AI에게 투자정보를 말하게 하기까지",
+    "summary": "근거를 고르고, 절차를 통제하고, 실패를 다시 쓰는 세 개의 관문",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/tech_talk_talk_1",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/tech_talk_talk_1",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "453",
+    "slug": "killing-the-orchestrator-the-agentic-system-false-honeymoon",
+    "title": "Killing the Orchestrator — The Agentic System False Honeymoon",
+    "summary": "Over the last year, every agentic framework I touched promised the same thing: throw a few specialized agents at a problem, give them a&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hatim.bakkali10/killing-the-orchestrator-the-agentic-system-false-honeymoon-6d03afc11143?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hatim.bakkali10/killing-the-orchestrator-the-agentic-system-false-honeymoon-6d03afc11143?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "454",
+    "slug": "내가-필요해서-만든-jlpt-청해-앱-kiku-출시",
+    "title": "내가 필요해서 만든 JLPT 청해 앱 KIKU 출시",
+    "summary": "JLPT &#xCCAD;&#xD574; &#xC571;&#xC744; &#xB9CC;&#xB4E4;&#xC5B4;&#xC11C; &#xBC30;&#xD3EC;&#xD588;&#xB2E4;. &#xC624;&#xC9C1; &#xC548;&#xB4DC;&#xB85C;&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://sig03.medium.com/%EB%82%B4%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%84%9C-%EB%A7%8C%EB%93%A0-jlpt-%EC%B2%AD%ED%95%B4-%EC%95%B1-kiku-%EC%B6%9C%EC%8B%9C-1b194b06d2dc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://sig03.medium.com/%EB%82%B4%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%84%9C-%EB%A7%8C%EB%93%A0-jlpt-%EC%B2%AD%ED%95%B4-%EC%95%B1-kiku-%EC%B6%9C%EC%8B%9C-1b194b06d2dc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "455",
+    "slug": "i-asked-claude-to-review-my-architecture-i-wasnt-ready-for-w",
+    "title": "I Asked Claude to Review My Architecture. I Wasn’t Ready for What It Found.",
+    "summary": "Two years old. Buried four layers deep. Fine at 10k users. A disaster at 100k.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-asked-claude-to-review-my-architecture-i-wasnt-ready-for-what-it-found-c1a1808fb349?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-asked-claude-to-review-my-architecture-i-wasnt-ready-for-what-it-found-c1a1808fb349?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "456",
+    "slug": "my-terraform-was-correct-my-cloud-bill-wasnt",
+    "title": "My Terraform Was Correct. My Cloud Bill Wasn’t.",
+    "summary": "$400 more than I planned for. Every month. The architecture was the problem, not the code.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/my-terraform-was-correct-my-cloud-bill-wasnt-4e335c468869?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/my-terraform-was-correct-my-cloud-bill-wasnt-4e335c468869?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "457",
+    "slug": "i-had-two-weeks-to-prepare-for-the-most-important-interview",
+    "title": "I Had Two Weeks to Prepare for the Most Important Interview of My Career. I Didn’t Touch LeetCode.",
+    "summary": "I got the offer. Here&#x2019;s the exact workflow I used instead.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-had-two-weeks-to-prepare-for-the-most-important-interview-of-my-career-i-didnt-touch-leetcode-14b9aa3a3c8d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-had-two-weeks-to-prepare-for-the-most-important-interview-of-my-career-i-didnt-touch-leetcode-14b9aa3a3c8d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "458",
+    "slug": "i-watched-a-developer-lose-a-job-over-a-bug-claude-would-hav",
+    "title": "I Watched a Developer Lose a Job Over a Bug Claude Would Have Caught in 30 Seconds",
+    "summary": "Good engineer. Terrible review process. The 30 seconds were never taken.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-watched-a-developer-lose-a-job-over-a-bug-claude-would-have-caught-in-30-seconds-33229a583eee?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-watched-a-developer-lose-a-job-over-a-bug-claude-would-have-caught-in-30-seconds-33229a583eee?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "459",
+    "slug": "harness-engineering-applied-data-pipelines-tested-under-fail",
+    "title": "Harness Engineering, Applied: Data Pipelines, Tested Under Failure",
+    "summary": "Harness Engineering, Applied: Data Pipelines, Tested Under Failure",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://kulkarnishreenidhi.medium.com/harness-engineering-applied-data-pipelines-tested-under-failure-199d8b139a37?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://kulkarnishreenidhi.medium.com/harness-engineering-applied-data-pipelines-tested-under-failure-199d8b139a37?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "460",
+    "slug": "why-existing-ai-governance-misses-what-gmaa-covers",
+    "title": "Why Existing AI Governance Misses What GMAA Covers",
+    "summary": "Current controls govern individual actions well. They still miss failures that emerge in the set.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://israelheskiel.medium.com/why-existing-ai-governance-misses-what-gmaa-covers-bcccc601e1d0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://israelheskiel.medium.com/why-existing-ai-governance-misses-what-gmaa-covers-bcccc601e1d0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "461",
+    "slug": "claude-is-watermarking-ai-text-should-writers-be-worried",
+    "title": "Claude Is Watermarking AI Text. Should Writers Be Worried?",
+    "summary": "You spend three hours researching an article. You find the sources, decide what matters, build the argument, and write the draft.Continue reading on M",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@karishmaguptagupta80/claude-is-watermarking-ai-text-should-writers-be-worried-3cad0acfd6de?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@karishmaguptagupta80/claude-is-watermarking-ai-text-should-writers-be-worried-3cad0acfd6de?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "462",
+    "slug": "you-do-not-need-every-agent",
+    "title": "You Do Not Need Every Agent",
+    "summary": "On July 17, Peter Steinberger, the creator of OpenClaw, posted a short question on X: &#x201C;Are we still talking loops or did we shift to&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.devgenius.io/you-do-not-need-every-agent-b63e2e7445fb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.devgenius.io/you-do-not-need-every-agent-b63e2e7445fb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "463",
+    "slug": "i-ran-my-homelab-from-the-terminal-for-a-month",
+    "title": "I Ran My Homelab From the Terminal for a Month",
+    "summary": "What an AI assistant is genuinely good at, where it gets sharp, and the security lesson I kept relearning the hard wayContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Cstm/i-ran-my-homelab-from-the-terminal-for-a-month-57b28e713d86?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Cstm/i-ran-my-homelab-from-the-terminal-for-a-month-57b28e713d86?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "444",
     "slug": "-ai-2",
     "title": "我裁掉了兩個 AI 檢查員，留下的那個能者過勞",
@@ -12191,5 +12503,206 @@
     "communityLinks": null,
     "draft": false,
     "id": "443"
+  },
+  {
+    "title": "라인, 인간과 AI의 코드 리뷰 방식 비교 분석 — 27만여 건 데이터 기반",
+    "summary": "라인이 300개 GitHub 프로젝트의 27만여 개 인라인 코드 리뷰 대화를 분석해 인간과 AI의 피드백 방식 차이를 비교했다. AI는 문제를 찾아 즉시 수정안을 제시하는 데 집중한 반면, 인간은 구현 의도를 묻고 테스트 및 프로젝트 관례 등을 중심으로 리뷰하는 경향을 보였다.",
+    "content": "## 주요 내용\n- 300개 GitHub 프로젝트의 27만여 개 인라인 코드 리뷰 대화 분석\n- 인간과 AI의 피드백이 실제 수정 및 후속 대화로 이어지는 방식 비교\n- AI: 코드 문제를 찾아 바로 수정안을 제시하는 방식에 집중\n- 인간: 구현 이유를 묻고 테스트·프로젝트 관례 등을 중심으로 리뷰\n\n## 의미\n인간과 AI의 코드 리뷰 방식이 상호 보완적임을 시사하며, 에이전틱 코드 리뷰 환경에서 인간-AI 시너지 활용 가능성을 제시한다.",
+    "company": "라인",
+    "category": "테크",
+    "date": "2026-08-13",
+    "tags": [
+      "코드리뷰",
+      "AI",
+      "라인",
+      "GitHub",
+      "에이전틱AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32449",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32449",
+        "name": "GeekNews — 에이전틱 코드 리뷰에서 인간-AI 시너지 : 인간과 AI는 다르게 리뷰한다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-data",
+    "draft": false,
+    "id": "446"
+  },
+  {
+    "title": "20년 경력 개발자, 정신 건강·품질·환경 우려로 AI 사용 전면 중단 선언",
+    "summary": "20년 경력의 개발자가 LLM 코딩 도구를 1년 이상 적극 활용한 끝에 정신 건강, 소프트웨어 품질, 환경 및 사회적 비용을 이유로 코딩을 포함한 모든 AI 사용을 중단하기로 결정했다. Claude Code와 Linear를 연결해 코드 한 줄 직접 수정하지 않고도 비사소한 프로젝트를 완성할 만큼 생산성을 경험했음에도 이 같은 결정을 내렸다.",
+    "content": "## 주요 내용\n- 20년 경력 개발자가 1년 이상 LLM 코딩 도구를 적극 사용한 경험을 바탕으로 AI 사용 전면 중단 결정\n- Claude Code와 Linear를 연결해 코드를 직접 수정하지 않고 비사소한 프로젝트를 완성하는 수준의 생산성 경험\n- 중단 이유로 정신 건강, 소프트웨어 품질 저하, 환경적 비용, 사회적 비용을 제시\n\n## 의미\n높은 생산성을 경험한 숙련 개발자가 AI 도구의 부작용을 이유로 사용 중단을 선택한 사례로, AI 코딩 도구의 실질적 영향에 대한 현장 개발자의 비판적 시각을 보여준다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "AI코딩",
+      "LLM",
+      "ClaudeCode",
+      "개발자",
+      "AI부작용"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32447",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32447",
+        "name": "GeekNews — AI 사용을 그만두기로 한 이유"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-news-4",
+    "draft": false,
+    "id": "447"
+  },
+  {
+    "title": "Zephyr Cloud, AI 코딩 에이전트 작업을 의존성 그래프로 조율하는 'Labor0' 출시",
+    "summary": "SWC 개발자 강동윤이 Zephyr Cloud Inc.에서 처음부터 리드해 온 Labor0를 출시했다. Labor0는 Codex, Claude Code, OpenCode 같은 코딩 에이전트의 작업을 의존성 그래프로 조율하는 도구로, 실제 프로젝트가 단일 작업으로 끝나지 않는 문제를 해결하기 위해 만들어졌다.",
+    "content": "## 주요 내용\n- SWC 개발자 강동윤이 Zephyr Cloud Inc.에서 개발을 리드한 Labor0 출시\n- Codex, Claude Code, OpenCode 등 기존 코딩 에이전트는 개별 작업 수행에는 강하지만 복수 작업 조율에 한계 존재\n- Labor0는 AI 코딩 에이전트의 작업을 의존성 그래프 방식으로 조율\n\n## 의미\n실제 프로젝트의 복잡한 다중 작업 흐름을 의존성 그래프로 관리함으로써, 기존 코딩 에이전트의 단일 작업 한계를 보완하려는 시도다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-12",
+    "tags": [
+      "Labor0",
+      "AI코딩에이전트",
+      "의존성그래프",
+      "ZephyrCloud",
+      "개발도구"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32446",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32446",
+        "name": "GeekNews — Show GN: Labor0 – AI 코딩 에이전트의 작업을 의존성 그래프로 조율합니다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-zephyr-cloud-labor0",
+    "draft": false,
+    "id": "448"
+  },
+  {
+    "slug": "google-pixel-pro",
+    "title": "구글, Pixel Pro 시리즈의 온도 센서를 새로운 용도로 재활용",
+    "summary": "기존 하드웨어를 소프트웨어 업데이트로 새로운 기능에 활용하는 구글의 전략이 스마트폰 기술 혁신의 새로운 방향을 제시하고 있습니다.",
+    "content": "## 큐레이션 노트\n\n스마트폰 제조사들이 하드웨어 차별화에 집중하는 가운데, 구글의 센서 재활용 사례는 기존 부품의 소프트웨어적 활용도를 높이는 효율적 접근법을 보여줍니다. 이는 제품 개발 비용 최적화와 동시에 사용자 경험 확장이 가능함을 입증하며, 향후 AI/ML 기술과 결합된 센서 활용의 가능성을 시사합니다. 특히 이미 탑재된 하드웨어를 후속 소프트웨어 업데이트로 재목적화하는 방식은 제품 수명 연장과 지속가능성 관점에서도 주목할 만한 사례입니다.",
+    "company": "Google",
+    "category": "AI",
+    "date": "2026-08-12",
+    "tags": [
+      "Google Pixel",
+      "스마트폰",
+      "센서 기술",
+      "하드웨어 활용",
+      "소프트웨어 혁신",
+      "AI 기기"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91588662/google-just-repurposed-temperature-sensor-pro-series-pixel-phones-heres-what-does-now?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91588662/google-just-repurposed-temperature-sensor-pro-series-pixel-phones-heres-what-does-now?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — Google just repurposed the temperature-sensor on its Pro-series Pixel phones. Here’s what it does now"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "449"
+  },
+  {
+    "slug": "ai-news-7",
+    "title": "'AI 시대, 광고·마케팅의 영향력을 어떻게 증폭할 것인가' 2026 부산국제마케팅광고제 컨퍼런스 개최",
+    "summary": "생성AI와 데이터 기술이 광고·마케팅 업계의 판을 바꾸고 있는 가운데, 국내 최대 규모 마케팅광고제가 AI 시대의 실전적 전략을 주제로 준비 중으로 업계의 적응과 혁신 방향성을 제시할 중요한 플랫폼이 될 예정입니다.",
+    "content": "## 큐레이션 노트\n부산국제마케팅광고제의 2026년 컨퍼런스 주제 선정은 마케팅 업계가 AI 기술을 단순한 보조 도구가 아닌 전략적 핵심 요소로 전환하는 시점을 반영합니다. 광고·마케팅 분야의 AI 활용이 이미 실무 단계를 넘어 비즈니스 임팩트 측정 및 창의성 강화의 영역으로 확대되고 있음을 시사하며, 국내 관련 업계가 글로벌 트렌드와 발맞춰 나아가는 과정에서 필요한 인사이트와 네트워킹 기회를 제공할 것으로 보입니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "AI마케팅",
+      "생성AI",
+      "광고산업",
+      "부산국제마케팅광고제",
+      "마케팅전략",
+      "업계동향"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28650",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28650",
+        "name": "매드타임스 — ‘AI 시대, 광고·마케팅의 영향력을 어떻게 증폭할 것인가’ 2026 부산국제마케팅광고제 컨퍼런스 공개"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "450"
+  },
+  {
+    "slug": "ai-announce-platform",
+    "title": "국내 커머스 기업 48%, AI 검색 플랫폼 적극 활용 - 세일즈포스 글로벌 커머스 트렌드 보고서 발표",
+    "summary": "국내 전자상거래 기업들의 AI 검색 기술 도입률이 절반 수준에 육박하면서, 생성형 AI가 커머스 경쟁력의 필수 요소로 자리 잡고 있음을 시사한다.",
+    "content": "## 큐레이션 노트\n\nAI 기반 검색 플랫폼의 채택이 국내 커머스 시장에서 주류화되고 있다는 점은, 단순한 기술 트렌드를 넘어 고객 경험 개선과 매출 증대를 직접 연결하는 경영 전략으로 인식되고 있음을 의미한다. 특히 글로벌 기준의 벤치마킹 데이터를 통해 국내 시장의 현주소를 객관적으로 파악할 수 있어, 아직 AI 검색을 미도입한 기업들의 의사결정에 영향을 미칠 것으로 예상된다. 이는 결국 AI 기술 솔루션 제공자와 커머스 플랫폼 간의 경쟁 심화와 함께 고도화된 개인화 추천 시스템이 시장의 표준으로 정착되는 전환점이 될 수 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "생성형AI",
+      "AI검색",
+      "이커머스",
+      "고객경험",
+      "세일즈포스",
+      "트렌드분석",
+      "한국시장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28649",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28649",
+        "name": "매드타임스 — “국내 커머스 기업 48%, AI 검색 플랫폼 적극 활용” 세일즈포스, ‘글로벌 커머스 트렌드 보고서’ 발표"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "451"
   }
 ]
