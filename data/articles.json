@@ -1,5 +1,317 @@
 [
   {
+    "id": "486",
+    "slug": "ai-workflow-regression-testing-how-to-test-prompt-model-tool",
+    "title": "AI Workflow Regression Testing: How to Test Prompt, Model, Tool & Data Changes?",
+    "summary": "The most dangerous AI regression in 2026 may not come from your code.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dhruvjoshi9/ai-workflow-regression-testing-how-to-test-prompt-model-tool-data-changes-947addcfe5a2?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dhruvjoshi9/ai-workflow-regression-testing-how-to-test-prompt-model-tool-data-changes-947addcfe5a2?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "487",
+    "slug": "anyone-can-write-a-claude-skill",
+    "title": "Anyone Can Write a Claude Skill",
+    "summary": "No programming and no prior experienceContinue reading on Small Wonders Daily »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/small-wonders-daily/anyone-can-write-a-claude-skill-821cf0fadc2e?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/small-wonders-daily/anyone-can-write-a-claude-skill-821cf0fadc2e?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "488",
+    "slug": "i-let-claude-roast-my-apps-design-it-was-ruthless",
+    "title": "I Let Claude Roast My App’s Design. It Was Ruthless",
+    "summary": "How I use AI as a ruthless design critic to fix obvious blind spots.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://andrewmurray.medium.com/i-let-claude-roast-my-apps-design-it-was-ruthless-c0cb3e72463f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://andrewmurray.medium.com/i-let-claude-roast-my-apps-design-it-was-ruthless-c0cb3e72463f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "489",
+    "slug": "i-gave-claude-a-folder-of-11-messy-pdfs-and-walked-away",
+    "title": "I gave Claude a folder of 11 messy PDFs and walked away",
+    "summary": "Cowork is the moment Claude stops being something you talk to and becomes something you hand work to. Here&#x2019;s the whole job, start to&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://elshad-karimov.medium.com/i-gave-claude-a-folder-of-11-messy-pdfs-and-walked-away-0c5f7e8ad51e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://elshad-karimov.medium.com/i-gave-claude-a-folder-of-11-messy-pdfs-and-walked-away-0c5f7e8ad51e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "490",
+    "slug": "im-on-the-200-claude-code-plan-in-july-i-used-10125-of-api",
+    "title": "I’m on the $200 Claude Code plan. In July, I used $10,125 of API.",
+    "summary": "Priced four different ways, the same month costs anywhere from $200 to $63,172.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jacobp96/im-on-the-200-claude-code-plan-in-july-i-used-10-125-of-api-e4f1b771b726?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jacobp96/im-on-the-200-claude-code-plan-in-july-i-used-10-125-of-api-e4f1b771b726?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "491",
+    "slug": "a-practical-guide-to-connecting-burp-suite-to-claude-code-vi",
+    "title": "A Practical Guide to Connecting Burp Suite to Claude Code via MCP",
+    "summary": "30&#x2011;second summary:Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Aacle/a-practical-guide-to-connecting-claude-code-to-burp-suite-via-bmcp-9a6a4a3a8302?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Aacle/a-practical-guide-to-connecting-claude-code-to-burp-suite-via-bmcp-9a6a4a3a8302?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "492",
+    "slug": "how-to-get-google-gemini-ai-pro-plus-free-for-12-months-clai",
+    "title": "How to get Google Gemini Ai Pro Plus Free for 12 Months ! Claim Google Gemini Ai Pro for free |",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rowfirst925/how-to-get-google-gemini-ai-pro-plus-free-for-12-months-claim-google-gemini-ai-pro-for-free-b3b31c3a21b1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rowfirst925/how-to-get-google-gemini-ai-pro-plus-free-for-12-months-claim-google-gemini-ai-pro-for-free-b3b31c3a21b1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "493",
+    "slug": "claude-code-productivity-tips-id-actually-use-in-2026",
+    "title": "Claude Code Productivity Tips I’d Actually Use in 2026",
+    "summary": "The commands matter less than better prompts, clean context, and checks Claude can run without you.Continue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/claude-code-productivity-tips-id-actually-use-in-2026-f4a965bd090c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/claude-code-productivity-tips-id-actually-use-in-2026-f4a965bd090c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "494",
+    "slug": "claude-code-credential-masking-keep-secrets-out-of-your-sand",
+    "title": "Claude Code credential masking: keep secrets out of your sandbox",
+    "summary": "In July, someone put the Grok Build CLI behind mitmproxy and read what it actually sent. They had planted a canary in the repo first, a&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info_69357/claude-code-credential-masking-keep-secrets-out-of-your-sandbox-4d4a04a6f619?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info_69357/claude-code-credential-masking-keep-secrets-out-of-your-sandbox-4d4a04a6f619?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "495",
+    "slug": "claude-code-goes-selfhosted-for-enterprise-teams-top-10-ai-f",
+    "title": "Claude Code Goes Self-Hosted for Enterprise Teams — Top 10 AI & Flutter News August 13, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/claude-code-goes-self-hosted-for-enterprise-teams-top-10-ai-flutter-news-august-13-2026-75ea1a0c8663?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/claude-code-goes-self-hosted-for-enterprise-teams-top-10-ai-flutter-news-august-13-2026-75ea1a0c8663?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "496",
+    "slug": "ai-coding-made-software-cheaper-it-made-independent-develope",
+    "title": "AI Coding Made Software Cheaper. It Made Independent Developers More Dependent",
+    "summary": "Claude can compress implementation into hours. The new indie advantage is not typing faster &#x2014; it is owning the customer, the evidence, the&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://boragokce.medium.com/ai-coding-made-software-cheaper-it-made-independent-developers-more-dependent-bcf5a9fe71c9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://boragokce.medium.com/ai-coding-made-software-cheaper-it-made-independent-developers-more-dependent-bcf5a9fe71c9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "497",
+    "slug": "sonnet-5-vs-gpt56-terra-same-repo-same-bug-same-prompt-one-s",
+    "title": "Sonnet 5 vs GPT-5.6 Terra: Same Repo, Same Bug, Same Prompt. One Spent 3× More and Still Failed.",
+    "summary": "Claude Code&#x2019;s default vs Codex&#x2019;s balanced tier &#x2014; priced $2 apart, tested on one race condition that separates debugging from gues",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://johnexter.medium.com/sonnet-5-vs-gpt-5-6-terra-same-repo-same-bug-same-prompt-one-spent-3-more-and-still-failed-bb0c7695be60?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://johnexter.medium.com/sonnet-5-vs-gpt-5-6-terra-same-repo-same-bug-same-prompt-one-spent-3-more-and-still-failed-bb0c7695be60?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "474",
     "slug": "deploying-ai-is-not-the-same-as-creating-value",
     "title": "Deploying AI Is Not the Same as Creating Value",
@@ -13208,5 +13520,118 @@
     "slug": "ai-intro",
     "draft": false,
     "id": "466"
+  },
+  {
+    "title": "Anthropic·Claude — '인간이 루프의 중심이어야 한다'는 AI 의존 경계 경고",
+    "summary": "몇 주간 AI 사용을 중단하고 돌아보니, 기존 AI 사용 습관 상당수가 생산성을 높이기보다 지적 능력·호기심·자신감을 약화시키는 의존 수단에 가까웠다는 반성이 제기됐다. 여러 에이전트와 Claude 대화를 동시에 진행하는 방식은 오히려 더 많은 일을 해야 한다는 압박을 키우고, 미완성 작업과 읽지 않을 결과물만 쌓이는 문제를 낳았다.",
+    "content": "## 주요 내용\n- AI 사용을 일정 기간 중단 후 돌아본 결과, 기존 사용 습관이 생산성 향상보다 지적 능력·호기심·자신감을 약화시키는 의존에 가까웠다고 평가\n- 여러 에이전트 및 Claude와 동시에 대화하는 방식은 업무 압박을 증가시키고, 미완성 작업과 활용되지 않는 결과물만 축적되는 부작용 초래\n- 핵심 메시지: 인간이 AI 루프의 중심에 있어야 한다\n\n## 의미\nAI 도구의 활용 방식에 대한 비판적 성찰로, 무분별한 AI 의존이 오히려 인간의 사고력과 주도성을 저해할 수 있다는 경각심을 환기한다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "AI의존",
+      "휴먼인더루프",
+      "AI사용습관"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32465",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32465",
+        "name": "GeekNews — 인간이 루프의 중심이어야 한다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude",
+    "draft": false,
+    "id": "483"
+  },
+  {
+    "title": "Grok 4.6, AAII 61점으로 비용 효율 최상위권 진입",
+    "summary": "Grok 4.6이 AAII 벤치마크에서 61점을 기록하며 GPT-5.6 Sol과 동점을 이루고, Opus 5(63점)·Fable 5(62점)에 이어 최상위권에 진입했다. Grok 4.5 대비 약 한 달 만에 5점 상승했으며, 에이전트 성능에서는 Elo 1753으로 Claude Opus 5 다음 순위를 기록했다.",
+    "content": "## 주요 내용\n- AAII 61점으로 GPT-5.6 Sol과 동점, Opus 5(63)·Fable 5(62)에 이어 최상위권\n- Grok 4.5 대비 약 한 달 만에 5점 상승\n- 에이전트 성능 Elo 1753으로 Claude Opus 5 다음 순위\n- Qwen3.8 Max·Fable 5와 신뢰구간이 겹치는 수준의 에이전트 성능\n\n## 의미\n Grok 4.6은 짧은 기간 내 빠른 성능 향상을 보이며 비용 효율 측면에서 최상위권 모델들과 경쟁하는 위치에 올랐다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "Grok",
+      "AAII",
+      "벤치마크",
+      "에이전트",
+      "LLM"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32463",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32463",
+        "name": "GeekNews — Grok 4.6, AAII 61점으로 비용 효율에서 선두권 진입"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-grok-aaii",
+    "draft": false,
+    "id": "484"
+  },
+  {
+    "slug": "anthropic-lgbt",
+    "title": "메타와 알리바바의 AI 크롤러가 자원봉사자 운영 LGBT 역사 아카이브를 거의 파괴하다",
+    "summary": "AI 모델 학습을 위한 무분별한 웹 크롤링이 공익적 가치를 지닌 소규모 디지털 자산을 위협하는 현실을 드러낸 사건으로, 빅테크의 데이터 수집과 공동자산 보호 간의 근본적인 충돌을 야기한다.",
+    "content": "## 큐레이션 노트\n\nAI 모델 학습을 위한 데이터 수집이 얼마나 무차별적이고 해로울 수 있는지를 보여주는 사례다. 특히 상업적 규모의 테크 기업들이 사회적 기반시설로 기능하는 소규모 커뮤니티 자산을 피해의 대상으로 삼고 있다는 점이 문제다. 이는 AI 학습 데이터의 출처 투명성, 웹 크롤링의 윤리적 기준, 그리고 개인정보보호·저작권을 넘어 '공동자산 약탈'에 대한 규제 논의로 확대되어야 함을 시사한다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "AI윤리",
+      "데이터크롤링",
+      "저작권",
+      "빅테크규제",
+      "디지털권리",
+      "커뮤니티아카이브"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91589354/ai-crawlers-hammered-a-volunteer-run-lgbt-history-archive-2?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91589354/ai-crawlers-hammered-a-volunteer-run-lgbt-history-archive-2?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — AI crawlers from Meta and Alibaba almost destroyed a volunteer-run LGBT history archive"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "485"
   }
 ]
