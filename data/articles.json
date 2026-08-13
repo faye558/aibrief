@@ -1,5 +1,187 @@
 [
   {
+    "id": "467",
+    "slug": "-claude-code-issue",
+    "title": "寫了等於沒寫：用 Claude Code 建立 Issue 驗收標準的自動化閉環",
+    "summary": "AC &#x7F3A;&#x7684;&#x4E0D;&#x662F;&#x683C;&#x5F0F;&#xFF0C;&#x662F;&#x300C;&#x4E0B;&#x6E38;&#x57F7;&#x884C;&#x93C8;&#x300D;&#x3002;&#x5F9E;&#x958B;&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@wpypy8/%E5%AF%AB%E4%BA%86%E7%AD%89%E6%96%BC%E6%B2%92%E5%AF%AB-%E7%94%A8-claude-code-%E5%BB%BA%E7%AB%8B-issue-%E9%A9%97%E6%94%B6%E6%A8%99%E6%BA%96%E7%9A%84%E8%87%AA%E5%8B%95%E5%8C%96%E9%96%89%E7%92%B0-d1499f092561?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@wpypy8/%E5%AF%AB%E4%BA%86%E7%AD%89%E6%96%BC%E6%B2%92%E5%AF%AB-%E7%94%A8-claude-code-%E5%BB%BA%E7%AB%8B-issue-%E9%A9%97%E6%94%B6%E6%A8%99%E6%BA%96%E7%9A%84%E8%87%AA%E5%8B%95%E5%8C%96%E9%96%89%E7%92%B0-d1499f092561?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "468",
+    "slug": "claude-watermarks-detection",
+    "title": "Claude Watermarks & Detection",
+    "summary": "Here&#x2019;s a scenario that probably sounds familiar to a lot of people: you spend an hour drafting something with Claude, refine the output&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ritukampani/claude-watermarks-detection-9cb8430dd618?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ritukampani/claude-watermarks-detection-9cb8430dd618?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "469",
+    "slug": "google-antigravitys-custom-agents-cost-0-a-month-and-do-one",
+    "title": "Google Antigravity’s Custom Agents Cost $0 a Month and Do One Thing Claude Code Hasn’t Shipped Yet",
+    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I want to walk through a feature Google shipped for Antigravity yesterday, because it&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://nitingavhane.medium.com/google-antigravitys-custom-agents-cost-0-a-month-and-do-one-thing-claude-code-hasn-t-shipped-yet-8d87fc701cbe?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://nitingavhane.medium.com/google-antigravitys-custom-agents-cost-0-a-month-and-do-one-thing-claude-code-hasn-t-shipped-yet-8d87fc701cbe?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "470",
+    "slug": "claude-code-getting-dumber-or-context-overload-a-senior-anal",
+    "title": "Claude Code Getting “Dumber” or Context Overload? A Senior Analysis of “Context Rot”",
+    "summary": "You&#x2019;ve been there. You start a coding session with Claude (Anthropic), and it&#x2019;s brilliant. It understands your architectural decisions,",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dinhchi110782/claude-code-getting-dumber-or-context-overload-a-senior-analysis-of-context-rot-14203adac741?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dinhchi110782/claude-code-getting-dumber-or-context-overload-a-senior-analysis-of-context-rot-14203adac741?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "471",
+    "slug": "unlocking-readonly-ai-governance-in-agile-my-week-5-journey",
+    "title": "Unlocking Read-Only AI Governance in Agile: My Week 5 Journey with Jira MCP and Claude Code",
+    "summary": "As part of my DevOps Micro-Internship, Week 5 was all about bridging the gap between practical Scrum methodologies, production delivery&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@godlonwhitegtr28/unlocking-read-only-ai-governance-in-agile-my-week-5-journey-with-jira-mcp-and-claude-code-c39b105bd46f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@godlonwhitegtr28/unlocking-read-only-ai-governance-in-agile-my-week-5-journey-with-jira-mcp-and-claude-code-c39b105bd46f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "472",
+    "slug": "claude-code-can-control-your-iphone-now-no-jailbreak-no-api",
+    "title": "Claude Code Can Control Your iPhone Now — No Jailbreak, No API, No Xcode",
+    "summary": "There&#x2019;s something slightly weird about watching an AI agent control a real iPhone. Not a simulator. Not an API pretending to be an iPhone.Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/claude-code-can-control-your-iphone-now-no-jailbreak-no-api-no-xcode-b9a7b7e30d64?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/claude-code-can-control-your-iphone-now-no-jailbreak-no-api-no-xcode-b9a7b7e30d64?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "473",
+    "slug": "stepbystep-guide-on-how-i-built-my-mcp-server",
+    "title": "Step-by-step guide on how I built my MCP server",
+    "summary": "I built an AI agent that saves me 30 minutes by doing my grocery shopping for me.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@isshitassharma/step-by-step-guide-on-how-i-built-my-mcp-server-702d1a44db5d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@isshitassharma/step-by-step-guide-on-how-i-built-my-mcp-server-702d1a44db5d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "452",
     "slug": "ai에게-투자정보를-말하게-하기까지",
     "title": "AI에게 투자정보를 말하게 하기까지",
@@ -12704,5 +12886,93 @@
     "communityLinks": null,
     "draft": false,
     "id": "451"
+  },
+  {
+    "title": "UX Collective — AI 제품 온보딩에서 '빌린 신뢰'에 기대는 디자인의 위험성",
+    "summary": "한 UX팀이 AI 제품 온보딩 설계 중, 실제로는 즉각 처리되는 결과를 '분석 중' 애니메이션으로 포장하고 하드코딩된 가짜 인사이트를 마치 개인화된 것처럼 보여주는 방식을 두고 논쟁을 벌였다. 팀은 결국 이를 채택하지 않기로 했는데, 그 이유는 도덕적 원칙보다는 실제로 존재하지 않는 기능에 대한 기대감을 심어줬다가 사용자가 이를 깨닫게 되는 '미끼 전환(bait and switch)' 상황에 대한 공통된 우려 때문이었다. 필자는 신뢰받는 브랜드 이름이 AI의 오류를 가리는 '마스크' 역할을 하며, 이름을 더 신뢰할수록 그 이면의 기계를 덜 의심하게 된다고 경고한다.",
+    "content": "## 주요 내용\n- AI 제품 온보딩 설계 과정에서 팀 내부에 '사용자에게 거짓말을 해야 하는가'를 두고 실제 논쟁이 발생함\n- 논쟁의 핵심은 실제로는 즉각 처리 가능한 흐름에 '답변 분석 중…' 스피너 애니메이션을 넣고, 하드코딩된 가짜 인사이트를 개인화된 것처럼 보이게 하는 방안이었음\n- 팀은 이 방식이 효과적일 것임을 알면서도, 실제 제품에 없는 기능에 대한 기대를 심어주는 문제로 인해 채택하지 않기로 결정함\n- 필자는 브랜드 신뢰가 AI의 오류를 검증하지 않게 만드는 구조적 문제를 지적하며, AI가 틀렸을 때 그 신뢰받는 이름 자체가 가장 큰 손실을 입는다고 설명함\n\n## 의미\n이 글은 AI UX 설계에서 '마법 같은 경험'을 연출하려는 유혹이 실제 현장에서 어떻게 작동하는지를 내부자 시각으로 보여주며, 브랜드 신뢰에 기댄 AI 연출이 장기적으로 신뢰 자체를 훼손할 수 있음을 경고한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-13",
+    "tags": [
+      "AI UX",
+      "디자인 윤리",
+      "온보딩",
+      "신뢰",
+      "다크패턴"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/were-gorging-on-borrowed-trust-and-it-s-going-to-cost-us-2bc3f918caf5?source=rss----138adf9c44c---4",
+        "name": "UX Collective — We’re gorging on borrowed trust and it’s going to cost us."
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-3",
+    "draft": false,
+    "id": "464"
+  },
+  {
+    "title": "Unsloth, 로컬 AI 모델 실행·학습·에이전트를 통합한 오픈소스 데스크톱 앱 출시",
+    "summary": "빠른 파인튜닝 도구 Unsloth가 데스크톱 버전을 출시했다. LLM뿐 아니라 diffusion 이미지/비디오, embedding, vision, TTS/STT 모델의 실행과 학습을 지원하며, GGUF·MLX·safetensors 포맷을 지원한다. 맥·윈도우·리눅스·WSL 환경과 NVIDIA·AMD·Mac GPU에서 학습이 가능하다.",
+    "content": "## 주요 내용\n- Unsloth가 Desktop 버전 출시\n- LLM, diffusion 이미지/비디오, embedding, vision, TTS/STT 모델 실행 및 학습 지원\n- GGUF, MLX, safetensors 포맷 지원\n- 맥, 윈도우, 리눅스, WSL 지원\n- NVIDIA, AMD, Mac GPU에서 학습 가능\n- 모델 실행·학습·에이전트 기능을 하나의 앱으로 통합\n\n## 의미\n로컬 환경에서 다양한 AI 모델을 실행·파인튜닝·에이전트까지 하나의 오픈소스 앱으로 처리할 수 있게 되어, 클라우드 의존 없이 AI를 활용하려는 사용자에게 실질적인 선택지가 될 수 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "Unsloth",
+      "로컬AI",
+      "파인튜닝",
+      "오픈소스",
+      "데스크톱앱",
+      "LLM"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32455",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32455",
+        "name": "GeekNews — Unsloth Desktop - 로컬 AI 모델 실행/학습/에이전트를 하나로 묶은 오픈소스 앱"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-unsloth-launch",
+    "draft": false,
+    "id": "465"
+  },
+  {
+    "title": "AI 코드 리뷰 도입, 속도는 빨라졌지만 품질은 다른 문제 — 102만 개 PR 분석",
+    "summary": "207개 GitHub 프로젝트의 102만 개 PR을 분석한 연구에 따르면, AI 리뷰어를 도입한 프로젝트에서 리뷰 결정 속도는 빨라졌다. 그러나 더 빠른 결정이 반드시 더 나은 리뷰를 의미하지는 않는 것으로 나타났다.",
+    "content": "## 주요 내용\n- 207개 GitHub 프로젝트의 102만 개 PR을 대상으로 코드 리뷰 변화 분석\n- 코드 리뷰는 인간 중심 → LLM 보조 → AI 에이전트 참여 단계로 진화하는 과정 조사\n- AI 리뷰어를 점진적으로 도입하거나 에이전트 단계에서 빠르게 도입한 프로젝트 모두 리뷰 결정 속도 향상 확인\n- 단, 빠른 리뷰 결정이 높은 리뷰 품질을 보장하지는 않음\n\n## 의미\n이 연구는 AI 기반 코드 리뷰 도입 시 속도 향상 효과는 명확하지만, 품질 측면은 별도로 평가해야 한다는 점을 시사한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-13",
+    "tags": [
+      "코드리뷰",
+      "AI에이전트",
+      "LLM",
+      "GitHub",
+      "소프트웨어개발"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32454",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32454",
+        "name": "GeekNews — 인간 중심에서 에이전틱 코드 리뷰로 - 더 빠른 결정이 더 나은 리뷰를 뜻하지는 않는다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-intro",
+    "draft": false,
+    "id": "466"
   }
 ]
