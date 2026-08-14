@@ -1,5 +1,187 @@
 [
   {
+    "id": "522",
+    "slug": "14-claude-code-commands-every-developer-should-know",
+    "title": "14 Claude Code Commands Every Developer Should Know",
+    "summary": "I started using Claude Code like a normal AI chatbot.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sachinghadi/14-claude-code-commands-every-developer-should-know-e8b55357ab23?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sachinghadi/14-claude-code-commands-every-developer-should-know-e8b55357ab23?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "523",
+    "slug": "claude-code-slack-how-to-manage-yout-workspace",
+    "title": "Claude Code + Slack: How to manage yout Workspace",
+    "summary": "Slack AI Is Priced Per Seat. I Connected One Shared Assistant Instead.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/claude-code-slack-how-to-manage-yout-workspace-b9a8423bc8d2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/claude-code-slack-how-to-manage-yout-workspace-b9a8423bc8d2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "524",
+    "slug": "when-your-gitlab-is-too-old-for-the-mcp-server",
+    "title": "When Your GitLab Is Too Old for the MCP Server",
+    "summary": "Not a tutorial &#x2014; just an experiment in what AI-assisted development looks like with real-world constraintsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hitorunajp/when-your-gitlab-is-too-old-for-the-mcp-server-b7a2c01de08b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hitorunajp/when-your-gitlab-is-too-old-for-the-mcp-server-b7a2c01de08b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "525",
+    "slug": "the-text-you-just-pasted-is-not-the-text-you-copied",
+    "title": "The Text You Just Pasted Is Not the Text You Copied",
+    "summary": "Run this on your own machine right now.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://jephinwrites.medium.com/the-text-you-just-pasted-is-not-the-text-you-copied-3fd08de442e2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://jephinwrites.medium.com/the-text-you-just-pasted-is-not-the-text-you-copied-3fd08de442e2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "526",
+    "slug": "claude-vs-chatgpt-which-one-is-better-for-coding-research-an",
+    "title": "Claude vs ChatGPT: Which One Is Better for Coding, Research, and Writing?",
+    "summary": "Claude and ChatGPT are both powerful AI assistants, but they excel in different workflows. Claude is usually the stronger choice for&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@theayeshawrites/claude-vs-chatgpt-which-one-is-better-for-coding-research-and-writing-6be1b31feb85?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@theayeshawrites/claude-vs-chatgpt-which-one-is-better-for-coding-research-and-writing-6be1b31feb85?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "527",
+    "slug": "why-local-ai-will-win-the-gpu-cost-problem-nobody-talks-abou",
+    "title": "Why Local AI Will Win: the GPU cost problem nobody talks about.",
+    "summary": "A deep dive into how AI models are actually served &#x2014; and why the economics are quietly shifting toward local and on-device inference.Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mahendraa1188/why-local-ai-will-win-the-gpu-cost-problem-nobody-talks-about-8e27a19088f8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mahendraa1188/why-local-ai-will-win-the-gpu-cost-problem-nobody-talks-about-8e27a19088f8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "528",
+    "slug": "the-9-things-i-learned-to-improve-my-agentic-development",
+    "title": "The 9 Things I Learned to Improve My Agentic Development",
+    "summary": "Tips to get the most out of your agentic coding workflowContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@anantgoyal2000/the-9-things-i-learned-to-improve-my-agentic-development-ab8b87bcee05?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@anantgoyal2000/the-9-things-i-learned-to-improve-my-agentic-development-ab8b87bcee05?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "515",
     "slug": "i-was-the-copypaste-between-my-ai-agents-then-they-stopped-n",
     "title": "I Was the Copy-Paste Between My AI Agents. Then They Stopped Needing Me.",
@@ -14320,5 +14502,33 @@
     "slug": "sandoll-font-3",
     "draft": false,
     "id": "514"
+  },
+  {
+    "slug": "it-news-2",
+    "title": "대부분 아리스토텔레스식인 기업 AI에 베이컨식 접근법을 적용하기. 당신의 비즈니스에 의미하는 바",
+    "summary": "기업 AI 도입의 철학적 기초를 재검토하며, 귀납적 실험 중심의 접근이 연역적 이론 중심의 현재 방식을 보완할 필요가 있다는 문제 제기는 AI 구현의 실질적 성과를 높이는 핵심 전환점이 될 수 있다.",
+    "content": "## 큐레이션 노트\n현재 엔터프라이즈 AI는 완벽한 전략과 사전 정의된 목표에 기반한 하향식 접근이 주류인데, 이 기사는 실제 데이터와 현장 실험을 통해 점진적으로 학습하는 베이컨식 방법론의 가치를 재조명하고 있다. 이는 단순히 철학적 논의를 넘어 AI 프로젝트의 높은 실패율과 ROI 부족 문제에 대한 실용적 해법을 제시하는 관점이라는 점에서 의미가 있다. 조직 문화와 의사결정 구조의 변화를 함께 요구하는 만큼, AI 도입을 고민하는 리더들에게 실질적인 전략 재검토의 기회를 제공한다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-08-14",
+    "tags": [
+      "엔터프라이즈AI",
+      "AI전략",
+      "조직혁신",
+      "데이터기반의사결정",
+      "비즈니스임팩트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91587826/enterprise-ai-baconian-approach-business?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91587826/enterprise-ai-baconian-approach-business?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — A Baconian approach to the mostly Aristotelian corporate AI. And what that means for your business"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "521"
   }
 ]
