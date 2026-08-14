@@ -1,5 +1,343 @@
 [
   {
+    "id": "532",
+    "slug": "the-new-role-of-the-software-engineer-bringing-the-engineer",
+    "title": "The New Role of the Software Engineer: Bringing the “Engineer” Back",
+    "summary": "I was running a workshop recently about the importance of workflows in AI-assisted software development.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@eladzoarets/the-new-role-of-the-software-engineer-bringing-the-engineer-back-620ae7b14218?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@eladzoarets/the-new-role-of-the-software-engineer-bringing-the-engineer-back-620ae7b14218?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "533",
+    "slug": "deepseek-v4-pro-is-not-a-migration-plan",
+    "title": "DeepSeek V4 Pro Is Not a Migration Plan",
+    "summary": "Friday, my golden retriever, does not care which model tops this week&#x2019;s benchmark chart. He cares whether I finish work before his evening&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://oscarmorgan-2.medium.com/deepseek-v4-pro-is-not-a-migration-plan-94dbac063656?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://oscarmorgan-2.medium.com/deepseek-v4-pro-is-not-a-migration-plan-94dbac063656?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "534",
+    "slug": "how-one-claude-project-can-run-your-entire-product-launch",
+    "title": "How One Claude Project Can Run Your Entire Product Launch",
+    "summary": "A single home for your offer brief, sales page, emails, and postsContinue reading on Small Wonders Daily »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/small-wonders-daily/how-one-claude-project-can-run-your-entire-product-launch-e8db9be6c8e9?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/small-wonders-daily/how-one-claude-project-can-run-your-entire-product-launch-e8db9be6c8e9?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "535",
+    "slug": "a-trigger-on-volume",
+    "title": "A Trigger on Volume",
+    "summary": "*When your agent should stop and hand the work to a bigger model.*Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/a-trigger-on-volume-819b3f3efcee?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/a-trigger-on-volume-819b3f3efcee?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "536",
+    "slug": "-watched-not-subscribed",
+    "title": "# Watched, Not Subscribed",
+    "summary": "Part two of turning a decade of watch history into a system.*Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/watched-not-subscribed-001ee6fd4c40?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/watched-not-subscribed-001ee6fd4c40?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "537",
+    "slug": "your-claude-code-session-might-be-paying-to-solve-the-same-p",
+    "title": "Your Claude Code Session Might Be Paying to Solve the Same Problem Twice",
+    "summary": "I dug into how developers actually run Claude Code in 2026. The expensive mistakes aren&#x2019;t complicated &#x2014; they&#x2019;re just invisible.Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aitrends24/your-claude-code-session-might-be-paying-to-solve-the-same-problem-twice-8423dded0b2b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aitrends24/your-claude-code-session-might-be-paying-to-solve-the-same-problem-twice-8423dded0b2b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "538",
+    "slug": "why-does-your-ai-forget-what-you-just-told-it",
+    "title": "Why Does Your AI Forget What You Just Told It?",
+    "summary": "I used to explain this badly. For a long time I would tell students that the model has a memory limit, they would nod, and then a week&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@michaeltutor/https-aitutorcode-com-blog-the-pronoun-that-made-our-chatbot-lie-403d5089bdf1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@michaeltutor/https-aitutorcode-com-blog-the-pronoun-that-made-our-chatbot-lie-403d5089bdf1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "539",
+    "slug": "anthropic-enables-auto-mode-by-default-for-claude-code",
+    "title": "Anthropic enables auto mode by default for Claude Code",
+    "summary": "Anthropic is updating Claude Code to make auto mode the default permission setting for paid subscribers to streamline developer workflows.Continue rea",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/anthropic-enables-auto-mode-by-default-for-claude-code-123a088bd32c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/anthropic-enables-auto-mode-by-default-for-claude-code-123a088bd32c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "540",
+    "slug": "from-saas-to-saaas-the-next-evolution-of-enterprise-software",
+    "title": "From SaaS to SAaaS: The Next Evolution of Enterprise Software",
+    "summary": "In a single trading session this February, roughly $285 billion in software value vanished. By the end of the quarter, the figure was&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@avra.banerjee/from-saas-to-saaas-the-next-evolution-of-enterprise-software-d9d2a0694d29?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@avra.banerjee/from-saas-to-saaas-the-next-evolution-of-enterprise-software-d9d2a0694d29?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "541",
+    "slug": "diagnosis-was-the-easy-part-cutting-a-god-node-with-claude-c",
+    "title": "Diagnosis Was the Easy Part — Cutting a God Node with Claude Code, Measured on the Same Graph",
+    "summary": "At the end of the last piece I said whether those 99 edges get pulled apart is on me, not the tool. This time I went and pulled &#x2014; then&#x2026;C",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@n913239/diagnosis-was-the-easy-part-cutting-a-god-node-with-claude-code-measured-on-the-same-graph-8dcc06ddbb0a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@n913239/diagnosis-was-the-easy-part-cutting-a-god-node-with-claude-code-measured-on-the-same-graph-8dcc06ddbb0a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "542",
+    "slug": "-claude-code",
+    "title": "圖說遷移只做一半,那我就把它拆 — — 帶 Claude Code 動一次真重構(附前後對照)",
+    "summary": "&#x4E0A;&#x4E00;&#x7BC7;&#x7684;&#x7D50;&#x5C3E;&#x6211;&#x8AAA;,&#x90A3; 99 &#x689D;&#x908A;&#x8981;&#x4E0D;&#x8981;&#x62C6;&#x662F;&#x6211;&#x7684;&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@n913239/%E5%9C%96%E8%AA%AA%E9%81%B7%E7%A7%BB%E5%8F%AA%E5%81%9A%E4%B8%80%E5%8D%8A-%E9%82%A3%E6%88%91%E5%B0%B1%E6%8A%8A%E5%AE%83%E6%8B%86-%E5%B8%B6-claude-code-%E5%8B%95%E4%B8%80%E6%AC%A1%E7%9C%9F%E9%87%8D%E6%A7%8B-%E9%99%84%E5%89%8D%E5%BE%8C%E5%B0%8D%E7%85%A7-ba2f859c92cf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@n913239/%E5%9C%96%E8%AA%AA%E9%81%B7%E7%A7%BB%E5%8F%AA%E5%81%9A%E4%B8%80%E5%8D%8A-%E9%82%A3%E6%88%91%E5%B0%B1%E6%8A%8A%E5%AE%83%E6%8B%86-%E5%B8%B6-claude-code-%E5%8B%95%E4%B8%80%E6%AC%A1%E7%9C%9F%E9%87%8D%E6%A7%8B-%E9%99%84%E5%89%8D%E5%BE%8C%E5%B0%8D%E7%85%A7-ba2f859c92cf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "543",
+    "slug": "claude-code-auto-mode-goes-default-today-ai-blocks-dangerous",
+    "title": "Claude Code Auto Mode Goes Default Today — AI Blocks Dangerous Commands at 6.5x",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/claude-code-auto-mode-goes-default-today-ai-blocks-dangerous-commands-at-6-5x-af90b3064917?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/claude-code-auto-mode-goes-default-today-ai-blocks-dangerous-commands-at-6-5x-af90b3064917?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "544",
+    "slug": "vibe-coding-a-personal-website-15-months-later-10x-nicer-20x",
+    "title": "Vibe coding a personal website: 15 months later (10x nicer, 20x simpler to do)",
+    "summary": "It&#x2019;s been almost a year and a half since I built and deployed my vibe-coded personal website, and many powerful new models and AI products&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@nufar.galin/vibe-coding-a-personal-website-15-months-later-10x-nicer-20x-simpler-to-do-419e81f38e7b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@nufar.galin/vibe-coding-a-personal-website-15-months-later-10x-nicer-20x-simpler-to-do-419e81f38e7b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "522",
     "slug": "14-claude-code-commands-every-developer-should-know",
     "title": "14 Claude Code Commands Every Developer Should Know",
@@ -14530,5 +14868,93 @@
     "communityLinks": null,
     "draft": false,
     "id": "521"
+  },
+  {
+    "title": "AI 에이전트 시대, '이해'가 새로운 병목으로 부상",
+    "summary": "AI 에이전트가 인간이 흡수할 수 있는 속도보다 빠르게 코드를 작성하면서, 인간의 시스템 이해 능력이 새로운 병목이 되고 있다. 이해란 결과를 승인하거나 거부하는 검증에 그치지 않고, 다음 아이디어를 생성하고 프로젝트를 발전시킬 개념과 유창성을 확보하는 것까지 포함한다.",
+    "content": "## 주요 내용\n- AI 에이전트가 인간이 흡수하는 속도보다 빠르게 코드를 생성하는 상황 도래\n- 인간이 시스템을 이해하고 창작에 참여하는 능력이 새로운 병목으로 지목됨\n- '이해'는 단순 결과 검증(승인·거부)을 넘어, 다음 아이디어 창출과 프로젝트 발전을 위한 개념적 유창성까지 포함\n\n## 의미\nAI가 생산성의 한계를 밀어올리는 시대에, 기술적 산출물을 따라가고 방향을 설정하는 인간의 '이해 역량'이 개발 과정의 핵심 제약 요소로 부상하고 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-14",
+    "tags": [
+      "AI에이전트",
+      "소프트웨어개발",
+      "인간-AI협업",
+      "생산성",
+      "이해역량"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32497",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32497",
+        "name": "GeekNews — 이해가 새로운 병목이다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-agent-2",
+    "draft": false,
+    "id": "529"
+  },
+  {
+    "slug": "canva-news-3",
+    "title": "이 독특한 액세서리가 내 아이폰을 블랙베리로 만들었다",
+    "summary": "물리 키보드라는 '구식' 기능을 현대 스마트폰에 부활시키는 제품이 나타난 것은, 노스탤지어를 넘어 사용성과 인체공학의 가치를 재평가하는 하드웨어 트렌드를 반영한다.",
+    "content": "## 큐레이션 노트\n스마트폰의 진화 과정에서 사라진 물리 키보드가 틈새 시장 제품으로 재등장한 현상은 주류 제조사들이 간과한 사용자 수요의 존재를 보여줍니다. 특히 생산성 중심 사용자들의 입력 경험에 대한 불만이 아직도 존재한다는 점에서, 하드웨어 설계의 '퇴화'가 반드시 진보만을 의미하지 않음을 시사합니다. 이는 대형 IT 기업의 표준화된 솔루션이 모든 사용자 니즈를 충족하지 못한다는 틈새 혁신의 기회를 조명하는 흥미로운 사례입니다.",
+    "company": "Canva",
+    "category": "디자인툴",
+    "date": "2026-08-14",
+    "tags": [
+      "스마트폰 액세서리",
+      "물리 키보드",
+      "생산성",
+      "하드웨어 디자인",
+      "노스탤지어 마케팅",
+      "사용자 경험(UX)",
+      "틈새 시장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91589909/clicks-power-keyboard-review?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91589909/clicks-power-keyboard-review?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — This wild accessory made my iPhone think it was a BlackBerry"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "530"
+  },
+  {
+    "slug": "ai-tool",
+    "title": "블랙햇에서 드러난 AI의 양면성: 사이버 위협 탐지 도구이자 새로운 공격 수단",
+    "summary": "AI가 보안 방어를 강화하는 동시에 공격자의 손에 들어가면 더욱 정교한 위협을 만들어낼 수 있다는 딜레마가 업계의 중심 이슈로 떠올랐습니다.",
+    "content": "## 큐레이션 노트\n\n보안 업계의 최대 행사인 블랙햇에서 AI의 이중성이 화두가 되고 있습니다. 방어자 입장에서는 위협 탐지와 대응 속도를 혁신적으로 개선할 수 있지만, 공격자도 동일한 AI 기술을 활용해 더욱 치밀한 사회공학 공격이나 제로데이 공격을 설계할 수 있다는 점에서 기술 우위를 둘러싼 경쟁이 심화되고 있습니다. 결국 AI 시대의 사이버 보안은 기술 고도화만큼 거버넌스와 윤리적 기준 수립이 얼마나 빠르게 따라가느냐가 업계의 생존 문제가 될 것이라는 점을 시사합니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-14",
+    "tags": [
+      "AI보안",
+      "사이버위협",
+      "BlueTeam vs RedTeam",
+      "AI윤리",
+      "방어기술",
+      "공격기술"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91590086/at-black-hat-ai-is-helping-security-pros-find-threats-and-creating-new-ones?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91590086/at-black-hat-ai-is-helping-security-pros-find-threats-and-creating-new-ones?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — At Black Hat, AI is helping security pros find threats—and creating new ones"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "531"
   }
 ]
