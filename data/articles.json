@@ -1,5 +1,161 @@
 [
   {
+    "id": "515",
+    "slug": "i-was-the-copypaste-between-my-ai-agents-then-they-stopped-n",
+    "title": "I Was the Copy-Paste Between My AI Agents. Then They Stopped Needing Me.",
+    "summary": "Claude Code sessions can message each other now &#x2014; and nobody has to turn it onContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@yhocotw31016/i-was-the-copy-paste-between-my-ai-agents-then-they-stopped-needing-me-9378fb812a2f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@yhocotw31016/i-was-the-copy-paste-between-my-ai-agents-then-they-stopped-needing-me-9378fb812a2f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "516",
+    "slug": "how-to-build-a-fullstack-rag-app-using-claude-code-openroute",
+    "title": "How to Build a Full-Stack RAG App Using Claude Code + OpenRouter + Pinecone",
+    "summary": "You want to build a RAG app. You know the parts: an embedding model to vectorize your documents, a vector database to store them, and an&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dremfind/how-to-build-a-full-stack-rag-app-using-claude-code-openrouter-pinecone-c8c2408b8bd1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dremfind/how-to-build-a-full-stack-rag-app-using-claude-code-openrouter-pinecone-c8c2408b8bd1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "517",
+    "slug": "employees-ai-coding-burns-18m-amazons-claude-task-goes-860-o",
+    "title": "Employee’s AI Coding “Burns” $1.8M! Amazon’s Claude Task Goes 860% Over Budget, Found 5 Months Later",
+    "summary": "From &#x201C;Boosting Productivity&#x201D; to &#x201C;Devouring Budgets&#x201D;: AI Agents Are Creating a New Kind of Expensive BugContinue reading on",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codeelevation/employees-ai-coding-burns-1-8m-amazon-s-claude-task-goes-860-over-budget-found-5-months-later-9824cb269e6e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codeelevation/employees-ai-coding-burns-1-8m-amazon-s-claude-task-goes-860-over-budget-found-5-months-later-9824cb269e6e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "518",
+    "slug": "claude-code-agent-teams-what-actually-changes-when-sessions",
+    "title": "Claude Code Agent Teams: What Actually Changes When Sessions Share a Task List",
+    "summary": "PART II: teammates get a shared task list and message each other directly. The upgrade is coordination, not shared memory.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://21zerixpm.medium.com/claude-code-agent-teams-what-actually-changes-when-sessions-share-a-task-list-5bc52517e454?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://21zerixpm.medium.com/claude-code-agent-teams-what-actually-changes-when-sessions-share-a-task-list-5bc52517e454?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "519",
+    "slug": "i-copied-2-agentic-android-workflows-only-3-rules-survived-c",
+    "title": "I Copied 2 Agentic Android Workflows. Only 3 Rules Survived Contact With a Real Kotlin Project",
+    "summary": "Two weeks ago I read a workflow post from Atomic Object and rewrote my whole setup in an afternoon. Their agent runs five gates before it&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codetodeploy/i-copied-2-agentic-android-workflows-only-3-rules-survived-contact-with-a-real-kotlin-project-8ebb3a63a53c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codetodeploy/i-copied-2-agentic-android-workflows-only-3-rules-survived-contact-with-a-real-kotlin-project-8ebb3a63a53c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "520",
+    "slug": "byebye-powerpoint-claude-ai-bisa-membuat-presentasi-dalam-12",
+    "title": "Bye-Bye PowerPoint? Claude AI Bisa Membuat Presentasi dalam 120 Detik",
+    "summary": "Bayangkan kamu punya tugas presentasi besok pagi. Materinya sudah ada, tetapi masalah sebenarnya baru dimulai: membuka PowerPoint, memilih&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@adam.bhuana/bye-bye-powerpoint-claude-ai-bisa-membuat-presentasi-dalam-120-detik-890e51d52f04?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@adam.bhuana/bye-bye-powerpoint-claude-ai-bisa-membuat-presentasi-dalam-120-detik-890e51d52f04?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "503",
     "slug": "claw-ai-army-review-a-channelfirst-ai-workforce-for-business",
     "title": "Claw AI Army Review: A Channel-First AI Workforce for Business Workflows",
@@ -14116,5 +14272,53 @@
     "communityLinks": null,
     "draft": false,
     "id": "502"
+  },
+  {
+    "title": "산돌, 2026년 상반기 영업이익 32억 원…전년比 31% 상승, AI 콘텐츠 확산이 폰트 수요 견인",
+    "summary": "산돌이 2026년 상반기 매출 약 80억 원, 영업이익 약 32억 원을 기록하며 전년 동기 대비 각각 10%, 31% 성장했다. 생성형 AI 확산으로 콘텐츠 제작량이 늘면서 폰트 수요가 함께 증가한 것이 주요 성장 동력으로 작용했다. 3월 출시한 AI 콘텐츠 제작 서비스 '산돌캔버스'는 6월 기준 이용자 수가 출시 시점 대비 323% 증가했다.",
+    "content": "## 주요 내용\n- 2026년 상반기 별도 기준 매출 약 80억 원, 영업이익 약 32억 원 잠정 집계\n- 전년 동기 대비 매출 10%, 영업이익 31% 증가\n- 실적 성장은 폰트 플랫폼 '산돌구름' 중심의 플랫폼 사업이 견인\n- 생성형 AI 확산으로 콘텐츠가 숏폼·썸네일·채널별 이미지 등 다양한 형태로 파생되며 폰트 활용 수요 확대\n- 3월 출시한 AI 기반 콘텐츠 제작 서비스 '산돌캔버스': 이미지 편집·생성, 배경 제거, 텍스트 기반 이미지 생성, AI 이모티콘 제작, 유사 이미지 생성 기능 제공\n- 산돌캔버스 이용자 수, 6월 기준 3월 출시 대비 323%(약 4.2배) 증가\n- 산돌캔버스 도입 후 3월 산돌구름 방문자 수 전년 동월 대비 약 34% 상승\n- 하반기에는 AI 콘텐츠 제작·편집·활용 관련 서비스 확대 및 신규 수익모델 발굴 계획\n\n## 의미\n생성형 AI 확산이 폰트를 포함한 콘텐츠 제작 요소 전반의 수요를 확대하는 구조 속에서, 산돌은 기존 폰트 사업 기반에 AI 콘텐츠 제작 기능을 결합해 사용자 유입과 폰트 서비스 활용 확대가 맞물리는 선순환 구조를 구축하고 있다.",
+    "company": "산돌",
+    "category": "디자인툴",
+    "date": "2026-08-14",
+    "tags": [
+      "산돌",
+      "산돌캔버스",
+      "폰트",
+      "생성형AI",
+      "AI콘텐츠",
+      "산돌구름",
+      "실적"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.sandoll.co.kr/press_backup/?idx=173095657&bmode=view",
+    "sourceName": "산돌 공식",
+    "sources": [
+      {
+        "url": "https://www.sandoll.co.kr/press_backup/?idx=173095657&bmode=view",
+        "name": "산돌 공식 — 산돌, AI 콘텐츠 제작 확산에 폰트 수요 증가 상반기 영업이익 전년比 31% 상승"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 산돌",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C"
+      },
+      {
+        "name": "네이버 카페 검색: 산돌캔버스",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
+      },
+      {
+        "name": "클리앙 검색: 산돌",
+        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
+      },
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      }
+    ],
+    "slug": "sandoll-font-3",
+    "draft": false,
+    "id": "514"
   }
 ]
