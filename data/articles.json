@@ -1,5 +1,161 @@
 [
   {
+    "id": "559",
+    "slug": "7-ways-to-work-faster-and-smarter-for-data-analysis-in-ai-wo",
+    "title": "7 Ways to Work Faster and Smarter for Data Analysis in AI Workflows",
+    "summary": "Data analysts spend a significant portion of their time on repetitive activities that support the analytical process.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@whee.2013/7-ways-to-work-faster-and-smarter-for-data-analysis-in-ai-workflows-8b1d8e0f44d2?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@whee.2013/7-ways-to-work-faster-and-smarter-for-data-analysis-in-ai-workflows-8b1d8e0f44d2?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "560",
+    "slug": "-ai-3",
+    "title": "遇到問題，直接問 AI 不香嗎？",
+    "summary": "&#x300C;&#x9999;&#xFF01;&#x300D;&#x9019;&#x662F;&#x5927;&#x591A;&#x6578;&#x4EBA;&#x5FC3;&#x4E2D;&#x7684;&#x7B54;&#x6848;&#x3002;Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://dean-lin.medium.com/%E9%81%87%E5%88%B0%E5%95%8F%E9%A1%8C-%E7%9B%B4%E6%8E%A5%E5%95%8F-ai-%E4%B8%8D%E9%A6%99%E5%97%8E-ff2fab21c26b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://dean-lin.medium.com/%E9%81%87%E5%88%B0%E5%95%8F%E9%A1%8C-%E7%9B%B4%E6%8E%A5%E5%95%8F-ai-%E4%B8%8D%E9%A6%99%E5%97%8E-ff2fab21c26b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "561",
+    "slug": "i-stopped-writing-rfc-documents-for-six-months-my-team-never",
+    "title": "I Stopped Writing RFC Documents for Six Months. My Team Never Noticed. That Was the Problem.",
+    "summary": "Claude fixed the writing. I still had to fix the reason I&#x2019;d stopped.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-stopped-writing-rfc-documents-for-six-months-my-team-never-noticed-that-was-the-problem-3d0fd8f145b7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-stopped-writing-rfc-documents-for-six-months-my-team-never-noticed-that-was-the-problem-3d0fd8f145b7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "562",
+    "slug": "i-stared-at-the-same-bug-for-three-hours-i-gave-claude-90-se",
+    "title": "I Stared at the Same Bug for Three Hours. I Gave Claude 90 Seconds.",
+    "summary": "The prompt wasn&#x2019;t clever. That&#x2019;s what bothered me most.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-stared-at-the-same-bug-for-three-hours-i-gave-claude-90-seconds-e4c46f3ede7a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-stared-at-the-same-bug-for-three-hours-i-gave-claude-90-seconds-e4c46f3ede7a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "563",
+    "slug": "senior-engineers-dont-use-claude-differently-they-prompt-it",
+    "title": "Senior Engineers Don’t Use Claude Differently. They Prompt It Differently.",
+    "summary": "Same tool. 8 minutes versus 2 hours. I watched it happen and couldn&#x2019;t explain why &#x2014; until I could.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/senior-engineers-dont-use-claude-differently-they-prompt-it-differently-415f38a216fb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/senior-engineers-dont-use-claude-differently-they-prompt-it-differently-415f38a216fb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "564",
+    "slug": "i-gave-claude-the-same-prompt-every-day-for-30-days-day-23-e",
+    "title": "I Gave Claude the Same Prompt Every Day for 30 Days. Day 23 Embarrassed Me.",
+    "summary": "I thought I was using it well. I wasn&#x2019;t even close.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-15",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-gave-claude-the-same-prompt-every-day-for-30-days-day-23-embarrassed-me-339d28b983a6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-gave-claude-the-same-prompt-every-day-for-30-days-day-23-embarrassed-me-339d28b983a6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "547",
     "slug": "grok-46-x-cursor-elon-musk-just-bought-his-way-into-the-ai-c",
     "title": "Grok 4.6 x Cursor : Elon Musk Just Bought His Way Into the AI Coding War",
@@ -15221,5 +15377,166 @@
     "communityLinks": null,
     "draft": false,
     "id": "546"
+  },
+  {
+    "title": "Suno, Studio 2.0 공개 — MIDI·AI 채팅 결합한 본격 음악 제작 도구로 진화",
+    "summary": "Suno가 Studio 2.0을 공개하며 MIDI 편집, 음량·효과 자동 조절, 신시사이저, 음원 분리 등의 기능을 추가했다. 단순한 AI 음악 생성기에서 일반적인 DAW(디지털 오디오 워크스테이션)에 가까운 형태로 확장된 것이 특징이다.",
+    "content": "## 주요 내용\n- MIDI 편집 기능 추가\n- 음량 및 효과 자동 조절 기능 제공\n- 신시사이저 기능 탑재\n- 음원 분리 기능 추가\n- AI 채팅과 MIDI를 결합한 음악 제작 환경 구성\n- 기존 AI 음악 생성기에서 DAW(음악 제작 프로그램) 형태로 확장\n\n## 의미\nSuno Studio 2.0은 단순 AI 음악 생성 도구를 넘어 본격적인 음악 제작 환경으로 발전했다는 점에서, AI 기반 음악 제작 도구의 전문화 흐름을 보여주는 사례로 주목된다.",
+    "company": "Suno",
+    "category": "AI",
+    "date": "2026-08-15",
+    "tags": [
+      "Suno",
+      "AI음악",
+      "DAW",
+      "MIDI",
+      "음악제작"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32520",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32520",
+        "name": "GeekNews — Suno Studio 2.0 - MIDI와 AI Chat을 결합한 본격적인 음악 제작 도구"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/SunoAI",
+        "url": "https://www.reddit.com/r/SunoAI/new/"
+      }
+    ],
+    "slug": "suno-studio-midi",
+    "draft": false,
+    "id": "555"
+  },
+  {
+    "title": "Anthropic — AI 에이전트 루프 엔지니어링 핵심은 완료 조건과 제약 명확화",
+    "summary": "AI 에이전트에 작업을 반복 실행시킬 때 핵심은 자율성을 높이는 것보다 완료 조건과 제약을 명확히 정의하고, 어떤 판단은 사람이 계속 맡을지 결정하는 데 있다. Claude Code의 /goal 기능은 측정 가능한 목표가 충족될 때까지 한 작업을 반복 실행한다.",
+    "content": "## 주요 내용\n- AI 에이전트 반복 실행의 핵심은 자율성 확대가 아닌 완료 조건과 제약의 명확한 정의\n- 어떤 판단을 사람이 계속 담당할지 결정하는 것이 중요\n- Claude Code의 /goal 기능은 측정 가능한 목표가 충족될 때까지 작업을 반복 수행\n\n## 의미\n실전 루프 엔지니어링에서 AI 에이전트의 무분별한 자율성 확대보다 명확한 종료 조건과 인간 개입 기준 설정이 더 중요하다는 실용적 관점을 제시한다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-15",
+    "tags": [
+      "Anthropic",
+      "AI에이전트",
+      "ClaudeCode",
+      "루프엔지니어링",
+      "자동화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32519",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32519",
+        "name": "GeekNews — 실전 루프 엔지니어링"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-agent-2",
+    "draft": false,
+    "id": "556"
+  },
+  {
+    "title": "Anthropic·Google, AI 텍스트 워터마킹 기술 적용 — 확률적 단어 선택에 비밀 패턴 삽입",
+    "summary": "AI 텍스트 워터마크는 문자나 메타데이터가 아닌, 다음 단어를 고르는 확률적 선택 과정에 비밀 패턴을 심는 방식으로 작동한다. Google은 2024년부터 Gemini 앱·웹에 이를 적용했으며, Anthropic의 Claude 신형 모델도 2026년 8월부터 모델 수준에서 워터마킹을 적용한다. 비밀 키로 문맥마다 후보 단어를 임의로 구분한 뒤 특정 후보의 선택 확률을 조정하는 방식이다.",
+    "content": "## 주요 내용\n- AI 텍스트 워터마크는 문자·메타데이터가 아닌 단어 선택의 확률적 과정에 비밀 패턴을 삽입하는 방식\n- 비밀 키를 활용해 문맥마다 후보 단어를 임의로 구분하고, 특정 후보의 선택 확률을 조정\n- Google은 2024년부터 Gemini 앱·웹에 워터마킹 적용\n- Anthropic Claude 신형 모델은 2026년 8월부터 모델 수준에서 워터마킹 적용\n\n## 의미\nAI 생성 텍스트를 식별하기 위한 워터마킹 기술이 주요 AI 기업들에 의해 실제 서비스에 도입되고 있으며, 텍스트 자체를 변형하지 않고 생성 확률 구조에 패턴을 심는 방식으로 탐지 가능성을 높이고 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-15",
+    "tags": [
+      "AI워터마킹",
+      "Anthropic",
+      "Google",
+      "Claude",
+      "Gemini",
+      "AI생성콘텐츠"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32518",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32518",
+        "name": "GeekNews — AI 텍스트 워터마킹의 작동 원리"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-news-6",
+    "draft": false,
+    "id": "557"
+  },
+  {
+    "title": "Anthropic Claude Opus 5 포함 11개 AI 모델, 같은 프롬프트로 비교한 결과",
+    "summary": "Netlify가 동일한 커피숍 웹사이트 프롬프트를 11개 AI 모델에 각각 3번씩 실행한 결과, 디자인·콘텐츠뿐 아니라 소비 크레딧까지 모델별로 큰 차이를 보였다. 비용이 높다고 결과물의 품질이 반드시 더 좋은 것은 아닌 것으로 나타났으며, Claude Opus 5는 가장 풍부하고 세련된 결과를 만들어냈다.",
+    "content": "## 주요 내용\n- Netlify가 같은 커피숍 웹사이트 프롬프트를 11개 AI 모델에 각각 3번씩 실행하는 비교 실험 진행\n- 모델별로 디자인, 콘텐츠, 소비 크레딧 모두 큰 차이를 보임\n- 비용이 높다고 결과물 품질이 그만큼 좋아지는 것은 아님\n- Claude Opus 5는 가장 풍부하고 세련된 결과물을 생성했으나, 한 실행당 크레딧 소모가 큰 것으로 나타남\n\n## 의미\n동일한 프롬프트라도 AI 모델 선택에 따라 결과물의 품질과 비용 효율이 크게 달라질 수 있으며, 비용 대비 성능을 고려한 모델 선택이 중요함을 보여준다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-14",
+    "tags": [
+      "AI모델비교",
+      "Claude",
+      "Anthropic",
+      "Netlify",
+      "프롬프트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32505",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32505",
+        "name": "GeekNews — AI 모델 고르기: 같은 프롬프트, 11개 모델, 매우 다른 결과"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-opus-2",
+    "draft": false,
+    "id": "558"
   }
 ]
