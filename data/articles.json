@@ -16486,7 +16486,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "530"
+    "id": "530",
+    "hidden": true
   },
   {
     "slug": "ai-tool",
