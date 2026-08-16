@@ -16691,7 +16691,8 @@
     ],
     "slug": "anthropic-news-6",
     "draft": false,
-    "id": "557"
+    "id": "557",
+    "hidden": true
   },
   {
     "title": "Anthropic Claude Opus 5 포함 11개 AI 모델, 같은 프롬프트로 비교한 결과",
