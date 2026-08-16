@@ -16775,7 +16775,8 @@
     ],
     "slug": "google-heir-release",
     "draft": false,
-    "id": "565"
+    "id": "565",
+    "hidden": true
   },
   {
     "title": "Anthropic 시대의 AI 디자이너 되기 — 혼란 속에서 길 찾기",
