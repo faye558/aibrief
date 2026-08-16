@@ -16606,7 +16606,8 @@
     ],
     "slug": "suno-studio-midi",
     "draft": false,
-    "id": "555"
+    "id": "555",
+    "hidden": true
   },
   {
     "title": "Anthropic — AI 에이전트 루프 엔지니어링 핵심은 완료 조건과 제약 명확화",
