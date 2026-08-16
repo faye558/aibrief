@@ -16574,7 +16574,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "546"
+    "id": "546",
+    "hidden": true
   },
   {
     "title": "Suno, Studio 2.0 공개 — MIDI·AI 채팅 결합한 본격 음악 제작 도구로 진화",
