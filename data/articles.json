@@ -16287,7 +16287,8 @@
     ],
     "slug": "openai-cerebras-gpt-4-5-sol",
     "draft": false,
-    "id": "500"
+    "id": "500",
+    "hidden": true
   },
   {
     "title": "Google, Gemini 3.7 Flash 공개 — 코드·웹 개발 성능 대폭 향상",
