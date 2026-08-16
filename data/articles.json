@@ -16737,7 +16737,8 @@
     ],
     "slug": "anthropic-claude-opus-2",
     "draft": false,
-    "id": "558"
+    "id": "558",
+    "hidden": true
   },
   {
     "title": "Google, 동형 암호화 기반 프라이빗 AI 오픈소스 컴파일러 HEIR 공개",
