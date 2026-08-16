@@ -15896,7 +15896,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "449"
+    "id": "449",
+    "hidden": true
   },
   {
     "slug": "ai-news-7",
