@@ -1,5 +1,213 @@
 [
   {
+    "id": "608",
+    "slug": "if-youre-subscribed-to-too-many-ai-tools-heres-what-to-cut-f",
+    "title": "If You’re Subscribed to Too Many AI Tools, Here’s What to Cut First",
+    "summary": "I pulled up my bank statement last month and counted eight separate AI subscriptions charging me every thirty days. I could explain what&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chienwa1007/if-youre-subscribed-to-too-many-ai-tools-here-s-what-to-cut-first-b4e76b4697d8?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chienwa1007/if-youre-subscribed-to-too-many-ai-tools-here-s-what-to-cut-first-b4e76b4697d8?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "609",
+    "slug": "113-of-my-claude-code-transcripts-had-an-api-key-in-them-and",
+    "title": "113 of my Claude Code transcripts had an API key in them and clowk helped me stop that.",
+    "summary": "clowk is a hook that catches secrets before they even reach your AI agents, allowing you to share them using nicknames instead.Continue reading on Med",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://aniumbott.medium.com/113-of-my-claude-code-transcripts-had-an-api-key-in-them-and-clowk-helped-me-stop-that-70cababb21a1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://aniumbott.medium.com/113-of-my-claude-code-transcripts-had-an-api-key-in-them-and-clowk-helped-me-stop-that-70cababb21a1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "610",
+    "slug": "everyones-panicking-about-claudes-new-watermark",
+    "title": "Everyone’s Panicking About Claude’s New Watermark.",
+    "summary": "On August 11, Anthropic confirmed Claude now watermarks everything it writes. The reaction has been loud &#x2014; and mostly wrong about what&#x2019;s",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@saurabhraj042/everyones-panicking-about-claude-s-new-watermark-75cdd2258b94?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@saurabhraj042/everyones-panicking-about-claude-s-new-watermark-75cdd2258b94?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "611",
+    "slug": "podcast-insight-why-claude-feels-different-the-a16z-show",
+    "title": "Podcast Insight: Why Claude Feels Different | The a16z Show",
+    "summary": "Episode At a GlanceContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@huanzidage/podcast-insight-why-claude-feels-different-the-a16z-show-e1291b610441?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@huanzidage/podcast-insight-why-claude-feels-different-the-a16z-show-e1291b610441?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "612",
+    "slug": "i-asked-ai-to-fix-one-bug-it-created-a-new-architecture",
+    "title": "I Asked AI to Fix One Bug. It Created a New Architecture.",
+    "summary": "The story of how one missing button became a distributed systemContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@johirbuet/i-asked-ai-to-fix-one-bug-it-created-a-new-architecture-e896d402a76f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@johirbuet/i-asked-ai-to-fix-one-bug-it-created-a-new-architecture-e896d402a76f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "613",
+    "slug": "mastering-claude-code-the-complete-guide-to-fork-and-branch",
+    "title": "Mastering Claude Code: The Complete Guide to /fork and /branch",
+    "summary": "Stop polluting your AI context. Learn how to branch, fork, and delegate long development sessions like a pro engineerContinue reading on Dev Genius »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.devgenius.io/mastering-claude-code-the-complete-guide-to-fork-and-branch-6336498169ec?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.devgenius.io/mastering-claude-code-the-complete-guide-to-fork-and-branch-6336498169ec?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "614",
+    "slug": "deepseek-raises-api-prices-up-to-46x-today-top-10-ai-flutter",
+    "title": "DeepSeek Raises API Prices Up to 4.6x Today — Top 10 AI & Flutter News August 16, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/deepseek-raises-api-prices-up-to-4-6x-today-top-10-ai-flutter-news-august-16-2026-7acd369aebc4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/deepseek-raises-api-prices-up-to-4-6x-today-top-10-ai-flutter-news-august-16-2026-7acd369aebc4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "615",
+    "slug": "how-to-categorise-user-feedback-using-claude-like-an-ai-prod",
+    "title": "How To Categorise User Feedback Using Claude Like An AI Product Manager",
+    "summary": "Follow along as I build a way to read, understand and group user feedback by building a simple tool in a few prompts using ClaudeContinue reading on B",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/design-bootcamp/how-to-categorise-user-feedback-using-claude-like-an-ai-product-manager-91cce78a215f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/design-bootcamp/how-to-categorise-user-feedback-using-claude-like-an-ai-product-manager-91cce78a215f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "599",
     "slug": "how-one-article-becomes-five",
     "title": "How One Article Becomes Five",
