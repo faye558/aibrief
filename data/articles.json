@@ -16435,7 +16435,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "521"
+    "id": "521",
+    "hidden": true
   },
   {
     "title": "AI 에이전트 시대, '이해'가 새로운 병목으로 부상",
