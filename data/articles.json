@@ -1,5 +1,239 @@
 [
   {
+    "id": "599",
+    "slug": "how-one-article-becomes-five",
+    "title": "How One Article Becomes Five",
+    "summary": "A professional framework for AI-assisted content reformattingContinue reading on Small Wonders Daily »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/small-wonders-daily/how-one-article-becomes-five-09c541696d00?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/small-wonders-daily/how-one-article-becomes-five-09c541696d00?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "600",
+    "slug": "supabase-claude-build-an-app-with-a-real-database-by-just-as",
+    "title": "Supabase + Claude: Build an App With a Real Database by Just Asking For It",
+    "summary": "Here is the thing that was not possible two years ago.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/supabase-claude-build-an-app-with-a-real-database-by-just-asking-for-it-1d661c942073?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/supabase-claude-build-an-app-with-a-real-database-by-just-asking-for-it-1d661c942073?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "601",
+    "slug": "agentfiles-obsidian-configs-for-claude-code-cursor-codex-no",
+    "title": "Agentfiles: Obsidian Configs for Claude Code, Cursor, Codex — No More Hunting Across Your Whole…",
+    "summary": "Installing AI coding tools on your computer these days is pretty much like installing browser plugins back in the day: Claude Code, Cursor&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://githubdaily.medium.com/agentfiles-obsidian-configs-for-claude-code-cursor-codex-no-more-hunting-across-your-whole-35b2af07ac81?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://githubdaily.medium.com/agentfiles-obsidian-configs-for-claude-code-cursor-codex-no-more-hunting-across-your-whole-35b2af07ac81?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "602",
+    "slug": "claude-code-agents-can-build-a-ugc-content-factory-full-setu",
+    "title": "Claude Code Agents Can Build a UGC Content Factory — Full Setup, Workflow & Monetization",
+    "summary": "Same face. Endless clips. That part is solvable now.Continue reading on Coding Nexus »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/claude-code-agents-can-build-a-ugc-content-factory-full-setup-workflow-monetization-3be844cb38f6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/claude-code-agents-can-build-a-ugc-content-factory-full-setup-workflow-monetization-3be844cb38f6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "603",
+    "slug": "who-i-am-who-i-help-and-the-problem-i-solve",
+    "title": "Who I Am, Who I Help, and the Problem I Solve",
+    "summary": "My name is Oluwatimileyin P. I&#x2019;m based in Akungba, Nigeria, where I design and build AI agent systems, CRM workflows, and automation&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@oluwatimileyinp/who-i-am-who-i-help-and-the-problem-i-solve-2aadefa86b50?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@oluwatimileyinp/who-i-am-who-i-help-and-the-problem-i-solve-2aadefa86b50?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "604",
+    "slug": "shorts-honestly-im-sick-of-it",
+    "title": "Shorts: Honestly — I’m sick of it!",
+    "summary": "I can&#x2019;t explain why, but in the past few months every AI model seems to vomit out the work &#x201C;honest&#x201D; like it&#x2019;s punctuation.",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://modelephant.medium.com/shorts-honestly-im-sick-of-it-9394380b2a8b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://modelephant.medium.com/shorts-honestly-im-sick-of-it-9394380b2a8b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "605",
+    "slug": "managing-agent-context-part-2-when-the-context-window-gets-f",
+    "title": "Managing agent context — Part 2: When the context window gets full",
+    "summary": "A closer look at what happens when an AI coding agent&#x2019;s context window fills up and the role of compaction.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sebs.sandbox.official/managing-agent-context-part-2-when-the-context-window-gets-full-785062a6f358?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sebs.sandbox.official/managing-agent-context-part-2-when-the-context-window-gets-full-785062a6f358?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "606",
+    "slug": "i-stopped-building-an-ai-software-factory-and-let-claude-cod",
+    "title": "I Stopped Building an AI Software Factory and Let Claude Code Become One",
+    "summary": "I have been playing with the idea of an autonomous software factory for a while now.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jchandra/i-stopped-building-an-ai-software-factory-and-let-claude-code-become-one-a922c2ec761c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jchandra/i-stopped-building-an-ai-software-factory-and-let-claude-code-become-one-a922c2ec761c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "607",
+    "slug": "claude-code-codex-git-commit",
+    "title": "Claude Code 和 Codex 的 Git 使用習慣，先處理 Commit 署名",
+    "summary": "Claude Code&#x3001;Codex &#x5E6B;&#x5FD9;&#x958B;&#x767C;&#x5F8C;&#xFF0C;&#x6211;&#x767C;&#x73FE;&#x4E86;&#x4E00;&#x500B;&#x72C0;&#x6CC1;Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hotdanton08/claude-code-%E5%92%8C-codex-%E7%9A%84-git-%E4%BD%BF%E7%94%A8%E7%BF%92%E6%85%A3-%E5%85%88%E8%99%95%E7%90%86-commit-%E7%BD%B2%E5%90%8D-86e09c506b1f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hotdanton08/claude-code-%E5%92%8C-codex-%E7%9A%84-git-%E4%BD%BF%E7%94%A8%E7%BF%92%E6%85%A3-%E5%85%88%E8%99%95%E7%90%86-commit-%E7%BD%B2%E5%90%8D-86e09c506b1f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "586",
     "slug": "you-dont-need-more-content-you-need-to-stop-wasting-the-cont",
     "title": "You Don’t Need More Content. You Need to Stop Wasting the Content You Already Have.",
