@@ -15867,7 +15867,8 @@
     ],
     "slug": "anthropic-zephyr-cloud-labor0",
     "draft": false,
-    "id": "448"
+    "id": "448",
+    "hidden": true
   },
   {
     "slug": "google-pixel-pro",
