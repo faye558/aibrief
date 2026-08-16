@@ -15924,7 +15924,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "450"
+    "id": "450",
+    "hidden": true
   },
   {
     "slug": "ai-announce-platform",
