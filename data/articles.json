@@ -1,5 +1,343 @@
 [
   {
+    "id": "586",
+    "slug": "you-dont-need-more-content-you-need-to-stop-wasting-the-cont",
+    "title": "You Don’t Need More Content. You Need to Stop Wasting the Content You Already Have.",
+    "summary": "You spend hours creating one good piece of content.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@areesha.adnanafzal/you-dont-need-more-content-you-need-to-stop-wasting-the-content-you-already-have-1c89fdda6f16?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@areesha.adnanafzal/you-dont-need-more-content-you-need-to-stop-wasting-the-content-you-already-have-1c89fdda6f16?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "587",
+    "slug": "what-does-it-mean-to-become-an-ai-native-enterprise",
+    "title": "What Does It Mean to Become an AI Native Enterprise?",
+    "summary": "Many businesses are experimenting with artificial intelligence, but experimentation alone does not make an organization AI native.Continue reading on",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Biztechpulsehub/what-does-it-mean-to-become-an-ai-native-enterprise-242bae449c3d?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Biztechpulsehub/what-does-it-mean-to-become-an-ai-native-enterprise-242bae449c3d?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "588",
+    "slug": "the-ai-employee-why-smart-freelancers-are-selling-microsyste",
+    "title": "The AI Employee: Why Smart Freelancers Are Selling Micro-Systems",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@imrankhan.imran5672/the-ai-employee-why-smart-freelancers-are-selling-micro-systems-4ecbd22ea446?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@imrankhan.imran5672/the-ai-employee-why-smart-freelancers-are-selling-micro-systems-4ecbd22ea446?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "589",
+    "slug": "four-things-one-small-project-taught-me-about-ai-orchestrati",
+    "title": "Four things one small project taught me about AI orchestration",
+    "summary": "The moment it clickedContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@paweesudaj/four-things-one-small-project-taught-me-about-ai-orchestration-709c736d9a9c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@paweesudaj/four-things-one-small-project-taught-me-about-ai-orchestration-709c736d9a9c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "590",
+    "slug": "chapter-2-how-i-built-a-course-counseling-application",
+    "title": "Chapter 2: How I Built a Course Counseling Application",
+    "summary": "Building and Designing are two different things. Here I learned to do both, with a few pitfalls along the way..!!Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@shaivi.kancharla/chapter-2-how-i-built-a-course-counseling-application-363eff878c15?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@shaivi.kancharla/chapter-2-how-i-built-a-course-counseling-application-363eff878c15?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "591",
+    "slug": "chapter-1-how-i-planned-a-course-counseling-application",
+    "title": "Chapter 1: How I Planned a Course Counseling Application",
+    "summary": "Why am I doing this? Ever since the first AI models came out, I have been using them, but it feels like I haven&#x2019;t done much. So I started&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@shaivi.kancharla/chapter-1-how-i-planned-a-course-counseling-application-219a7541cfa4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@shaivi.kancharla/chapter-1-how-i-planned-a-course-counseling-application-219a7541cfa4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "592",
+    "slug": "ai-can-only-work-as-good-as-your-knowledge",
+    "title": "AI can only work as good as your knowledge",
+    "summary": "what prompts are you feeding into&#xA0;claude?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@naziahssn/ai-can-only-work-as-good-as-your-knowledge-d1cf7e2b2be2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@naziahssn/ai-can-only-work-as-good-as-your-knowledge-d1cf7e2b2be2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "593",
+    "slug": "deepseek-harness-explained-when-the-ai-model-is-just-a-plugi",
+    "title": "DeepSeek Harness Explained: When the AI Model is Just a Plugin",
+    "summary": "DeepSeek&#x2019;s new open-source framework treats the model like a database driver, not the center of the system.Continue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/deepseek-harness-explained-when-the-ai-model-is-just-a-plugin-16b2496f3d01?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/deepseek-harness-explained-when-the-ai-model-is-just-a-plugin-16b2496f3d01?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "594",
+    "slug": "-awesome",
+    "title": "抄 awesome 清單不難，難的是決定不抄什麼",
+    "summary": "&#x73FE;&#x5728;&#x793E;&#x7FA4;&#x4E0A;&#x5404;&#x7A2E; awesome &#x6E05;&#x55AE;&#x6EFF;&#x5929;&#x98DB;&#xFF0C;&#x96A8;&#x4FBF;&#x6ED1;&#x904E;&#x53",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/%E6%8A%84-awesome-%E6%B8%85%E5%96%AE%E4%B8%8D%E9%9B%A3-%E9%9B%A3%E7%9A%84%E6%98%AF%E6%B1%BA%E5%AE%9A%E4%B8%8D%E6%8A%84%E4%BB%80%E9%BA%BC-3f97f65f053b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/%E6%8A%84-awesome-%E6%B8%85%E5%96%AE%E4%B8%8D%E9%9B%A3-%E9%9B%A3%E7%9A%84%E6%98%AF%E6%B1%BA%E5%AE%9A%E4%B8%8D%E6%8A%84%E4%BB%80%E9%BA%BC-3f97f65f053b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "595",
+    "slug": "understanding-the-claude-code-agent-stack-part-2-governance",
+    "title": "Understanding the Claude Code Agent Stack: Part 2 — Governance, Guardrails, and Ecosystem…",
+    "summary": "In Part 1, we broke down the anatomy of Claude Code &#x2014; how it passes tokens, runs its agentic loop, and simulates human-like memory layers&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dhannanjay19/understanding-the-claude-code-agent-stack-part-2-governance-guardrails-and-ecosystem-43a709591ba1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dhannanjay19/understanding-the-claude-code-agent-stack-part-2-governance-guardrails-and-ecosystem-43a709591ba1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "596",
+    "slug": "claude-code-just-made-auto-mode-the-default",
+    "title": "Claude Code Just Made Auto Mode the Default",
+    "summary": "New Pro, Max, and Team sessions now start in Auto Mode, moving routine permission decisions from the developer to a classifier.Continue reading on Med",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@PowerUpSkills/claude-code-just-made-auto-mode-the-default-c43a645b7e15?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@PowerUpSkills/claude-code-just-made-auto-mode-the-default-c43a645b7e15?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "597",
+    "slug": "stop-repeating-yourself-to-your-ai-coding-agent",
+    "title": "Stop Repeating Yourself to Your AI Coding Agent",
+    "summary": "Every new AI coding session can feel like onboarding a new developer.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://mohasin-dev.medium.com/stop-repeating-yourself-to-your-ai-coding-agent-1987f4e0fb29?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://mohasin-dev.medium.com/stop-repeating-yourself-to-your-ai-coding-agent-1987f4e0fb29?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "598",
+    "slug": "i-canceled-580-in-monthly-subscriptions-6-claude-mcp-servers",
+    "title": "I Canceled $580 in Monthly Subscriptions. 6 Claude MCP Servers Did the Rest for Free.",
+    "summary": "By the following week I had canceled four subscriptions entirely and downgraded two more to their free tiers.Continue reading on No Time »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/no-time/i-canceled-580-in-monthly-subscriptions-6-claude-mcp-servers-did-the-rest-for-free-114d98cd8708?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/no-time/i-canceled-580-in-monthly-subscriptions-6-claude-mcp-servers-did-the-rest-for-free-114d98cd8708?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "573",
     "slug": "what-is-an-ai-agent-a-simple-guide-for-developers",
     "title": "What Is an AI Agent? A Simple Guide for Developers",
@@ -15996,5 +16334,132 @@
     "slug": "google-heir-release",
     "draft": false,
     "id": "565"
+  },
+  {
+    "title": "Anthropic 시대의 AI 디자이너 되기 — 혼란 속에서 길 찾기",
+    "summary": "AI 도구와 역할이 빠르게 변화하는 샌프란시스코 테크 업계에서 디자이너들은 'AI 네이티브' 팀 구축 압박을 받고 있다. 필자는 창의적이고 모호한 디자인 분야에 AI 워크플로우를 어떻게 적용할 수 있는지 지난 1년간 고민해왔으며, 아직 완전한 답은 없지만 디자인 커뮤니티가 함께 배움을 나눠야 한다고 강조한다.",
+    "content": "## 주요 내용\n- 샌프란시스코 테크 업계는 'AI 네이티브' 팀 구축을 목표로 전력 질주 중\n- 모든 직군에서 워크플로우 최적화, 생산성 10배 향상 요구가 거세짐\n- 엔지니어는 빠르게 코드를 배포하는 반면, 디자이너는 변화 속도에 적응하는 데 어려움을 겪고 있음\n- 크리에이티브하고 모호한 디자인 영역에 AI 워크플로우를 적용하는 방법은 여전히 미해결 과제\n- 필자는 1년간 이 문제를 탐구해왔으나 완전한 해답은 아직 없다고 인정\n\n## 의미\nAI 전환기에 디자이너의 역할과 역량이 근본적으로 재정의되는 상황에서, 정답 없는 혼란을 공유하고 함께 새로운 방향을 모색하자는 현장의 목소리를 담고 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-15",
+    "tags": [
+      "AI디자인",
+      "UX",
+      "Anthropic",
+      "AI네이티브",
+      "디자이너역할변화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+        "name": "UX Collective — How to become an AI Designer"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-news-7",
+    "draft": false,
+    "id": "582"
+  },
+  {
+    "title": "UX Collective — '미터기는 누가 갖는가': AI가 다시 켠 비용의 감각",
+    "summary": "인류는 180년간 기계 사용의 비용을 느끼지 않으려 해왔다. AI는 그 미터기를 다시 켰다는 내용을 다루는 글이다.",
+    "content": "## 주요 내용\n- 180년간 인류는 기계의 비용을 체감하지 않으려 노력해왔다.\n- AI의 등장으로 그 비용 감각(미터기)이 다시 작동하기 시작했다.\n\n## 의미\nAI 사용이 확산되면서 기계·기술 이용에 따른 비용 인식이 다시 수면 위로 떠오르고 있음을 시사한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-15",
+    "tags": [
+      "AI",
+      "UX",
+      "비용인식"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Who gets the meter?"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-2",
+    "draft": false,
+    "id": "583"
+  },
+  {
+    "title": "LLM 기반 소프트웨어 개발 혁명, 아직 입증되지 않았다 — 회의적 시각",
+    "summary": "4년간의 LLM '혁명'에도 불구하고 소프트웨어의 품질·속도·비용·기능·보안이 뚜렷하게 개선되지 않았다는 주장이 제기됐다. LLM이 비자명한 소프트웨어 개발에 실제로 효과적인지조차 아직 입증되지 않았다는 것이 핵심 논지다.",
+    "content": "## 주요 내용\n- LLM이 비자명한 소프트웨어 개발에 실제로 효과적인지 입증되지 않았다고 봄\n- 4년간의 'AI 혁명'에도 소프트웨어의 품질·속도·비용·기능·보안은 뚜렷하게 개선되지 않음\n- 신뢰받는 오픈소스는 단순한 기능 복제만으로 대체되지 않는다는 점도 지적\n- 환경·사회·정치적 우려보다 앞서 기술적 효용성 자체에 의문을 제기\n\n## 의미\nLLM의 소프트웨어 개발 적용에 대한 과대평가 가능성을 지적하며, 기술적 실효성에 대한 냉철한 검증이 필요하다는 시각을 제시한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-16",
+    "tags": [
+      "LLM",
+      "소프트웨어개발",
+      "AI회의론",
+      "생성AI",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32543",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32543",
+        "name": "GeekNews — 내가 여전히 회의적인 이유"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-news-8",
+    "draft": false,
+    "id": "584"
+  },
+  {
+    "slug": "it-news-3",
+    "title": "로쿠에 24시간 AI 콘텐츠 채널 등장… 'AI 시네마'의 가능성을 시험하다",
+    "summary": "생성형 AI가 영상 콘텐츠 제작의 진입장벽을 낮추면서, 스트리밍 플랫폼이 AI 기반 콘텐츠를 직접 큐레이션하는 시대로 접어들었다.",
+    "content": "## 큐레이션 노트\n\n스트리밍 플랫폼이 단순히 기존 콘텐츠의 배포자에서 AI 생성 콘텐츠의 직접 공급자로 진화하고 있다는 점에서 주목할 가치가 있다. 이는 저작권, 창작자 생태계, 콘텐츠 품질 기준 등 미디어 산업 전반에 새로운 질문을 던지는 실험이다. 향후 AI 콘텐츠가 얼마나 대중의 시청 수요를 충족할 수 있을지, 그리고 기존 제작 산업과 공존하는 방식이 어떻게 형성될지가 앞으로의 중요한 변수가 될 것이다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-08-16",
+    "tags": [
+      "AI생성콘텐츠",
+      "스트리밍플랫폼",
+      "로쿠",
+      "영상제작",
+      "미디어산업",
+      "생성형AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28679",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28679",
+        "name": "매드타임스 — 로쿠에 24시간 AI 콘텐츠 채널 등장… ‘AI 시네마’의 가능성 시험한다"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "585"
   }
 ]
