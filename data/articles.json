@@ -16845,7 +16845,8 @@
     "communityLinks": null,
     "slug": "ux-collective-2",
     "draft": false,
-    "id": "583"
+    "id": "583",
+    "hidden": true
   },
   {
     "title": "LLM 기반 소프트웨어 개발 혁명, 아직 입증되지 않았다 — 회의적 시각",
