@@ -186,14 +186,12 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
       onMouseLeave={() => setHovered(false)}
       style={{
         display: "flex", flexDirection: "column",
-        background: hovered
-          ? `linear-gradient(160deg, ${accent}0D 0%, var(--surface-hover) 40%)`
-          : `linear-gradient(160deg, ${accent}08 0%, var(--surface) 40%)`,
-        border: `1px solid ${hovered ? accent + "55" : "var(--border)"}`,
+        background: `linear-gradient(160deg, ${accent}08 0%, var(--surface) 40%)`,
+        border: `1px solid ${hovered ? accent + "88" : "var(--border)"}`,
         borderRadius: "14px", padding: "0",
         textDecoration: "none", transition: "all 0.18s ease",
         transform: hovered ? "translateY(-2px)" : "none",
-        boxShadow: hovered ? `0 8px 28px ${accent}20` : "none",
+        boxShadow: hovered ? `0 6px 20px ${accent}25` : "none",
         overflow: "hidden",
         position: "relative",
       }}
@@ -247,7 +245,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
         {/* 제목 */}
         <h3 style={{
           fontSize: large ? "20px" : "17px", fontWeight: 700, lineHeight: 1.5,
-          color: hovered ? "#fff" : "var(--text)",
+          color: hovered ? accent : "var(--text)",
           marginBottom: "10px",
           display: "-webkit-box", WebkitLineClamp: large ? 3 : 2, WebkitBoxOrient: "vertical",
           overflow: "hidden", transition: "color 0.15s ease",
