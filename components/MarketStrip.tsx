@@ -52,7 +52,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
                   {fmtValue(item)}
                 </div>
                 {item.change != null && (
-                  <div style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", fontVariantNumeric: "tabular-nums" }}>
+                  <div style={{ fontSize: "10px", color: up ? "#E03131" : down ? "#1971C2" : "var(--text-faint)", fontVariantNumeric: "tabular-nums" }}>
                     {up ? "▲" : down ? "▼" : ""} {Math.abs(item.change).toFixed(2)}%
                   </div>
                 )}
@@ -85,7 +85,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
                 {fmtValue(item)}
               </span>
               {item.change != null && (
-                <span style={{ fontSize: "10px", color: up ? "#3fb950" : down ? "#f85149" : "var(--text-faint)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
+                <span style={{ fontSize: "10px", color: up ? "#E03131" : down ? "#1971C2" : "var(--text-faint)", whiteSpace: "nowrap", fontVariantNumeric: "tabular-nums" }}>
                   {up ? "▲" : down ? "▼" : ""}{Math.abs(item.change).toFixed(1)}%
                 </span>
               )}
