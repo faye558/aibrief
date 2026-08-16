@@ -156,9 +156,29 @@ function makeSlug(title, existingSlugs) {
   return slug;
 }
 
+// 전역 제외 주제 — 제목에 포함되면 무조건 수집 안 함
+const GLOBAL_EXCLUDE = [
+  // AI 벤치마크/성능비교
+  "벤치마크", "benchmark", "AAII", "leaderboard", "리더보드", "성능 비교", "모델 비교", "점수", "순위",
+  // 사이버보안/해킹
+  "해킹", "사이버", "보안취약점", "취약점", "랜섬웨어", "악성코드", "블랙햇", "black hat", "CVE", "exploit", "phishing",
+  // 정치/사회 이슈
+  "선거", "음모론", "LGBT", "정치", "전쟁", "군사", "분쟁", "시위", "인권",
+  // 하드웨어/액세서리
+  "액세서리", "케이스", "키보드", "마우스", "하드웨어", "블랙베리", "이어폰", "헤드폰",
+  // 음악 생성 AI
+  "Suno", "Udio", "음악 생성", "music generation", "작곡 AI",
+  // 암호화/보안 기술
+  "동형 암호", "homomorphic", "암호화", "워터마킹", "watermark", "워터마크",
+];
+
 // 매칭 강도: 2개 이상 → 발행, 1개 or 필터없음 → 드래프트
 function classify(title, feed) {
-  if (feed.excludeKeywords?.some((k) => title.toLowerCase().includes(k.toLowerCase()))) {
+  const lowerTitle = title.toLowerCase();
+  if (GLOBAL_EXCLUDE.some((k) => lowerTitle.includes(k.toLowerCase()))) {
+    return "skip";
+  }
+  if (feed.excludeKeywords?.some((k) => lowerTitle.includes(k.toLowerCase()))) {
     return "skip";
   }
   if (!feed.includeKeywords) {
