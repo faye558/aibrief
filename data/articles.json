@@ -16129,7 +16129,8 @@
     ],
     "slug": "anthropic-grok-aaii",
     "draft": false,
-    "id": "484"
+    "id": "484",
+    "hidden": true
   },
   {
     "slug": "anthropic-lgbt",
