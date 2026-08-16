@@ -356,10 +356,14 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
       return sortOrder === "newest" ? db - da : da - db;
     });
 
-  // NEW 섹션: 3일 이내 기사
+  // NEW 섹션: 최신순일 때만 3일 이내 기사 분리, 오래된순이면 전체 통합
   const newCutoff = Date.now() - 3 * 86400000;
-  const newCards = filtered.filter((a) => new Date(articles.find(x => x.id === a.id)?.date ?? 0).getTime() > newCutoff);
-  const olderCards = filtered.filter((a) => !newCards.includes(a));
+  const newCards = sortOrder === "newest"
+    ? filtered.filter((a) => new Date(articles.find(x => x.id === a.id)?.date ?? 0).getTime() > newCutoff)
+    : [];
+  const olderCards = sortOrder === "newest"
+    ? filtered.filter((a) => !newCards.includes(a))
+    : filtered;
 
   const featured = filtered[0];
   const rest = filtered.slice(1);
