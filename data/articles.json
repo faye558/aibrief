@@ -15781,7 +15781,8 @@
     "communityLinks": null,
     "slug": "-data",
     "draft": false,
-    "id": "446"
+    "id": "446",
+    "hidden": true
   },
   {
     "title": "20년 경력 개발자, 정신 건강·품질·환경 우려로 AI 사용 전면 중단 선언",
