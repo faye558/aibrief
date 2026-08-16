@@ -16515,7 +16515,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "531"
+    "id": "531",
+    "hidden": true
   },
   {
     "title": "UX Collective: AI는 '시작'은 잘하지만 '올바르게 완성'하는 건 다른 문제",
