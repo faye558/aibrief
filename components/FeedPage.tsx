@@ -244,7 +244,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
 
         {/* 제목 */}
         <h3 style={{
-          fontSize: large ? "20px" : "17px", fontWeight: 700, lineHeight: 1.5,
+          fontSize: "20px", fontWeight: 700, lineHeight: 1.5,
           color: hovered ? accent : "var(--text)",
           marginBottom: "10px",
           display: "-webkit-box", WebkitLineClamp: large ? 3 : 2, WebkitBoxOrient: "vertical",
