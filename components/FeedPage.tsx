@@ -247,7 +247,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
           fontSize: "20px", fontWeight: 700, lineHeight: 1.5,
           color: hovered ? accent : "var(--text)",
           marginBottom: "10px",
-          display: "-webkit-box", WebkitLineClamp: large ? 3 : 2, WebkitBoxOrient: "vertical",
+          display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical",
           overflow: "hidden", transition: "color 0.15s ease",
           letterSpacing: "-0.4px",
         }}>
@@ -258,7 +258,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
         <p style={{
           fontSize: "13px", color: "var(--text-muted)", lineHeight: 1.7,
           marginBottom: "18px", flex: 1,
-          display: "-webkit-box", WebkitLineClamp: large ? 3 : 2, WebkitBoxOrient: "vertical",
+          display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical",
           overflow: "hidden",
         }}>
           {article.summary}
