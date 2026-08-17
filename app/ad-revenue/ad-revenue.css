@@ -269,7 +269,8 @@
   gap:20px;
 }
 @media (max-width:720px){ .ad-revenue-page .ref-grid{ grid-template-columns:1fr; } }
-.ad-revenue-page .ref-table{ width:100%; border-collapse:collapse; }
+.ad-revenue-page .ref-grid > div{ overflow-x:auto; }
+.ad-revenue-page .ref-table{ width:100%; min-width:280px; border-collapse:collapse; }
 .ad-revenue-page .ref-table th{
   text-align:left; font-size:10.5px; color:var(--dim);
   text-transform:uppercase; letter-spacing:0.04em;
@@ -390,9 +391,13 @@
   border:1px solid var(--line);
   border-radius:14px;
   padding:24px 18px 14px;
+  max-width:100%;
+  overflow-x:auto;
 }
 .ad-revenue-page .waterfall{
   position:relative;
+  width:fit-content;
+  margin:0 auto;
 }
 .ad-revenue-page .wf-guides{
   position:absolute;
@@ -457,9 +462,18 @@
 @media (prefers-reduced-motion: reduce){
   .ad-revenue-page .wf-bar{ transition:none; }
 }
+@media (max-width:480px){
+  .ad-revenue-page .app{ padding:32px 14px 48px; }
+  .ad-revenue-page .panel{ padding:16px; }
+  .ad-revenue-page .waterfall-wrap{ padding:20px 8px 12px; }
+  .ad-revenue-page .wf-cols{ gap:8px; }
+  .ad-revenue-page .wf-col{ width:70px; }
+  .ad-revenue-page .wf-track{ max-width:52px; }
+  .ad-revenue-page .wf-value{ font-size:10.5px; }
+}
 
-.ad-revenue-page .table-panel{ margin-top:20px; }
-.ad-revenue-page table{ width:100%; border-collapse:collapse; }
+.ad-revenue-page .table-panel{ margin-top:20px; overflow-x:auto; }
+.ad-revenue-page table{ width:100%; min-width:620px; border-collapse:collapse; }
 .ad-revenue-page th, .ad-revenue-page td{
   text-align:left;
   padding:10px 8px;
