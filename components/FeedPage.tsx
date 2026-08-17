@@ -258,7 +258,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
         <p style={{
           fontSize: "13px", color: "var(--text-muted)", lineHeight: 1.7,
           marginBottom: "18px", flex: 1,
-          display: "-webkit-box", WebkitLineClamp: large ? 2 : 1, WebkitBoxOrient: "vertical",
+          display: "-webkit-box", WebkitLineClamp: large ? 3 : 2, WebkitBoxOrient: "vertical",
           overflow: "hidden",
         }}>
           {article.summary}
