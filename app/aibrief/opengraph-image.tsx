@@ -26,7 +26,7 @@ export default function Image() {
           AI·IT 뉴스 브리핑
         </div>
         <div style={{ fontSize: 24, color: "#bfdbfe", marginTop: 12 }}>
-          aibrief.toolr.kr
+          toolr.kr/aibrief
         </div>
       </div>
     ),

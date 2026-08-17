@@ -4,7 +4,7 @@
 
 ## 사이트 정보
 
-- URL: https://aibrief.toolr.kr
+- URL: https://toolr.kr/aibrief
 - 언어: 한국어
 - 업데이트 주기: 매일 (GitHub Actions 자동 수집, 09:00 KST)
 - 카테고리: AI 모델, 디자인툴, 스톡 이미지, 음악·영상 AI, 폰트·타이포그래피
@@ -18,9 +18,9 @@
 
 ## 페이지 구조
 
-- `/` — 최신 기사 목록 (필터: 회사별, 카테고리별, 태그별)
-- `/article/[slug]` — 기사 상세 (요약, 본문, 커뮤니티 반응, 출처)
-- `/timeline` — 업계 이벤트 타임라인
+- `/aibrief` — 최신 기사 목록 (필터: 회사별, 카테고리별, 태그별)
+- `/aibrief/article/[slug]` — 기사 상세 (요약, 본문, 커뮤니티 반응, 출처)
+- `/aibrief/timeline` — 업계 이벤트 타임라인
 - `/sitemap.xml` — 전체 페이지 사이트맵
 
 ## 콘텐츠 정책

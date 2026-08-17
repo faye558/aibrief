@@ -87,7 +87,7 @@ export default function TimelinePage({
         {["전체", "AI모델", "디자인툴", "3D AI", "이미지", "폰트"].map((cat) => (
           <a
             key={cat}
-            href={cat === "전체" ? "/timeline" : `/timeline?category=${cat}`}
+            href={cat === "전체" ? "/aibrief/timeline" : `/aibrief/timeline?category=${cat}`}
             className={`px-4 py-2 rounded-full text-sm font-bold tracking-tight transition-all ${
               category === cat
                 ? "bg-brand-600 text-white shadow-md"
@@ -102,7 +102,7 @@ export default function TimelinePage({
         <div className="w-full mt-3 flex flex-wrap items-center gap-x-4 gap-y-2">
           {company && (
             <a
-              href="/timeline"
+              href="/aibrief/timeline"
               className="text-xs text-brand-600 font-semibold underline underline-offset-2 mr-1"
             >
               전체 보기 ✕
@@ -111,8 +111,8 @@ export default function TimelinePage({
           {Object.entries(COMPANY_DOT).map(([co, dot]) => {
             const isActive = company === co;
             const href = isActive
-              ? "/timeline"
-              : `/timeline?company=${encodeURIComponent(co)}`;
+              ? "/aibrief/timeline"
+              : `/aibrief/timeline?company=${encodeURIComponent(co)}`;
             return (
               <a
                 key={co}
@@ -163,7 +163,7 @@ export default function TimelinePage({
                     {/* 축선 위의 도트 */}
                     <div className={`absolute left-[-28px] top-[12px] w-3 h-3 rounded-full ${dot} border-2 border-white shadow-sm z-10`} />
 
-                    <Link href={`/article/${article.slug}`} className="group block">
+                    <Link href={`/aibrief/article/${article.slug}`} className="group block">
                       <div className="bg-white rounded-xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-200 transition-all p-4">
                         <div className="flex items-start gap-3">
                           <div className="flex-1 min-w-0">

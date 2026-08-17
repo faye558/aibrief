@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { getAllArticles } from "@/lib/articles";
 
-const SITE_URL = "https://aibrief.toolr.kr";
+const SITE_URL = "https://toolr.kr/aibrief";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const articles = getAllArticles();
