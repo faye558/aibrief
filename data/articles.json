@@ -1,5 +1,265 @@
 [
   {
+    "id": "634",
+    "slug": "verdict-sync",
+    "title": "Verdict Sync：兩邊都在改的設定，不能用推的",
+    "summary": "&#x8A2D;&#x5B9A;&#x653E;&#x5728; repo &#x88E1;&#xFF0C;&#x4E5F;&#x8DD1;&#x5728;&#x751F;&#x7522;&#x4E0A;&#xFF0C;&#x800C;&#x5BA2;&#x6236;&#x81EA;&#x5DF1;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@threath/verdict-sync-%E5%85%A9%E9%82%8A%E9%83%BD%E5%9C%A8%E6%94%B9%E7%9A%84%E8%A8%AD%E5%AE%9A-%E4%B8%8D%E8%83%BD%E7%94%A8%E6%8E%A8%E7%9A%84-0b4f9a834adf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@threath/verdict-sync-%E5%85%A9%E9%82%8A%E9%83%BD%E5%9C%A8%E6%94%B9%E7%9A%84%E8%A8%AD%E5%AE%9A-%E4%B8%8D%E8%83%BD%E7%94%A8%E6%8E%A8%E7%9A%84-0b4f9a834adf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "635",
+    "slug": "claude-code-claude-never-runs-your-tools-your-code-does-and",
+    "title": "Claude Code: Claude Never Runs Your Tools, Your Code Does (and the One Field That Stops a 3am Bill)",
+    "summary": "Your code runs the tool, not the model. Miss the one field and the 3am bill is yours.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vamsipenmetsa.medium.com/claude-code-claude-never-runs-your-tools-your-code-does-and-the-one-field-that-stops-a-3am-bill-ea50612c18ed?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vamsipenmetsa.medium.com/claude-code-claude-never-runs-your-tools-your-code-does-and-the-one-field-that-stops-a-3am-bill-ea50612c18ed?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "636",
+    "slug": "specagentdriven-sdlc",
+    "title": "Spec/Agent-Driven SDLC",
+    "summary": "With Optional LangGraph Loop if not using Claude CodeContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ansuman.das.engg/spec-agent-driven-sdlc-065833546909?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ansuman.das.engg/spec-agent-driven-sdlc-065833546909?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "637",
+    "slug": "the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bo",
+    "title": "The Claude Code Skill That Made My AI Stop Feeling Like a Bot",
+    "summary": "&#x201C;A bot does what you ask. A junior dev goes back and looks at the finished task again before handing it back.&#x201D;Continue reading on Medium",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://thejenildgohel.medium.com/the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bot-a4a1cf159453?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://thejenildgohel.medium.com/the-claude-code-skill-that-made-my-ai-stop-feeling-like-a-bot-a4a1cf159453?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "638",
+    "slug": "claude-agent-sdk-building-real-ai-agents-with-claude-codes-a",
+    "title": "Claude Agent SDK: Building Real AI Agents with Claude Code’s Agentic Runtime",
+    "summary": "Most LLM applications start with a deceptively simple architecture:Continue reading on AlgoMart »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/algomart/claude-agent-sdk-building-real-ai-agents-with-claude-codes-agentic-runtime-3d28fc8ae105?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/algomart/claude-agent-sdk-building-real-ai-agents-with-claude-codes-agentic-runtime-3d28fc8ae105?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "639",
+    "slug": "the-250k-claude-certified-architect-everyone-is-chasing-is-n",
+    "title": "The $250k Claude Certified Architect Everyone Is Chasing Is Not Really About The Certificate",
+    "summary": "AI engineering is becoming less about clever prompts and more about reliable systems.Continue reading on Artificial Intelligence in Plain English »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.plainenglish.io/the-250k-claude-certified-architect-everyone-is-chasing-is-not-really-about-the-certificate-ae1a9cc43731?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.plainenglish.io/the-250k-claude-certified-architect-everyone-is-chasing-is-not-really-about-the-certificate-ae1a9cc43731?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "640",
+    "slug": "social-media-manager-tools-how-claude-handles-every-instagra",
+    "title": "Social Media Manager Tools: How Claude Handles Every Instagram and Facebook Comment and DM Without…",
+    "summary": "Here is something we did last week, and it took one instruction.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/social-media-manager-tools-how-claude-handles-every-instagram-and-facebook-comment-and-dm-without-d1b2071b9f91?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/social-media-manager-tools-how-claude-handles-every-instagram-and-facebook-comment-and-dm-without-d1b2071b9f91?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "641",
+    "slug": "developers-are-switching-to-codex-claude-code-is-losing-its",
+    "title": "Developers Are Switching to Codex. Claude Code Is Losing Its Edge",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kanishks772/developers-are-switching-to-codex-claude-code-is-losing-its-edge-61bcf2a348fe?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kanishks772/developers-are-switching-to-codex-claude-code-is-losing-its-edge-61bcf2a348fe?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "642",
+    "slug": "claude-code-assist-how-structured-output-works-for-realworld",
+    "title": "Claude Code Assist: How Structured Output Works for Real-World Applications",
+    "summary": "Discover how Claude&#x2019;s innovative code assist feature is revolutionizing the way developers work. With its ability to provide structured&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dineshshuttler/claude-code-assist-how-structured-output-works-for-real-world-applications-f8cecd90c4c8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dineshshuttler/claude-code-assist-how-structured-output-works-for-real-world-applications-f8cecd90c4c8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "643",
+    "slug": "how-to-use-kimi-k3-in-minutes-the-easiest-way-to-try-it",
+    "title": "How to Use Kimi K3 in Minutes: The Easiest Way to Try It",
+    "summary": "If you want to try Kimi K3 but don&#x2019;t want to set up GPUs, deploy inference servers, deal with Docker, or spend hours configuring&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://iamdgarcia.medium.com/how-to-use-kimi-k3-in-minutes-the-easiest-way-to-try-it-8e79e965cd63?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://iamdgarcia.medium.com/how-to-use-kimi-k3-in-minutes-the-easiest-way-to-try-it-8e79e965cd63?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "627",
     "slug": "10-github-repos-trending-because-every-ai-agent-suddenly-nee",
     "title": "10 GitHub Repos Trending Because Every AI Agent Suddenly Needs “Skills”",
@@ -17370,5 +17630,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "616"
+  },
+  {
+    "title": "UX Collective — AI 도입이 디자이너의 이상주의를 서서히 침식하는 이유",
+    "summary": "약 20년 경력의 디자이너인 필자는 AI가 등장했을 때 젊은 디자이너들이 먼저 수용할 것이라고 가정했지만, 실제로는 그 가정이 맞지 않았다고 밝힌다. 필자는 산업 현장에서 학계로 이직한 후, 실무 디자이너와 학생·교수진이 AI에 대해 매우 다른 태도를 가지고 있음을 발견했다. 오랜 클라이언트 업무, 마감 압박, 직업적 실천 경험이 디자이너의 AI에 대한 관계를 재형성한다는 점을 탐구한다.",
+    "content": "## 주요 내용\n- 필자는 40대 초반의 약 20년 경력 디자이너 두 친구와 AI에 관한 대화를 나눴으며, 두 친구 모두 AI를 자신의 작업 흐름에 통합했다고 밝힘\n- 두 친구는 각각 UX 전략을 담당하는 디자인 SVP와 제품 디자인·브랜딩·패키징을 넘나드는 프리랜서로 서로 다른 분야에서 일함\n- 필자는 산업 현장에서 학계로 이직한 후, 실무 디자이너와 학생·교수진이 AI의 역할에 대해 극명하게 다른 시각을 가지고 있음을 경험함\n- AI 등장 초기 필자는 젊은 디자이너들이 먼저 AI를 수용할 것이라고 가정했으나, 그 가정은 실제와 달랐음\n\n## 의미\n실무 경험과 직업적 환경이 디자이너의 AI 수용 태도에 핵심적인 영향을 미치며, 세대보다 실무 경험이 더 중요한 변수일 수 있음을 시사한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-17",
+    "tags": [
+      "AI",
+      "UX디자인",
+      "디자이너",
+      "AI도입",
+      "실무경험"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+        "name": "UX Collective — AI adoption and the slow erosion of design idealism"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-intro",
+    "draft": false,
+    "id": "633"
   }
 ]
