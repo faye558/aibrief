@@ -4,7 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import GlobalNav from "./GlobalNav";
 import MarketStrip from "./MarketStrip";
-import type { Article as RawArticle } from "@/app/page";
+import type { Article as RawArticle } from "@/app/aibrief/page";
 
 // ── 카테고리 매핑 ──────────────────────────────
 const CAT_MAP: Record<string, string> = {
@@ -179,7 +179,7 @@ function ArticleCard({ article, large }: { article: CardArticle; large?: boolean
 
   return (
     <a
-      href={article.content ? `/article/${article.slug}` : (article.sourceUrl ?? `/article/${article.slug}`)}
+      href={article.content ? `/aibrief/article/${article.slug}` : (article.sourceUrl ?? `/aibrief/article/${article.slug}`)}
       target={article.content ? undefined : "_blank"}
       rel={article.content ? undefined : "noopener noreferrer"}
       onMouseEnter={() => setHovered(true)}
@@ -294,7 +294,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const handleCategoryClick = useCallback((catId: string, e: React.MouseEvent) => {
     e.preventDefault();
     setActiveCategory(catId);
-    const href = catId === "all" ? "/" : `/category/${catId}`;
+    const href = catId === "all" ? "/aibrief" : `/aibrief/category/${catId}`;
     router.push(href, { scroll: false });
     window.gtag?.("event", "category_tab_click", { category: catId });
   }, [router]);
@@ -395,7 +395,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
       <div className="mobile-cats">
         {CATEGORIES.map((cat) => {
           const isActive = activeCategory === cat.id;
-          const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
+          const href = cat.id === "all" ? "/aibrief" : `/aibrief/category/${cat.id}`;
           return (
             <a key={cat.id} href={href} onClick={(e) => handleCategoryClick(cat.id, e)} style={{
               flexShrink: 0, padding: "6px 14px", borderRadius: "20px", border: "none",
@@ -417,7 +417,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
           <nav style={{ padding: "12px", flex: 1 }}>
             {CATEGORIES.map((cat) => {
               const isActive = activeCategory === cat.id;
-              const href = cat.id === "all" ? "/" : `/category/${cat.id}`;
+              const href = cat.id === "all" ? "/aibrief" : `/aibrief/category/${cat.id}`;
               return (
                 <a key={cat.id} href={href} onClick={(e) => handleCategoryClick(cat.id, e)} style={{
                   display: "flex", alignItems: "center", gap: "8px",

@@ -47,7 +47,7 @@ export default function DraftsPage() {
 
   const fetchDrafts = useCallback(async (k: string, t: "drafts" | "published" = "drafts") => {
     setLoading(true);
-    const res = await fetch(`/api/drafts?key=${encodeURIComponent(k)}&tab=${t}`);
+    const res = await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(k)}&tab=${t}`);
     if (res.ok) {
       const data = await res.json();
       setDrafts(data);
@@ -59,7 +59,7 @@ export default function DraftsPage() {
   }, []);
 
   async function approve(id: string) {
-    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ id }),
@@ -70,7 +70,7 @@ export default function DraftsPage() {
   }
 
   async function toggleHidden(id: string, hide: boolean) {
-    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ id, action: hide ? "hide" : "unhide" }),
@@ -96,7 +96,7 @@ export default function DraftsPage() {
 
   async function saveEdit(id: string) {
     setEditSaving(true);
-    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -121,7 +121,7 @@ export default function DraftsPage() {
   }
 
   async function remove(id: string) {
-    await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "DELETE",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ id }),
@@ -134,7 +134,7 @@ export default function DraftsPage() {
   async function generateDraft() {
     if (!topic.trim()) return;
     setGenerating(true);
-    const res = await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    const res = await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ action: "generate", topic }),
@@ -161,7 +161,7 @@ export default function DraftsPage() {
   async function saveOutlink() {
     if (!outlinkForm.title.trim() || !outlinkForm.sourceUrl.trim()) return;
     setOutlinkSaving(true);
-    const res = await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    const res = await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
@@ -190,7 +190,7 @@ export default function DraftsPage() {
   async function saveArticle() {
     if (!form.title.trim()) return;
     setSaving(true);
-    const res = await fetch(`/api/drafts?key=${encodeURIComponent(key)}`, {
+    const res = await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({

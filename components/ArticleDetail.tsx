@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import GlobalNav from "./GlobalNav";
-import type { Article } from "@/app/page";
+import type { Article } from "@/app/aibrief/page";
 
 const CAT_LABEL: Record<string, string> = {
   "AI모델": "AI", "AI": "AI", "3D AI": "AI",
@@ -74,7 +74,7 @@ export default function ArticleDetail({ article, related }: { article: Article; 
 
       <div style={{ maxWidth: "720px", margin: "0 auto", padding: "40px 24px 80px" }}>
         {/* 뒤로가기 */}
-        <Link href="/" style={{
+        <Link href="/aibrief" style={{
           display: "inline-flex", alignItems: "center", gap: "6px",
           color: "var(--text-muted)", fontSize: "13px", textDecoration: "none",
           marginBottom: "28px",
@@ -175,7 +175,7 @@ export default function ArticleDetail({ article, related }: { article: Article; 
         {article.tags?.length > 0 && (
           <div style={{ display: "flex", flexWrap: "wrap", gap: "8px", marginBottom: "32px" }}>
             {article.tags.map((tag) => (
-              <Link key={tag} href={`/?tag=${encodeURIComponent(tag)}`} style={{
+              <Link key={tag} href={`/aibrief?tag=${encodeURIComponent(tag)}`} style={{
                 background: "var(--surface)", border: "1px solid var(--border)",
                 color: "var(--text-muted)", fontSize: "12px",
                 padding: "5px 12px", borderRadius: "20px", textDecoration: "none",
@@ -245,7 +245,7 @@ export default function ArticleDetail({ article, related }: { article: Article; 
               {related.map((r) => {
                 const cs = CAT_COLOR[r.category] ?? CAT_COLOR["AI모델"];
                 return (
-                  <Link key={r.slug} href={`/article/${r.slug}`} style={{
+                  <Link key={r.slug} href={`/aibrief/article/${r.slug}`} style={{
                     display: "flex", alignItems: "flex-start", gap: "14px",
                     background: `linear-gradient(135deg, ${cs.color}08 0%, var(--surface) 60%)`,
                     border: `1px solid ${cs.color}30`,

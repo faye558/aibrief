@@ -2,7 +2,7 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import type { Article } from "@/app/page";
+import type { Article } from "@/app/aibrief/page";
 import ArticleDetail from "@/components/ArticleDetail";
 
 function loadArticles(): Article[] {
@@ -46,9 +46,9 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
     publisher: {
       "@type": "Organization",
       name: "aibrief",
-      url: "https://aibrief.toolr.kr",
+      url: "https://toolr.kr/aibrief",
     },
-    url: `https://aibrief.toolr.kr/article/${article.slug}`,
+    url: `https://toolr.kr/aibrief/article/${article.slug}`,
     ...(article.sourceUrl ? { mainEntityOfPage: article.sourceUrl } : {}),
   };
 

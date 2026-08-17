@@ -36,7 +36,7 @@ export default function GlobalNav() {
         }}
       >
         {/* Logo */}
-        <a href="/" style={{ display: "flex", alignItems: "center", gap: "9px", textDecoration: "none" }}>
+        <a href="/aibrief" style={{ display: "flex", alignItems: "center", gap: "9px", textDecoration: "none" }}>
           <div style={{ width: "32px", height: "32px", borderRadius: "9px", background: "var(--accent)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "13px", fontWeight: 800, color: "#fff", flexShrink: 0 }}>
             ai
           </div>

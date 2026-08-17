@@ -15,7 +15,7 @@ export default function MarketStrip({ sidebar = false }: { sidebar?: boolean }) 
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch("/api/market")
+    fetch("/aibrief/api/market")
       .then((r) => r.json())
       .then((d) => { setItems(d.items ?? []); setAsOf(d.asOf ?? ""); setLoading(false); })
       .catch(() => setLoading(false));

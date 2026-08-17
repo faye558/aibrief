@@ -3,7 +3,7 @@ import { join } from "path";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
 import FeedPage from "@/components/FeedPage";
-import type { Article } from "@/app/page";
+import type { Article } from "@/app/aibrief/page";
 
 const CATEGORY_MAP: Record<string, { label: string; values: string[] }> = {
   "ai":     { label: "AI",     values: ["AI", "AI모델", "3D AI"] },
