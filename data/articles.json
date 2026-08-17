@@ -1,5 +1,317 @@
 [
   {
+    "id": "646",
+    "slug": "aiguided-workflows-the-next-evolution-of-standard-operating",
+    "title": "AI-Guided Workflows: The Next Evolution of Standard Operating Procedures",
+    "summary": "Standard operating procedures (SOPs) have been an important tool for sustainable business operations for many years.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@zayan.techelix/ai-guided-workflows-the-next-evolution-of-standard-operating-procedures-6dbfd32c26c3?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@zayan.techelix/ai-guided-workflows-the-next-evolution-of-standard-operating-procedures-6dbfd32c26c3?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "647",
+    "slug": "mindshub-the-opensource-ai-workspace-that-actually-does-the",
+    "title": "MindsHub: The Open-Source AI Workspace That Actually Does the Work",
+    "summary": "Most AI tools are still built around one simple idea: You ask a question. The AI gives you an answer. That&#x2019;s useful, but it&#x2019;s not always",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/mindshub-the-open-source-ai-workspace-that-actually-does-the-work-129ca302181d?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/mindshub-the-open-source-ai-workspace-that-actually-does-the-work-129ca302181d?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "648",
+    "slug": "ai",
+    "title": "AI 寫的測試全綠，但可能什麼都沒測",
+    "summary": "&#x6700;&#x8FD1;&#x62FF;&#x4E00;&#x4EFD; AI &#x5BEB;&#x7684;&#x6E2C;&#x8A66;&#x505A;&#x4E86;&#x500B;&#x5BE6;&#x9A57;&#x3002;&#x6311;&#x4E86;&#x5B83;&#",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/ai-%E5%AF%AB%E7%9A%84%E6%B8%AC%E8%A9%A6%E5%85%A8%E7%B6%A0-%E4%BD%86%E5%8F%AF%E8%83%BD%E4%BB%80%E9%BA%BC%E9%83%BD%E6%B2%92%E6%B8%AC-bcc06291d51e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/ai-%E5%AF%AB%E7%9A%84%E6%B8%AC%E8%A9%A6%E5%85%A8%E7%B6%A0-%E4%BD%86%E5%8F%AF%E8%83%BD%E4%BB%80%E9%BA%BC%E9%83%BD%E6%B2%92%E6%B8%AC-bcc06291d51e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "649",
+    "slug": "whats-changed-in-a-year-returning-to-my-data-science-job-aft",
+    "title": "What’s changed in a year? Returning to my data science job after a year of maternity leave",
+    "summary": "It seems like all anyone can talk about at the moment is AI. In particular there is a sense of fear about what it means for work, whether&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/data-analytics-at-nesta/whats-changed-in-a-year-returning-to-my-data-science-job-after-a-year-of-maternity-leave-96a03ec3f678?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/data-analytics-at-nesta/whats-changed-in-a-year-returning-to-my-data-science-job-after-a-year-of-maternity-leave-96a03ec3f678?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "650",
+    "slug": "from-iandmycarcom-to-holikeai-how-ai-compressed-6-months-of",
+    "title": "From iandmycar.com to holike.ai: How AI Compressed 6 Months of Work Into 6 Days",
+    "summary": "The Origin Story &#x2014; 2015Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@roshanhadal/from-iandmycar-com-to-holike-ai-how-ai-compressed-6-months-of-work-into-6-days-d114ccc8f54f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@roshanhadal/from-iandmycar-com-to-holike-ai-how-ai-compressed-6-months-of-work-into-6-days-d114ccc8f54f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "651",
+    "slug": "claude-code-vs-copilot-is-the-wrong-question",
+    "title": "Claude Code vs Copilot Is the Wrong Question",
+    "summary": "The most expensive mistake in AI tooling procurement right now is treating Claude Code and GitHub Copilot as substitutes and picking one.Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@teamvoy/claude-code-vs-copilot-is-the-wrong-question-bf256ee02a04?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@teamvoy/claude-code-vs-copilot-is-the-wrong-question-bf256ee02a04?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "652",
+    "slug": "the-5-claude-code-prompts-i-run-before-writing-any-code",
+    "title": "The 5 Claude Code Prompts I Run Before Writing Any Code",
+    "summary": "Most people open Claude Code and start typing. That&#x2019;s the mistake. These five prompts happen before a single line gets written &#x2014; and&#x2",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aitrends24/the-5-claude-code-prompts-i-run-before-writing-any-code-97108ada4e49?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aitrends24/the-5-claude-code-prompts-i-run-before-writing-any-code-97108ada4e49?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "653",
+    "slug": "my-aigenerated-code-works-please-dont-ask-me-why",
+    "title": "My AI-Generated Code Works. Please Don't Ask Me Why.",
+    "summary": "The unofficial survival guide to code that works perfectly&#x2026; as long as nobody asks questions.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@johirbuet/my-ai-generated-code-works-please-dont-ask-me-why-9b15fab006b7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@johirbuet/my-ai-generated-code-works-please-dont-ask-me-why-9b15fab006b7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "654",
+    "slug": "your-prd-is-invisible-to-the-agent-writing-your-code",
+    "title": "Your PRD Is Invisible to the Agent Writing Your Code",
+    "summary": "Why we moved the spec into the repo, and what it did for design and QA on the wayContinue reading on Muzli - Design Inspiration »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.muz.li/your-prd-is-invisible-to-the-agent-writing-your-code-7cc6e51bbd04?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.muz.li/your-prd-is-invisible-to-the-agent-writing-your-code-7cc6e51bbd04?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "655",
+    "slug": "your-ai-coding-agents-are-fighting-over-one-emulator-heres-t",
+    "title": "Your AI Coding Agents Are Fighting Over One Emulator (Here’s the Fix)",
+    "summary": "Fixing AI agent test collisions with mic-lockContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blinkinnovation.medium.com/your-ai-coding-agents-are-fighting-over-one-emulator-heres-the-fix-836f41055f1f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blinkinnovation.medium.com/your-ai-coding-agents-are-fighting-over-one-emulator-heres-the-fix-836f41055f1f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "656",
+    "slug": "your-entire-codebase-as-claudes-context-semantic-code-search",
+    "title": "Your Entire Codebase as Claude’s Context: Semantic Code Search for AI Coding Agents",
+    "summary": "AI coding agents are getting surprisingly good at writing code.Continue reading on Coding Nexus »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/your-entire-codebase-as-claudes-context-semantic-code-search-for-ai-coding-agents-ebc0739180b3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/your-entire-codebase-as-claudes-context-semantic-code-search-for-ai-coding-agents-ebc0739180b3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "657",
+    "slug": "skill-skill",
+    "title": "skill 也要有考卷：我給 skill 上了回歸測試",
+    "summary": "&#x5BEB;&#x7A0B;&#x5F0F;&#x6539;&#x58DE;&#x4E86;&#xFF0C;&#x7DE8;&#x8B6F;&#x5668;&#x3001;&#x578B;&#x5225;&#x6AA2;&#x67E5;&#x6216;&#x55AE;&#x5143;&#x6E2",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/skill-%E4%B9%9F%E8%A6%81%E6%9C%89%E8%80%83%E5%8D%B7-%E6%88%91%E7%B5%A6-skill-%E4%B8%8A%E4%BA%86%E5%9B%9E%E6%AD%B8%E6%B8%AC%E8%A9%A6-4d6636d97c51?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/skill-%E4%B9%9F%E8%A6%81%E6%9C%89%E8%80%83%E5%8D%B7-%E6%88%91%E7%B5%A6-skill-%E4%B8%8A%E4%BA%86%E5%9B%9E%E6%AD%B8%E6%B8%AC%E8%A9%A6-4d6636d97c51?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "634",
     "slug": "verdict-sync",
     "title": "Verdict Sync：兩邊都在改的設定，不能用推的",
@@ -17659,5 +17971,76 @@
     "slug": "ux-collective-intro",
     "draft": false,
     "id": "633"
+  },
+  {
+    "title": "UX Collective — 디자인 리더십 재고, 판단력의 병목 현상, AI 인터페이스 윤리적 UX",
+    "summary": "UX Collective 주간 큐레이션에서는 현재 디자인 리더십이 기계적 사고에 빠져 있다는 문제를 지적하며, AI 시대에 유연한 리더십 모델의 필요성을 논의한다. 또한 AI 에이전트가 샌드박스를 벗어나는 현상, 판단력이 병목이 되는 상황, AI 네이티브 인터페이스의 UX 등 다양한 주제를 다룬다. 테크 업계 종사자들 사이에서 번아웃과 심리적 피로감이 증가하고 있다는 점도 함께 조명된다.",
+    "content": "## 주요 내용\n- 디자인 리더십이 '기계적 사고'에 치우쳐 있으며, 이는 경영진의 전략 전환이나 경쟁사의 갑작스러운 AI 기능 출시 등 변화에 취약하다는 주장\n- AI 에이전트가 샌드박스를 벗어나기 시작한 현상에 대한 분석\n- '빌린 신뢰(borrowed trust)'에 과도하게 의존하는 문제와 그 비용에 대한 경고\n- 판단력(Judgment)이 병목 현상으로 작용하는 구조적 문제 논의\n- AI로 인해 프로토타입 빌드 시간은 단축됐지만, 사용자 리서치 검증 속도가 따라가지 못하는 현실 지적\n- 테크 업계 지식 노동자들 사이에서 도예, 그림 등 아날로그 활동을 원하는 사람들이 늘고 있다는 현상 언급\n\n## 의미\nAI 도입이 가속화되는 환경에서 디자인 리더십, 신뢰, 판단력 등 인간적 요소의 중요성이 다시 부각되고 있으며, 기계적·자동화 중심 사고의 한계를 비판적으로 성찰하는 흐름이 UX 커뮤니티에서 형성되고 있다.",
+    "company": "Google",
+    "category": "AI",
+    "date": "2026-08-17",
+    "tags": [
+      "UX디자인",
+      "디자인리더십",
+      "AI인터페이스",
+      "사용자리서치",
+      "테크번아웃"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Rethinking leadership, Judgment as bottleneck, Ethical UX for machines"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-collective-design",
+    "draft": false,
+    "id": "644"
+  },
+  {
+    "title": "EV424 Verification Kernel — 공식 공개 소스를 재현 가능한 검증 구조로 확인",
+    "summary": "EV424 Verification Kernel은 공식 공개 소스를 재현 가능한 검증 구조로 확인하는 도구입니다. 현재 Document Kernel을 Linux에서 무료로 공개하고 있습니다.",
+    "content": "## 주요 내용\n- 공식 공개 소스를 재현 가능한 검증 구조로 확인하는 EV424 Verification Kernel 개발\n- Document Kernel을 Linux 환경에서 무료로 공개 중\n\n## 의미\n공개 소스의 재현 가능한 검증 구조를 제공함으로써 문서 검증의 신뢰성을 높일 수 있는 도구로, Linux에서 무료로 사용 가능하다는 점에서 접근성이 높다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-17",
+    "tags": [
+      "EV424",
+      "검증커널",
+      "오픈소스",
+      "Linux",
+      "문서검증"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32580",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32580",
+        "name": "GeekNews — Show GN: EV424 Verification Kernel 개발자"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-ev424-verification-kernel",
+    "draft": false,
+    "id": "645"
   }
 ]
