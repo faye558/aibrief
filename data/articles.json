@@ -1,5 +1,265 @@
 [
   {
+    "id": "617",
+    "slug": "the-generative-ai-war-why-chatgpt-vs",
+    "title": "The Generative AI War: Why ChatGPT vs.",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tabibherb/the-generative-ai-war-why-chatgpt-vs-9bb334a45740?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tabibherb/the-generative-ai-war-why-chatgpt-vs-9bb334a45740?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "618",
+    "slug": "qwen3827b-as-new-coding-agent-of-choice-with-sglangvllm-and",
+    "title": "Qwen3.8–27B as new coding agent of choice with SGLang/vLLM and Claude",
+    "summary": "Today Alibaba finally released it&#x2019;s new &#x201C;Tongyi Qianwen&#x201D; (&#x901A;&#x4E49;&#x5343;&#x95EE;) or roughly translated as &#x201C;Univ",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://astrujic.medium.com/qwen3-8-27b-as-new-coding-agent-of-choice-with-sglang-vllm-and-claude-f809a9c5f39a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://astrujic.medium.com/qwen3-8-27b-as-new-coding-agent-of-choice-with-sglang-vllm-and-claude-f809a9c5f39a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "619",
+    "slug": "25-claude-code-habits-that-actually-save-you-time",
+    "title": "25 Claude Code Habits That Actually Save You Time",
+    "summary": "The commands and setup that stop Claude from relearning your codebase every session.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sudipparajuli/25-claude-code-habits-that-actually-save-you-time-0582f546918b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sudipparajuli/25-claude-code-habits-that-actually-save-you-time-0582f546918b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "620",
+    "slug": "the-spec-is-the-new-code",
+    "title": "The Spec Is the New Code",
+    "summary": "A guide to Spec Driven Development, for when the agent stops being a toyContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@erisco_and/the-spec-is-the-new-code-cf441ce10f14?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@erisco_and/the-spec-is-the-new-code-cf441ce10f14?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "621",
+    "slug": "setting-up-a-data-analytics-workflow-using-claude-code",
+    "title": "Setting up a Data Analytics Workflow using Claude Code",
+    "summary": "I wanted to explore Claude Code, a terminal based IDE for Agentic AI interfacing, from a data analytics workflow setup dimension. Since I&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://cliffordedsouza.medium.com/setting-up-a-data-analytics-workflow-using-claude-code-74b38b2f1bfd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://cliffordedsouza.medium.com/setting-up-a-data-analytics-workflow-using-claude-code-74b38b2f1bfd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "622",
+    "slug": "i-stopped-writing-every-line-of-code-myself-heres-how-claude",
+    "title": "I Stopped Writing Every Line of Code Myself — Here’s How Claude Code Changed My Workflow — Part 1",
+    "summary": "If you&#x2019;re a developer, you&#x2019;ve probably done this more times than you&#x2019;d like to admit.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://aneeqa-k25.medium.com/i-stopped-writing-every-line-of-code-myself-heres-how-claude-code-changed-my-workflow-part-1-25f64be3e6a0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://aneeqa-k25.medium.com/i-stopped-writing-every-line-of-code-myself-heres-how-claude-code-changed-my-workflow-part-1-25f64be3e6a0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "623",
+    "slug": "building-agent-using-claude-sdk",
+    "title": "Building Agent using Claude SDK",
+    "summary": "This is my first step in trying to learn Claude SDK.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://dhruv-saksena.medium.com/building-agent-using-claude-sdk-fb2be5e68630?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://dhruv-saksena.medium.com/building-agent-using-claude-sdk-fb2be5e68630?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "624",
+    "slug": "your-ai-agents-dont-need-better-prompts-they-need-a-chain-of",
+    "title": "Your AI Agents Don’t Need Better Prompts. They Need a Chain of Command.",
+    "summary": "I rebuilt my multi-agent coding harness on US Army doctrine&#x200A;&#x2014;&#x200A;wargames, fragmentary orders, a battle captain. Part 1 of the war d",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://nickzt.medium.com/your-ai-agents-dont-need-better-prompts-they-need-a-chain-of-command-7afa109f4888?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://nickzt.medium.com/your-ai-agents-dont-need-better-prompts-they-need-a-chain-of-command-7afa109f4888?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "625",
+    "slug": "anatomy-of-an-agentic-repo-the-architecture-that-stops-ai-fr",
+    "title": "Anatomy of an Agentic Repo: The Architecture That Stops AI From Guessing",
+    "summary": "Last weekend I ran the framework this article describes against sixty-five repositories in a single night.Continue reading on Level Up Coding »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://levelup.gitconnected.com/anatomy-of-an-agentic-repo-the-architecture-that-stops-ai-from-guessing-f3105c6367b8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://levelup.gitconnected.com/anatomy-of-an-agentic-repo-the-architecture-that-stops-ai-from-guessing-f3105c6367b8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "626",
+    "slug": "why-am-i-still-using-haiku-in-2026",
+    "title": "Why Am I Still Using Haiku in 2026?",
+    "summary": "A few months ago, I thought I was going to stop using Haiku.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@danyabdo94/why-am-i-still-using-haiku-in-2026-613ae4e899bb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@danyabdo94/why-am-i-still-using-haiku-in-2026-613ae4e899bb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "608",
     "slug": "if-youre-subscribed-to-too-many-ai-tools-heres-what-to-cut-f",
     "title": "If You’re Subscribed to Too Many AI Tools, Here’s What to Cut First",
@@ -16925,5 +17185,34 @@
     "draft": false,
     "id": "585",
     "hidden": true
+  },
+  {
+    "slug": "ai-search",
+    "title": "AI 검색 유입 197% 급증… 여전히 이커머스의 최대 유입원은 '검색'",
+    "summary": "AI 검색의 급속한 성장에도 불구하고 전통 검색이 여전히 이커머스 트래픽의 주요 채널임을 보여주는 지표로, 검색 시장의 구조적 변화 과정을 드러낸다.",
+    "content": "## 큐레이션 노트\n\nAI 검색의 가파른 성장률은 주목할 만하지만, 이것이 곧 기존 검색 생태계의 붕괴를 의미하지는 않음을 시사한다. 오히려 검색 시장 전체가 확대되고 있으며, 플랫폼과 기업들은 AI와 전통 검색 양쪽에 동시에 최적화된 전략이 필요한 과도기를 맞고 있다. 이는 마켓플레이스, 콘텐츠 제공자, 광고주들에게 검색 채널의 다각화 투자가 얼마나 중요한지를 보여주는 데이터 포인트다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-17",
+    "tags": [
+      "AI검색",
+      "검색마케팅",
+      "이커머스",
+      "트래픽분석",
+      "검색엔진",
+      "SEO"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28671",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28671",
+        "name": "매드타임스 — AI 검색 유입 197% 급증… 그래도 이커머스의 최대 유입원은 ‘검색’"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "616"
   }
 ]
