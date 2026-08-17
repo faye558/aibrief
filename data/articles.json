@@ -1,5 +1,161 @@
 [
   {
+    "id": "627",
+    "slug": "10-github-repos-trending-because-every-ai-agent-suddenly-nee",
+    "title": "10 GitHub Repos Trending Because Every AI Agent Suddenly Needs “Skills”",
+    "summary": "The rest reveal the infrastructure agents need around them: identity, state, domain data, and execution.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://21zerixpm.medium.com/10-github-repos-trending-because-every-ai-agent-suddenly-needs-skills-fb4549205289?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://21zerixpm.medium.com/10-github-repos-trending-because-every-ai-agent-suddenly-needs-skills-fb4549205289?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "628",
+    "slug": "should-you-switch-from-claude-code-to-deepseek-harness",
+    "title": "Should You Switch From Claude Code to DeepSeek Harness?",
+    "summary": "For about a year my laptop has been running the same slightly ridiculous arrangement. A 36GB MacBook Pro, Ollama serving Qwen 3.6&#x2013;27B at&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.gopubby.com/should-you-switch-from-claude-code-to-deepseek-harness-54bc795f94fa?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.gopubby.com/should-you-switch-from-claude-code-to-deepseek-harness-54bc795f94fa?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "629",
+    "slug": "aicodegrapher-02-find-impact-diff-maps-and-better-ai-integra",
+    "title": "AICodeGrapher 0.2: Find, Impact, Diff Maps, and Better AI Integrations",
+    "summary": "Companion to the original Medium guide. Repo: github.com/randhirk/AICodeGrapherContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@randhirkr_34313/aicodegrapher-0-2-find-impact-diff-maps-and-better-ai-integrations-ee797abf299b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@randhirkr_34313/aicodegrapher-0-2-find-impact-diff-maps-and-better-ai-integrations-ee797abf299b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "630",
+    "slug": "claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost",
+    "title": "Claude Doesn’t Give Me Bad Answers Anymore. It Gives Me Almost-Right Ones.",
+    "summary": "I shipped three of them before I understood the difference.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost-right-ones-78bbd89982c6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost-right-ones-78bbd89982c6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "631",
+    "slug": "i-stopped-writing-better-prompts-i-started-writing-better-br",
+    "title": "I Stopped Writing Better Prompts. I Started Writing Better Briefs.",
+    "summary": "A prompt asks a question. A brief removes every reason for Claude to guess.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-stopped-writing-better-prompts-i-started-writing-better-briefs-b630c49deb89?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-stopped-writing-better-prompts-i-started-writing-better-briefs-b630c49deb89?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "632",
+    "slug": "claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost-2",
+    "title": "Claude Doesn’t Give Me Bad Answers Anymore. It Gives Me Almost-Right Ones.",
+    "summary": "Almost-right is more dangerous than wrong. Wrong gets caught. Almost-right ships.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost-right-ones-c3b5c6c0bd2b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/claude-doesnt-give-me-bad-answers-anymore-it-gives-me-almost-right-ones-c3b5c6c0bd2b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "617",
     "slug": "the-generative-ai-war-why-chatgpt-vs",
     "title": "The Generative AI War: Why ChatGPT vs.",
