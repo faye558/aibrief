@@ -22,7 +22,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           gtag('config', '${GA_ID}');
         `}</Script>
       </head>
-      <body>{children}</body>
+      <body>
+        <script dangerouslySetInnerHTML={{ __html: `
+          (function() {
+            var t = localStorage.getItem('theme');
+            if (t) document.documentElement.setAttribute('data-theme', t);
+          })();
+        `}} />
+        {children}
+      </body>
     </html>
   );
 }
