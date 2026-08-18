@@ -7,6 +7,7 @@ const GA_ID = "G-L23J59T9PB";
 export const metadata: Metadata = {
   title: "ai brief — AI·테크 큐레이션",
   description: "AI, 테크, 디자인, 플랫폼 분야의 핵심 아티클을 매일 큐레이션합니다",
+  metadataBase: new URL("https://toolr.kr"),
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

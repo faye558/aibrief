@@ -21,8 +21,17 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const article = loadArticles().find((a) => a.slug === slug);
   if (!article) return {};
   return {
-    title: `${article.title} — aibrief`,
+    title: `${article.title} — ai brief`,
     description: article.summary?.slice(0, 160),
+    openGraph: {
+      title: article.title,
+      description: article.summary?.slice(0, 160),
+      url: `https://toolr.kr/aibrief/article/${slug}`,
+      siteName: "ai brief",
+      locale: "ko_KR",
+      type: "article",
+    },
+    alternates: { canonical: `https://toolr.kr/aibrief/article/${slug}` },
   };
 }
 

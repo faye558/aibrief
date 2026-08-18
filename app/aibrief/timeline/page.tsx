@@ -1,5 +1,20 @@
 import Link from "next/link";
+import type { Metadata } from "next";
 import { getAllArticles, formatDate } from "@/lib/articles";
+
+export const metadata: Metadata = {
+  title: "타임라인 — ai brief",
+  description: "AI·디자인·PM 분야 뉴스를 날짜 순으로 확인하세요.",
+  openGraph: {
+    title: "타임라인 — ai brief",
+    description: "AI·디자인·PM 분야 뉴스를 날짜 순으로 확인하세요.",
+    url: "https://toolr.kr/aibrief/timeline",
+    siteName: "toolr",
+    locale: "ko_KR",
+    type: "website",
+  },
+  alternates: { canonical: "https://toolr.kr/aibrief/timeline" },
+};
 
 const COMPANY_COLORS: Record<string, string> = {
   Anthropic: "bg-orange-100 text-orange-700 border-orange-200",

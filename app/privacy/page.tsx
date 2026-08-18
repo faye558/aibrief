@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "개인정보처리방침 | toolr",
   description: "toolr 서비스의 개인정보처리방침입니다.",
+  alternates: { canonical: "https://toolr.kr/privacy" },
 };
 
 
