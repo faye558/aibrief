@@ -1,5 +1,291 @@
 [
   {
+    "id": "675",
+    "slug": "the-designers-os-ai-workflow-automators-coding-companions-an",
+    "title": "The Designer’s OS: AI Workflow Automators, Coding Companions, and Agentic Assistants for 2026",
+    "summary": "Design isn&#x2019;t what it used to be. If you&#x2019;re a product designer, you&#x2019;re not just tweaking pixels anymore, you&#x2019;re orchestrati",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@DilSalaKamina/the-designers-os-ai-workflow-automators-coding-companions-and-agentic-assistants-for-2026-b5aa986ab267?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@DilSalaKamina/the-designers-os-ai-workflow-automators-coding-companions-and-agentic-assistants-for-2026-b5aa986ab267?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "676",
+    "slug": "why-claude-code-keeps-handing-you-600line-diffs-you-cant-act",
+    "title": "Why Claude Code Keeps Handing You 600-Line Diffs You Can’t Actually Review",
+    "summary": "The problem isn&#x2019;t the model. It&#x2019;s that you asked one agent to make forty decisions in a single turn.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jerrytestone1/why-claude-code-keeps-handing-you-600-line-diffs-you-cant-actually-review-0c6342243606?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jerrytestone1/why-claude-code-keeps-handing-you-600-line-diffs-you-cant-actually-review-0c6342243606?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "677",
+    "slug": "stop-building-automations-start-selling-strategy-why-ai-cons",
+    "title": "Stop Building Automations. Start Selling Strategy: Why AI Consulting is the Real Gold Rush",
+    "summary": "The business world is currently obsessed with &#x201C;building.&#x201D; Every day, thousands of professionals are learning to use tools like Claude Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/stop-building-automations-start-selling-strategy-why-ai-consulting-is-the-real-gold-rush-34b95953fba9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/stop-building-automations-start-selling-strategy-why-ai-consulting-is-the-real-gold-rush-34b95953fba9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "678",
+    "slug": "stop-repeating-yourself-to-ai-building-cursor-claude-rules-f",
+    "title": "Stop Repeating Yourself to AI: Building Cursor & Claude Rules for Production Android Apps",
+    "summary": "AI coding assistants can write Android code incredibly fast.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://orbitalsonic.medium.com/stop-repeating-yourself-to-ai-building-cursor-claude-rules-for-production-android-apps-2137cf009e7a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://orbitalsonic.medium.com/stop-repeating-yourself-to-ai-building-cursor-claude-rules-for-production-android-apps-2137cf009e7a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "679",
+    "slug": "being-stupid-is-what-makes-you-smarter",
+    "title": "Being Stupid Is What Makes You Smarter",
+    "summary": "What a four-day bug hunt taught me that Claude couldn&#x2019;t.Continue reading on CodeX »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codex/being-stupid-is-what-makes-you-smarter-dc2235f0f269?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codex/being-stupid-is-what-makes-you-smarter-dc2235f0f269?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "680",
+    "slug": "elevenlabs-claude-the-ai-voice-generator-you-run-by-asking-v",
+    "title": "ElevenLabs + Claude: the AI Voice Generator You Run by Asking (Voice Cloning, Dubbing, and a Video…",
+    "summary": "You write a script inside a chat. You say &#x201C;read this in my voice, calm, a bit slower at the end.&#x201D; The audio file exists &#x2014; on disk",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/elevenlabs-claude-the-ai-voice-generator-you-run-by-asking-voice-cloning-dubbing-and-a-video-4c5d1d95c70c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/elevenlabs-claude-the-ai-voice-generator-you-run-by-asking-voice-cloning-dubbing-and-a-video-4c5d1d95c70c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "681",
+    "slug": "why-i-built-a-coding-agent-skill-that-teaches-you-things",
+    "title": "Why I built a coding agent skill that teaches you things",
+    "summary": "I use Claude Code and Codex every day. They write my code, fix my tests, and refactor things I was too tired to touch. But every time I&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@cranezhou7/why-i-built-a-coding-agent-skill-that-teaches-you-things-80df157bb08f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@cranezhou7/why-i-built-a-coding-agent-skill-that-teaches-you-things-80df157bb08f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "682",
+    "slug": "the-claude-code-commands-i-wish-id-known-from-day-one",
+    "title": "The Claude Code Commands I Wish I’d Known From Day One",
+    "summary": "Most people use maybe two slash commands. Here&#x2019;s what the other ones actually do &#x2014; and when they&#x2019;re worth reaching for.Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kundanscode/the-claude-code-commands-i-wish-id-known-from-day-one-0cd758cf914a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kundanscode/the-claude-code-commands-i-wish-id-known-from-day-one-0cd758cf914a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "683",
+    "slug": "-symlinkgit-gitignore",
+    "title": "軟連結不是複製，一次搞懂 Symlink、Git 與 .gitignore",
+    "summary": "&#x5728;&#x5B78; Claude Code&#x3001;Codex &#x548C; AI Agent Skills &#x6642;&#xFF0C;&#x6211;&#x78B0;&#x5230;&#x4E86;&#x4E00;&#x500B;&#x4EE5;&#x524D;&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hotdanton08/%E8%BB%9F%E9%80%A3%E7%B5%90%E4%B8%8D%E6%98%AF%E8%A4%87%E8%A3%BD-%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82-symlink-git-%E8%88%87-gitignore-dc53c1e65af5?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hotdanton08/%E8%BB%9F%E9%80%A3%E7%B5%90%E4%B8%8D%E6%98%AF%E8%A4%87%E8%A3%BD-%E4%B8%80%E6%AC%A1%E6%90%9E%E6%87%82-symlink-git-%E8%88%87-gitignore-dc53c1e65af5?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "684",
+    "slug": "what-actually-made-claude-code-useful-for-a-4hour-autonomous",
+    "title": "What Actually Made Claude Code Useful for a 4-Hour Autonomous Workflow",
+    "summary": "Most discussions around coding agents focus on prompting techniques, model quality, or code generation capabilities.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tanishq.dhanuka/what-actually-made-claude-code-useful-for-a-4-hour-autonomous-workflow-d926d516e0b0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tanishq.dhanuka/what-actually-made-claude-code-useful-for-a-4-hour-autonomous-workflow-d926d516e0b0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "685",
+    "slug": "tasarmdan-alan-koda-handoff",
+    "title": "Tasarımdan Çalışan Koda: Handoff",
+    "summary": "Merhaba,Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://aryuksektepe.medium.com/tasar%C4%B1mdan-%C3%A7al%C4%B1%C5%9Fan-koda-handoff-3c0d0250f0a0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://aryuksektepe.medium.com/tasar%C4%B1mdan-%C3%A7al%C4%B1%C5%9Fan-koda-handoff-3c0d0250f0a0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "668",
     "slug": "the-hype-is-fading-why-engineers-are-abandoning-model-contex",
     "title": "The Hype Is Fading: Why Engineers Are Abandoning Model Context Protocol in Claude Code",
@@ -18458,5 +18744,34 @@
     "slug": "ux-ev424-verification-kernel",
     "draft": false,
     "id": "645"
+  },
+  {
+    "title": "라인, 보안 업무용 AI 에이전트 플랫폼 'SAGE' 개발기 공개 — '판단은 사람에게' 설계 철학",
+    "summary": "라인의 Security Development Division(LINE Plus Security R&D)팀이 사내 보안 업무에 AI를 접목한 에이전트 플랫폼 'SAGE' 개발 과정을 공개했다. 이번 1편에서는 AI가 자동으로 처리하되 최종 판단은 사람이 내리도록 설계한 철학을 소개한다.",
+    "content": "## 주요 내용\n- 라인 내부 보안 업무에 AI를 도입하기 위해 'SAGE'라는 AI 에이전트 플랫폼을 개발\n- 핵심 설계 원칙은 '판단은 사람에게 남기는 것'으로, AI의 자율 판단을 제한하는 구조\n- 사내 보안 R&D 팀이 직접 개발한 내용을 기술 블로그를 통해 공개\n\n## 의미\n보안 영역에서 AI 자동화를 추진하면서도 인간의 최종 판단권을 보존하는 설계 방식을 채택한 사례로, AI 에이전트의 신뢰성과 안전성 확보 방향을 제시한다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "라인",
+      "AI에이전트",
+      "보안",
+      "SAGE",
+      "LINEPlus"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/ai-agent-platform-sage-dev-log-part-1",
+        "name": "라인 — 보안 업무를 위한 AI 에이전트 플랫폼 「SAGE」 개발기 1편: 판단은 사람에게 남기는 설계"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-sage-release",
+    "draft": false,
+    "id": "674"
   }
 ]
