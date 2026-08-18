@@ -280,7 +280,7 @@ export default function AdRevenuePage() {
           <div class="zone-fields">
             <div class="field-mini">
               <label>PV</label>
-              <input type="text" inputmode="numeric" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}">
+              <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}">
             </div>
             <div class="field-mini">
               <label>CTR %</label>
@@ -308,9 +308,6 @@ export default function AdRevenuePage() {
             if (!zone) return;
             if (field === "name") {
               zone.name = target.value;
-            } else if (field === "pv") {
-              const raw = target.value.replace(/,/g, "");
-              zone.pv = parseFloat(raw) || 0;
             } else {
               (zone as any)[field] = parseFloat(target.value) || 0;
             }
@@ -320,30 +317,20 @@ export default function AdRevenuePage() {
             const target = e.target as HTMLInputElement;
             if (target.dataset.field === "pv") {
               const zone = zones.find((z) => z.id === id);
-              if (zone) target.value = zone.pv.toLocaleString("ko-KR");
+              if (zone) {
+                target.type = "text";
+                target.value = zone.pv.toLocaleString("ko-KR");
+              }
             }
           });
-          if ((input as HTMLInputElement).dataset.field === "pv") {
-            input.addEventListener("keydown", (e) => {
-              const ke = e as KeyboardEvent;
+          input.addEventListener("focus", (e) => {
+            const target = e.target as HTMLInputElement;
+            if (target.dataset.field === "pv") {
+              target.type = "number";
               const zone = zones.find((z) => z.id === id);
-              if (!zone) return;
-              const step = ke.shiftKey ? 100000 : 10000;
-              if (ke.key === "ArrowUp") { ke.preventDefault(); zone.pv = Math.max(0, zone.pv + step); (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR"); updateOutputs(); }
-              if (ke.key === "ArrowDown") { ke.preventDefault(); zone.pv = Math.max(0, zone.pv - step); (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR"); updateOutputs(); }
-            });
-            input.addEventListener("wheel", (e) => {
-              const we = e as WheelEvent;
-              if (document.activeElement !== input) return;
-              we.preventDefault();
-              const zone = zones.find((z) => z.id === id);
-              if (!zone) return;
-              const step = we.shiftKey ? 100000 : 10000;
-              zone.pv = Math.max(0, zone.pv + (we.deltaY < 0 ? step : -step));
-              (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR");
-              updateOutputs();
-            }, { passive: false });
-          }
+              if (zone) target.value = String(zone.pv);
+            }
+          });
         });
       });
       list.querySelectorAll(".zone-del").forEach((btn) => {
