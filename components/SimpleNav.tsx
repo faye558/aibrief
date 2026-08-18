@@ -75,7 +75,7 @@ export default function SimpleNav() {
           <div onClick={() => setOpen(false)} style={{ position: "fixed", inset: 0, zIndex: 98 }} />
           <div style={{ position: "fixed", top: "56px", right: "16px", zIndex: 99, background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "12px", padding: "8px", minWidth: "180px", boxShadow: "0 8px 24px rgba(0,0,0,0.2)" }}>
             <a href="/aibrief" style={{ display: "block", padding: "10px 14px", borderRadius: "8px", fontSize: "14px", color: "var(--text)", textDecoration: "none" }}>
-              🤖 aibrief
+              🤖 ai brief
             </a>
             <a href="https://travel.toolr.kr/" style={{ display: "block", padding: "10px 14px", borderRadius: "8px", fontSize: "14px", color: "var(--text)", textDecoration: "none" }}>
               ✈️ travel
