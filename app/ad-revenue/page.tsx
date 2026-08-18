@@ -323,6 +323,27 @@ export default function AdRevenuePage() {
               if (zone) target.value = zone.pv.toLocaleString("ko-KR");
             }
           });
+          if ((input as HTMLInputElement).dataset.field === "pv") {
+            input.addEventListener("keydown", (e) => {
+              const ke = e as KeyboardEvent;
+              const zone = zones.find((z) => z.id === id);
+              if (!zone) return;
+              const step = ke.shiftKey ? 100000 : 10000;
+              if (ke.key === "ArrowUp") { ke.preventDefault(); zone.pv = Math.max(0, zone.pv + step); (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR"); updateOutputs(); }
+              if (ke.key === "ArrowDown") { ke.preventDefault(); zone.pv = Math.max(0, zone.pv - step); (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR"); updateOutputs(); }
+            });
+            input.addEventListener("wheel", (e) => {
+              const we = e as WheelEvent;
+              if (document.activeElement !== input) return;
+              we.preventDefault();
+              const zone = zones.find((z) => z.id === id);
+              if (!zone) return;
+              const step = we.shiftKey ? 100000 : 10000;
+              zone.pv = Math.max(0, zone.pv + (we.deltaY < 0 ? step : -step));
+              (e.target as HTMLInputElement).value = zone.pv.toLocaleString("ko-KR");
+              updateOutputs();
+            }, { passive: false });
+          }
         });
       });
       list.querySelectorAll(".zone-del").forEach((btn) => {
