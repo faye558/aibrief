@@ -278,9 +278,13 @@ export default function AdRevenuePage() {
             <button class="zone-del" data-id="${z.id}" title="삭제" ${zones.length <= 1 ? 'disabled style="opacity:0.3"' : ""}>✕</button>
           </div>
           <div class="zone-fields">
-            <div class="field-mini">
+            <div class="field-mini" style="position:relative">
               <label>PV</label>
-              <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}">
+              <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}" style="padding-right:28px">
+              <div class="pv-spinner" data-id="${z.id}" style="position:absolute;right:4px;bottom:6px;display:flex;flex-direction:column;gap:1px;">
+                <button class="pv-up" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-radius:3px 3px 0 0;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▲</button>
+                <button class="pv-down" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-top:none;border-radius:0 0 3px 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▼</button>
+              </div>
             </div>
             <div class="field-mini">
               <label>CTR %</label>
@@ -308,6 +312,8 @@ export default function AdRevenuePage() {
             if (!zone) return;
             if (field === "name") {
               zone.name = target.value;
+            } else if (field === "pv") {
+              zone.pv = parseFloat(target.value.replace(/,/g, "")) || 0;
             } else {
               (zone as any)[field] = parseFloat(target.value) || 0;
             }
@@ -323,14 +329,20 @@ export default function AdRevenuePage() {
               }
             }
           });
-          input.addEventListener("focus", (e) => {
-            const target = e.target as HTMLInputElement;
-            if (target.dataset.field === "pv") {
-              target.type = "number";
-              const zone = zones.find((z) => z.id === id);
-              if (zone) target.value = String(zone.pv);
-            }
-          });
+        });
+      });
+      list.querySelectorAll(".pv-up, .pv-down").forEach((btn) => {
+        btn.addEventListener("click", (e) => {
+          e.preventDefault();
+          const target = e.currentTarget as HTMLElement;
+          const zoneId = parseInt(target.dataset.id || "0");
+          const zone = zones.find((z) => z.id === zoneId);
+          if (!zone) return;
+          const delta = target.classList.contains("pv-up") ? 10000 : -10000;
+          zone.pv = Math.max(0, zone.pv + delta);
+          const inp = target.closest(".field-mini")!.querySelector("input") as HTMLInputElement;
+          inp.value = zone.pv.toLocaleString("ko-KR");
+          updateOutputs();
         });
       });
       list.querySelectorAll(".zone-del").forEach((btn) => {
