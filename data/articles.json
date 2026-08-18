@@ -1,5 +1,291 @@
 [
   {
+    "id": "687",
+    "slug": "i-ran-chatwoot-headless-and-built-an-intercomclass-support-s",
+    "title": "I ran Chatwoot headless and built an Intercom-class support system in 8 days",
+    "summary": "How an open-source engine became the invisible core of an Intercom alternative: the architecture and the debugging stories, with an honest&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://sreedharthappeta.medium.com/i-ran-chatwoot-headless-and-built-an-intercom-class-support-system-in-8-days-5f89a9b16d36?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://sreedharthappeta.medium.com/i-ran-chatwoot-headless-and-built-an-intercom-class-support-system-in-8-days-5f89a9b16d36?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "688",
+    "slug": "i-spent-three-months-automating-my-seo-job-five-things-refus",
+    "title": "I Spent Three Months Automating My SEO Job. Five Things Refused",
+    "summary": "I run SEO for a living, and last quarter I set myself a slightly stupid goal: automate every part of the job I could, and write down&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sandeep_jha/i-spent-three-months-automating-my-seo-job-five-things-refused-37d526ba5c60?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sandeep_jha/i-spent-three-months-automating-my-seo-job-five-things-refused-37d526ba5c60?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "689",
+    "slug": "i-got-claude-on-my-wrist-diamonds-on-my-neck",
+    "title": "I Got Claude on My Wrist, Diamonds on My Neck",
+    "summary": "I had never written a line of Monkey C. Three weeks later my first app was live in the Connect IQ Store.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://biokraft.medium.com/i-got-claude-on-my-wrist-diamonds-on-my-neck-6b14af59f7cb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://biokraft.medium.com/i-got-claude-on-my-wrist-diamonds-on-my-neck-6b14af59f7cb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "690",
+    "slug": "mcp-in-practice-let-claude-code-query-your-database-call-api",
+    "title": "MCP in Practice — Let Claude Code Query Your Database, Call APIs, and Read Figma",
+    "summary": "MCP lets Claude do more than read your code &#x2014; it can operate every tool in your workflow.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@n913239/mcp-in-practice-let-claude-code-query-your-database-call-apis-and-read-figma-6e0f66641d8c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@n913239/mcp-in-practice-let-claude-code-query-your-database-call-apis-and-read-figma-6e0f66641d8c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "691",
+    "slug": "how-google-cloud-mcps-give-claude-code-inside-access",
+    "title": "How Google Cloud MCPs Give Claude Code Inside Access",
+    "summary": "Claude Code with the Google Cloud Command Line (gcloud) can make the complexities of Google Cloud disappear with the use of natural&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@denisetkwan/how-google-cloud-mcps-give-claude-code-inside-access-8504abf8122a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@denisetkwan/how-google-cloud-mcps-give-claude-code-inside-access-8504abf8122a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "692",
+    "slug": "how-to-build-a-client-invoice-system-with-claude-code-opus-5",
+    "title": "How to Build a Client Invoice System with Claude Code (Opus 5) in Under 2 Hours — Full Tutorial",
+    "summary": "I needed an invoice system for my freelance work. I was using Google Docs templates&#x2026; copying a doc, editing the client name, changing the&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@felixkebaya/how-to-build-a-client-invoice-system-with-claude-code-opus-5-in-under-2-hours-full-tutorial-af9b90469ee9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@felixkebaya/how-to-build-a-client-invoice-system-with-claude-code-opus-5-in-under-2-hours-full-tutorial-af9b90469ee9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "693",
+    "slug": "one-machine-two-agents-zero-fighting",
+    "title": "One Machine, Two Agents, Zero Fighting",
+    "summary": "Why I built a profile switcher for Claude Code, and the three things that bit meContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mariano215/one-machine-two-agents-zero-fighting-3deada9f4aad?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mariano215/one-machine-two-agents-zero-fighting-3deada9f4aad?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "694",
+    "slug": "ai-can-build-uis-fast-taste-skill-asks-a-harder-question-can",
+    "title": "AI Can Build UIs Fast. Taste Skill Asks a Harder Question: Can It Build Good Ones?",
+    "summary": "How open-source Agent Skills turn subjective frontend design judgment into executable constraints &#x2014; and why that matters more than faster&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ishank.iandroid/ai-can-build-uis-fast-taste-skill-asks-a-harder-question-can-it-build-good-ones-66d075aa3ee0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ishank.iandroid/ai-can-build-uis-fast-taste-skill-asks-a-harder-question-can-it-build-good-ones-66d075aa3ee0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "695",
+    "slug": "capsule-how-i-came-to-build-an-agentic-developer-environment",
+    "title": "Capsule : How I came to build an Agentic Developer Environment at Teads",
+    "summary": "It started with a laptop reboot, I ended up building an agentic developer environment Continue reading on Teads Engineering »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/teads-engineering/capsule-how-i-came-to-build-an-agentic-developer-environment-at-teads-a3ae8fdafab6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/teads-engineering/capsule-how-i-came-to-build-an-agentic-developer-environment-at-teads-a3ae8fdafab6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "696",
+    "slug": "spacexai-and-cursor-launch-grok-bot-persistent-ai-agents-tha",
+    "title": "SpaceXAI and Cursor Launch Grok Bot, Persistent AI Agents That Log Into Your Apps — Top 10 AI &…",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/spacexai-and-cursor-launch-grok-bot-persistent-ai-agents-that-log-into-your-apps-top-10-ai-b364487a03ea?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/spacexai-and-cursor-launch-grok-bot-persistent-ai-agents-that-log-into-your-apps-top-10-ai-b364487a03ea?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "697",
+    "slug": "ai-agent-hooks-deterministic-control-for-coding-agents",
+    "title": "AI Agent Hooks: Deterministic Control for Coding Agents",
+    "summary": "AI agent hooks give coding agents like Claude Code deterministic control and observability by intercepting JSON events in the execution&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tuanhadev/ai-agent-hooks-deterministic-control-for-coding-agents-285588b3d992?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tuanhadev/ai-agent-hooks-deterministic-control-for-coding-agents-285588b3d992?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "675",
     "slug": "the-designers-os-ai-workflow-automators-coding-companions-an",
     "title": "The Designer’s OS: AI Workflow Automators, Coding Companions, and Agentic Assistants for 2026",
@@ -18775,5 +19061,35 @@
     "slug": "-sage-release",
     "draft": false,
     "id": "674"
+  },
+  {
+    "slug": "anthropic-mozilla-firefox",
+    "title": "Mozilla, Firefox에 AI 기능 도입—사용자 선택 중심으로",
+    "summary": "브라우저 시장에서 주도권을 잃어가던 Mozilla가 AI 시대에 대응하기 위해 선택적 AI 통합 전략을 추진하고 있으며, 이는 사용자 프라이버시와 기술 혁신 사이의 균형을 모색하는 시도로 주목된다.",
+    "content": "## 큐레이션 노트\n\nFirefox의 AI 기능 도입은 단순한 기술 추가를 넘어 브라우저 시장의 경쟁 방식을 변화시키는 신호다. Chrome과 Edge가 적극적으로 AI를 통합하는 가운데, Mozilla가 '사용자 선택'을 강조하는 방식은 프라이버시 중심의 포지셔닝과 일관성을 유지하면서도 시대 변화에 대응하려는 전략으로 평가된다. 오픈소스 커뮤니티와 프라이버시 옹호층의 신뢰를 잃지 않으면서 AI 혁신에 동참할 수 있을지가 향후 Firefox의 경쟁력을 결정하는 핵심이 될 것이다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-18",
+    "tags": [
+      "AI",
+      "Firefox",
+      "Mozilla",
+      "브라우저",
+      "프라이버시",
+      "AI통합",
+      "사용자선택"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91590598/mozilla-is-bringing-ai-to-firefox-but-only-if-you-want-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91590598/mozilla-is-bringing-ai-to-firefox-but-only-if-you-want-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — Mozilla is bringing AI to Firefox—but only if you want it"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "686"
   }
 ]
