@@ -2,7 +2,7 @@
 
 import { useEffect } from "react";
 import "./ad-revenue.css";
-import GlobalNav from "@/components/GlobalNav";
+import SimpleNav from "@/components/SimpleNav";
 
 export default function AdRevenuePage() {
   useEffect(() => {
@@ -367,7 +367,7 @@ export default function AdRevenuePage() {
 
   return (
     <div className="ad-revenue-page" id="adRevenuePageRoot">
-      <GlobalNav />
+      <SimpleNav />
       <div className="app">
 
         <div className="hero">
