@@ -282,7 +282,7 @@ export default function AdRevenuePage() {
               <label>PV</label>
               <div style="position:relative">
                 <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}" style="padding-right:28px;width:100%;box-sizing:border-box">
-                <div class="pv-spinner" data-id="${z.id}" style="position:absolute;right:4px;top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:1px;">
+                <div class="pv-spinner" data-id="${z.id}" style="position:absolute;right:4px;top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:1px;opacity:0;transition:opacity 0.15s;">
                   <button class="pv-up" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-radius:3px 3px 0 0;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▲</button>
                   <button class="pv-down" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-top:none;border-radius:0 0 3px 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▼</button>
                 </div>
@@ -332,6 +332,14 @@ export default function AdRevenuePage() {
             }
           });
         });
+      });
+      list.querySelectorAll(".field-mini div[style*='position:relative']").forEach((wrap) => {
+        const spinner = wrap.querySelector(".pv-spinner") as HTMLElement | null;
+        if (!spinner) return;
+        wrap.addEventListener("mouseenter", () => { spinner.style.opacity = "1"; });
+        wrap.addEventListener("mouseleave", () => { if (document.activeElement !== wrap.querySelector("input")) spinner.style.opacity = "0"; });
+        wrap.querySelector("input")?.addEventListener("focus", () => { spinner.style.opacity = "1"; });
+        wrap.querySelector("input")?.addEventListener("blur", () => { spinner.style.opacity = "0"; });
       });
       list.querySelectorAll(".pv-up, .pv-down").forEach((btn) => {
         btn.addEventListener("click", (e) => {

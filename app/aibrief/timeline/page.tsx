@@ -14,6 +14,12 @@ export const metadata: Metadata = {
     type: "website",
   },
   alternates: { canonical: "https://toolr.kr/aibrief/timeline" },
+  robots: { index: true, follow: true },
+  twitter: {
+    card: "summary",
+    title: "타임라인 — ai brief",
+    description: "AI·디자인·PM 분야 뉴스를 날짜 순으로 확인하세요.",
+  },
 };
 
 const COMPANY_COLORS: Record<string, string> = {

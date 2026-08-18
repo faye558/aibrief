@@ -32,6 +32,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       type: "article",
     },
     alternates: { canonical: `https://toolr.kr/aibrief/article/${slug}` },
+    robots: { index: true, follow: true },
+    twitter: {
+      card: "summary",
+      title: article.title,
+      description: article.summary?.slice(0, 160),
+    },
   };
 }
 

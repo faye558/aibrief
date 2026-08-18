@@ -13,6 +13,12 @@ export const metadata: Metadata = {
     type: "website",
   },
   alternates: { canonical: "https://toolr.kr" },
+  robots: { index: true, follow: true },
+  twitter: {
+    card: "summary",
+    title: "toolr — 작고 실용적인 AI·테크 웹 툴",
+    description: "toolr는 AI·테크 분야의 작고 실용적인 웹 툴을 만듭니다.",
+  },
 };
 
 export default function ToolrPage() {

@@ -17,6 +17,11 @@ export const metadata: Metadata = {
     type: "website",
   },
   alternates: { canonical: "https://toolr.kr/aibrief" },
+  twitter: {
+    card: "summary",
+    title: "ai brief — AI·디자인·PM 업계 뉴스 큐레이션",
+    description: "AI 디자인 툴, UX/프로덕트 디자인, PM·BD의 일하는 방식 변화 등 핵심 아티클을 매일 자동 수집·요약합니다.",
+  },
 };
 
 export interface Article {
