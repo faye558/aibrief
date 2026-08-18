@@ -1,5 +1,161 @@
 [
   {
+    "id": "668",
+    "slug": "the-hype-is-fading-why-engineers-are-abandoning-model-contex",
+    "title": "The Hype Is Fading: Why Engineers Are Abandoning Model Context Protocol in Claude Code",
+    "summary": "Uncapped tool schemas are burning thousands of tokens before your first prompt. Here is how modern teams are reclaiming context and&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ayushgupta2959.medium.com/the-hype-is-fading-why-engineers-are-abandoning-model-context-protocol-in-claude-code-b6ca522d40d4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ayushgupta2959.medium.com/the-hype-is-fading-why-engineers-are-abandoning-model-context-protocol-in-claude-code-b6ca522d40d4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "669",
+    "slug": "the-agent-plugin-spec-fixes-my-folder-problem-it-doesnt-fix",
+    "title": "The Agent Plugin Spec Fixes My Folder Problem. It Doesn’t Fix My Real One.",
+    "summary": "Every time I wanted the same capability in a second agent tool, I already knew the next hour of my life. Copy the folder. Rename the&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.stackademic.com/the-agent-plugin-spec-fixes-my-folder-problem-it-doesnt-fix-my-real-one-75f1f4af5153?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.stackademic.com/the-agent-plugin-spec-fixes-my-folder-problem-it-doesnt-fix-my-real-one-75f1f4af5153?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "670",
+    "slug": "building-a-second-brain-for-claude-code-the-architecture-and",
+    "title": "Building a Second Brain for Claude Code: The Architecture and the Features It Took to Make It…",
+    "summary": "I run Claude Code across a number of separate projects. Each one accumulates its own hard-won lessons: gotchas, architectural decisions&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@prasannanattuthurai/building-a-second-brain-for-claude-code-the-architecture-and-the-features-it-took-to-make-it-7ce4f106087c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@prasannanattuthurai/building-a-second-brain-for-claude-code-the-architecture-and-the-features-it-took-to-make-it-7ce4f106087c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "671",
+    "slug": "i-asked-claude-to-review-my-code-it-said-looks-good-i-should",
+    "title": "I Asked Claude to Review My Code. It Said “Looks Good.” I Should Have Been Worried.",
+    "summary": "&#x201C;Looks good&#x201D; isn&#x2019;t a code review. It&#x2019;s a shrug with extra steps.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-asked-claude-to-review-my-code-it-said-looks-good-i-should-have-been-worried-a02ca96d3ad1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-asked-claude-to-review-my-code-it-said-looks-good-i-should-have-been-worried-a02ca96d3ad1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "672",
+    "slug": "i-stopped-asking-claude-to-fix-my-bugs-i-started-asking-it-t",
+    "title": "I Stopped Asking Claude to Fix My Bugs. I Started Asking It to Prove It Found the Right One.",
+    "summary": "The fixes got faster. That wasn&#x2019;t the part that surprised me.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-stopped-asking-claude-to-fix-my-bugs-i-started-asking-it-to-prove-it-found-the-right-one-a622eb81464b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-stopped-asking-claude-to-fix-my-bugs-i-started-asking-it-to-prove-it-found-the-right-one-a622eb81464b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "673",
+    "slug": "i-stopped-asking-claude-to-fix-my-bugs-i-started-doing-this",
+    "title": "I Stopped Asking Claude to Fix My Bugs. I Started Doing This Instead.",
+    "summary": "The bug it fixed correctly was covering for the one it didn&#x2019;t know existed.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-stopped-asking-claude-to-fix-my-bugs-i-started-doing-this-instead-f315040a7f4c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-stopped-asking-claude-to-fix-my-bugs-i-started-doing-this-instead-f315040a7f4c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "658",
     "slug": "skillsgate-finally-someone-made-ai-agent-skill-management-vi",
     "title": "SkillsGate: Finally, Someone Made AI Agent Skill Management Visual",
