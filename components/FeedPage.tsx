@@ -525,14 +525,28 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               </div>
               {/* NEW 섹션은 1단 */}
               <div style={{ display: "flex", flexDirection: "column", gap: "10px" }}>
-                {newCards.map((a) => (
+                {newCards.filter(a => a.timeAgo === "today").map((a) => (
+                  <ArticleCard key={a.id} article={a} large />
+                ))}
+              </div>
+              {/* TODAY 기사 직후 배너 */}
+              {newCards.some(a => a.timeAgo === "today") && (
+                <div style={{ margin: "12px 0" }}>
+                  <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
+                    <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
+                  </a>
+                </div>
+              )}
+              {/* 나머지 NEW 카드 */}
+              <div style={{ display: "flex", flexDirection: "column", gap: "10px", marginTop: "10px" }}>
+                {newCards.filter(a => a.timeAgo !== "today").map((a) => (
                   <ArticleCard key={a.id} article={a} large />
                 ))}
               </div>
             </div>
           )}
 
-          {/* 쿠팡 배너 1 — NEW 섹션 직후 */}
+          {/* 쿠팡 배너 — NEW 섹션 직후 */}
           <div style={{ margin: "4px 0 20px" }}>
             <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
               <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
