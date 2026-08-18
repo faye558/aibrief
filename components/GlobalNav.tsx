@@ -83,6 +83,9 @@ export default function GlobalNav() {
             <a href="https://travel.toolr.kr/" style={{ display: "block", padding: "10px 14px", borderRadius: "8px", fontSize: "14px", color: "var(--text)", textDecoration: "none" }}>
               ✈️ travel
             </a>
+            <a href="/ad-revenue" style={{ display: "block", padding: "10px 14px", borderRadius: "8px", fontSize: "14px", color: "var(--text)", textDecoration: "none" }}>
+              📊 광고 수익 계산기
+            </a>
             <a href="https://toolr.kr" style={{ display: "block", padding: "10px 14px", borderRadius: "8px", fontSize: "14px", color: "var(--text)", textDecoration: "none" }}>
               <span style={{ display: "inline-block", width: "8px", height: "8px", borderRadius: "50%", background: "linear-gradient(135deg,#7B97FF,#a78bfa)", marginRight: "8px", verticalAlign: "middle" }} />
               toolr
