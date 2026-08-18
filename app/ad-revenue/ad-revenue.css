@@ -36,6 +36,7 @@
     --wf-final-glow:rgba(124,111,247,0.45);
   }
 }
+html[data-theme="dark"] .ad-revenue-page,
 .ad-revenue-page[data-theme="dark"]{
   --ink:#16171A;
   --panel:#1E1F23;
@@ -53,6 +54,7 @@
   --wf-final-2:#6355D6;
   --wf-final-glow:rgba(124,111,247,0.45);
 }
+html[data-theme="light"] .ad-revenue-page,
 .ad-revenue-page[data-theme="light"]{
   --ink:#F5F5F7;
   --panel:#FFFFFF;
