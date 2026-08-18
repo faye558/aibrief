@@ -1,5 +1,265 @@
 [
   {
+    "id": "658",
+    "slug": "skillsgate-finally-someone-made-ai-agent-skill-management-vi",
+    "title": "SkillsGate: Finally, Someone Made AI Agent Skill Management Visual",
+    "summary": "For those of us who regularly tinker with agents like Claude Code, Cursor, and Codex, there&apos;s a shared pain point: the more Skills you&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://githubdaily.medium.com/skillsgate-finally-someone-made-ai-agent-skill-management-visual-e867b98f43ef?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://githubdaily.medium.com/skillsgate-finally-someone-made-ai-agent-skill-management-visual-e867b98f43ef?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "659",
+    "slug": "the-famous-cursor-prompts-every-software-engineer-should-kno",
+    "title": "The Famous Cursor Prompts Every Software Engineer Should Know",
+    "summary": "The prompt patterns that separate a fast typist from an amplified developer.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@salmanmasood42/the-famous-cursor-prompts-every-software-engineer-should-know-c78d68869019?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@salmanmasood42/the-famous-cursor-prompts-every-software-engineer-should-know-c78d68869019?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "660",
+    "slug": "7-ai-coding-habits-that-are-quietly-wrecking-your-codebase",
+    "title": "7 AI Coding Habits That Are Quietly Wrecking Your Codebase",
+    "summary": "7 AI Coding Habits That Are Quietly Wrecking Your CodebaseContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@salmanmasood42/7-ai-coding-habits-that-are-quietly-wrecking-your-codebase-64f2696c948a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@salmanmasood42/7-ai-coding-habits-that-are-quietly-wrecking-your-codebase-64f2696c948a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "661",
+    "slug": "building-a-brandnew-leave-management-application-with-pega-i",
+    "title": "Building a Brand-New Leave Management Application with Pega Infinity 26 and Claude Code",
+    "summary": "From business idea to a fully validated enterprise application using AI-assisted deliveryContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sajal.roy/building-a-brand-new-leave-management-application-with-pega-infinity-26-and-claude-code-c9449dcf3c76?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sajal.roy/building-a-brand-new-leave-management-application-with-pega-infinity-26-and-claude-code-c9449dcf3c76?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "662",
+    "slug": "i-built-a-merciless-dojo-sensei-on-top-of-claude-code-heres",
+    "title": "I Built a Merciless Dojo Sensei on Top of Claude Code — Here’s Why",
+    "summary": "Why I got tired of tutorials, and built claude-dojo, an open-source Claude Code skill that replaces &quot;watch and follow along&quot; with one HARD&#",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@imdevkach/i-built-a-merciless-dojo-sensei-on-top-of-claude-code-heres-why-fdf33eee99de?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@imdevkach/i-built-a-merciless-dojo-sensei-on-top-of-claude-code-heres-why-fdf33eee99de?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "663",
+    "slug": "i-built-a-free-mac-app-and-found-out-i-had-106-skills-instal",
+    "title": "I built a free Mac app and found out I had 106 skills installed",
+    "summary": "It starts with one. A folder with a SKILL.md in it, teaching the agent to do one thing. It worked, so I wrote another. I installed a few&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@migdrum/i-built-a-free-mac-app-and-found-out-i-had-106-skills-installed-495b25f88c4b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@migdrum/i-built-a-free-mac-app-and-found-out-i-had-106-skills-installed-495b25f88c4b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "664",
+    "slug": "how-i-vibe-coded-my-portfolio-as-a-product-designer",
+    "title": "How I vibe coded my portfolio as a product designer",
+    "summary": "A close look at how I used AI to help me build and write my portfolio, and what happened along the way.Continue reading on Bootcamp »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/design-bootcamp/how-i-vibe-coded-my-portfolio-as-a-product-designer-04e0dc36e666?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/design-bootcamp/how-i-vibe-coded-my-portfolio-as-a-product-designer-04e0dc36e666?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "665",
+    "slug": "12-ai-agent-skills-hidden-across-38-million-github-files",
+    "title": "12 AI Agent Skills Hidden Across 3.8 Million GitHub Files",
+    "summary": "These reusable skills give Claude Code, Codex and other coding agents new workflows for research, debugging, testing, MCP development and&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://leandrocaladoferreira.medium.com/12-ai-agent-skills-hidden-across-3-8-million-github-files-85ad9fa76bdd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://leandrocaladoferreira.medium.com/12-ai-agent-skills-hidden-across-3-8-million-github-files-85ad9fa76bdd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "666",
+    "slug": "your-workflow-is-undocumented-code",
+    "title": "Your Workflow Is Undocumented Code",
+    "summary": "What I found out when I automated my publishing pipeline with Claude Code.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ale.garavaglia/your-workflow-is-undocumented-code-a21b753c6453?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ale.garavaglia/your-workflow-is-undocumented-code-a21b753c6453?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "667",
+    "slug": "people-are-googling-claude-code-skills-that-slow-the-agent-d",
+    "title": "People are googling Claude Code skills that slow the agent down",
+    "summary": "You sit down to ship a feature. The first thing you google is not a code generator. It is a skill that will argue with you until the plan&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info_73960/people-are-googling-claude-code-skills-that-slow-the-agent-down-e972a0022060?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info_73960/people-are-googling-claude-code-skills-that-slow-the-agent-down-e972a0022060?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "646",
     "slug": "aiguided-workflows-the-next-evolution-of-standard-operating",
     "title": "AI-Guided Workflows: The Next Evolution of Standard Operating Procedures",
