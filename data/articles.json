@@ -17414,7 +17414,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "442"
+    "id": "442",
+    "hidden": true
   },
   {
     "slug": "ai-news-6",
