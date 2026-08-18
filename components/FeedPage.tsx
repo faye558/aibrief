@@ -457,6 +457,16 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
             )}
           </div>
 
+          {/* 피드 / 타임라인 탭 */}
+          <div style={{ display: "flex", gap: "4px", marginBottom: "20px" }}>
+            <a href="/aibrief" style={{ padding: "6px 14px", borderRadius: "20px", fontSize: "13px", fontWeight: 600, textDecoration: "none", background: "var(--accent)", color: "#fff" }}>
+              피드
+            </a>
+            <a href="/aibrief/timeline" style={{ padding: "6px 14px", borderRadius: "20px", fontSize: "13px", fontWeight: 600, textDecoration: "none", background: "var(--surface)", border: "1px solid var(--border)", color: "var(--text-muted)" }}>
+              타임라인
+            </a>
+          </div>
+
           <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: hasFilter ? "12px" : "20px" }}>
             <div>
               <h1 style={{ fontSize: "20px", fontWeight: 700, color: "var(--text)", letterSpacing: "-0.4px" }}>

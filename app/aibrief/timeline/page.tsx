@@ -96,6 +96,16 @@ export default function TimelinePage({
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       {/* 헤더 */}
+      {/* 피드 / 타임라인 탭 */}
+      <div className="flex gap-1 mb-6">
+        <a href="/aibrief" style={{ padding: "6px 14px", borderRadius: "20px", fontSize: "13px", fontWeight: 600, textDecoration: "none", background: "var(--surface, #f5f5f7)", border: "1px solid var(--border, #d8d8dc)", color: "var(--text-muted, #55556a)" }}>
+          피드
+        </a>
+        <a href="/aibrief/timeline" style={{ padding: "6px 14px", borderRadius: "20px", fontSize: "13px", fontWeight: 600, textDecoration: "none", background: "var(--accent, #6055E8)", color: "#fff" }}>
+          타임라인
+        </a>
+      </div>
+
       <div className="mb-8">
         <h1 className="text-3xl font-black text-gray-900 mb-1">
           {company ? `${company} 타임라인` : "타임라인"}
