@@ -2,6 +2,7 @@
 
 import { useEffect } from "react";
 import "./ad-revenue.css";
+import GlobalNav from "@/components/GlobalNav";
 
 export default function AdRevenuePage() {
   useEffect(() => {
@@ -356,42 +357,18 @@ export default function AdRevenuePage() {
     renderRefTables();
     render();
 
-    // Theme toggle — shares the same "theme" localStorage key used across toolr.kr
-    // (aibrief's GlobalNav) so switching theme on one page stays applied on the other.
-    // Falls back to system preference on first visit, matching the original prototype.
-    const pageRoot = document.getElementById("adRevenuePageRoot")!;
-    const themeToggleBtn = document.getElementById("themeToggle")!;
-    const stored = localStorage.getItem("theme");
-    const systemPrefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
-    let currentTheme: "dark" | "light" = stored === "dark" || stored === "light" ? stored : systemPrefersDark ? "dark" : "light";
-
-    function applyTheme(t: "dark" | "light") {
-      currentTheme = t;
-      pageRoot.setAttribute("data-theme", t);
-      localStorage.setItem("theme", t);
-      themeToggleBtn.textContent = t === "dark" ? "☀️" : "🌙";
-    }
-    applyTheme(currentTheme);
-
-    function handleThemeToggle() {
-      applyTheme(currentTheme === "dark" ? "light" : "dark");
-    }
-    themeToggleBtn.addEventListener("click", handleThemeToggle);
-
     return () => {
       refTabsEl.removeEventListener("click", handleRefTabsClick as EventListener);
       addZoneBtnEl.removeEventListener("click", handleAddZoneClick);
       channelTabsEl.removeEventListener("click", handleChannelTabsClick as EventListener);
       rsRateEl.removeEventListener("input", handleRsRateInput);
-      themeToggleBtn.removeEventListener("click", handleThemeToggle);
     };
   }, []);
 
   return (
     <div className="ad-revenue-page" id="adRevenuePageRoot">
+      <GlobalNav />
       <div className="app">
-        <a href="/" className="back-link">← toolr.kr</a>
-        <button className="theme-toggle" id="themeToggle" title="다크모드 전환" aria-label="다크모드 전환">🌙</button>
 
         <div className="hero">
           <span className="eyebrow">Ad Revenue Simulator</span>
