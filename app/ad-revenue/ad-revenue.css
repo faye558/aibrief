@@ -392,7 +392,7 @@
   border-radius:14px;
   padding:24px 18px 14px;
   max-width:100%;
-  overflow-x:auto;
+  overflow-x:hidden;
 }
 .ad-revenue-page .waterfall{
   position:relative;
