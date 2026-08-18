@@ -280,7 +280,7 @@ export default function AdRevenuePage() {
           <div class="zone-fields">
             <div class="field-mini">
               <label>PV</label>
-              <input type="number" data-field="pv" value="${z.pv}" min="0" step="10000">
+              <input type="text" inputmode="numeric" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}">
             </div>
             <div class="field-mini">
               <label>CTR %</label>
@@ -306,8 +306,22 @@ export default function AdRevenuePage() {
             const field = target.dataset.field!;
             const zone = zones.find((z) => z.id === id);
             if (!zone) return;
-            (zone as any)[field] = field === "name" ? target.value : parseFloat(target.value) || 0;
+            if (field === "name") {
+              zone.name = target.value;
+            } else if (field === "pv") {
+              const raw = target.value.replace(/,/g, "");
+              zone.pv = parseFloat(raw) || 0;
+            } else {
+              (zone as any)[field] = parseFloat(target.value) || 0;
+            }
             updateOutputs();
+          });
+          input.addEventListener("blur", (e) => {
+            const target = e.target as HTMLInputElement;
+            if (target.dataset.field === "pv") {
+              const zone = zones.find((z) => z.id === id);
+              if (zone) target.value = zone.pv.toLocaleString("ko-KR");
+            }
           });
         });
       });
