@@ -17160,7 +17160,8 @@
     "communityLinks": null,
     "slug": "ux-collective-ios-safari",
     "draft": false,
-    "id": "434"
+    "id": "434",
+    "hidden": true
   },
   {
     "title": "UX Collective 주간 큐레이션 — AI 시대의 판단력 병입, 챗봇 UI의 한계, 디자인 권위",
