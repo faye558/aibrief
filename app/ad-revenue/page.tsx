@@ -280,8 +280,8 @@ export default function AdRevenuePage() {
           <div class="zone-fields">
             <div class="field-mini">
               <label>PV</label>
-              <div style="position:relative">
-                <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}" style="padding-right:28px;width:100%;box-sizing:border-box">
+              <div style="position:relative;display:flex;">
+                <input type="text" data-field="pv" value="${z.pv.toLocaleString('ko-KR')}" style="padding-right:28px;width:100%;box-sizing:border-box;flex:1">
                 <div class="pv-spinner" data-id="${z.id}" style="position:absolute;right:4px;top:50%;transform:translateY(-50%);display:flex;flex-direction:column;gap:1px;opacity:0;transition:opacity 0.15s;">
                   <button class="pv-up" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-radius:3px 3px 0 0;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▲</button>
                   <button class="pv-down" data-id="${z.id}" tabindex="-1" style="width:18px;height:14px;background:var(--panel2);border:1px solid var(--line);border-top:none;border-radius:0 0 3px 3px;cursor:pointer;display:flex;align-items:center;justify-content:center;padding:0;color:var(--paper);font-size:8px;line-height:1;">▼</button>
