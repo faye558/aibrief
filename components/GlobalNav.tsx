@@ -47,7 +47,7 @@ export default function GlobalNav() {
 
         <div style={{ flex: 1 }} />
 
-        <a href="https://travel.toolr.kr/" style={{ fontSize: "13px", color: "var(--text-faint)", padding: "5px 10px", borderRadius: "6px", textDecoration: "none" }}>
+        <a href="https://toolr.kr/" style={{ fontSize: "13px", color: "var(--text-faint)", padding: "5px 10px", borderRadius: "6px", textDecoration: "none" }}>
           toolr
         </a>
 
