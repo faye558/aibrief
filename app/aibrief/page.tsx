@@ -1,7 +1,23 @@
 import { readFileSync } from "fs";
 import { join } from "path";
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import FeedPage from "@/components/FeedPage";
+
+export const metadata: Metadata = {
+  title: "ai brief — AI·디자인·PM 업계 뉴스 큐레이션",
+  description: "AI 디자인 툴, UX/프로덕트 디자인, PM·BD의 일하는 방식 변화 등 핵심 아티클을 매일 자동 수집·요약합니다.",
+  keywords: ["AI 뉴스", "AI 디자인", "UX 뉴스", "PM 뉴스", "프로덕트 매니저", "AI 큐레이션", "테크 뉴스"],
+  openGraph: {
+    title: "ai brief — AI·디자인·PM 업계 뉴스 큐레이션",
+    description: "AI 디자인 툴, UX/프로덕트 디자인, PM·BD의 일하는 방식 변화 등 핵심 아티클을 매일 자동 수집·요약합니다.",
+    url: "https://toolr.kr/aibrief",
+    siteName: "toolr",
+    locale: "ko_KR",
+    type: "website",
+  },
+  alternates: { canonical: "https://toolr.kr/aibrief" },
+};
 
 export interface Article {
   id: string;

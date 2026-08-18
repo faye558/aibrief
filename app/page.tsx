@@ -1,8 +1,18 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "toolr — AI·테크 서비스",
-  description: "toolr는 AI·테크 분야의 유용한 서비스를 만듭니다.",
+  title: "toolr — 작고 실용적인 AI·테크 웹 툴",
+  description: "toolr는 AI·테크 분야의 작고 실용적인 웹 툴을 만듭니다. ai brief, 광고 수익 계산기 등을 무료로 사용해보세요.",
+  keywords: ["toolr", "ai brief", "광고 수익 계산기", "AI 뉴스", "웹 툴"],
+  openGraph: {
+    title: "toolr — 작고 실용적인 AI·테크 웹 툴",
+    description: "toolr는 AI·테크 분야의 작고 실용적인 웹 툴을 만듭니다.",
+    url: "https://toolr.kr",
+    siteName: "toolr",
+    locale: "ko_KR",
+    type: "website",
+  },
+  alternates: { canonical: "https://toolr.kr" },
 };
 
 export default function ToolrPage() {
