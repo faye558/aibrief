@@ -1,5 +1,291 @@
 [
   {
+    "id": "699",
+    "slug": "rust-enters-the-stack-why-pythononly-ai-pipelines-are-changi",
+    "title": "Rust  Enters the Stack: Why Python-Only AI Pipelines Are Changing.",
+    "summary": "Rust entering an AI pipeline doesn&#x2019;t mean Rust replacing Python. It means Rust taking over one specific job: standing at the front of the&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pateldeval07/rust-enters-the-stack-why-python-only-ai-pipelines-are-changing-b9eb98fd9169?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pateldeval07/rust-enters-the-stack-why-python-only-ai-pipelines-are-changing-b9eb98fd9169?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "700",
+    "slug": "beyond-prompts-what-we-learned-by-giving-two-ai-agents-the-s",
+    "title": "Beyond Prompts: What We Learned by Giving Two AI Agents the Same Skill",
+    "summary": "For the last several months, I have been experimenting with a question that sounds simple but becomes increasingly complicated the more&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jsanca/beyond-prompts-what-we-learned-by-giving-two-ai-agents-the-same-skill-6042ac51c73d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jsanca/beyond-prompts-what-we-learned-by-giving-two-ai-agents-the-same-skill-6042ac51c73d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "701",
+    "slug": "designing-reliable-mcp-apis",
+    "title": "Designing Reliable MCP APIs",
+    "summary": "Your tools are consumed by a probabilistic client. Design for that.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kritnandan3/designing-reliable-mcp-apis-f37e526dcc3f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kritnandan3/designing-reliable-mcp-apis-f37e526dcc3f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "702",
+    "slug": "my-entire-finance-system-is-two-files",
+    "title": "My Entire Finance System Is Two Files",
+    "summary": "An Excel table, an HTML dashboard, and the ice cream date that paid me &#x20AC;510.50Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ConstructByDee/my-entire-finance-system-is-two-files-f4fe87ee7057?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ConstructByDee/my-entire-finance-system-is-two-files-f4fe87ee7057?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "703",
+    "slug": "vibe-coded-apps-are-the-new-spreadsheets",
+    "title": "Vibe Coded Apps are the new spreadsheets",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tedisaacs/vibe-coded-apps-are-the-new-spreadsheets-fdbd11e53623?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tedisaacs/vibe-coded-apps-are-the-new-spreadsheets-fdbd11e53623?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "704",
+    "slug": "claude-directs-whilst-a-local-model-writes-the-code",
+    "title": "Claude directs whilst a local model writes the code",
+    "summary": "How a small local model took over most of the code-writing in my Claude Code workflow &#x2014; and why getting the measurements right was harder&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Greenhelmet/claude-directs-whilst-a-local-model-writes-the-code-773ed818a63e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Greenhelmet/claude-directs-whilst-a-local-model-writes-the-code-773ed818a63e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "705",
+    "slug": "build-a-full-ai-sales-outreach-system-in-1-hour-using-claude",
+    "title": "Build a Full AI Sales Outreach System in 1 Hour Using Claude Code",
+    "summary": "Sales agencies charge $3,000 to $5,000 per month for outreach. Most of that money goes to researching prospects and writing personalized&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/ai-sales-outreach-system-using-claude-code-53517fdeda7e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/ai-sales-outreach-system-using-claude-code-53517fdeda7e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "706",
+    "slug": "i-took-anthropics-claude-code-101-course-heres-what-every-de",
+    "title": "I Took Anthropic’s “Claude Code 101” Course — Here’s What Every Developer Should Know",
+    "summary": "AI coding agents aren&#x2019;t just autocomplete on steroids. They&#x2019;re a different way of working, and this free course lays out exactly how.Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ahakash3686/i-took-anthropics-claude-code-101-course-here-s-what-every-developer-should-know-c32a27f2aa36?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ahakash3686/i-took-anthropics-claude-code-101-course-here-s-what-every-developer-should-know-c32a27f2aa36?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "707",
+    "slug": "three-uiux-improvements-for-anthropics-claude",
+    "title": "Three UI/UX improvements for Anthropic’s Claude",
+    "summary": "1. Add Search Bar. It comes without saying how useful could be to be able to search within chat sessions or across chats, projects, etc.Continue readi",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Madriz/three-ui-ux-improvements-for-anthropics-claude-8f9e17c3200a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Madriz/three-ui-ux-improvements-for-anthropics-claude-8f9e17c3200a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "708",
+    "slug": "claude-code-design-i-tried-the-new-design-command-stop-codin",
+    "title": "Claude Code /design: I Tried the (New) Design Command (Stop Coding First)",
+    "summary": "Anthropic just released an early preview of the /design command in Claude Code, and I tested it immediately.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@joe.njenga/claude-code-design-i-tried-the-new-design-command-stop-coding-first-8e11be8d1977?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@joe.njenga/claude-code-design-i-tried-the-new-design-command-stop-coding-first-8e11be8d1977?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "709",
+    "slug": "a-real-claude-code-use-case-i-selfhosted-a-saas-tool-for-0-a",
+    "title": "A Real Claude Code Use Case: I Self-Hosted a SaaS Tool for $0 a Month!",
+    "summary": "Most Claude Code use cases I read about are small: fix this bug, write this function, refactor this file. Mine was bigger, and dumber in&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://dkspeaks.medium.com/a-real-claude-code-use-case-i-self-hosted-a-saas-tool-for-0-a-month-e768f80c875a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://dkspeaks.medium.com/a-real-claude-code-use-case-i-self-hosted-a-saas-tool-for-0-a-month-e768f80c875a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "687",
     "slug": "i-ran-chatwoot-headless-and-built-an-intercomclass-support-s",
     "title": "I ran Chatwoot headless and built an Intercom-class support system in 8 days",
@@ -19091,5 +19377,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "686"
+  },
+  {
+    "title": "Linux 7.3, VRAM 부족 시 성능 저하 및 충돌 개선 패치 포함",
+    "summary": "Linux 7.3에 포함될 VRAM 관리 패치는 물리 VRAM을 초과한 게임 메모리를 시스템 RAM으로 내보낼 때 발생하는 충돌과 극심한 성능 저하를 줄이는 기반을 마련한다. VRAM 초과 할당 시 시스템 RAM 접근은 PCIe를 경유하기 때문에 성능 병목이 발생하며, PCIe 4.0 x16 환경에서도 프레임당 처리에 제약이 생긴다.",
+    "content": "## 주요 내용\n- Linux 7.3에 VRAM 관리 개선 패치 포함 예정\n- 물리 VRAM 초과 시 게임 메모리를 시스템 RAM으로 내보내는 과정에서 발생하는 충돌 및 극심한 성능 저하 문제 완화\n- VRAM 초과 할당은 가능하나, 시스템 RAM 접근은 PCIe를 경유하므로 성능 저하 발생\n- PCIe 4.0 x16 환경에서도 프레임당 처리 성능에 제약 존재\n\n## 의미\n이번 패치는 VRAM이 부족한 환경에서 리눅스 기반 게이밍의 안정성과 성능을 개선하는 기반을 제공한다는 점에서 의미가 있다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-18",
+    "tags": [
+      "Linux",
+      "VRAM",
+      "게이밍",
+      "메모리관리",
+      "PCIe"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32620",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32620",
+        "name": "GeekNews — Linux 7.3, VRAM 부족 상황에서 성능 개선"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-linux-vram",
+    "draft": false,
+    "id": "698"
   }
 ]
