@@ -1,5 +1,343 @@
 [
   {
+    "id": "726",
+    "slug": "how-full-stack-developers-build-ai-agent-interfaces-and-work",
+    "title": "How Full Stack Developers Build AI Agent Interfaces and Workflows",
+    "summary": "AI agents are transforming interactions between users and software. Instead of scrolling through screen after screen, filling out forms&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/front-end-weekly/how-full-stack-developers-build-ai-agent-interfaces-and-workflows-9b679e188bab?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/front-end-weekly/how-full-stack-developers-build-ai-agent-interfaces-and-workflows-9b679e188bab?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "727",
+    "slug": "what-is-aipowered-workflow-automation-a-simple-guide-for-bus",
+    "title": "What Is AI-Powered Workflow Automation? A Simple Guide for Businesses",
+    "summary": "If you&#x2019;ve heard the phrase AI-powered workflow automation and felt your eyes glaze over a little, you&#x2019;re not alone. It sounds technical&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sarahmitchell.writer/what-is-ai-powered-workflow-automation-a-simple-guide-for-businesses-3080583c59c7?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sarahmitchell.writer/what-is-ai-powered-workflow-automation-a-simple-guide-for-businesses-3080583c59c7?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "728",
+    "slug": "reelbase",
+    "title": "Reelbase",
+    "summary": "Create Viral TikToks in SecondsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sergiuchiriac88/reelbase-c9156f6efc9e?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sergiuchiriac88/reelbase-c9156f6efc9e?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "729",
+    "slug": "i-tested-matt-pococks-claude-code-skills-and-the-lesson-was",
+    "title": "I Tested Matt Pocock’s Claude Code Skills, And The Lesson Was Not What I Expected",
+    "summary": "I went in looking for better AI coding prompts. What I found was a reminder that agents need engineering discipline more than they need&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.plainenglish.io/i-tested-matt-pococks-claude-code-skills-and-the-lesson-was-not-what-i-expected-9f2aceca59c6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.plainenglish.io/i-tested-matt-pococks-claude-code-skills-and-the-lesson-was-not-what-i-expected-9f2aceca59c6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "730",
+    "slug": "stop-wasting-prompts-the-claude-habit-that-changed-my-output",
+    "title": "Stop Wasting Prompts: The Claude Habit That Changed My Output",
+    "summary": "For the first year I used Claude, almost every session started the same way. New chat, then two or three paragraphs re-explaining who I am&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chienwa1007/stop-wasting-prompts-the-claude-habit-that-changed-my-output-1963223c835f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chienwa1007/stop-wasting-prompts-the-claude-habit-that-changed-my-output-1963223c835f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "731",
+    "slug": "i-tested-whether-coding-agents-can-learn-when-theyre-done",
+    "title": "I tested whether coding agents can learn when they’re done",
+    "summary": "92 repositories, two coding models, 308 blinded annotations, and a threshold I wrote down before I knew the answerContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@haring.nathan/i-tested-whether-coding-agents-can-learn-when-theyre-done-1b02457a1ecc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@haring.nathan/i-tested-whether-coding-agents-can-learn-when-theyre-done-1b02457a1ecc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "732",
+    "slug": "i-tried-the-new-claude-code-rival-deepseek-harness-thats-wil",
+    "title": "I Tried the (New) Claude Code Rival DeepSeek Harness (That’s Wild & FREE)",
+    "summary": "This is one unlikely project to hit 165K+ stars in just a few days after the launch, but looking closely, it starts to make sense.Continue reading on",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@joe.njenga/i-tried-the-new-claude-code-rival-deepseek-harness-thats-wild-free-6e195f2ae7ae?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@joe.njenga/i-tried-the-new-claude-code-rival-deepseek-harness-thats-wild-free-6e195f2ae7ae?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "733",
+    "slug": "flutter-347-splits-material-cupertino-from-the-sdk-top-9-ai",
+    "title": "Flutter 3.47 Splits Material & Cupertino from the SDK — Top 9 AI & Flutter News August 19, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/flutter-3-47-splits-material-cupertino-from-the-sdk-top-9-ai-flutter-news-august-19-2026-4fd4ff5d61b2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/flutter-3-47-splits-material-cupertino-from-the-sdk-top-9-ai-flutter-news-august-19-2026-4fd4ff5d61b2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "734",
+    "slug": "anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke",
+    "title": "Anatomy of a Sandbox Escape: How Literal Path Confusion Broke Claude Code’s Security Boundary",
+    "summary": "A technical breakdown of a High-severity (CVSS 7.7) vulnerability in Claude Code&#x2019;s macOS sandbox, and the parsing ambiguity behind itContinue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sonalisood0/anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke-claude-codes-security-boundary-95ef9abbfa2e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sonalisood0/anatomy-of-a-sandbox-escape-how-literal-path-confusion-broke-claude-codes-security-boundary-95ef9abbfa2e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "735",
+    "slug": "claude-code-commands-i-used-them-all-as-developer",
+    "title": "Claude Code commands : I used Them all as Developer",
+    "summary": "Moving Claude into the terminal is one of the best upgrades to the AI dev workflow, but the slash commands are the secret sauce. By typing&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aarthisubramani1973/claude-code-commands-i-used-them-all-as-developer-and-its-usage-db21443cb847?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aarthisubramani1973/claude-code-commands-i-used-them-all-as-developer-and-its-usage-db21443cb847?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "736",
+    "slug": "one-ide-many-worktrees-my-setup-for-aidriven-development",
+    "title": "One IDE, Many Worktrees: My Setup for AI-Driven Development",
+    "summary": "Part 1 of a 5-part series on how software engineers should actually work with coding agents. Each part stands alone; the full series index&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@anand_thakkar/one-ide-many-worktrees-my-setup-for-ai-driven-development-927fa915a3d3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@anand_thakkar/one-ide-many-worktrees-my-setup-for-ai-driven-development-927fa915a3d3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "737",
+    "slug": "vibe-coding-yaparken-her-seferinde-sfrdan-balamayn-claudeski",
+    "title": "Vibe Coding Yaparken Her Seferinde Sıfırdan Başlamayın: claude-skills Reposu ile AI Ajanınıza…",
+    "summary": "Tan&#x131;d&#x131;k bir sorun mu?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://sahinbolukbasi.medium.com/vibe-coding-yaparken-her-seferinde-s%C4%B1f%C4%B1rdan-ba%C5%9Flamay%C4%B1n-claude-skills-reposu-ile-ai-ajan%C4%B1n%C4%B1za-23f605244594?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://sahinbolukbasi.medium.com/vibe-coding-yaparken-her-seferinde-s%C4%B1f%C4%B1rdan-ba%C5%9Flamay%C4%B1n-claude-skills-reposu-ile-ai-ajan%C4%B1n%C4%B1za-23f605244594?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "738",
+    "slug": "9-oneperson-businesses-with-almost-no-competition-10kmonth-p",
+    "title": "9 One-Person Businesses With Almost No Competition — $10K+/Month Potential",
+    "summary": "Nine low-competition one-person business models that each carry genuine $10K+/month income potential exist right now in 2026, and most&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@carljo721/9-one-person-businesses-with-almost-no-competition-10k-month-potential-204ceacfea5e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@carljo721/9-one-person-businesses-with-almost-no-competition-10k-month-potential-204ceacfea5e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "718",
     "slug": "why-ai-output-keeps-falling-short-your-process-is-still-in-y",
     "title": "Why AI Output Keeps Falling Short: Your Process Is Still in Your Head",
@@ -19796,5 +20134,35 @@
     "slug": "ux-linux-vram",
     "draft": false,
     "id": "698"
+  },
+  {
+    "title": "Siemens AG 브라질 특허 만료로 MPEG-4 Part 2 관련 Linux 법적 문제 해소",
+    "summary": "Siemens AG의 브라질 특허 BR PI0109962-0이 2026년 7월 19일 만료되면서 MPEG-4 Part 2를 둘러싼 전 세계 특허 장벽이 사라진다. 이 특허는 MPEG LA가 관리하던 MPEG-4 Visual 특허 포트폴리오의 마지막 특허였으며, 2001년 4월 9일 출원된 25년 된 비디오 특허다.",
+    "content": "## 주요 내용\n- Siemens AG의 브라질 특허 BR PI0109962-0이 2026년 7월 19일 만료 예정\n- 해당 특허는 MPEG LA가 관리하던 MPEG-4 Visual 특허 포트폴리오의 마지막 특허\n- 2001년 4월 9일 출원된 특허로 약 25년 만에 만료\n- Xvid는 자유 오픈소스 소프트웨어로, 이 특허 만료와 관련된 코덱\n\n## 의미\n이번 특허 만료로 MPEG-4 Part 2를 둘러싼 전 세계 특허 장벽이 완전히 해소되어, Linux를 비롯한 오픈소스 진영의 법적 부담이 사라지게 된다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-19",
+    "tags": [
+      "MPEG-4",
+      "특허만료",
+      "Linux",
+      "오픈소스",
+      "Siemens",
+      "Xvid"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32659",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32659",
+        "name": "GeekNews — 25년 된 비디오 특허 만료로 Linux의 법적 골칫거리 해소"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-siemens-mpeg-4-part",
+    "draft": false,
+    "id": "725"
   }
 ]
