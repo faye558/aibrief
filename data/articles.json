@@ -1,5 +1,213 @@
 [
   {
+    "id": "710",
+    "slug": "17-claudemd-rules-that-make-ai-write-better-code-than-you",
+    "title": "17 CLAUDE.md Rules That Make AI Write Better Code Than You",
+    "summary": "I spent 6 months fighting Claude Code.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/17-claude-md-rules-that-make-ai-write-better-code-than-you-a24985f04802?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/17-claude-md-rules-that-make-ai-write-better-code-than-you-a24985f04802?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "711",
+    "slug": "week-12-5-opensource-github-repositories-every-claude-code-d",
+    "title": "Week 12: 5 Open-Source GitHub Repositories Every Claude Code Developer Should Know",
+    "summary": "Not a Member? Read for FREE here.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vijayasekhar-deepak.medium.com/week-12-5-open-source-github-repositories-every-claude-code-developer-should-know-8b85de0ea1fb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vijayasekhar-deepak.medium.com/week-12-5-open-source-github-repositories-every-claude-code-developer-should-know-8b85de0ea1fb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "712",
+    "slug": "codeproxydev-rate-limits-explained-tiers-monitoring-how-to-o",
+    "title": "codeproxy.dev Rate Limits Explained: Tiers, Monitoring & How to Optimize for 2026",
+    "summary": "codeproxy.dev Rate Limits Explained: Tiers, Monitoring & How to Optimize for 2026Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@gabrgewl/codeproxy-dev-rate-limits-explained-tiers-monitoring-how-to-optimize-for-2026-40787393ece3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@gabrgewl/codeproxy-dev-rate-limits-explained-tiers-monitoring-how-to-optimize-for-2026-40787393ece3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "713",
+    "slug": "the-invisible-mark-now-inside-your-design-docs",
+    "title": "The Invisible Mark Now Inside Your Design Docs",
+    "summary": "Anthropic started watermarking Claude&#x2019;s text on August 2nd. The detection gradient runs backwards against the engineers using it most&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@edna_78903/the-invisible-mark-now-inside-your-design-docs-da970124465d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@edna_78903/the-invisible-mark-now-inside-your-design-docs-da970124465d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "714",
+    "slug": "how-to-actually-share-claude-code-memory-with-your-team",
+    "title": "How to actually share Claude Code memory with your team",
+    "summary": "Every developer on your team runs Claude Code against the same codebase. And every one of those agents learns the same lessons separately&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kgai/how-to-actually-share-claude-code-memory-with-your-team-f1b16189f3be?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kgai/how-to-actually-share-claude-code-memory-with-your-team-f1b16189f3be?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "715",
+    "slug": "i-asked-claude-to-design-my-architecture-the-answer-was-tech",
+    "title": "I Asked Claude to Design My Architecture. The Answer Was Technically Correct and Completely Wrong.",
+    "summary": "Correct for a team of twenty. I have four engineers and six weeks.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/i-asked-claude-to-design-my-architecture-the-answer-was-technically-correct-and-completely-wrong-419ade86b058?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/i-asked-claude-to-design-my-architecture-the-answer-was-technically-correct-and-completely-wrong-419ade86b058?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "716",
+    "slug": "claude-is-great-in-a-demo-production-is-where-the-real-test",
+    "title": "Claude Is Great in a Demo. Production Is Where the Real Test Starts.",
+    "summary": "The demo has clean data and one happy user. Production has neither.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/claude-is-great-in-a-demo-production-is-where-the-real-test-starts-6fb3a22add68?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/claude-is-great-in-a-demo-production-is-where-the-real-test-starts-6fb3a22add68?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "717",
+    "slug": "i-built-and-shipped-a-production-app-with-claude-code-the-le",
+    "title": "I Built and Shipped a Production App with Claude Code. The Lesson: Know What You’re Building.",
+    "summary": "I spent the last few weeks building a mobile app for museum staff using Claude Code as my main development tool. The app, CollectiveAccess&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@selinamangaroo/i-built-and-shipped-a-production-app-with-claude-code-the-lesson-know-what-youre-building-a1730ad5dbdf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@selinamangaroo/i-built-and-shipped-a-production-app-with-claude-code-the-lesson-know-what-youre-building-a1730ad5dbdf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "699",
     "slug": "rust-enters-the-stack-why-pythononly-ai-pipelines-are-changi",
     "title": "Rust  Enters the Stack: Why Python-Only AI Pipelines Are Changing.",
