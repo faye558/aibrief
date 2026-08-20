@@ -1,5 +1,317 @@
 [
   {
+    "id": "764",
+    "slug": "what-happens-when-ai-connects-every-critical-business-workfl",
+    "title": "What Happens When AI Connects Every Critical Business Workflow?",
+    "summary": "A company can have excellent AI tools and still operate as if nothing has changed. The problem is often not model quality. It is the gap&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@michael.keller314/what-happens-when-ai-connects-every-critical-business-workflow-226ee9ae3b51?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@michael.keller314/what-happens-when-ai-connects-every-critical-business-workflow-226ee9ae3b51?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "765",
+    "slug": "strengthening-organizational-communications-through-ai",
+    "title": "Strengthening Organizational Communications Through AI",
+    "summary": "AI ASSURANCE SERIESContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://harshwalandcompanyllp.medium.com/strengthening-organizational-communications-through-ai-6aabce27e243?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://harshwalandcompanyllp.medium.com/strengthening-organizational-communications-through-ai-6aabce27e243?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "766",
+    "slug": "your-claude-code-secretscanning-hook-should-let-awss-example",
+    "title": "Your Claude Code Secret-Scanning Hook Should Let AWS’s Example Key Through",
+    "summary": "A guard that cries wolf gets disabled in a week, and a disabled guard catches nothing.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jerrytestone1/your-claude-code-secret-scanning-hook-should-let-awss-example-key-through-a169fa0588a9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jerrytestone1/your-claude-code-secret-scanning-hook-should-let-awss-example-key-through-a169fa0588a9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "767",
+    "slug": "anthropics-65-billion-revenue-run-rate-is-more-than-an-ipo-s",
+    "title": "Anthropic’s $65 Billion Revenue Run Rate Is More Than an IPO Story",
+    "summary": "When I look at Anthropic&#x2019;s latest financial numbers, the headline that catches everyone&#x2019;s attention is the possible $2 trillion IPO.Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://felixanderson-able.medium.com/anthropics-65-billion-revenue-run-rate-is-more-than-an-ipo-story-858f463aa39e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://felixanderson-able.medium.com/anthropics-65-billion-revenue-run-rate-is-more-than-an-ipo-story-858f463aa39e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "768",
+    "slug": "workflow-automation-for-writers",
+    "title": "Workflow Automation for Writers",
+    "summary": "Back in March I built an agent that summarizes my favourite YouTube channels and promised two more n8n builds. A tarot reader summarizer&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://cold-logic.medium.com/workflow-automation-for-writers-19e7a86bface?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://cold-logic.medium.com/workflow-automation-for-writers-19e7a86bface?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "769",
+    "slug": "why-i-a-retired-botanist-now-code-with-ai",
+    "title": "Why I, a Retired Botanist, Now Code With AI",
+    "summary": "What a forty-year career studying cyanobacteria, a late-in-life review book on algal chromosomes, and an AI coding agent taught me about&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sahukksahu/why-i-a-retired-botanist-now-code-with-ai-c3640c8cf48b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sahukksahu/why-i-a-retired-botanist-now-code-with-ai-c3640c8cf48b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "770",
+    "slug": "coding-agents-are-only-as-good-as-their-extensions",
+    "title": "Coding Agents are only as good as their extensions",
+    "summary": "Every week, a new coding agent rules the market. For context, DeepSeek Harness, published on Aug 13, 2026, broke OpenClaw&#x2019;s record for the&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dhanpraja231/coding-agents-are-only-as-good-as-their-extensions-512dcb936108?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dhanpraja231/coding-agents-are-only-as-good-as-their-extensions-512dcb936108?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "771",
+    "slug": "inside-claude-code-the-loop-is-trivial-the-harness-is-everyt",
+    "title": "Inside Claude Code: The Loop Is Trivial, The Harness Is Everything",
+    "summary": "A 46-page source-level study of Claude Code says most of the engineering has nothing to do with the modelContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rajneeshkaggarwal/inside-claude-code-the-loop-is-trivial-the-harness-is-everything-ffadce21c299?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rajneeshkaggarwal/inside-claude-code-the-loop-is-trivial-the-harness-is-everything-ffadce21c299?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "772",
+    "slug": "the-live-show-pipeline",
+    "title": "The Live Show Pipeline",
+    "summary": "20 posts, 138 publications, and the four things that broke.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/the-live-show-pipeline-8db186b6d413?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/the-live-show-pipeline-8db186b6d413?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "773",
+    "slug": "claude-code-econnreset-error-causes-and-fixes-2026-guide",
+    "title": "Claude Code ECONNRESET Error: Causes and Fixes (2026 Guide)",
+    "summary": "If you work with Claude Code every day, you have probably seen your terminal freeze mid-task and print something like Connection dropped&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@cartseoservice/claude-code-econnreset-error-causes-and-fixes-2026-guide-71e487394505?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@cartseoservice/claude-code-econnreset-error-causes-and-fixes-2026-guide-71e487394505?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "774",
+    "slug": "agent-interface-not-user-interface",
+    "title": "Agent Interface, Not User Interface",
+    "summary": "I will continue my thought about how I see the near future. There used to be a User Interface, and now every company will build an Agent&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/agent-interface-not-user-interface-7d55b0934b25?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/agent-interface-not-user-interface-7d55b0934b25?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "775",
+    "slug": "what-the-claude-certified-architect-exam-actually-measures",
+    "title": "What the Claude Certified Architect Exam Actually Measures",
+    "summary": "I failed my first mock at 620. Three weeks later I scored 916 on the real exam. Closing that gap was easier than it seems, and knowing why&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vaibhavk81/what-the-claude-certified-architect-exam-actually-measures-1673ac854f3f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vaibhavk81/what-the-claude-certified-architect-exam-actually-measures-1673ac854f3f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "757",
     "slug": "24-claude-code-commands-that-save-me-3-hours-every-day",
     "title": "24 Claude Code Commands That Save Me 3 Hours Every Day",
@@ -20840,5 +21152,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "756"
+  },
+  {
+    "slug": "ai-geo-search",
+    "title": "AI 검색 시대, PR의 기준이 달라집니다 - 한국PR협회, '2026 기업 PR 담당자를 위한 AI GEO 실전 아카데미' 개최",
+    "summary": "생성형 AI와 검색 환경의 급변 속에서 기업 커뮤니케이션 전략이 근본적인 변화를 맞이하고 있으며, 업계가 체계적인 교육과 재교육 프로그램으로 대응하기 시작했다.",
+    "content": "## 큐레이션 노트\n\nAI 기반 검색(AI Overview, GEO 등)의 확산은 전통적인 PR과 SEO 전략의 유효성을 재검토하도록 강제하고 있습니다. 한국PR협회의 대응은 단순한 도구 교육을 넘어, PR 전문가들이 AI 시대의 정보 유통 구조 변화를 이해하고 새로운 메시지 전략을 수립해야 함을 시사합니다. 이는 마케팅과 커뮤니케이션 업계 전반에서 AI 리터러시가 더 이상 선택이 아닌 필수 역량으로 자리 잡고 있다는 점을 보여주는 중요한 신호입니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-20",
+    "tags": [
+      "AI검색",
+      "PR전략",
+      "GEO",
+      "AI시대",
+      "기업커뮤니케이션",
+      "디지털트랜스포메이션"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28728",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28728",
+        "name": "매드타임스 — \"AI 검색 시대, PR의 기준이 달라집니다\" 한국PR협회, ‘2026 기업 PR 담당자를 위한 AI GEO 실전 아카데미’ 개최"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "763"
   }
 ]
