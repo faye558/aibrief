@@ -1,5 +1,291 @@
 [
   {
+    "id": "741",
+    "slug": "how-to-build-a-prompt-library-you-will-actually-use",
+    "title": "How to Build a Prompt Library You Will Actually Use",
+    "summary": "A practical, step by step system for organizing, finding, testing, and maintaining the prompts worth keepingContinue reading on ChatGPT & Beyond »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/chatgpt-beyond/how-to-build-a-prompt-library-you-will-actually-use-f75d1987c55b?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/chatgpt-beyond/how-to-build-a-prompt-library-you-will-actually-use-f75d1987c55b?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "742",
+    "slug": "the-art-of-chaining-how-langchain-turns-a-single-llm-call-in",
+    "title": "The Art of Chaining: How LangChain Turns a Single LLM Call into a Thinking Machine",
+    "summary": "Picture a chef in a kitchen. Handed one instruction &#x2014; &#x201C;make dinner&#x201D; &#x2014; even a brilliant chef freezes. But break it down: ch",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ishitamathur927/the-art-of-chaining-how-langchain-turns-a-single-llm-call-into-a-thinking-machine-b9c6ef14f007?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ishitamathur927/the-art-of-chaining-how-langchain-turns-a-single-llm-call-into-a-thinking-machine-b9c6ef14f007?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "743",
+    "slug": "the-15-claude-skills-worth-installing-in-2026-every-install",
+    "title": "The 15 Claude Skills Worth Installing in 2026. Every Install Command Checked at the Source.",
+    "summary": "Prompts are things you say once. Skills are things Claude knows every time.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://aminshamim.medium.com/the-15-claude-skills-worth-installing-in-2026-every-install-command-checked-at-the-source-95cee97ffa70?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://aminshamim.medium.com/the-15-claude-skills-worth-installing-in-2026-every-install-command-checked-at-the-source-95cee97ffa70?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "744",
+    "slug": "10-claude-prompts-that-save-developers-5-hours-a-week-i-time",
+    "title": "10 Claude Prompts That Save Developers 5+ Hours a Week — I Timed Every One",
+    "summary": "I ran all ten on real work for a week. Total time saved: 6 hours and 12 minutes. Here are the five that earned their spot first.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aitrends24/10-claude-prompts-that-save-developers-5-hours-a-week-i-timed-every-one-ff2365521798?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aitrends24/10-claude-prompts-that-save-developers-5-hours-a-week-i-timed-every-one-ff2365521798?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "745",
+    "slug": "the-filing-cabinet-in-claudes-head",
+    "title": "The Filing Cabinet in Claude’s Head",
+    "summary": "A while back I noticed my Claude Code project folder had quietly grown to about 111 saved sessions eating roughly 660 MB of disk. So I&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@krizvi/the-filing-cabinet-in-claudes-head-5a1f32c3a012?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@krizvi/the-filing-cabinet-in-claudes-head-5a1f32c3a012?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "746",
+    "slug": "week-04-of-the-devops-micro-internship-dmi-cohort-3-complete",
+    "title": "Week 04 of the DevOps Micro Internship (DMI) Cohort 3 Completed",
+    "summary": "A pre-commit hook rejected my own commit this week &#x2014; on purpose, and I was genuinely glad it did.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@omodarafemi2123/week-04-of-the-devops-micro-internship-dmi-cohort-3-completed-a48b4850765c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@omodarafemi2123/week-04-of-the-devops-micro-internship-dmi-cohort-3-completed-a48b4850765c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "747",
+    "slug": "claude-codes-new-design-command-sketch-the-ui-before-you-bui",
+    "title": "Claude Code’s New /design Command: Sketch the UI Before You Build It",
+    "summary": "Anthropic studied roughly 400,000 Claude Code sessions from about 235,000 users and found a lopsided split in who decides what.Continue reading on Med",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@creativeaininja/claude-codes-new-design-command-sketch-the-ui-before-you-build-it-bcbb8193558b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@creativeaininja/claude-codes-new-design-command-sketch-the-ui-before-you-build-it-bcbb8193558b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "748",
+    "slug": "i-taught-my-coding-agent-to-review-like-my-reviewer-does",
+    "title": "I Taught My Coding Agent to Review Like My Reviewer Does",
+    "summary": "One of my biggest gripes with code review over the years is just how horribly inconsistent and unpredictable the whole experience is. It&#x2019;s&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@adrianbooth/i-taught-my-coding-agent-to-review-like-my-reviewer-does-8a36dfb0bb37?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@adrianbooth/i-taught-my-coding-agent-to-review-like-my-reviewer-does-8a36dfb0bb37?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "749",
+    "slug": "deepseek-harness-is-coming-for-claude-code-and-codex-but-not",
+    "title": "DeepSeek Harness Is Coming for Claude Code and Codex, But Not How You Think",
+    "summary": "The most interesting coding agent may not be the one with the most features.Continue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/deepseek-harness-is-coming-for-claude-code-and-codex-but-not-how-you-think-aac3de586580?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/deepseek-harness-is-coming-for-claude-code-and-codex-but-not-how-you-think-aac3de586580?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "750",
+    "slug": "which-works-better-testing-claude-code-cursor-gemini-code-as",
+    "title": "Which Works Better? Testing Claude Code, Cursor, Gemini Code Assist & Manus in 2026",
+    "summary": "Real benchmarks, real workflows, and the clear winner for different coding tasksContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@k.leoman/which-works-better-testing-claude-code-cursor-gemini-code-assist-manus-in-2026-ef23818cdd39?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@k.leoman/which-works-better-testing-claude-code-cursor-gemini-code-assist-manus-in-2026-ef23818cdd39?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "751",
+    "slug": "making-an-ai-agent-explain-itself-with-a-diagram-instead-of",
+    "title": "Making an AI Agent Explain Itself With a Diagram Instead of Three Paragraphs",
+    "summary": "Inside Diagram Design, the Editorial Grade Skill That Draws in a Brand&#x2019;s Own Colors and FontsContinue reading on Open Intelligence »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/open-intelligence/making-an-ai-agent-explain-itself-with-a-diagram-instead-of-three-paragraphs-5f2afca052cb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/open-intelligence/making-an-ai-agent-explain-itself-with-a-diagram-instead-of-three-paragraphs-5f2afca052cb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "726",
     "slug": "how-full-stack-developers-build-ai-agent-interfaces-and-work",
     "title": "How Full Stack Developers Build AI Agent Interfaces and Workflows",
@@ -20164,5 +20450,75 @@
     "slug": "ux-siemens-mpeg-4-part",
     "draft": false,
     "id": "725"
+  },
+  {
+    "title": "Anthropic 관련 칼럼 — AI는 우리에게 거짓말을 하고 있으며, 아무도 신경 쓰지 않는다",
+    "summary": "AI 제품들은 실제 정보와 지어낸 정보를 섞어 자신감 있는 하나의 답변으로 출력하지만, 인터페이스는 그 과정을 전혀 보여주지 않는다. 필자는 자신의 팀이 개발 중인 AI 제품에 사고 과정을 보여주는 패널을 도입했으나, 이것이 사용자에게 너무 많은 정보를 준다는 내부 반론에 직면해 있다. 필자는 답변이 어떻게 도출됐는지 보이지 않을수록 더 똑똑해 보인다는 통념이야말로 AI에서 가장 잘못된 접근 방식이라고 주장한다.",
+    "content": "## 주요 내용\n- AI는 실제 정보와 생성된 정보를 혼합해 자신감 있는 하나의 답변으로 제공하며, 사용자는 그 추론 과정을 볼 수 없음\n- 필자 팀은 AI가 문제를 풀어가는 과정을 실시간으로 보여주는 사이드 패널을 개발 중이며, 이를 통해 '무엇을 들었는지', '어떤 맥락을 끌어냈는지', '어디로 향하는지'를 사용자에게 노출함\n- 팀 내 반론은 이 과정이 사용자가 흡수하기에 너무 많은 정보라는 것이며, 실제로 많은 제품들이 의도적으로 과정을 숨김\n- Claude나 ChatGPT 같은 AI는 '요청을 분석 중' 같은 의미 없는 표시만 보여줄 뿐, 질문에서 답변까지의 실제 추론 과정은 공개하지 않음\n- 필자는 블랙박스에서 자신감 있게 나오는 답변을 좋은 UX로 여기는 현재의 통념이 근본적으로 잘못됐다고 주장함\n\n## 의미\nAI 인터페이스 설계에서 '매끄러움'을 우선시해 추론 과정을 숨기는 관행이 AI 신뢰성과 투명성 문제를 심화시킬 수 있다는 UX 관점의 비판적 시각을 제시한다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-19",
+    "tags": [
+      "AI투명성",
+      "UX설계",
+      "AI할루시네이션",
+      "블랙박스AI",
+      "AI신뢰성"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+        "name": "UX Collective — AI is lying to us, and nobody seems to care"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-news-8",
+    "draft": false,
+    "id": "739"
+  },
+  {
+    "slug": "ai-venturebeat-lead-analyst",
+    "title": "VentureBeat, 첫 Lead Analyst 롭 스트레차이 영입하며 엔터프라이즈 AI 연구 강화",
+    "summary": "주요 테크 미디어가 전담 분석가를 영입하는 것은 엔터프라이즈 AI 시장의 성숙도가 높아지면서 단순 뉴스 보도를 넘어 심층 연구와 전문 인사이트에 대한 수요가 증가하고 있음을 의미합니다.",
+    "content": "## 큐레이션 노트\n\n테크 미디어의 조직 확장은 산업 동향의 신호등 역할을 합니다. VentureBeat의 Lead Analyst 신설은 엔터프라이즈 AI가 더 이상 초기 단계의 투기 대상이 아니라, 기업의 전략적 의사결정에 영향을 미치는 핵심 기술로 자리 잡았음을 보여줍니다. 이는 AI 시장이 분석 깊이와 신뢰성 있는 정보에 대한 수요 증가로 진입하는 단계적 성숙의 증거입니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-19",
+    "tags": [
+      "엔터프라이즈AI",
+      "AI시장분석",
+      "산업리서치",
+      "VentureBeat",
+      "기술미디어"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+    "sourceName": "VentureBeat AI",
+    "sources": [
+      {
+        "url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+        "name": "VentureBeat AI — VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "740"
   }
 ]
