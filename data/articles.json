@@ -1,5 +1,161 @@
 [
   {
+    "id": "757",
+    "slug": "24-claude-code-commands-that-save-me-3-hours-every-day",
+    "title": "24 Claude Code Commands That Save Me 3 Hours Every Day",
+    "summary": "I tracked my time for a month. Before Claude Code: 11-hour days. After: 8-hour days. Same output. Here are the 24 commands that did it.Continue readin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/24-claude-code-commands-that-save-me-3-hours-every-day-bb55557a0a39?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/24-claude-code-commands-that-save-me-3-hours-every-day-bb55557a0a39?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "758",
+    "slug": "i-stopped-dumping-my-whole-codebase-into-claude-heres-the-tw",
+    "title": "I Stopped Dumping My Whole Codebase Into Claude. Here’s the Two-Folder Trick That Fixed It.",
+    "summary": "A simple system that makes AI assistants read less &#x2014; and remember more.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kundanscode/i-stopped-dumping-my-whole-codebase-into-claude-heres-the-two-folder-trick-that-fixed-it-1f0eecfbba7a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kundanscode/i-stopped-dumping-my-whole-codebase-into-claude-heres-the-two-folder-trick-that-fixed-it-1f0eecfbba7a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "759",
+    "slug": "building-got-cheap-saying-no-got-expensive",
+    "title": "Building Got Cheap. Saying No Got Expensive",
+    "summary": "The pull request took nine minutes to generate and four hours to trust. That ratio is the whole story of engineering in 2026.Continue reading on Mediu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://21zerixpm.medium.com/building-got-cheap-saying-no-got-expensive-350d066a992a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://21zerixpm.medium.com/building-got-cheap-saying-no-got-expensive-350d066a992a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "760",
+    "slug": "claude-didnt-replace-my-freelance-work-it-changed-how-i-deli",
+    "title": "Claude Didn’t Replace My Freelance Work. It Changed How I Delivered It.",
+    "summary": "Same skill. Same client. Half the revision cycles.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/claude-didnt-replace-my-freelance-work-it-changed-how-i-delivered-it-ff7c5d63ba6c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/claude-didnt-replace-my-freelance-work-it-changed-how-i-delivered-it-ff7c5d63ba6c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "761",
+    "slug": "claude-gets-my-code-80-right-the-other-20-is-where-my-day-ac",
+    "title": "Claude Gets My Code 80% Right. The Other 20% Is Where My Day Actually Goes.",
+    "summary": "I never tracked the correction time. Once I did, I couldn&#x2019;t unsee it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/claude-gets-my-code-80-right-the-other-20-is-where-my-day-actually-goes-ef7a30f5334a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/claude-gets-my-code-80-right-the-other-20-is-where-my-day-actually-goes-ef7a30f5334a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "762",
+    "slug": "loop-engineering-explained-how-ai-coding-agents-start-workin",
+    "title": "Loop Engineering Explained: How AI Coding Agents Start Working Without You",
+    "summary": "What loop engineering actually means: the five parts of an agent loop, who you hand each one to, and what a fleet of agents really costs.Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@obayuwanap/loop-engineering-explained-how-ai-coding-agents-start-working-without-you-a7bd31b9b1d0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@obayuwanap/loop-engineering-explained-how-ai-coding-agents-start-working-without-you-a7bd31b9b1d0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "741",
     "slug": "how-to-build-a-prompt-library-you-will-actually-use",
     "title": "How to Build a Prompt Library You Will Actually Use",
@@ -20520,5 +20676,169 @@
     "communityLinks": null,
     "draft": false,
     "id": "740"
+  },
+  {
+    "title": "Adobe 보안 사고 사례로 배우는 개발자를 위한 암호학 핵심 가이드",
+    "summary": "이 팟캐스트 에피소드는 개발자가 암호화 라이브러리에만 의존하지 않고 알고리즘과 설정을 올바르게 선택·운용해야 하는 이유를 링크드인, 어도비, Heartbleed 등 실제 보안 사고 사례를 통해 설명합니다. 단방향 암호화(해시, 솔트, bcrypt/Argon2id)와 양방향 암호화(대칭키 AES 모드, 비대칭키 RSA)의 원리 및 차이점도 다룹니다.",
+    "content": "## 주요 내용\n- 실제 보안 사고 사례(링크드인, 어도비, Heartbleed)를 통해 잘못된 암호화 운용의 위험성 소개\n- 라이브러리에만 의존하지 않고 암호학 알고리즘과 설정을 직접 이해하고 선택해야 하는 이유 강조\n- 단방향 암호화: 해시, 솔트, bcrypt/Argon2id 원리 및 활용\n- 양방향 암호화: 대칭키(AES 모드)와 비대칭키(RSA)의 원리 및 차이점 설명\n\n## 의미\n개발자가 암호학의 기본 원리를 이해하지 못한 채 라이브러리에만 의존할 경우 실제 보안 사고로 이어질 수 있음을 구체적 사례로 보여주며, 올바른 암호화 선택과 운용 능력의 중요성을 시사합니다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-08-20",
+    "tags": [
+      "암호학",
+      "보안",
+      "개발자",
+      "AES",
+      "bcrypt",
+      "Argon2id",
+      "RSA",
+      "해시"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32688",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32688",
+        "name": "GeekNews — [팟캐스트] 개발자라면 알아야 할 암호학"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-security",
+    "draft": false,
+    "id": "752"
+  },
+  {
+    "title": "OpenSandbox — AI 에이전트를 위한 오픈소스 샌드박스 런타임 공개",
+    "summary": "OpenSandbox는 AI 앱을 위한 안전하고 빠르며 확장 가능한 범용 샌드박스 플랫폼이다. 코딩 에이전트, GUI 에이전트, 에이전트 평가 등을 위한 도커/쿠버네티스 런타임을 제공하며, 로컬 실행과 대규모 분산 스케줄링을 모두 지원한다. Python, Java, Kotlin, TypeScript, C#/.NET 등 다중 언어 SDK를 지원한다.",
+    "content": "## 주요 내용\n- AI 앱을 위한 안전하고 빠른 범용 샌드박스 플랫폼\n- 코딩 에이전트, GUI 에이전트, 에이전트 평가 등 다양한 AI 에이전트 유형 지원\n- 도커/쿠버네티스 기반 런타임 제공\n- 로컬 실행 및 대규모 분산 스케줄링 모두 대응\n- Python, Java, Kotlin, TypeScript, C#/.NET 등 다중 언어 SDK 지원\n\n## 의미\nAI 에이전트 실행 환경을 안전하게 격리하면서도 다양한 언어와 스케일에서 유연하게 활용할 수 있는 오픈소스 인프라 옵션이 추가되었다는 점에서 의미가 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-20",
+    "tags": [
+      "OpenSandbox",
+      "AI에이전트",
+      "샌드박스",
+      "도커",
+      "쿠버네티스",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32685",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32685",
+        "name": "GeekNews — OpenSandbox - AI 에이전트를 위한 샌드박스 런타임"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-opensandbox-release",
+    "draft": false,
+    "id": "753"
+  },
+  {
+    "title": "당근, 인증 시스템의 변천사 — SMS 점유 인증부터 본인인증 도입까지",
+    "summary": "당근 Identity Service Team이 서비스 초창기부터 현재까지 인증 방식이 어떻게 변화해 왔는지를 소개했다. 초기에는 전화번호 SMS 인증만으로 운영했으나, 서비스 성장과 함께 번호 변경으로 인한 계정 분실, 이메일 백업 수단의 낮은 사전 등록률, 알뜰폰 등을 이용한 사기 계정 양산 문제가 잇따라 발생했다. 이에 단순 번호 점유 확인만으로는 정상 사용자 보호와 악성 사용자 차단을 동시에 해결할 수 없다는 한계가 드러났다.",
+    "content": "## 주요 내용\n- 당근은 모바일 앱 출시 초기부터 SMS 인증(전화번호 점유 확인)을 기본 인증 방식으로 사용\n- 번호 해지·변경 시 기존 계정과 연결이 끊겨 계정 분실 문의가 다수 발생, 고객센터가 수작업으로 계정을 이전해줘야 했음\n- 백업 수단으로 이메일 인증을 추가했으나, 사전에 이메일을 등록한 사용자가 적어 실효성이 낮았음\n- 알뜰폰 등으로 번호를 대량 발급받아 사기 계정을 찍어내는 문제도 증가, 번호 기반 인증만으로는 재가입 사기꾼 차단 불가\n- 이러한 문제들을 해결하기 위해 본인인증 도입 방향으로 인증 체계를 발전시켜 나가게 됨\n\n## 의미\n전화번호 점유 인증 중심의 간편 가입 전략은 초기 사용자 확대에 기여했으나, 서비스 규모가 커질수록 계정 보호와 사기 방지 측면에서 명확한 한계를 드러냈으며, 이는 당근이 더 강화된 신원 확인 체계로 전환하게 된 배경이 됐다.",
+    "company": "당근",
+    "category": "테크블로그",
+    "date": "2026-08-20",
+    "tags": [
+      "당근",
+      "인증",
+      "SMS인증",
+      "본인인증",
+      "Identity",
+      "계정보안",
+      "사기방지"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EC%9D%98-%EC%9D%B8%EC%A6%9D%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8B%AC%EB%9D%BC%EC%A0%B8-%EC%99%94%EC%9D%84%EA%B9%8C%EC%9A%94-a50dd4b7b44c?source=rss----4505f82a2dbd---4",
+        "name": "당근 — 당근의 인증은 어떻게 달라져 왔을까요?"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-sms-intro",
+    "draft": false,
+    "id": "754"
+  },
+  {
+    "slug": "ai-research",
+    "title": "함샤우트 글로벌 AI 연구소, 8월 AI 인용 지수 리포트 발행… 산업별로 상이한 AI 인용 패턴 드러나",
+    "summary": "AI 연구 영향력을 정량화하는 인용 지수 분석이 산업마다 다른 양상을 보이면서, 단순한 논문 인용을 넘어 실제 비즈니스 영향력을 측정하는 새로운 평가 지표의 필요성을 제시하고 있다.",
+    "content": "## 큐레이션 노트\n\nAI 기술의 가치 평가가 전통적인 학술 인용에서 벗어나 산업 현장의 실제 활용도로 이동하고 있다는 신호로 읽힌다. 특히 SNS 채널이 인용 1위를 차지한다는 것은 AI 혁신이 학계뿐 아니라 대중과 비즈니스 커뮤니티에서 얼마나 빠르게 확산되고 있는지를 보여주는 지표이다. 앞으로 AI 기업과 연구기관의 영향력 평가는 더이상 h-index나 피인용도 같은 단일 지표로는 부족하며, 산업별 맥락을 반영한 다층적 평가 체계의 구축이 중요해질 것으로 예상된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-20",
+    "tags": [
+      "AI평가지표",
+      "인용분석",
+      "산업별AI영향력",
+      "AI트렌드",
+      "연구평가",
+      "시장동향"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28727",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28727",
+        "name": "매드타임스 — 함샤우트 글로벌 AI 연구소, AI 인용 지수 리포트 8월호 발행 산업마다 AI 인용 구조 달라… SNS가 인용 1위"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "755"
+  },
+  {
+    "slug": "ai-service-platform",
+    "title": "가트너 보고서: 2028년 글로벌 광고비의 70% 이상이 AI 기반 셀프서비스 플랫폼으로 운영될 것",
+    "summary": "광고 산업의 자동화와 AI 의존도가 급속도로 심화되고 있으며, 향후 4년 내 광고 운영 방식의 대다수가 인간의 직접 개입 없이 AI 기반 플랫폼에 의해 주도될 것으로 예측되는 시점이다.",
+    "content": "## 큐레이션 노트\n이 전망은 마케팅 기술 생태계의 구조적 전환을 시사한다. 기업들이 광고 운영의 효율성과 규모 최적화를 추구하면서 AI 기반 자동화 플랫폼 도입이 선택이 아닌 필수가 되는 시장 환경이 형성되고 있다. 이는 광고업계 종사자들의 역할 재정의와 새로운 스킬셋 요구뿐 아니라, AI 플랫폼 제공업체들의 기술 고도화 및 투자 확대를 가속화할 수 있는 중요한 신호가 될 것으로 예상된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-20",
+    "tags": [
+      "AI자동화",
+      "광고산업",
+      "마케팅기술",
+      "가트너",
+      "디지털트랜스포메이션",
+      "셀프서비스플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28706",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28706",
+        "name": "매드타임스 — 가트너 \"2028년 글로벌 광고비 70% 이상, AI 기반 셀프서비스 플랫폼으로\""
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "756"
   }
 ]
