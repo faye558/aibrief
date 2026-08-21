@@ -1,5 +1,343 @@
 [
   {
+    "id": "791",
+    "slug": "what-ai-agents-can-actually-do-without-human-intervention",
+    "title": "What AI Agents Can Actually Do Without Human Intervention",
+    "summary": "AI agents are increasingly moving beyond simple chatbots and copilots toward systems that can execute business workflows with limited&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@workagentic.marketing/what-ai-agents-can-actually-do-without-human-intervention-dd5fab1d64c8?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@workagentic.marketing/what-ai-agents-can-actually-do-without-human-intervention-dd5fab1d64c8?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "792",
+    "slug": "which-ai-model-should-we-use-and-do-we-really-need-an-ai-fra",
+    "title": "Which AI Model Should We Use? And Do We Really Need an AI Framework?",
+    "summary": "A few months ago, I started working on an AI feature and the first question that came up was surprisingly simple: Which AI model should we&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rohitnale738/which-ai-model-should-we-use-and-do-we-really-need-an-ai-framework-bbcbf2a97dd2?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rohitnale738/which-ai-model-should-we-use-and-do-we-really-need-an-ai-framework-bbcbf2a97dd2?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "793",
+    "slug": "the-more-i-use-ai-the-more-i-realize-the-skill-is-not-the-to",
+    "title": "The More I Use AI, the More I Realize the Skill Is Not the Tool",
+    "summary": "I use AI almost every day.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@krishivtalks/the-more-i-use-ai-the-more-i-realize-the-skill-is-not-the-tool-987b037278c5?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@krishivtalks/the-more-i-use-ai-the-more-i-realize-the-skill-is-not-the-tool-987b037278c5?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "794",
+    "slug": "claude-codes-80-conversion-rate-signals-winnertakemost-dynam",
+    "title": "Claude Code’s 80% Conversion Rate Signals Winner-Take-Most Dynamics in AI Coding Tools",
+    "summary": "Developers are notoriously fastidious about their tools, quick to abandon anything that disrupts their flow state. Yet, in the span of six&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@technolopolis/claude-codes-80-conversion-rate-signals-winner-take-most-dynamics-in-ai-coding-tools-7a97aaa15452?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@technolopolis/claude-codes-80-conversion-rate-signals-winner-take-most-dynamics-in-ai-coding-tools-7a97aaa15452?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "795",
+    "slug": "i-tried-claude-code-concise-mode-the-new-way-to-kill-fluff",
+    "title": "I Tried Claude Code Concise Mode (The New Way to Kill Fluff)",
+    "summary": "Claude Code concise output is the new way to strip off all the fluff from your responses by giving you shorter, result-first responses.Continue readin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@joe.njenga/i-tried-claude-code-concise-mode-the-new-way-to-kill-fluff-4b60661cf6c8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@joe.njenga/i-tried-claude-code-concise-mode-the-new-way-to-kill-fluff-4b60661cf6c8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "796",
+    "slug": "expo-claude-a-more-connected-mobile-development-workflow",
+    "title": "Expo + Claude: A More Connected Mobile Development Workflow",
+    "summary": "Expo just made its MCP integration a little more interesting.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@adsalihac/expo-claude-a-more-connected-mobile-development-workflow-670404aa20de?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@adsalihac/expo-claude-a-more-connected-mobile-development-workflow-670404aa20de?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "797",
+    "slug": "the-human-edge-ai-still-cant-replace",
+    "title": "The Human Edge AI Still Can’t Replace",
+    "summary": "Taste, not technical skill, is becoming one of the most valuable product skills in the age of AI.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@moayediniaa/the-human-edge-ai-still-cant-replace-bd496bca62ab?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@moayediniaa/the-human-edge-ai-still-cant-replace-bd496bca62ab?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "798",
+    "slug": "claude-code-mastery-the-extension-integration-framework",
+    "title": "Claude Code Mastery - The Extension & Integration Framework",
+    "summary": "How to build reusable instructions, trigger automated workflows, connect Claude to external databases/APIs, and extend functionality with&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://mvineetsharma.medium.com/claude-code-mastery-the-extension-integration-framework-30daa38d9238?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://mvineetsharma.medium.com/claude-code-mastery-the-extension-integration-framework-30daa38d9238?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "799",
+    "slug": "the-mcp-tool-i-didnt-need-to-build",
+    "title": "The MCP Tool I Didn’t Need to Build",
+    "summary": "I wanted a notes field on every question. Claude Code already had one, behind a markdown preview.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@saimageshvar/the-mcp-tool-i-didnt-need-to-build-95005e73d301?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@saimageshvar/the-mcp-tool-i-didnt-need-to-build-95005e73d301?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "800",
+    "slug": "claude-code-ile-ios-uygulamas-nasl-gelitirilir-simlatrden-ap",
+    "title": "Claude Code ile iOS Uygulaması Nasıl Geliştirilir? Simülatörden App Store’a Tam Rehber",
+    "summary": "Kod yazmay&#x131; bilmeyen biri ger&#xE7;ekten App Store&#x2019;a bir uygulama koyabilir mi? Bu soruyu kendi projelerimde defalarca test ettim ve ceva",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@diabolikss/claude-code-ile-ios-uygulamas%C4%B1-nas%C4%B1l-geli%C5%9Ftirilir-sim%C3%BClat%C3%B6rden-app-storea-tam-rehber-957fe0864f82?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@diabolikss/claude-code-ile-ios-uygulamas%C4%B1-nas%C4%B1l-geli%C5%9Ftirilir-sim%C3%BClat%C3%B6rden-app-storea-tam-rehber-957fe0864f82?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "801",
+    "slug": "come-ottenere-di-pi-da-claude-code-senza-bruciare-i-limiti",
+    "title": "Come ottenere di più da Claude Code senza bruciare i limiti",
+    "summary": "Il freno non &#xE8; quasi mai l&#x2019;intelligenza del modello: &#xE8; il modo in cui gli dai le istruzioni e il modo in cui consumi il suo spazio di",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@TheSwissDev/come-ottenere-di-pi%C3%B9-da-claude-code-senza-bruciare-i-limiti-duso-3fb468f7c6ce?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@TheSwissDev/come-ottenere-di-pi%C3%B9-da-claude-code-senza-bruciare-i-limiti-duso-3fb468f7c6ce?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "802",
+    "slug": "pinqdoq-how-we-manage-ai-coding-standards-from-one-place",
+    "title": "pinq-doq: How We Manage AI Coding Standards From One Place",
+    "summary": "This article describes pinq-doq, the system we built to keep AI coding agents working across multiple repositories and multiple tech&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@bartikyunuscan/pinq-doq-how-we-manage-ai-coding-standards-from-one-place-24de8b80523b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@bartikyunuscan/pinq-doq-how-we-manage-ai-coding-standards-from-one-place-24de8b80523b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "803",
+    "slug": "how-much-does-it-really-cost-to-run-claude-code-the-50000amo",
+    "title": "How Much Does It Really Cost to Run Claude Code? The $50,000-a-Month Server Secret",
+    "summary": "Why Your $20 Claude Pro Plan Doesn&#x2019;t Cover a Single Hour of GPU TimeContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mohaabdelkarim/how-much-does-it-really-cost-to-run-claude-code-the-50-000-a-month-server-secret-9ec9248b5a2a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mohaabdelkarim/how-much-does-it-really-cost-to-run-claude-code-the-50-000-a-month-server-secret-9ec9248b5a2a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "777",
     "slug": "your-agencys-best-ai-workflow-is-probably-trapped-in-someone",
     "title": "Your Agency’s Best AI Workflow Is Probably Trapped in Someone’s Prompt History",
@@ -21533,5 +21871,76 @@
     "slug": "openai-news-3",
     "draft": false,
     "id": "776"
+  },
+  {
+    "title": "Slack, Claude 기반 AI 에이전트로 업무 대화를 조직 지식으로 전환",
+    "summary": "Slack CPO Jaime DeLanghe는 2017년부터 다뤄온 업무 대화의 조직 지식화 문제를 AI 에이전트가 해결하고 있다고 밝혔다. Claude 기반 에이전트가 공개 채널의 대화·결정·진행 상황을 해석해 그동안 활용하기 어려웠던 업무 맥락을 실제 작업에 사용할 수 있게 됐다고 설명했다.",
+    "content": "## 주요 내용\n- Slack CPO Jaime DeLanghe는 2017년부터 업무 대화를 조직 지식으로 바꾸는 문제를 다뤄옴\n- AI 에이전트가 공개 채널의 대화·결정·진행 상황을 해석하면서 기존에 활용하기 어려웠던 업무 맥락을 실제 작업에 활용 가능해짐\n- Claude 기반 에이전트가 초안 작성·요약 등의 작업을 수행\n\n## 의미\nClaude 기반 AI 에이전트를 통해 Slack 내 대화가 단순 커뮤니케이션을 넘어 조직의 실질적인 지식 자산으로 전환될 수 있는 가능성을 보여준다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-21",
+    "tags": [
+      "Slack",
+      "Anthropic",
+      "Claude",
+      "AI에이전트",
+      "조직지식"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32712",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32712",
+        "name": "GeekNews — 대화를 지식으로 바꾸기: Slack이 인간-에이전트 팀을 만드는 방법"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-agent-2",
+    "draft": false,
+    "id": "789"
+  },
+  {
+    "title": "Bun 1.4 출시 — Zig에서 Rust로 재작성, Node.js 호환성 역대 최대 폭 향상",
+    "summary": "2026년 8월 20일 Bun 1.4가 공식 출시되었으며, Zig로 작성된 기존 코드베이스를 Rust로 전면 재작성한 첫 번째 정식 릴리스다. Node.js 테스트 스위트에서 1,517개 테스트가 새로 통과하는 등 역대 최대 규모의 호환성 향상이 이루어졌고, 2,900개 이상의 이슈도 수정되었다.",
+    "content": "## 주요 내용\n- Bun 1.4 공식 출시 (2026년 8월 20일)\n- Zig에서 Rust로 전면 재작성 — 1.4가 Rust 포트의 첫 정식 릴리스\n- Node.js 테스트 스위트에서 1,517개 테스트 새로 통과 (역대 최대 호환성 향상)\n- 2,900개 이상의 이슈 수정\n- 유휴 CPU 사용량 5배 감소\n- 메모리 사용량 최대 35% 감소\n- Linux 시작 속도 50% 향상\n\n## 의미\n구현 언어를 Zig에서 Rust로 전환하면서 성능과 안정성이 대폭 개선되었으며, Node.js 호환성도 역대 가장 큰 폭으로 향상되어 Bun의 실용성이 한층 높아졌다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-20",
+    "tags": [
+      "Bun",
+      "Rust",
+      "Node.js",
+      "JavaScript런타임",
+      "성능개선"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32707",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32707",
+        "name": "GeekNews — Bun 1.4 출시 — Zig에서 Rust로 재작성, Node.js 호환성 역대 최대 폭 향상"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-bun-zig-rust",
+    "draft": false,
+    "id": "790"
   }
 ]
