@@ -1,5 +1,291 @@
 [
   {
+    "id": "819",
+    "slug": "i-tried-deepseek-harness-on-local-workflows-invoices-x-trend",
+    "title": "I Tried DeepSeek Harness on Local Workflows: Invoices, X Trend Archives, and Custom Tools",
+    "summary": "Not another coding assistant, but a local-first agent runtime for tools, evidence, logs, and repeatable workflows.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@LakshmiNarayana_U/i-tried-deepseek-harness-on-local-workflows-invoices-x-trend-archives-and-custom-tools-82a56ab6d529?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@LakshmiNarayana_U/i-tried-deepseek-harness-on-local-workflows-invoices-x-trend-archives-and-custom-tools-82a56ab6d529?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "820",
+    "slug": "meta-ai-for-mac-my-workflow-and-privacy-test",
+    "title": "Meta AI for Mac: My Workflow and Privacy Test",
+    "summary": "Friday, my golden retriever, has a reliable way of interrupting my work: he places his head on the keyboard until I acknowledge him. Most&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://oscarmorgan-2.medium.com/meta-ai-for-mac-my-workflow-and-privacy-test-759464b3a23c?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://oscarmorgan-2.medium.com/meta-ai-for-mac-my-workflow-and-privacy-test-759464b3a23c?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "821",
+    "slug": "claude-code-is-not-secure-by-default-building-a-denybydefaul",
+    "title": "Claude Code Is Not Secure by Default: Building a Deny-by-Default Security Boundary for AI Coding…",
+    "summary": "IntroductionContinue reading on MeetCyber »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://meetcyber.net/claude-code-is-not-secure-by-default-building-a-deny-by-default-security-boundary-for-ai-coding-fd1f5114a50d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://meetcyber.net/claude-code-is-not-secure-by-default-building-a-deny-by-default-security-boundary-for-ai-coding-fd1f5114a50d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "822",
+    "slug": "agentic-loops-the-core-execution-cycle-behind-ai-agents",
+    "title": "Agentic Loops: The Core Execution Cycle Behind AI Agents",
+    "summary": "If you&#x2019;re preparing for the Claude Certified Architect (Foundations) exam, Agentic Loops are one of the most important concepts to&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rahulkishore227/agentic-loops-the-core-execution-cycle-behind-ai-agents-0c1bf0cb159f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rahulkishore227/agentic-loops-the-core-execution-cycle-behind-ai-agents-0c1bf0cb159f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "823",
+    "slug": "why-does-your-ai-setup-break-every-time-you-come-back",
+    "title": "Why Does Your AI Setup Break Every Time You Come Back?",
+    "summary": "Forty minutes into a session last month, a connection my student had spent three weeks getting working simply broke. Two enterprise&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@michaeltutor/why-does-your-ai-setup-break-every-time-you-come-back-0196bdd64119?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@michaeltutor/why-does-your-ai-setup-break-every-time-you-come-back-0196bdd64119?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "824",
+    "slug": "-apple",
+    "title": "圖只負責告訴你該讀哪幾個檔 — — 用知識圖解析一個完全陌生的 Apple 開源專案",
+    "summary": "&#x524D;&#x5169;&#x7BC7;&#x6211;&#x90FD;&#x662F;&#x7528;&#x5716;&#x6AA2;&#x8996;&#x81EA;&#x5DF1;&#x7684;&#x5C08;&#x6848;&#x3002;&#x9019;&#x6B21;&#x63D",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@n913239/%E5%9C%96%E5%8F%AA%E8%B2%A0%E8%B2%AC%E5%91%8A%E8%A8%B4%E4%BD%A0%E8%A9%B2%E8%AE%80%E5%93%AA%E5%B9%BE%E5%80%8B%E6%AA%94-%E7%94%A8%E7%9F%A5%E8%AD%98%E5%9C%96%E8%A7%A3%E6%9E%90%E4%B8%80%E5%80%8B%E5%AE%8C%E5%85%A8%E9%99%8C%E7%94%9F%E7%9A%84-apple-%E9%96%8B%E6%BA%90%E5%B0%88%E6%A1%88-79b192a598dc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@n913239/%E5%9C%96%E5%8F%AA%E8%B2%A0%E8%B2%AC%E5%91%8A%E8%A8%B4%E4%BD%A0%E8%A9%B2%E8%AE%80%E5%93%AA%E5%B9%BE%E5%80%8B%E6%AA%94-%E7%94%A8%E7%9F%A5%E8%AD%98%E5%9C%96%E8%A7%A3%E6%9E%90%E4%B8%80%E5%80%8B%E5%AE%8C%E5%85%A8%E9%99%8C%E7%94%9F%E7%9A%84-apple-%E9%96%8B%E6%BA%90%E5%B0%88%E6%A1%88-79b192a598dc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "825",
+    "slug": "the-graph-only-tells-you-which-files-to-read-analyzing-an-un",
+    "title": "The Graph Only Tells You Which Files to Read — Analyzing an Unfamiliar Apple Open-Source Project",
+    "summary": "The last two pieces pointed the graph at my own project. This time I aimed it somewhere else: a Swift project I&#x2019;d never read, and one&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@n913239/the-graph-only-tells-you-which-files-to-read-analyzing-an-unfamiliar-apple-open-source-project-98a957a5b6ac?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@n913239/the-graph-only-tells-you-which-files-to-read-analyzing-an-unfamiliar-apple-open-source-project-98a957a5b6ac?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "826",
+    "slug": "how-nodejs-powers-claude-code-development-workflows",
+    "title": "How Node.js Powers Claude Code Development Workflows",
+    "summary": "If you&#x2019;ve spent time working with developer tools like Claude Code, you&#x2019;ve probably noticed how much of the plumbing runs on JavaScript&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@laraaa.jean08/how-node-js-powers-claude-code-development-workflows-8485ae48467e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@laraaa.jean08/how-node-js-powers-claude-code-development-workflows-8485ae48467e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "827",
+    "slug": "how-to-write-better-totaljs-applications-using-ai",
+    "title": "How to write better Total.js Applications using AI?",
+    "summary": "AI can write a lot of code. That doesn&#x2019;t necessarily mean it can write good Total.jsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@louisbertson/how-to-write-better-total-js-applications-using-ai-b5529f74deba?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@louisbertson/how-to-write-better-total-js-applications-using-ai-b5529f74deba?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "828",
+    "slug": "claude-code-already-has-a-graph-runtime-most-developers-are",
+    "title": "Claude Code already has a graph runtime. Most developers are ignoring it.",
+    "summary": "Graph engineering is the loudest idea in AI engineering right now. Most of your work should still be a loop &#x2014; here&#x2019;s the test that tells",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.gopubby.com/claude-code-already-has-a-graph-runtime-most-developers-are-ignoring-it-160daf231a5f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.gopubby.com/claude-code-already-has-a-graph-runtime-most-developers-are-ignoring-it-160daf231a5f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "829",
+    "slug": "claudes-autonomous-drug-discovery-doubles-success-rates-top",
+    "title": "Claude’s Autonomous Drug Discovery Doubles Success Rates — Top 10 AI & Flutter News August 21, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/claudes-autonomous-drug-discovery-doubles-success-rates-top-10-ai-flutter-news-august-21-2026-dc0f6f793617?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/claudes-autonomous-drug-discovery-doubles-success-rates-top-10-ai-flutter-news-august-21-2026-dc0f6f793617?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "810",
     "slug": "use-free-claude-code-with-opus-5-in-vs-code-cli-and-extensio",
     "title": "Use Free Claude Code with Opus 5 in VS Code: CLI and Extension Setup Guide",
@@ -22316,5 +22602,35 @@
     "slug": "-match-console-mai",
     "draft": false,
     "id": "809"
+  },
+  {
+    "slug": "it-news-4",
+    "title": "기술이 식료품점의 식품 낭비를 줄이고 있다. 그게 푸드뱅크에는 문제다",
+    "summary": "AI와 IoT 기반 식품 폐기물 감축 기술이 소매 효율성은 높이지만, 역설적으로 취약계층 지원에 필수적인 기부 식품 공급을 감소시키는 구조적 딜레마를 드러낸다.",
+    "content": "## 큐레이션 노트\n기술 혁신이 항상 사회 전체에 긍정적 영향을 미치는 것은 아니라는 중요한 사례를 제시한다. 식품 낭비 감축이라는 명백히 좋은 목표가 달성되는 과정에서 의도하지 않은 부작용(기부 식품 감소)이 발생하면서, 수익성과 사회적 책임 간의 균형 문제, 그리고 기술 도입 시 생태계 전체 영향을 고려해야 한다는 과제를 제기한다. 소매-푸드뱅크 간 선순환 체계를 구축하는 새로운 비즈니스 모델과 정책 설계의 필요성을 환기시킨다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-08-21",
+    "tags": [
+      "AI/ML",
+      "푸드테크",
+      "순환경제",
+      "사회적영향",
+      "기술의역설",
+      "소매혁신",
+      "식품보안"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91592969/tech-is-helping-grocery-stores-waste-less-food-thats-a-problem-for-food-banks?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91592969/tech-is-helping-grocery-stores-waste-less-food-thats-a-problem-for-food-banks?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — Tech is helping grocery stores waste less food. That’s a problem for food banks"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "818"
   }
 ]
