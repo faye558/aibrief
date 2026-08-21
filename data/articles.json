@@ -1,5 +1,109 @@
 [
   {
+    "id": "805",
+    "slug": "10-claude-code-extensions-skills-and-tools-that-can-keep-you",
+    "title": "10 Claude Code extensions, skills, and tools that can keep your token bill under $13 a day",
+    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I look at practical Claude Code skills, plugins, and tools that cut token waste so a&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://nitingavhane.medium.com/10-claude-code-extensions-skills-and-tools-that-can-keep-your-token-bill-under-13-a-day-14f201e4bb36?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://nitingavhane.medium.com/10-claude-code-extensions-skills-and-tools-that-can-keep-your-token-bill-under-13-a-day-14f201e4bb36?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "806",
+    "slug": "i-taught-a-junior-developer-one-habit-it-changed-every-promp",
+    "title": "I Taught a Junior Developer One Habit. It Changed Every Prompt They Wrote After That.",
+    "summary": "Not a tool. Not a trick. One habit, repeated for two weeks.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-taught-a-junior-developer-one-habit-it-changed-every-prompt-they-wrote-after-that-711e6b366765?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-taught-a-junior-developer-one-habit-it-changed-every-prompt-they-wrote-after-that-711e6b366765?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "807",
+    "slug": "i-asked-claude-if-my-code-was-secure-it-said-yes-it-was-wron",
+    "title": "I Asked Claude if My Code Was Secure. It Said Yes. It Was Wrong.",
+    "summary": "The question was the mistake. It told me exactly what I asked it to check.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/i-asked-claude-if-my-code-was-secure-it-said-yes-it-was-wrong-71fc0c855e57?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/i-asked-claude-if-my-code-was-secure-it-said-yes-it-was-wrong-71fc0c855e57?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "808",
+    "slug": "how-i-would-teach-a-junior-developer-to-use-claude",
+    "title": "How I Would Teach a Junior Developer to Use Claude",
+    "summary": "Not better prompts. The one structural habit that separates good sessions from great ones.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/how-i-would-teach-a-junior-developer-to-use-claude-cd63dfaa30a7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/how-i-would-teach-a-junior-developer-to-use-claude-cd63dfaa30a7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "791",
     "slug": "what-ai-agents-can-actually-do-without-human-intervention",
     "title": "What AI Agents Can Actually Do Without Human Intervention",
@@ -21942,5 +22046,36 @@
     "slug": "ux-bun-zig-rust",
     "draft": false,
     "id": "790"
+  },
+  {
+    "title": "라인, 일본어 상품 검색 정확도 향상 위해 Elasticsearch+Kuromoji에서 OpenSearch+Sudachi로 전환",
+    "summary": "LINE Plus 통합 커머스 팀이 2025년 초 일본 서비스의 상품 검색 정확도를 높이기 위해 기존 Elasticsearch와 Kuromoji 조합에서 OpenSearch와 Sudachi 조합으로 검색 엔진 형태소 분석기를 전환했다. 일본 담당자로부터 일본어 검색 품질 개선 요구가 있었으며, 이에 대응하기 위한 기술적 전환 작업을 진행했다.",
+    "content": "## 주요 내용\n- LINE Plus 통합 커머스 개발팀이 일본어 상품 검색 정확도 개선 작업 수행\n- 기존 Elasticsearch + Kuromoji 조합에서 OpenSearch + Sudachi 조합으로 전환\n- 2025년 초 통합 커머스 프로젝트 진행 중 일본 담당자의 검색 품질 개선 요구로 시작\n\n## 의미\n일본어 형태소 분석기를 Sudachi로 교체함으로써 일본어 상품 검색의 정확도를 높이려는 기술적 시도로, 일본 현지 서비스 품질 향상에 기여할 것으로 보인다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "라인",
+      "OpenSearch",
+      "Sudachi",
+      "검색엔진",
+      "일본어검색",
+      "형태소분석",
+      "커머스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/japanese-search-kuromoji-to-sudachi",
+        "name": "라인 — 일본어 상품 검색 정확도 높이기: Elasticsearch + Kuromoji에서 OpenSearch + Sudachi로"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-elasticsearch-kuromoji-opensearch",
+    "draft": false,
+    "id": "804"
   }
 ]
