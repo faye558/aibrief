@@ -1,5 +1,213 @@
 [
   {
+    "id": "810",
+    "slug": "use-free-claude-code-with-opus-5-in-vs-code-cli-and-extensio",
+    "title": "Use Free Claude Code with Opus 5 in VS Code: CLI and Extension Setup Guide",
+    "summary": "If you are learning Claude Code or want your first practical experience with Claude Opus 5, this is a good opportunity to experiment with&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mdshafiuddinshajib24/use-free-claude-code-with-opus-5-in-vs-code-cli-and-extension-setup-guide-8d6aab66f09d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mdshafiuddinshajib24/use-free-claude-code-with-opus-5-in-vs-code-cli-and-extension-setup-guide-8d6aab66f09d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "811",
+    "slug": "enforcing-content-guidelines-with-ai-hooks",
+    "title": "Enforcing content guidelines with AI hooks",
+    "summary": "Many people use LLM skills and agents to enforce content guidelines among their teams and products. Skills and agents however don&#x2019;t always&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@haelpasi/enforcing-content-guidelines-with-ai-hooks-a4de60bcf494?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@haelpasi/enforcing-content-guidelines-with-ai-hooks-a4de60bcf494?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "812",
+    "slug": "git-worktree-quietly-poisoned-my-ai-fleet-and-syncthing-help",
+    "title": "Git worktree quietly poisoned my AI fleet (and Syncthing helped)",
+    "summary": "Git worktree quietly poisoned my AI fleet (and Syncthing helped)",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/git-worktree-quietly-poisoned-my-ai-fleet-and-syncthing-helped-9f382cd217aa?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/git-worktree-quietly-poisoned-my-ai-fleet-and-syncthing-helped-9f382cd217aa?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "813",
+    "slug": "i-built-a-frontend-task-i-thought-would-take-2-weeks-in-a-da",
+    "title": "I Built a Frontend Task I Thought Would Take 2 Weeks in a Day — Here’s What Actually Made the…",
+    "summary": "A few days ago, I got a frontend task that looked much bigger than it actually turned out to be.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@amanbansal037/i-built-a-frontend-task-i-thought-would-take-2-weeks-in-a-day-heres-what-actually-made-the-14860072a6cd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@amanbansal037/i-built-a-frontend-task-i-thought-would-take-2-weeks-in-a-day-heres-what-actually-made-the-14860072a6cd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "814",
+    "slug": "consultinggrade-research-for-the-price-of-three-ai-subscript",
+    "title": "Consulting-grade research for the price of three AI subscriptions",
+    "summary": "Consulting-grade research for the price of three AI subscriptions",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/consulting-grade-research-for-the-price-of-three-ai-subscriptions-e4c0bc899260?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/consulting-grade-research-for-the-price-of-three-ai-subscriptions-e4c0bc899260?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "815",
+    "slug": "claude-square-pos-how-to-ask-your-cash-register-questions-in",
+    "title": "Claude + Square POS: how to ask your cash register questions in plain English",
+    "summary": "There&#x2019;s a shop I walk into a lot. Small place, one counter, a tablet on a stand with the Square app open, a card reader next to the till&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/claude-square-pos-how-to-ask-your-cash-register-questions-in-plain-english-53b601bed9b6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/claude-square-pos-how-to-ask-your-cash-register-questions-in-plain-english-53b601bed9b6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "816",
+    "slug": "graph-engineering-for-ai-coding-agents-nodes-edges-and-stop",
+    "title": "Graph Engineering for AI Coding Agents: Nodes, Edges, and Stop Conditions",
+    "summary": "Your agent doesn&#x2019;t need a longer prompt. It needs a map.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sudarshan-koirala/graph-engineering-for-ai-coding-agents-nodes-edges-and-stop-conditions-e605634cb029?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sudarshan-koirala/graph-engineering-for-ai-coding-agents-nodes-edges-and-stop-conditions-e605634cb029?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "817",
+    "slug": "claude-designed-354-protein-binders-and-the-lab-confirmed-th",
+    "title": "Claude Designed 354 Protein Binders — and the Lab Confirmed Them",
+    "summary": "Claude did not discover a drug. It did something that may be more important for the near-term future of AI science: it ran most of a&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qudongqi2023/claude-designed-354-protein-binders-and-the-lab-confirmed-them-5f7ac3f5e0d2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qudongqi2023/claude-designed-354-protein-binders-and-the-lab-confirmed-them-5f7ac3f5e0d2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "805",
     "slug": "10-claude-code-extensions-skills-and-tools-that-can-keep-you",
     "title": "10 Claude Code extensions, skills, and tools that can keep your token bill under $13 a day",
@@ -22077,5 +22285,36 @@
     "slug": "-elasticsearch-kuromoji-opensearch",
     "draft": false,
     "id": "804"
+  },
+  {
+    "title": "무신사, 개인화 운영 도구 'MATCH Console'과 AI 어시스턴트 'MAI' 공개",
+    "summary": "무신사 Core-E Personalization 팀이 운영자의 데이터 탐색부터 오디언스 정의, 채널 실행까지를 하나의 흐름으로 연결하는 MATCH Console과 AI 어시스턴트 MAI를 소개했다. 기존에는 마케터가 데이터 확인을 위해 분석가에게 문의하거나 스프레드시트·Braze·Databricks에 동일한 값을 반복 입력해야 했던 비효율이 존재했다. MATCH Console은 Data Explorer, Audience, Activation 세 공간으로 구성되며, MAI가 이 과정에서 발생하는 질문을 받아 흐름을 이어주는 역할을 한다.",
+    "content": "## 주요 내용\n- MATCH Console은 세 개의 공간으로 구성: ① Data Explorer(데이터 탐색 및 확인) ② Audience(조건 조합으로 대상 정의) ③ Activation(CRM 캠페인 또는 Audience API로 전달)\n- 기존 운영 현장 문제: 마케터가 속성 확인을 위해 데이터 분석가에게 질문하고, 캠페인 발송 시 스프레드시트·Braze·Databricks에 동일 값을 반복 입력하는 비효율 존재\n- AI 어시스턴트 MAI는 세 공간을 오가는 과정에서 발생하는 질문을 받아 데이터 탐색부터 실행까지의 흐름을 연결\n- 설계의 핵심 과제는 '인지적 부하' 감소: 데이터 전문가가 아닌 운영자도 쉽게 사용할 수 있도록 설계\n- 목표는 운영자가 데이터 처리보다 본업인 '결정'에 집중할 수 있도록 돕는 것\n\n## 의미\n무신사가 개인화 시스템 MATCH의 운영 접점을 도구화함으로써, 데이터 전문가 의존도를 낮추고 마케터 등 비전문 운영자가 직접 데이터 기반 의사결정을 실행할 수 있는 환경을 구축하려는 시도로 볼 수 있다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-08-21",
+    "tags": [
+      "무신사",
+      "MATCH",
+      "개인화",
+      "MAI",
+      "운영도구",
+      "CRM",
+      "AI어시스턴트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/match-console-mai-e65b2cfd687e?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/match-console-mai-e65b2cfd687e?source=rss----f107b03c406e---4",
+        "name": "무신사 — MATCH Console & MAI"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-match-console-mai",
+    "draft": false,
+    "id": "809"
   }
 ]
