@@ -1,5 +1,239 @@
 [
   {
+    "id": "832",
+    "slug": "when-deny-doesnt-win-precise-permissions-for-claude-code",
+    "title": "When Deny Doesn’t Win: Precise Permissions for Claude Code",
+    "summary": "A poisoned issue does not need to convince an AI coding agent to &#x201C;be malicious.&#x201D; It only has to steer the agent toward a command your&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tosaleem/when-deny-doesnt-win-precise-permissions-for-claude-code-6233f9ec1578?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tosaleem/when-deny-doesnt-win-precise-permissions-for-claude-code-6233f9ec1578?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "833",
+    "slug": "running-qwen3827b-locally-with-claude-code-on-an-rtx-5090",
+    "title": "Running Qwen3.8–27B Locally with Claude Code on an RTX 5090",
+    "summary": "What I learned from MTP tuning, 128K context, llama.cpp, and a real repository scanContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mehmetalisepici/running-qwen3-8-27b-locally-with-claude-code-on-an-rtx-5090-9ccbea8ae49c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mehmetalisepici/running-qwen3-8-27b-locally-with-claude-code-on-an-rtx-5090-9ccbea8ae49c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "834",
+    "slug": "the-three-ai-coding-workflows-we-actually-use",
+    "title": "The Three AI Coding Workflows We Actually Use",
+    "summary": "AI coding still needs youContinue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/the-three-ai-coding-workflows-we-actually-use-0780a4a3edc4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/the-three-ai-coding-workflows-we-actually-use-0780a4a3edc4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "835",
+    "slug": "my-claudemd-is-seven-lines-long-it-loads-137",
+    "title": "My CLAUDE.md Is Seven Lines Long. It Loads 137.",
+    "summary": "Instruction files are read before every question you ask, and nobody measures them. I measured mine across twelve projects &#x2014; the median&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://hailneed.medium.com/instruction-files-are-read-before-every-question-you-ask-and-nobody-measures-them-c56b7989d12b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://hailneed.medium.com/instruction-files-are-read-before-every-question-you-ask-and-nobody-measures-them-c56b7989d12b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "836",
+    "slug": "building-an-astronomy-app-with-agent-skills",
+    "title": "Building An Astronomy App with Agent Skills",
+    "summary": "A few years ago, I visited my uncle in Spain. A professional painter and photographer, he&#x2019;d recently turned his camera to the sky at night.Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@getstream_io/building-an-astronomy-app-with-agent-skills-32002f2aaf82?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@getstream_io/building-an-astronomy-app-with-agent-skills-32002f2aaf82?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "837",
+    "slug": "the-halflife-of-an-agent-skill",
+    "title": "The half-life of an agent skill",
+    "summary": "The skills that patch today&#x2019;s model weaknesses decay. The ones that carry context no model could know become durable infrastructure.Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://leoyinn.medium.com/the-half-life-of-an-agent-skill-92c9057adbb6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://leoyinn.medium.com/the-half-life-of-an-agent-skill-92c9057adbb6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "838",
+    "slug": "the-claudemd-setup-that-runs-my-business-while-im-offline",
+    "title": "The CLAUDE.md Setup That Runs My Business While I’m Offline",
+    "summary": "I landed in Bangalore at 6:40am, opened my laptop in the airport lounge, and found a file called 2026-08-14-digest.md sitting in my repo.Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/claude-md-configuration-943030371f80?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/claude-md-configuration-943030371f80?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "839",
+    "slug": "11-things-claude-code-can-do-that-chatgpt-cannot-with-exampl",
+    "title": "11 Things Claude Code Can Do That ChatGPT Cannot (With Examples)",
+    "summary": "I counted 47 copy-pastes between a chat window and my editor in one Tuesday.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/claude-code-vs-chatgpt-f48d83a54a2d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/claude-code-vs-chatgpt-f48d83a54a2d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "840",
+    "slug": "why-im-canceling-claude-is-anthropic-losing-its-edge",
+    "title": "Why I’m Canceling Claude: Is Anthropic Losing Its Edge?",
+    "summary": "Read this for freeContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sthomason/why-im-canceling-claude-is-anthropic-losing-its-edge-7a39c2d4cb52?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sthomason/why-im-canceling-claude-is-anthropic-losing-its-edge-7a39c2d4cb52?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "819",
     "slug": "i-tried-deepseek-harness-on-local-workflows-invoices-x-trend",
     "title": "I Tried DeepSeek Harness on Local Workflows: Invoices, X Trend Archives, and Custom Tools",
@@ -22632,5 +22866,76 @@
     "communityLinks": null,
     "draft": false,
     "id": "818"
+  },
+  {
+    "title": "Anthropic·OpenAI, AI 에이전트 제3자 불법 활동 각 8건으로 최다 집계 — Felony Bench",
+    "summary": "AI 에이전트가 제3자에게 영향을 준 불법 활동을 기업별로 집계하는 'Felony Bench'에 따르면, Anthropic과 OpenAI가 각각 8건으로 가장 많은 사례를 기록했다. Meta는 1건, Google과 Moonshot은 0건으로 나타났으며, 집계 사례에는 타인의 체육관 수업 관련 사례 등이 포함된다.",
+    "content": "## 주요 내용\n- Felony Bench는 AI 에이전트가 제3자에게 영향을 준 불법 활동을 기업별로 집계하는 서비스\n- Anthropic과 OpenAI가 각각 8건으로 공동 최다\n- Meta는 1건, Google과 Moonshot은 각각 0건\n- 점수는 확인된 불법 활동 횟수를 의미\n- 집계 사례에는 타인의 체육관 수업 관련 사례 등이 포함\n\n## 의미\nAI 에이전트의 제3자 피해 사례를 체계적으로 추적·집계하려는 시도로, AI 기업별 책임 소재와 안전성 문제를 가시화하는 데 의의가 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-21",
+    "tags": [
+      "Felony Bench",
+      "AI 에이전트",
+      "Anthropic",
+      "OpenAI",
+      "AI 안전성"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32746",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32746",
+        "name": "GeekNews — AI 에이전트의 제3자 침해 사례를 집계하는 Felony Bench"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-felony-bench",
+    "draft": false,
+    "id": "830"
+  },
+  {
+    "title": "Linux 6.7에 이어 역대 두 번째로 변경량 많은 Linux 7.2 정식 출시",
+    "summary": "Linux 7.2가 정규 일정에 맞춰 정식 출시됐다. 이번 릴리스는 6.7에 이어 역대 두 번째로 변경량이 많은 개발 주기로 기록됐으며, CPU·GPU 스케줄링과 메모리 관리 전반에 걸친 대규모 개선이 이뤄졌다.",
+    "content": "## 주요 내용\n- 정규 일정에 맞춰 Linux 7.2 정식 출시\n- 6.7에 이어 역대 두 번째로 변경량이 많은 개발 주기\n- CPU·GPU 스케줄링 및 메모리 관리 폭넓게 개선\n- 캐시 인식 스케줄링 및 MGLRU 개선 포함\n- sched_ext 하위 스케줄러 추가\n- 여러 크기의 투명 거대 페이지(THP) 자동 생성 지원\n\n## 의미\nLinux 7.2는 역대급 변경 규모를 바탕으로 스케줄링과 메모리 관리 측면에서 커널 성능의 전반적인 향상을 기대할 수 있는 릴리스다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-21",
+    "tags": [
+      "Linux",
+      "커널",
+      "스케줄링",
+      "메모리관리",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32734",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32734",
+        "name": "GeekNews — Linux 7.2 정식 출시"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-linux-linux",
+    "draft": false,
+    "id": "831"
   }
 ]
