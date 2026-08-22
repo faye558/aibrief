@@ -1,5 +1,83 @@
 [
   {
+    "id": "846",
+    "slug": "the-ainative-sdlc-a-practical-playbook-for-cloud-migration-t",
+    "title": "The AI-Native SDLC: A Practical Playbook for Cloud Migration Teams",
+    "summary": "For most of my seventeen years in this field, &#x201C;speeding up the SDLC&#x201D; meant automating the pipeline &#x2014; faster builds, parallel test",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.devops.dev/the-ai-native-sdlc-a-practical-playbook-for-cloud-migration-teams-c2b2ddae9d95?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.devops.dev/the-ai-native-sdlc-a-practical-playbook-for-cloud-migration-teams-c2b2ddae9d95?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "847",
+    "slug": "universal-agent-plugins-codex-plugins-grok-build-plugins-cla",
+    "title": "Universal Agent Plugins: Codex Plugins. Grok Build Plugins. Claude Code Plugins.",
+    "summary": "What if there was one standard folder? There is. Agent Plugins 1.0.0.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@richardhightower/universal-agent-plugins-codex-plugins-grok-build-plugins-claude-code-plugins-e468e85a665a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@richardhightower/universal-agent-plugins-codex-plugins-grok-build-plugins-claude-code-plugins-e468e85a665a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "848",
+    "slug": "grok-bot-claude-code-and-codex-share-one-second-brain",
+    "title": "Grok Bot, Claude Code, and Codex Share One Second Brain",
+    "summary": "Reads on main. Writes on a worktree/branch. How typed links and a write boundary stop agents from clobbering each other.Continue reading on Towards AI",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/grok-bot-claude-code-and-codex-share-one-second-brain-9c57310729fd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/grok-bot-claude-code-and-codex-share-one-second-brain-9c57310729fd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "841",
     "slug": "top-10-things-to-install-after-you-first-open-claude-code-cu",
     "title": "Top 10 Things to Install After You First Open Claude Code (Cut Your First-Day Friction by 80%)",
