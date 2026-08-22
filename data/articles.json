@@ -1,5 +1,135 @@
 [
   {
+    "id": "841",
+    "slug": "top-10-things-to-install-after-you-first-open-claude-code-cu",
+    "title": "Top 10 Things to Install After You First Open Claude Code (Cut Your First-Day Friction by 80%)",
+    "summary": "Hi everyone, I am Nitin Gavhane and In this blog I walk through the exact setup steps that turn a fresh Claude Code install into something&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://nitingavhane.medium.com/top-10-things-to-install-after-you-first-open-claude-code-cut-your-first-day-friction-by-80-49ea3d5a2e87?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://nitingavhane.medium.com/top-10-things-to-install-after-you-first-open-claude-code-cut-your-first-day-friction-by-80-49ea3d5a2e87?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "842",
+    "slug": "parallel-claude-code-sessions-with-laborforest",
+    "title": "Parallel Claude Code Sessions with LaborForest",
+    "summary": "This article was originally posted on brice.codes.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@brice_hartmann/parallel-claude-code-sessions-with-laborforest-51f6df7fb7fc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@brice_hartmann/parallel-claude-code-sessions-with-laborforest-51f6df7fb7fc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "843",
+    "slug": "i-made-one-claude-code-session-the-developer-and-another-the",
+    "title": "I Made One Claude Code Session the Developer and Another the QA",
+    "summary": "PartIII: Claude Cross-session messaging + service-simContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://21zerixpm.medium.com/i-made-one-claude-code-session-the-developer-and-another-the-qa-50f3ed5eacac?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://21zerixpm.medium.com/i-made-one-claude-code-session-the-developer-and-another-the-qa-50f3ed5eacac?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "844",
+    "slug": "for-months-i-thought-i-was-bad-at-using-claude-i-was-doing-o",
+    "title": "For Months, I Thought I Was Bad at Using Claude. I Was Doing One Thing Wrong.",
+    "summary": "Not the model. Not the tier. One structural habit I wasn&#x2019;t building into every session.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vighneshramteke/for-months-i-thought-i-was-bad-at-using-claude-i-was-doing-one-thing-wrong-78a1dc98bb62?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vighneshramteke/for-months-i-thought-i-was-bad-at-using-claude-i-was-doing-one-thing-wrong-78a1dc98bb62?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "845",
+    "slug": "you-dont-need-100-claude-prompts-you-need-one-system",
+    "title": "You Don’t Need 100 Claude Prompts. You Need One System.",
+    "summary": "A prompt collection answers today&#x2019;s question. A system answers the next fifty.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rv5542627/you-dont-need-100-claude-prompts-you-need-one-system-40b0457e97c1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rv5542627/you-dont-need-100-claude-prompts-you-need-one-system-40b0457e97c1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "832",
     "slug": "when-deny-doesnt-win-precise-permissions-for-claude-code",
     "title": "When Deny Doesn’t Win: Precise Permissions for Claude Code",
