@@ -1,5 +1,265 @@
 [
   {
+    "id": "849",
+    "slug": "new-dev-tools-new-mental-challenges-new-me",
+    "title": "New Dev Tools ‍ New Mental Challenges  New Me",
+    "summary": "GhosttyContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://jaceklaskowski.medium.com/new-dev-tools-new-mental-challenges-new-me-7fdb436c6d58?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://jaceklaskowski.medium.com/new-dev-tools-new-mental-challenges-new-me-7fdb436c6d58?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "850",
+    "slug": "4-skills-that-patch-claude-codes-biggest-bugs-install-these",
+    "title": "4 Skills That Patch Claude Code’s Biggest Bugs (Install These First)",
+    "summary": "I was ready to trash it until I uploaded these Claude SkillsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://divadsanders.medium.com/4-skills-that-patch-claude-codes-biggest-bugs-install-these-first-fb72184c6a58?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://divadsanders.medium.com/4-skills-that-patch-claude-codes-biggest-bugs-install-these-first-fb72184c6a58?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "851",
+    "slug": "chatgpt-can-now-read-and-send-your-imessages-top-10-ai-flutt",
+    "title": "ChatGPT Can Now Read and Send Your iMessages — Top 10 AI & Flutter News August 22, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/chatgpt-can-now-read-and-send-your-imessages-top-10-ai-flutter-news-august-22-2026-0078598f34e1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/chatgpt-can-now-read-and-send-your-imessages-top-10-ai-flutter-news-august-22-2026-0078598f34e1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "852",
+    "slug": "ai-slop-is-cheap-technical-debt-isnt",
+    "title": "AI Slop Is Cheap. Technical Debt Isn’t.",
+    "summary": "AI has made code and conent generation cheap. The harder question is whether engineering judgement can scale with it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@duraidw/ai-slop-is-cheap-technical-debt-isnt-7d239b6135f1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@duraidw/ai-slop-is-cheap-technical-debt-isnt-7d239b6135f1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "853",
+    "slug": "does-grok-actually-understand-x-better-than-other-llms",
+    "title": "Does Grok Actually Understand X Better Than Other LLMs?",
+    "summary": "A practical benchmark for testing whether a model&#x2019;s presumed training data creates a measurable advantage.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/does-grok-actually-understand-x-better-than-other-llms-581e98ee02b6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/does-grok-actually-understand-x-better-than-other-llms-581e98ee02b6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "854",
+    "slug": "i-gave-claude-5000-stocks-and-congresss-trading-data-one-tic",
+    "title": "I Gave Claude 5,000 Stocks and Congress’s Trading Data. One Ticker Beat Them All.",
+    "summary": "Every few months, someone builds a new &#x201C;Pelosi stocks&#x201D; tracker. Same format every time: scrape the STOCK Act disclosures, sort by dollar",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.datadriveninvestor.com/i-gave-claude-5-000-stocks-and-congresss-trading-data-one-ticker-beat-them-all-f08ad7f39990?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.datadriveninvestor.com/i-gave-claude-5-000-stocks-and-congresss-trading-data-one-ticker-beat-them-all-f08ad7f39990?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "855",
+    "slug": "what-if-every-employee-had-a-personal-ai-agent-connected-to",
+    "title": "What If Every Employee Had a Personal AI Agent Connected to One Shared Company Brain?",
+    "summary": "The next AI-native company may not run on dozens of disconnected SaaS tools. It may operate as one shared intelligence, extended by&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/what-if-every-employee-had-a-personal-ai-agent-connected-to-one-shared-company-brain-0d6d561be274?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/what-if-every-employee-had-a-personal-ai-agent-connected-to-one-shared-company-brain-0d6d561be274?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "856",
+    "slug": "i-thought-claude-code-needed-a-paid-api-then-i-found-omnirou",
+    "title": "I Thought Claude code needed a Paid API — then I found OmniRoute",
+    "summary": "Today, I discovered something I wasn&#x2019;t expecting: I could experiment with Claude Code without paying for an AI upfront.Continue reading on Medi",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jasvanthvarmamuppala/i-thought-claude-code-needed-a-paid-api-then-i-found-omniroute-71b2bfc847e7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jasvanthvarmamuppala/i-thought-claude-code-needed-a-paid-api-then-i-found-omniroute-71b2bfc847e7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "857",
+    "slug": "practical-codexclaude-code-utilization-how-to-design-instruc",
+    "title": "Practical Codex/Claude Code Utilization ~How to design instructions for coding agents~",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://koyaaarr.medium.com/practical-codex-claude-code-utilization-how-to-design-instructions-for-coding-agents-46118d8096ef?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://koyaaarr.medium.com/practical-codex-claude-code-utilization-how-to-design-instructions-for-coding-agents-46118d8096ef?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "858",
+    "slug": "how-id-build-a-1person-ai-business-to-10kmonth-in-30-days-no",
+    "title": "How I’d Build a 1-Person AI Business to $10K/Month in 30 Days (No Team, No Office)",
+    "summary": "Building a one-person AI business to $10K per month in 30 days is possible in 2026 by combining Claude AI content workflows, a&#x2026;Continue reading",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://moneytent.medium.com/how-id-build-a-1-person-ai-business-to-10k-month-in-30-days-no-team-no-office-7a315de6d46f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://moneytent.medium.com/how-id-build-a-1-person-ai-business-to-10k-month-in-30-days-no-team-no-office-7a315de6d46f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "846",
     "slug": "the-ainative-sdlc-a-practical-playbook-for-cloud-migration-t",
     "title": "The AI-Native SDLC: A Practical Playbook for Cloud Migration Teams",
