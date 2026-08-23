@@ -23751,7 +23751,8 @@
     "communityLinks": null,
     "slug": "ux-siemens-mpeg-4-part",
     "draft": false,
-    "id": "725"
+    "id": "725",
+    "hidden": true
   },
   {
     "title": "Anthropic 관련 칼럼 — AI는 우리에게 거짓말을 하고 있으며, 아무도 신경 쓰지 않는다",
