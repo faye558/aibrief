@@ -12,14 +12,23 @@ function checkAuth(req: NextRequest) {
 }
 
 async function getFile() {
-  const res = await fetch(
+  // Contents API has a 1MB limit — use Git Blobs API for large files
+  const metaRes = await fetch(
     `https://api.github.com/repos/${GITHUB_REPO}/contents/${FILE_PATH}`,
     { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3+json" }, cache: "no-store" }
   );
-  if (!res.ok) throw new Error("GitHub API error: " + res.status);
-  const data = await res.json();
-  const content = Buffer.from(data.content, "base64").toString("utf-8");
-  return { articles: JSON.parse(content), sha: data.sha };
+  if (!metaRes.ok) throw new Error("GitHub API error: " + metaRes.status);
+  const meta = await metaRes.json();
+  const sha = meta.sha;
+
+  // Fetch actual content via Blobs API (no size limit)
+  const blobRes = await fetch(
+    `https://api.github.com/repos/${GITHUB_REPO}/git/blobs/${sha}`,
+    { headers: { Authorization: `token ${GITHUB_TOKEN}`, Accept: "application/vnd.github.v3.raw" }, cache: "no-store" }
+  );
+  if (!blobRes.ok) throw new Error("GitHub Blob error: " + blobRes.status);
+  const content = await blobRes.text();
+  return { articles: JSON.parse(content), sha: meta.sha };
 }
 
 async function putFile(articles: unknown[], sha: string) {
