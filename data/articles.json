@@ -24017,7 +24017,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "763"
+    "id": "763",
+    "hidden": true
   },
   {
     "title": "OpenAI, 'AI 답변을 그대로 붙여넣지 말라' 권고",
