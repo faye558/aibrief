@@ -23821,7 +23821,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "740"
+    "id": "740",
+    "hidden": true
   },
   {
     "title": "Adobe 보안 사고 사례로 배우는 개발자를 위한 암호학 핵심 가이드",
