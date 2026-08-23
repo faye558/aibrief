@@ -1,5 +1,213 @@
 [
   {
+    "id": "876",
+    "slug": "claude-notion-how-to-query-update-and-clean-up-your-notion-w",
+    "title": "CLAUDE + NOTION: how to query, update and clean up your Notion without opening it",
+    "summary": "1. What Notion actually isContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info.webproitalia/claude-notion-how-to-query-update-and-clean-up-your-notion-without-opening-it-d1bc5d413d64?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info.webproitalia/claude-notion-how-to-query-update-and-clean-up-your-notion-without-opening-it-d1bc5d413d64?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "877",
+    "slug": "how-to-get-notified-when-claude-code-finishes-a-task",
+    "title": "How to Get Notified When Claude Code Finishes a Task",
+    "summary": "How to Get Notified When Claude Code Finishes a Task",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@younasshahab/how-to-get-notified-when-claude-code-finishes-a-task-f49f762eab63?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@younasshahab/how-to-get-notified-when-claude-code-finishes-a-task-f49f762eab63?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "878",
+    "slug": "from-figma-to-frontend-without-losing-your-mind-building-a-d",
+    "title": "From Figma to front-end without losing your mind: building a design system",
+    "summary": "This is a three-part story on building the Prerender.ioContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@UserExpired/from-figma-to-front-end-without-losing-your-mind-65518cafe5b6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@UserExpired/from-figma-to-front-end-without-losing-your-mind-65518cafe5b6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "879",
+    "slug": "ai-writes-the-code-do-developers-become-architects",
+    "title": "AI Writes the Code. Do Developers Become Architects?",
+    "summary": "What you&#x2019;ll take awayContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@duraidw/ai-writes-the-code-do-developers-become-architects-c3ec2a098fb9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@duraidw/ai-writes-the-code-do-developers-become-architects-c3ec2a098fb9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "880",
+    "slug": "stop-reprompting-claude-code-for-the-same-format-every-turn",
+    "title": "Stop Re-Prompting Claude Code for the Same Format Every Turn",
+    "summary": "Output styles rewrite Claude Code&#x2019;s system prompt &#x2014; here is what they change, what they quietly remove, and the one flag that decides bo",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tihomir.manushev/stop-re-prompting-claude-code-for-the-same-format-every-turn-972d8dce0a61?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tihomir.manushev/stop-re-prompting-claude-code-for-the-same-format-every-turn-972d8dce0a61?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "881",
+    "slug": "i-gave-claude-ai-my-codebase-for-30-days-part-2-the-cracks-a",
+    "title": "I Gave Claude AI My Codebase for 30 Days — Part 2: The Cracks Are Showing",
+    "summary": "Week two was supposed to be the honeymoon phase. Instead, I started keeping a list titled &#x201C;Things Claude Broke.&#x201D;Continue reading on Medi",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pragneshpalsana/i-gave-claude-ai-my-codebase-for-30-days-part-2-the-cracks-are-showing-f80b06b7c936?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pragneshpalsana/i-gave-claude-ai-my-codebase-for-30-days-part-2-the-cracks-are-showing-f80b06b7c936?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "882",
+    "slug": "claude-code-auto-mode-is-the-beginning-of-overnight-software",
+    "title": "Claude Code Auto Mode Is the Beginning of Overnight Software Engineering",
+    "summary": "Claude Code now works 9x longer between interruptions, and one Nuro engineer says a seven-hour overnight run produced three pull requests&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@surajkhaitan16/claude-code-auto-mode-is-the-beginning-of-overnight-software-engineering-654635b336b9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@surajkhaitan16/claude-code-auto-mode-is-the-beginning-of-overnight-software-engineering-654635b336b9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "883",
+    "slug": "i-stopped-typing-prompts-to-claude-code-my-prompts-got-bette",
+    "title": "I stopped typing prompts to Claude Code. My prompts got better.",
+    "summary": "Speaking a prompt is quicker than typing one. It also keeps the parts you would have trimmed without noticing.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Jessemeria/i-stopped-typing-prompts-to-claude-code-my-prompts-got-better-3ae4c37cb22c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Jessemeria/i-stopped-typing-prompts-to-claude-code-my-prompts-got-better-3ae4c37cb22c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "873",
     "slug": "5-github-repos-skills-combos-for-reliable-claude-agents-cut",
     "title": "5 GitHub repos + skills combos for reliable Claude agents (cut tokens up to 65%)",
