@@ -23721,7 +23721,8 @@
     "communityLinks": null,
     "slug": "ux-linux-vram",
     "draft": false,
-    "id": "698"
+    "id": "698",
+    "hidden": true
   },
   {
     "title": "Siemens AG 브라질 특허 만료로 MPEG-4 Part 2 관련 Linux 법적 문제 해소",
