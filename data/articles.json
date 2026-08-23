@@ -1,5 +1,317 @@
 [
   {
+    "id": "861",
+    "slug": "what-building-ai-agents-actually-taught-me-about-design",
+    "title": "What Building AI Agents Actually Taught Me About Design",
+    "summary": "Over the last two years, I&#x2019;ve built AI agents across five platforms: Python, Make, Microsoft Copilot, Cursor, and Claude.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@s.st.simeonova/what-building-ai-agents-actually-taught-me-about-design-45c2010cf39c?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@s.st.simeonova/what-building-ai-agents-actually-taught-me-about-design-45c2010cf39c?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "862",
+    "slug": "router-vs-supervisor-in-ai-agents-the-difference-that-change",
+    "title": "Router vs Supervisor in AI Agents: The Difference That Changes Your Architecture",
+    "summary": "As AI applications grow beyond a single agent, we start introducing multiple specialized agents.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rishijay.shrivastava/router-vs-supervisor-in-ai-agents-the-difference-that-changes-your-architecture-66455be6da2a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rishijay.shrivastava/router-vs-supervisor-in-ai-agents-the-difference-that-changes-your-architecture-66455be6da2a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "863",
+    "slug": "fixing-figma-couldnt-be-imported-because-a-plugin-with-that",
+    "title": "Fixing “figma couldn’t be imported because a plug-in with that name is already available” in Xcode…",
+    "summary": "A practical workaround for connecting Figma MCP to Claude Agent when Xcode&#x2019;s Plug-in importer gets stuck.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aykutkardes/fixing-figma-couldnt-be-imported-because-a-plug-in-with-that-name-is-already-available-in-xcode-323759b47c8e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aykutkardes/fixing-figma-couldnt-be-imported-because-a-plug-in-with-that-name-is-already-available-in-xcode-323759b47c8e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "864",
+    "slug": "a-blocked-claude-code-session-looks-exactly-like-a-busy-one",
+    "title": "A blocked Claude Code session looks exactly like a busy one",
+    "summary": "A notch HUD for Claude Code. What it costs to watch a session from outside, and what I refused to put on screen.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vishwam-chepuri.medium.com/a-blocked-claude-code-session-looks-exactly-like-a-busy-one-91967183d901?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vishwam-chepuri.medium.com/a-blocked-claude-code-session-looks-exactly-like-a-busy-one-91967183d901?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "865",
+    "slug": "everyone-is-hyping-claude-code",
+    "title": "Everyone is hyping Claude Code.",
+    "summary": "Don&#x2019;t get me wrong: I love Claude Code. I use it every single day. I&#x2019;ve used its various models to build several apps, utilities, report",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@gents83/everyone-is-hyping-claude-code-2ad22b076dea?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@gents83/everyone-is-hyping-claude-code-2ad22b076dea?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "866",
+    "slug": "plugins-vs-connectors-in-claude",
+    "title": "Plugins vs Connectors in Claude",
+    "summary": "Plugin (Claude Code)Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://gengwg.medium.com/plugins-vs-connectors-in-claude-9f6d8adf4b82?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://gengwg.medium.com/plugins-vs-connectors-in-claude-9f6d8adf4b82?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "867",
+    "slug": "the-flakytest-autopsy-using-claude-code-to-find-why-tests-li",
+    "title": "The Flaky-Test Autopsy: Using Claude Code to Find Why Tests Lie",
+    "summary": "The suite was green on Thursday evening. All 412 tests passed, the pipeline finished in 14 minutes, and the release went out with the&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/design-bootcamp/the-flaky-test-autopsy-using-claude-code-to-find-why-tests-lie-f736d8b6ba06?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/design-bootcamp/the-flaky-test-autopsy-using-claude-code-to-find-why-tests-lie-f736d8b6ba06?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "868",
+    "slug": "100-claude-prompts-for-customer-support-how-ai-can-transform",
+    "title": "100 Claude Prompts for Customer Support: How AI Can Transform the Way Businesses Handle Customers",
+    "summary": "Customer support is one of the most important parts of any business &#x2014; and one of the easiest areas to become overwhelmed.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mdfaruktmss/100-claude-prompts-for-customer-support-how-ai-can-transform-the-way-businesses-handle-customers-eca698948046?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mdfaruktmss/100-claude-prompts-for-customer-support-how-ai-can-transform-the-way-businesses-handle-customers-eca698948046?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "869",
+    "slug": "can-an-ai-model-really-escape-what-actually-happened-at-open",
+    "title": "Can an AI Model Really “Escape”? What Actually Happened at OpenAI",
+    "summary": "The Architecture of an Incident: Systemic Failures, Containment Limits, and the Real Frontier ThreatContinue reading on AGI Is Living Intelligence »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/agi-is-living-intelligence/can-an-ai-model-really-escape-what-actually-happened-at-openai-ed64da04ecb7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/agi-is-living-intelligence/can-an-ai-model-really-escape-what-actually-happened-at-openai-ed64da04ecb7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "870",
+    "slug": "i-stopped-babysitting-my-coding-agent-from-my-phone-heres-wh",
+    "title": "I Stopped Babysitting My Coding Agent From My Phone — Here’s What Changed",
+    "summary": "Anyone who&#x2019;s tried controlling a long-running coding session from their phone knows the drill: the connection drops, the app shows a&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ankorbusiness.medium.com/i-stopped-babysitting-my-coding-agent-from-my-phone-heres-what-changed-db586109de23?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ankorbusiness.medium.com/i-stopped-babysitting-my-coding-agent-from-my-phone-heres-what-changed-db586109de23?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "871",
+    "slug": "deploying-secure-mcp-servers-on-cloud-run",
+    "title": "Deploying Secure MCP Servers on Cloud Run",
+    "summary": "Local Model Context Protocol (MCP) servers running over stdio are great for rapid prototyping on your workstation, but team workflows and&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@fhinkel/deploying-secure-mcp-servers-on-cloud-run-6b5d4b842a70?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@fhinkel/deploying-secure-mcp-servers-on-cloud-run-6b5d4b842a70?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "872",
+    "slug": "claude-opens-a-free-academy-learn-ai-claude-code-mcp-and-mor",
+    "title": "Claude Opens a Free Academy: Learn AI, Claude Code, MCP, and More",
+    "summary": "From AI beginners to everyday Claude users &#x2014; free courses and tutorials for everyone, at every levelContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@barnwalsaurabh/claude-opens-a-free-academy-learn-ai-claude-code-mcp-and-more-af8915f29a12?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@barnwalsaurabh/claude-opens-a-free-academy-learn-ai-claude-code-mcp-and-more-af8915f29a12?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "849",
     "slug": "new-dev-tools-new-mental-challenges-new-me",
     "title": "New Dev Tools ‍ New Mental Challenges  New Me",
@@ -23405,5 +23717,63 @@
     "slug": "ux-linux-linux",
     "draft": false,
     "id": "831"
+  },
+  {
+    "title": "GeekNews — \"TUI를 그만 만드세요\": LLM 에이전트가 네이티브 UI 생성 실용화",
+    "summary": "LLM 에이전트가 SwiftUI 네이티브 UI를 실용적인 수준으로 생성할 수 있게 되면서, 시스템 프로그래머도 개인용 도구를 더 이상 터미널 화면(TUI)으로 만들 필요가 없어지고 있다. CLI는 자동화와 원격 제어에 여전히 대체 불가능하지만, TUI는 스크롤·드래그 앤드 드롭·텍스트 선택·다중 창 등의 기능 면에서 한계가 있다.",
+    "content": "## 주요 내용\n- LLM 에이전트가 SwiftUI 네이티브 UI를 실용적인 수준으로 생성 가능해짐\n- 시스템 프로그래머도 개인용 도구를 TUI로 만들 필요가 없어지는 시대가 도래\n- CLI는 자동화 및 원격 제어 용도로 대체 불가능한 위치를 유지\n- TUI는 스크롤, 드래그 앤드 드롭, 텍스트 선택, 다중 창 등 기능 면에서 한계 존재\n\n## 의미\nLLM 기반 UI 생성 기술의 발전으로 TUI의 실용적 존재 이유가 줄어들고 있으며, 개발자들이 보다 풍부한 인터페이스를 손쉽게 채택할 수 있는 환경이 마련되고 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-22",
+    "tags": [
+      "TUI",
+      "LLM에이전트",
+      "SwiftUI",
+      "CLI",
+      "네이티브UI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32771",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32771",
+        "name": "GeekNews — TUI를 그만 만드세요"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-geeknews-tui",
+    "draft": false,
+    "id": "859"
+  },
+  {
+    "title": "Labor0 — AI 에이전트 세션 증가로 인한 사람의 조율 병목을 줄이기 위한 작업 체계",
+    "summary": "AI 에이전트 세션이 늘어날수록 실행 자체보다 사람이 모든 진행 상황을 확인하고 조율하는 과정이 병목이 된다. 이를 해소하기 위해 큰 작업을 작은 PR 단위로 분리하고, CI 실패 수정·머지 충돌 해결·리뷰 반영·Codex 자동 리뷰가 완료된 이후에만 사람이 확인하는 체계를 구성했다.",
+    "content": "## 주요 내용\n- AI 에이전트 세션 증가 시 실행보다 사람의 확인·조율이 병목으로 작용\n- 큰 작업을 작은 PR 단위로 분할하여 관리\n- CI 실패 수정, 머지 충돌 해결, 리뷰 반영, Codex 자동 리뷰 완료 후에만 사람이 개입하는 구조\n\n## 의미\nAI 에이전트 활용이 확대될수록 사람의 개입 시점을 최소화하고 자동화 단계를 극대화하는 작업 체계의 필요성을 실제 구현 사례로 보여준다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-22",
+    "tags": [
+      "AI에이전트",
+      "Labor0",
+      "자동화",
+      "PR관리",
+      "Codex"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32769",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32769",
+        "name": "GeekNews — Labor0를 만든 이유"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-labor0-agent",
+    "draft": false,
+    "id": "860"
   }
 ]
