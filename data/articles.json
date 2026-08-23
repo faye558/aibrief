@@ -24156,7 +24156,8 @@
     "communityLinks": null,
     "slug": "-elasticsearch-kuromoji-opensearch",
     "draft": false,
-    "id": "804"
+    "id": "804",
+    "hidden": true
   },
   {
     "title": "무신사, 개인화 운영 도구 'MATCH Console'과 AI 어시스턴트 'MAI' 공개",
