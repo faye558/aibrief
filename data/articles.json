@@ -23633,7 +23633,8 @@
     "communityLinks": null,
     "slug": "ux-ev424-verification-kernel",
     "draft": false,
-    "id": "645"
+    "id": "645",
+    "hidden": true
   },
   {
     "title": "라인, 보안 업무용 AI 에이전트 플랫폼 'SAGE' 개발기 공개 — '판단은 사람에게' 설계 철학",
