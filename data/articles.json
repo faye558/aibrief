@@ -1,5 +1,291 @@
 [
   {
+    "id": "884",
+    "slug": "the-archive-wasnt-dead-it-was-uncompiled",
+    "title": "The Archive Wasn’t Dead. It Was Uncompiled.",
+    "summary": "How 888 old AI emails became a knowledge corpus, wiki import pack, and a reusable Codex skill.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@LakshmiNarayana_U/the-archive-wasnt-dead-it-was-uncompiled-a0c10b2d3a4a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@LakshmiNarayana_U/the-archive-wasnt-dead-it-was-uncompiled-a0c10b2d3a4a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "885",
+    "slug": "ai-멀티-에이전트로-주식비서-만들기",
+    "title": "AI 멀티 에이전트로 주식비서 만들기",
+    "summary": "&#xBB3C;&#xD0C0;&#xAE30; &#xADDC;&#xCE59;&#xC744; &#xC2DC;&#xC2A4;&#xD15C;&#xC73C;&#xB85C;, Claude Code &#xBA40;&#xD2F0; &#xC5D0;&#xC774;&#xC804;&#xD2",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jaelim095/ai-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-%EC%A3%BC%EC%8B%9D%EB%B9%84%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2244199cf8f9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jaelim095/ai-%EB%A9%80%ED%8B%B0-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EB%A1%9C-%EC%A3%BC%EC%8B%9D%EB%B9%84%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0-2244199cf8f9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "886",
+    "slug": "5-claude-code-skills-that-replace-a-150hr-consultant",
+    "title": "5 Claude Code Skills That Replace a $150/hr Consultant",
+    "summary": "Invoice #2291 from a security contractor: $4,800 again.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/best-claude-skills-d7ea5de64797?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/best-claude-skills-d7ea5de64797?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "887",
+    "slug": "in-my-factory-of-ai-agents-last-time-i-cracked-the-door-here",
+    "title": "In my factory of AI agents, last time I cracked the door - here’s every room.",
+    "summary": "A guided tour of the agentfactory web console used to run autonomous Claude Code agents, and the latest features sitting behind themContinue reading o",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@glennstempeck/in-my-factory-of-ai-agents-last-time-i-cracked-the-door-heres-every-room-a04f14babef0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@glennstempeck/in-my-factory-of-ai-agents-last-time-i-cracked-the-door-heres-every-room-a04f14babef0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "888",
+    "slug": "chatgpt-vs-claude-for-web-development-which-is-better",
+    "title": "ChatGPT vs Claude for Web Development: Which Is Better?",
+    "summary": "ChatGPT vs Claude for web development has become an important comparison for developers using AI to write code, debug errors, build&#x2026;Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dhruvkuhikar20/chatgpt-vs-claude-for-web-development-which-is-better-7e49a976f0e3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dhruvkuhikar20/chatgpt-vs-claude-for-web-development-which-is-better-7e49a976f0e3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "889",
+    "slug": "plumbing-manners-and-a-caveman",
+    "title": "Plumbing, Manners, and a Caveman!",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jn-aman/plumbing-manners-and-a-caveman-09d1a5dbfae5?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jn-aman/plumbing-manners-and-a-caveman-09d1a5dbfae5?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "890",
+    "slug": "anthropic-launches-35m-oss-defense-fund-with-claude-mythos-5",
+    "title": "Anthropic Launches $35M OSS Defense Fund with Claude Mythos 5 — Top 10 AI & Flutter News August 23…",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/anthropic-launches-35m-oss-defense-fund-with-claude-mythos-5-top-10-ai-flutter-news-august-23-8ee3b372fdb0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/anthropic-launches-35m-oss-defense-fund-with-claude-mythos-5-top-10-ai-flutter-news-august-23-8ee3b372fdb0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "891",
+    "slug": "how-to-use-100-of-api-credits-with-claude-desktop-and-opus-5",
+    "title": "How to Use $100 of API Credits with Claude Desktop and Opus 5",
+    "summary": "What if you could use Claude Opus 5 inside Claude Desktop without paying for a Claude subscription?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kumaresankp21/how-to-use-100-of-api-credits-with-claude-desktop-and-opus-5-e490f3ceeb59?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kumaresankp21/how-to-use-100-of-api-credits-with-claude-desktop-and-opus-5-e490f3ceeb59?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "892",
+    "slug": "how-to-connect-agent-router-a-free-codex-and-claude-service",
+    "title": "How to Connect Agent Router, a Free Codex and Claude Service, to CC Switch",
+    "summary": "Sign in to Agent RouterContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pypowt/how-to-connect-agent-router-a-free-codex-and-claude-service-to-cc-switch-e863d232b8c9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pypowt/how-to-connect-agent-router-a-free-codex-and-claude-service-to-cc-switch-e863d232b8c9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "893",
+    "slug": "i-put-cursor-codex-and-claude-code-in-one-office-literally",
+    "title": "I Put Cursor, Codex and Claude Code in One Office (literally)",
+    "summary": "The clever idea that could change how we manage AI agentsContinue reading on Realworld AI Use Cases »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/realworld-ai-use-cases/i-put-cursor-codex-and-claude-code-in-one-office-literally-6329e5992eb8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/realworld-ai-use-cases/i-put-cursor-codex-and-claude-code-in-one-office-literally-6329e5992eb8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "894",
+    "slug": "trial-and-error-never-went-away-it-just-started-charging-a-d",
+    "title": "Trial and Error Never Went Away. It Just Started Charging a Different Currency.",
+    "summary": "We used to pay for quality with time. Now we pay for it with tokens &#x2014; and most teams haven&#x2019;t noticed the switch.Continue reading on Medi",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@saiteja180/trial-and-error-never-went-away-it-just-started-charging-a-different-currency-e7651c08832f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@saiteja180/trial-and-error-never-went-away-it-just-started-charging-a-different-currency-e7651c08832f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "876",
     "slug": "claude-notion-how-to-query-update-and-clean-up-your-notion-w",
     "title": "CLAUDE + NOTION: how to query, update and clean up your Notion without opening it",
