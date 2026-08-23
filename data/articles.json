@@ -24129,7 +24129,8 @@
     "communityLinks": null,
     "slug": "ux-bun-zig-rust",
     "draft": false,
-    "id": "790"
+    "id": "790",
+    "hidden": true
   },
   {
     "title": "라인, 일본어 상품 검색 정확도 향상 위해 Elasticsearch+Kuromoji에서 OpenSearch+Sudachi로 전환",
