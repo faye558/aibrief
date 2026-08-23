@@ -23897,7 +23897,8 @@
     "communityLinks": null,
     "slug": "ai-opensandbox-release",
     "draft": false,
-    "id": "753"
+    "id": "753",
+    "hidden": true
   },
   {
     "title": "당근, 인증 시스템의 변천사 — SMS 점유 인증부터 본인인증 도입까지",
