@@ -1,5 +1,265 @@
 [
   {
+    "id": "925",
+    "slug": "we-gave-ai-agents-skills-what-about-experience",
+    "title": "We Gave AI Agents Skills. What About Experience?",
+    "summary": "Project-specific experiences should live in the project, close to the code they inform.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@alireza.work/we-gave-ai-agents-skills-what-about-experience-33ae03c799f3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@alireza.work/we-gave-ai-agents-skills-what-about-experience-33ae03c799f3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "926",
+    "slug": "ai-can-write-code-fast-the-real-problem-is-understanding-the",
+    "title": "AI Can Write Code Fast. The Real Problem Is Understanding the Codebase.",
+    "summary": "Why the bottleneck in AI coding agents usually isn&#x2019;t the model-it&#x2019;s how much context gets burned just finding the right file.Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rohitrawat462/ai-can-write-code-fast-the-real-problem-is-understanding-the-codebase-ed0464d7210a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rohitrawat462/ai-can-write-code-fast-the-real-problem-is-understanding-the-codebase-ed0464d7210a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "927",
+    "slug": "7-claude-code-plugins-i-actually-use-every-day-and-3-i-delet",
+    "title": "7 Claude Code Plugins I Actually Use Every Day (And 3 I Deleted)",
+    "summary": "A plugin looked harmless until it started spending more time explaining a small edit than making it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@eashish93/7-claude-code-plugins-i-actually-use-every-day-and-3-i-deleted-93489a3f28fe?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@eashish93/7-claude-code-plugins-i-actually-use-every-day-and-3-i-deleted-93489a3f28fe?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "928",
+    "slug": "the-month-my-ai-bill-passed-my-payroll-a-25person-startup-to",
+    "title": "The month my AI bill passed my payroll, a 25-person startup told me how they fixed theirs: they…",
+    "summary": "I found out our inference spend had crossed our payroll on a Tuesday, in a Google Sheet, at something like 7:40 in the morning before&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@fullExpert/the-month-my-ai-bill-passed-my-payroll-a-25-person-startup-told-me-how-they-fixed-theirs-they-072a8946fb4f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@fullExpert/the-month-my-ai-bill-passed-my-payroll-a-25-person-startup-told-me-how-they-fixed-theirs-they-072a8946fb4f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "929",
+    "slug": "i-actually-installed-the-9-claude-code-plugins-everyone-reco",
+    "title": "I Actually Installed the 9 Claude Code Plugins Everyone Recommends.",
+    "summary": "The listicles print install commands nobody ran. Here is what happens when you run them, with the token bills.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@thestacknotebook/i-actually-installed-the-9-claude-code-plugins-everyone-recommends-938e44907d8b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@thestacknotebook/i-actually-installed-the-9-claude-code-plugins-everyone-recommends-938e44907d8b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "930",
+    "slug": "i-replaced-10-developer-tools-with-one-ai-workflow",
+    "title": "I Replaced 10 Developer Tools With One AI Workflow",
+    "summary": "How consolidating my toolchain around one AI-driven workflow cut context-switching, saved hours every week, and made my setup easier to&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/data-science-collective/i-replaced-10-developer-tools-with-one-ai-workflow-6c8ef1361e44?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/data-science-collective/i-replaced-10-developer-tools-with-one-ai-workflow-6c8ef1361e44?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "931",
+    "slug": "claudes-computer-use-goes-ga-top-10-ai-flutter-news-august-2",
+    "title": "Claude’s Computer Use Goes GA — Top 10 AI & Flutter News August 24, 2026",
+    "summary": "Claude / AnthropicContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blurbrahlab.medium.com/claudes-computer-use-goes-ga-top-10-ai-flutter-news-august-24-2026-88415c5a50e4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blurbrahlab.medium.com/claudes-computer-use-goes-ga-top-10-ai-flutter-news-august-24-2026-88415c5a50e4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "932",
+    "slug": "i-tried-bmad-on-a-real-feature",
+    "title": "I Tried BMAD on a Real Feature",
+    "summary": "What a formal method adds to a living specification, and where the two collideContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://elie29.medium.com/i-tried-bmad-on-a-real-feature-69afd0ba53b3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://elie29.medium.com/i-tried-bmad-on-a-real-feature-69afd0ba53b3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "933",
+    "slug": "vs-code-x-claude-code-supports-multichat-now-you-can-talk-to",
+    "title": "VS Code x Claude Code Supports multi-chat — now you can talk to Claude like a team",
+    "summary": "A few days ago, I updated VS Code to version 1.128 and stumbled upon a feature that made me do a double-take: Claude Agent sessions now&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@2084267015/vs-code-x-claude-code-supports-multi-chat-now-you-can-talk-to-claude-like-a-team-3ac4a3c7979e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@2084267015/vs-code-x-claude-code-supports-multi-chat-now-you-can-talk-to-claude-like-a-team-3ac4a3c7979e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "934",
+    "slug": "how-id-build-a-10kmonth-youtube-business-with-claude-in-30-d",
+    "title": "How I’d Build a $10K/Month YouTube Business With Claude in 30 Days (Step-by-Step)",
+    "summary": "You can build a profitable YouTube business in 30 days using Claude AI to handle niche research, idea generation, and content planning &#x2014;&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@carljo721/how-id-build-a-10k-month-youtube-business-with-claude-in-30-days-step-by-step-8d1c5272c1fa?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@carljo721/how-id-build-a-10k-month-youtube-business-with-claude-in-30-days-step-by-step-8d1c5272c1fa?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "912",
     "slug": "how-to-build-an-ai-art-workflow-for-anime-generate-edit-and",
     "title": "How to Build an AI Art Workflow for Anime: Generate, Edit, and Animate in One Workspace",
@@ -25069,5 +25329,117 @@
     "slug": "-news",
     "draft": false,
     "id": "907"
+  },
+  {
+    "title": "Anthropic·AI 시대의 디자인 책임 — 로그오프 없는 세계와 AI 디자이너의 역할",
+    "summary": "UX Collective 주간 큐레이션은 '온라인에서 로그오프할 수 있는 출구'가 사라진 현실을 조명하며, 이를 되살리는 것이 디자인의 책임이라고 주장한다. AI가 일상 전반에 침투하면서 디자이너와 개발자 모두에게 실용적·실존적 질문을 던지는 콘텐츠들이 편집자 추천으로 소개됐다.",
+    "content": "## 주요 내용\n- 온라인은 과거 떠날 수 있는 공간이었으나, '출구'가 누수로 간주되어 설계에서 제거되었으며, 이를 복원하는 것이 디자인 책임이라는 주제 제시\n- Granola의 MCP(Model Context Protocol) 연동으로 회의 메모를 AI 앱과 연결하는 기능 소개(스폰서)\n- 편집자 추천: 소프트웨어의 목적, AI 도입과 디자인 이상주의 침식, AI 보편화 이후 소프트웨어의 미래(멸종이 아닌 진화의 관점) 등 다수 아티클 큐레이션\n- AI 에이전트가 세금, 조경 아이디어, 정책 문서 검토 등 개인·업무 전반에 걸쳐 동시다발적으로 실행되는 현실 묘사\n\n## 의미\nAI가 일상과 업무의 경계를 허물면서 디자이너에게 기술 적응을 넘어 인간 경험을 설계할 윤리적·실존적 책임이 새롭게 부각되고 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-24",
+    "tags": [
+      "AI디자인",
+      "UX",
+      "Anthropic",
+      "Claude",
+      "디자인책임"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+        "name": "UX Collective — No log off, How to become an AI Designer, vibe coded portfolios"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-design",
+    "draft": false,
+    "id": "922"
+  },
+  {
+    "title": "Nielsen Norman Group, 2026년 11월 UX 컨퍼런스 개최 발표",
+    "summary": "Nielsen Norman Group이 2026년 11월 9일부터 13일까지 UX 컨퍼런스를 개최한다고 발표했다. 최대 5개의 심화 교육 과정을 통해 성공적인 디자인을 위한 UX 베스트 프랙티스를 가르친다.",
+    "content": "## 주요 내용\n- 일정: 2026년 11월 9일~13일\n- 최대 5개의 심화 교육 과정 제공\n- UX 전문가를 위한 장기적으로 활용 가능한 스킬 중심 커리큘럼\n\n## 의미\nNielsen Norman Group의 이번 컨퍼런스는 UX 전문가들이 실무에 지속적으로 적용할 수 있는 역량을 강화할 수 있는 교육 기회를 제공한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-24",
+    "tags": [
+      "UX",
+      "Nielsen Norman Group",
+      "컨퍼런스",
+      "디자인 교육"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — UX Conference November Announced (Nov 9 - Nov 13)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group",
+    "draft": false,
+    "id": "923"
+  },
+  {
+    "title": "Linux에서 Adobe Acrobat 대체 PDF 편집 도구 — 이미지 편집·개요 생성까지 지원하는 솔루션 찾기 어려워",
+    "summary": "Linux 환경에서 PDF 뷰어나 페이지 편집 도구는 다양하지만, 이미지 편집과 개요 생성을 함께 지원하는 Adobe Acrobat 수준의 대안을 찾기가 어렵다. PDF4QT가 일부 기능을 제공하지만 이상적인 대안으로는 부족하다는 평가다.",
+    "content": "## 주요 내용\n- Linux에서 PDF 뷰어 및 페이지 편집 프로그램은 다수 존재\n- 이미지 편집과 개요 생성을 동시에 지원하는 도구는 찾기 어려움\n- PDF4QT가 일부 기능을 제공하지만 이상적인 대안은 아님\n\n## 의미\nLinux 사용자들이 Adobe Acrobat의 종합적인 PDF 편집 기능을 대체할 완성도 높은 오픈소스 또는 대체 솔루션을 여전히 필요로 하고 있음을 보여준다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-08-24",
+    "tags": [
+      "Linux",
+      "PDF",
+      "Adobe Acrobat",
+      "PDF편집",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32839",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32839",
+        "name": "GeekNews — Linux에서 Adobe Acrobat을 대체할 만한 괜찮은 PDF 보기·편집 프로그램이 있나요?"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-linux-acrobat-pdf",
+    "draft": false,
+    "id": "924"
   }
 ]
