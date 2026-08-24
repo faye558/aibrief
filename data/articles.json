@@ -1,5 +1,265 @@
 [
   {
+    "id": "912",
+    "slug": "how-to-build-an-ai-art-workflow-for-anime-generate-edit-and",
+    "title": "How to Build an AI Art Workflow for Anime: Generate, Edit, and Animate in One Workspace",
+    "summary": "Want to learn how to build your own AI art workflow without getting lost in the sea of nodes? Just like your creative assets, each node&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@katlunar1990/how-to-build-an-ai-art-workflow-for-anime-generate-edit-and-animate-in-one-workspace-ed8e73f45902?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@katlunar1990/how-to-build-an-ai-art-workflow-for-anime-generate-edit-and-animate-in-one-workspace-ed8e73f45902?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "913",
+    "slug": "-multiagent-orchestration-how-multiple-ai-agents-work-togeth",
+    "title": "️ Multi-Agent Orchestration: How Multiple AI Agents Work Together",
+    "summary": "As AI tasks become more complex, a single agent may not be enough.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rahulkishore227/%EF%B8%8F-multi-agent-orchestration-how-multiple-ai-agents-work-together-f5cba8f3615c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rahulkishore227/%EF%B8%8F-multi-agent-orchestration-how-multiple-ai-agents-work-together-f5cba8f3615c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "914",
+    "slug": "my-fully-automated-sdlc-part-2-git-setup-vs-claude-loop",
+    "title": "My fully automated SDLC part 2: git setup vs Claude loop",
+    "summary": "Continuing the story of the automated SDLC on my project &#x2014; Pomegra.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dariakushnarova/my-fully-automated-sdlc-part-2-git-setup-vs-claude-loop-b6c60568619f?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dariakushnarova/my-fully-automated-sdlc-part-2-git-setup-vs-claude-loop-b6c60568619f?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "915",
+    "slug": "your-team-probably-has-more-ai-capacity-than-it-thinks",
+    "title": "Your Team Probably Has More AI Capacity Than It Thinks",
+    "summary": "Companies are buying more AI coding subscriptions every month. Claude Code, Codex, Cursor, Gemini, and other coding agents are becoming&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@takamura.hiroshi90/your-team-probably-has-more-ai-capacity-than-it-thinks-9e68e3c56f7c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@takamura.hiroshi90/your-team-probably-has-more-ai-capacity-than-it-thinks-9e68e3c56f7c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "916",
+    "slug": "cmo-usar-unslothqwen3827bgguf",
+    "title": "¿Cómo usar unsloth/Qwen3.8–27B-GGUF",
+    "summary": "Son las once de la noche. Tienes 27 mil millones de par&#xE1;metros descansando c&#xF3;modamente en tu GPU, Claude Code instalado y ollama serve&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/latinxinai/c%C3%B3mo-usar-unsloth-qwen3-8-27b-gguf-bec0a0af1378?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/latinxinai/c%C3%B3mo-usar-unsloth-qwen3-8-27b-gguf-bec0a0af1378?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "917",
+    "slug": "stop-vibe-coding-superpowers-gives-any-ai-coding-agent-a-rea",
+    "title": "Stop Vibe Coding. Superpowers Gives Any AI Coding Agent a Real Dev Workflow",
+    "summary": "What Is SuperpowersContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pani.chinmaya/stop-vibe-coding-superpowers-gives-any-ai-coding-agent-a-real-dev-workflow-84cf6d6a45d6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pani.chinmaya/stop-vibe-coding-superpowers-gives-any-ai-coding-agent-a-real-dev-workflow-84cf6d6a45d6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "918",
+    "slug": "stop-building-isolated-skills-its-time-to-build-claude-code",
+    "title": "Stop Building Isolated Skills — It’s Time to Build Claude Code Plugins",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai-engineering-trend.medium.com/stop-building-isolated-skills-its-time-to-build-claude-code-plugins-8efb74ceb6d7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai-engineering-trend.medium.com/stop-building-isolated-skills-its-time-to-build-claude-code-plugins-8efb74ceb6d7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "919",
+    "slug": "",
+    "title": "…",
+    "summary": "Teams ship features that pass every staging check &#x2014; then fail in production.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@eyal.moses81/-730b6c926d89?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@eyal.moses81/-730b6c926d89?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "920",
+    "slug": "build-a-gitlab-ai-code-review-assistant-with-claude-code",
+    "title": "Build a GitLab AI Code Review Assistant with Claude Code",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pawon.katiyar/build-a-gitlab-ai-code-review-assistant-with-claude-code-04de6d5753b0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pawon.katiyar/build-a-gitlab-ai-code-review-assistant-with-claude-code-04de6d5753b0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "921",
+    "slug": "the-claude-code-features-that-actually-changed-my-workflow",
+    "title": "The Claude Code Features That Actually Changed My Workflow",
+    "summary": "Most developers are using Claude Code like an expensive autocomplete. The actual feature set is something else entirelyContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ankita.gsdc/the-claude-code-features-that-actually-changed-my-workflow-94852f4470b6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ankita.gsdc/the-claude-code-features-that-actually-changed-my-workflow-94852f4470b6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "908",
     "slug": "how-to-use-facebook-mcp-with-claude-code-to-publish-and-sche",
     "title": "How to Use Facebook MCP with Claude Code to Publish and Schedule Page Posts",
