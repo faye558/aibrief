@@ -1,5 +1,291 @@
 [
   {
+    "id": "896",
+    "slug": "the-aipowered-data-analyst-how-tools-like-chatgpt-are-changi",
+    "title": "The AI-Powered Data Analyst:- How Tools Like ChatGPT Are Changing Daily SQL Workflows.",
+    "summary": "There was a time when writing SQL meant opening your editor, staring blankly at an ER diagram that looked like a plate of spaghetti, and&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://digitalbykewat.medium.com/the-ai-powered-data-analyst-how-tools-like-chatgpt-are-changing-daily-sql-workflows-ff1b98aa4a55?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://digitalbykewat.medium.com/the-ai-powered-data-analyst-how-tools-like-chatgpt-are-changing-daily-sql-workflows-ff1b98aa4a55?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "897",
+    "slug": "how-to-build-autonomous-ai-workflows-for-enterprise-automati",
+    "title": "How to Build Autonomous AI Workflows for Enterprise Automation",
+    "summary": "For the past several years, enterprise adoption of artificial intelligence was largely defined by passive interaction: employees typing&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pxmx999/how-to-build-autonomous-ai-workflows-for-enterprise-automation-a0afd4533db5?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pxmx999/how-to-build-autonomous-ai-workflows-for-enterprise-automation-a0afd4533db5?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "898",
+    "slug": "the-great-llm-convergence-how-opensource-ai-quietly-caught-u",
+    "title": "The Great LLM Convergence: How Open-Source AI Quietly Caught Up to (and Sometimes Beat) the Giants",
+    "summary": "The Great LLM Convergence: How Open-Source AI Quietly Caught Up to (and Sometimes Beat) the GiantsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://imnikhil29.medium.com/the-great-llm-convergence-how-open-source-ai-quietly-caught-up-to-and-sometimes-beat-the-giants-3c6b4017a510?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://imnikhil29.medium.com/the-great-llm-convergence-how-open-source-ai-quietly-caught-up-to-and-sometimes-beat-the-giants-3c6b4017a510?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "899",
+    "slug": "ai-agents-a-blessing-for-developers-or-a-curse-for-products",
+    "title": "AI Agents: A Blessing for Developers or a Curse for Products When Misused",
+    "summary": "Today, you can give an AI agent a task in an Android app, Flutter codebase, backend service, or web product and watch it modify ten files&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@msaqeeb72/ai-agents-a-blessing-for-developers-or-a-curse-for-products-when-misused-fb9f6480b4f1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@msaqeeb72/ai-agents-a-blessing-for-developers-or-a-curse-for-products-when-misused-fb9f6480b4f1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "900",
+    "slug": "my-claude-code-sessions-kept-forgetting-everything-buildmem",
+    "title": "My Claude Code sessions kept forgetting everything — BuildMEM v2 on Walrus Memory",
+    "summary": "Two and a half days using, breaking, and evolving the BuildMEM prompt with Walrus Memory, for the Walrus Memory Prompt Evolution session.Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@makindedaniel45/my-claude-code-sessions-kept-forgetting-everything-buildmem-v2-on-walrus-memory-14331ea069c2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@makindedaniel45/my-claude-code-sessions-kept-forgetting-everything-buildmem-v2-on-walrus-memory-14331ea069c2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "901",
+    "slug": "claude-code-seo-how-to-automate-google-search-console-analys",
+    "title": "Claude Code SEO: How to Automate Google Search Console Analysis With AI",
+    "summary": "How I use Claude + Google Search Console to find quick-win keywords, CTR problems, declining pages, content gaps, and SEO actions without&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@somanathdiksangi/claude-code-seo-how-to-automate-google-search-console-analysis-with-ai-910a7ee70d32?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@somanathdiksangi/claude-code-seo-how-to-automate-google-search-console-analysis-with-ai-910a7ee70d32?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "902",
+    "slug": "i-ran-claude-code-overnight-on-my-saas-it-fixed-47-bugs-whil",
+    "title": "I Ran Claude Code Overnight on My SaaS. It Fixed 47 Bugs While I Slept.",
+    "summary": "Between 11:40pm and 6:14am, a headless Claude Code process worked through 63 items in my bug backlog and produced fixes for 47 of them.Continue readin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uditgoenka.medium.com/how-to-fix-bugs-using-claude-code-edb7ea2448a8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://uditgoenka.medium.com/how-to-fix-bugs-using-claude-code-edb7ea2448a8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "903",
+    "slug": "claude-desktop-blank-screen-on-mac-full-fix-guide-2026",
+    "title": "Claude Desktop Blank Screen on Mac? Full Fix Guide (2026)",
+    "summary": "If you&#x2019;ve launched Claude Desktop on your Mac and been greeted by nothing but an empty white or gray window, you&#x2019;re dealing with one of&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@cartseoservice/claude-desktop-blank-screen-on-mac-full-fix-guide-2026-d8dc9701e386?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@cartseoservice/claude-desktop-blank-screen-on-mac-full-fix-guide-2026-d8dc9701e386?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "904",
+    "slug": "",
+    "title": "當一百個版本變便宜，設計師剩下的價值只有一件事",
+    "summary": "&#x57F7;&#x884C;&#x8B8A;&#x4FBF;&#x5B9C;&#x4E86;&#xFF0C;&#x5224;&#x65B7;&#x8B8A;&#x8CB4;&#x4E86;Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@spidermen.chen/%E7%95%B6%E4%B8%80%E7%99%BE%E5%80%8B%E7%89%88%E6%9C%AC%E8%AE%8A%E4%BE%BF%E5%AE%9C-%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%89%A9%E4%B8%8B%E7%9A%84%E5%83%B9%E5%80%BC%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BB%B6%E4%BA%8B-a4d19d409011?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@spidermen.chen/%E7%95%B6%E4%B8%80%E7%99%BE%E5%80%8B%E7%89%88%E6%9C%AC%E8%AE%8A%E4%BE%BF%E5%AE%9C-%E8%A8%AD%E8%A8%88%E5%B8%AB%E5%89%A9%E4%B8%8B%E7%9A%84%E5%83%B9%E5%80%BC%E5%8F%AA%E6%9C%89%E4%B8%80%E4%BB%B6%E4%BA%8B-a4d19d409011?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "905",
+    "slug": "the-complete-guide-to-claude-code-your-claude-code-setup-is",
+    "title": "The Complete Guide to Claude Code |Your Claude Code Setup Is Only Half-Configured (The Missing Half…",
+    "summary": "Every file and folder, project-level and global, explained simply &#x2014; with the precedence rules, the loading order, and original diagrams to&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@neuraldev/the-complete-guide-to-claude-codes-claude-3113b7aa777c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@neuraldev/the-complete-guide-to-claude-codes-claude-3113b7aa777c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "906",
+    "slug": "the-hard-part-of-autonomous-ai-isnt-the-ai",
+    "title": "The Hard Part of Autonomous AI Isn’t the AI",
+    "summary": "Climbing Boris Cherny&#x2019;s Steps of AI Adoption with Fivetran Connector SDK BuildsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@kelly.kohlleffel/the-hard-part-of-autonomous-ai-isnt-the-ai-60cf49576852?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@kelly.kohlleffel/the-hard-part-of-autonomous-ai-isnt-the-ai-60cf49576852?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "884",
     "slug": "the-archive-wasnt-dead-it-was-uncompiled",
     "title": "The Archive Wasn’t Dead. It Was Uncompiled.",
@@ -24361,5 +24647,34 @@
     "slug": "ai-labor0-agent",
     "draft": false,
     "id": "860"
+  },
+  {
+    "title": "srelens — 엔지니어와 AI 에이전트를 위한 쿠버네티스 통합 컨트롤룸",
+    "summary": "srelens는 여러 터미널·대시보드·로그·클러스터 컨텍스트를 오가야 했던 쿠버네티스 트러블슈팅을 하나의 로컬 우선 데스크톱 워크스페이스로 통합한 도구다. 리소스 탐색, 이벤트·YAML 확인, 로그 추적, 터미널, 포트 포워드 관리, 클러스터 조치까지 도구 전환 없이 수행할 수 있다.",
+    "content": "## 주요 내용\n- 여러 터미널·대시보드·로그·클러스터 컨텍스트를 하나의 워크스페이스로 통합\n- 로컬 우선 데스크톱 환경으로 동작\n- 리소스 탐색, 이벤트·YAML 확인, 로그 추적, 터미널, 포트 포워드 관리, 클러스터 조치 기능 포함\n- 조사부터 실행까지 도구 전환 없이 처리 가능\n- 엔지니어와 AI 에이전트 모두를 대상으로 설계\n\n## 의미\n쿠버네티스 운영 시 분산된 도구들을 오가는 비효율을 단일 워크스페이스로 해소하려는 시도로, AI 에이전트도 활용 대상으로 포함한 점이 특징이다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-24",
+    "tags": [
+      "쿠버네티스",
+      "DevOps",
+      "SRE",
+      "AI에이전트",
+      "개발도구"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32820",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32820",
+        "name": "GeekNews — srelens - 엔지니어와 AI 에이전트 모두를 위한 쿠버네티스 컨트롤룸"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-srelens-agent",
+    "draft": false,
+    "id": "895"
   }
 ]
