@@ -1,5 +1,109 @@
 [
   {
+    "id": "908",
+    "slug": "how-to-use-facebook-mcp-with-claude-code-to-publish-and-sche",
+    "title": "How to Use Facebook MCP with Claude Code to Publish and Schedule Page Posts",
+    "summary": "Publishing an article means repeating the same loop every time: write the caption, open a browser, sign in to the Page, paste the link&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://kunanon1604.medium.com/how-to-use-facebook-mcp-with-claude-code-to-publish-and-schedule-page-posts-74db61725caf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://kunanon1604.medium.com/how-to-use-facebook-mcp-with-claude-code-to-publish-and-schedule-page-posts-74db61725caf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "909",
+    "slug": "25-claude-code-tips-i-actually-use-as-an-ios-engineer",
+    "title": "25 Claude Code Tips I Actually Use as an iOS Engineer",
+    "summary": "A working list context control, the newer model tools, and the simulator pane that finally closed my verification loop.Continue reading on CodeToDeplo",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codetodeploy/25-claude-code-tips-i-actually-use-as-an-ios-engineer-57c0cb96bfdb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codetodeploy/25-claude-code-tips-i-actually-use-as-an-ios-engineer-57c0cb96bfdb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "910",
+    "slug": "building-an-ai-stock-assistant-with-multiagents",
+    "title": "Building an AI Stock Assistant with Multi-Agents",
+    "summary": "Turning my averaging-down rules into a system &#x2014; all the way to Claude Code multi-agentsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jaelim095/building-an-ai-stock-assistant-with-multi-agents-0b7b7130439e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jaelim095/building-an-ai-stock-assistant-with-multi-agents-0b7b7130439e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "911",
+    "slug": "you-might-not-need-claude-anymore-ods-just-made-local-ai-100",
+    "title": "You Might Not Need Claude Anymore: ODS Just Made Local AI 1000× Easier",
+    "summary": "There&#x2019;s a good chance you don&#x2019;t need another AI subscription. You might already have the hardware sitting on your desk.Continue reading",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/coding-nexus/you-might-not-need-claude-anymore-ods-just-made-local-ai-1000-easier-8a791a748ab4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/coding-nexus/you-might-not-need-claude-anymore-ods-just-made-local-ai-1000-easier-8a791a748ab4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "896",
     "slug": "the-aipowered-data-analyst-how-tools-like-chatgpt-are-changi",
     "title": "The AI-Powered Data Analyst:- How Tools Like ChatGPT Are Changing Daily SQL Workflows.",
@@ -24676,5 +24780,34 @@
     "slug": "ai-srelens-agent",
     "draft": false,
     "id": "895"
+  },
+  {
+    "title": "무신사, AI 기반 개발 전 과정 혁신 담은 '패턴 '26 테크 컨퍼런스' 9월 개최",
+    "summary": "무신사가 2026년 9월 18일 'MUSINSA PATTERN '26 Tech Conference'를 개최한다. AI 도입 이후 코딩 속도뿐 아니라 기획부터 구현, 검증, 배포까지 제품 개발 전 생애주기가 바뀐 경험을 공유하는 자리다. 사전 등록은 8월 19일부터 31일까지 무료로 진행된다.",
+    "content": "## 주요 내용\n- 행사명 '패턴(PATTERN)'은 옷을 지을 때 쓰는 '옷본'에서 따온 명칭으로, 잘 만든 패턴이 최고의 결과물을 반복 재현하듯 개발 방식을 정립한다는 의미\n- 세션은 옷 제작 4단계에 빗대어 구성: ① Context(비즈니스 맥락을 AI가 읽을 수 있는 형태로 변환) ② Build(AI로 아이디어 빠르게 구현) ③ Verify(AI 결과 신뢰 기준 수립) ④ Shipped(실제 고객에게 가치 전달)\n- 실제 적용 사례: AI가 이전 빌드·기획 문서를 기준으로 새 빌드를 자동 채점, 운영 트래픽을 기록해 새 빌드에 재현 후 변경 사항만 사람이 확인, Figma 시안 하나로 4개 플랫폼 UI 코드 자동 생성, 팀별로 따로 운영하던 대용량 조회 시스템을 전사 플랫폼으로 통합\n- 일시: 2026년 9월 18일(금) 오전 10시~오후 5시 30분\n- 장소: 본다빈치뮤지엄 (서울 광진구, 7호선 어린이대공원역 1번 출구)\n- 참가비: 무료 / 사전 등록 기간: 8월 19일~31일 / 선정 안내: 9월 3일 문자 발송\n\n## 의미\n무신사 테크 조직이 AI를 단순 코딩 보조 도구가 아닌 개발 전 과정의 혁신 수단으로 활용한 1년간의 실제 경험을 공개하는 자리로, 제품 개발 방식 전반의 변화를 구체적 사례와 함께 공유한다는 점에서 주목된다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-08-24",
+    "tags": [
+      "무신사",
+      "테크컨퍼런스",
+      "AI개발",
+      "Shipping With AI",
+      "개발문화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/%EC%BD%94%EB%94%A9%EB%A7%8C-%EB%B9%A8%EB%9D%BC%EC%A1%8C%EB%8B%A4%EA%B3%A0%EC%9A%94-%EC%95%84%EB%87%A8-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EB%8B%A4-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B3%90%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-8de60dd4eb4a?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/%EC%BD%94%EB%94%A9%EB%A7%8C-%EB%B9%A8%EB%9D%BC%EC%A1%8C%EB%8B%A4%EA%B3%A0%EC%9A%94-%EC%95%84%EB%87%A8-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EC%8B%9D%EC%9D%B4-%EB%8B%A4-%EB%9C%AF%EC%96%B4%EA%B3%A0%EC%B3%90%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4-8de60dd4eb4a?source=rss----f107b03c406e---4",
+        "name": "무신사 — 코딩만 빨라졌다고요? 아뇨, 일하는 방식이 다 뜯어고쳐졌습니다."
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-news",
+    "draft": false,
+    "id": "907"
   }
 ]
