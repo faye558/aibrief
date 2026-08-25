@@ -1,5 +1,31 @@
 [
   {
+    "id": "947",
+    "slug": "claudes-safety-policy-was-clear-the-control-wasnt",
+    "title": "Claude’s Safety Policy Was Clear. The Control Wasn’t.",
+    "summary": "TechCrunch reported that Opus 4.6 generated explicit sexual content in all ten direct attempts, despite Anthropic&#x2019;s Usage Policy&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://clairemitchell10.medium.com/claudes-safety-policy-was-clear-the-control-wasn-t-86d6ea1c02e4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://clairemitchell10.medium.com/claudes-safety-policy-was-clear-the-control-wasn-t-86d6ea1c02e4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "935",
     "slug": "encoding-the-developer-cognitive-pipeline-a-7phase-ai-orches",
     "title": "Encoding the Developer Cognitive Pipeline: A 7-Phase AI Orchestration Harness with Devin Subagents…",
@@ -25727,5 +25753,48 @@
     "slug": "adobe-linux-acrobat-pdf",
     "draft": false,
     "id": "924"
+  },
+  {
+    "title": "Anthropic Claude Opus 5로 주변기기 5종 펌웨어 역공학 — 보안 취약점 및 Linux 지원 도구 개발",
+    "summary": "Claude Opus 5를 활용해 주변기기 5종의 펌웨어를 역공학한 결과, 마이크 명령 셸·녹화 중 끌 수 있는 웹캠 LED·Wi-Fi를 통한 비인증 메모리 쓰기 등의 취약점이 발견됐다. 또한 Linux를 지원하지 않는 펌웨어의 업데이트 도구를 직접 제작하고, 웹캠 녹화 LED·모니터 오버레이·마이크 DSP와 권한·영상 캡처 장치의 내부 버스 등을 분석했다.",
+    "content": "## 주요 내용\n- Claude Opus 5를 이용해 주변기기 5종의 펌웨어 역공학 수행\n- 발견된 취약점: 마이크 명령 셸, 녹화 중 비활성화 가능한 웹캠 LED, Wi-Fi를 통한 비인증 메모리 쓰기\n- Linux 미지원 펌웨어를 위한 업데이트 도구 직접 개발\n- 웹캠 녹화 LED, 모니터 오버레이, 마이크 DSP·권한, 영상 캡처 장치 내부 버스 분석\n\n## 의미\nAI를 활용한 펌웨어 역공학이 실질적인 보안 취약점 발견과 사용자 주도 도구 개발로 이어질 수 있음을 보여준 사례다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-24",
+    "tags": [
+      "Anthropic",
+      "Claude Opus 5",
+      "펌웨어 역공학",
+      "보안 취약점",
+      "Linux",
+      "주변기기"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32825",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32825",
+        "name": "GeekNews — 내 주변기기를 역공학해 진짜 내 것으로 만들기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-opus-linux",
+    "draft": false,
+    "id": "946"
   }
 ]
