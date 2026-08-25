@@ -1,5 +1,239 @@
 [
   {
+    "id": "950",
+    "slug": "six-hidden-cost-lines-in-selfhosting-rag-agents-for-biopharm",
+    "title": "Six Hidden Cost Lines in Self-Hosting RAG Agents for Biopharma Document Workflows: Field Notes from…",
+    "summary": "For biopharma teams deploying low-code retrieval-augmented generation (RAG) agents for document-intensive compliance and clinical&#x2026;Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@stellagibneyzch205/six-hidden-cost-lines-in-self-hosting-rag-agents-for-biopharma-document-workflows-field-notes-from-4056e052858f?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@stellagibneyzch205/six-hidden-cost-lines-in-self-hosting-rag-agents-for-biopharma-document-workflows-field-notes-from-4056e052858f?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "951",
+    "slug": "is-ai-coming-for-your-job-it-already-took-one-down-the-stree",
+    "title": "Is AI Coming for Your Job? It Already Took One Down the Street From Mine",
+    "summary": "Is AI Coming for Your Job? It Already Took One Down the Street From Mine",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mohibnoman72/is-ai-coming-for-your-job-it-already-took-one-down-the-street-from-mine-4d7689796a27?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mohibnoman72/is-ai-coming-for-your-job-it-already-took-one-down-the-street-from-mine-4d7689796a27?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "952",
+    "slug": "everyone-automated-their-workflows-so-why-is-everyone-still",
+    "title": "Everyone Automated Their Workflows. So Why Is Everyone Still Chasing Approvals on WhatsApp?",
+    "summary": "Do you experience the same? If yes, the gap isn&#x2019;t automation. It&#x2019;s the missing application around it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@marketing_45819/everyone-automated-their-workflows-so-why-is-everyone-still-chasing-approvals-on-whatsapp-fa012bdb402a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@marketing_45819/everyone-automated-their-workflows-so-why-is-everyone-still-chasing-approvals-on-whatsapp-fa012bdb402a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "953",
+    "slug": "the-fintech-marketing-team-that-fits-in-one-login",
+    "title": "The Fintech Marketing Team That Fits in One Login",
+    "summary": "A campaign that once needed a strategist, a copywriter, an analyst, and a compliance reviewer now often needs one marketer and an AI agent&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@daydaypush/the-fintech-marketing-team-that-fits-in-one-login-b8e3a0550cc3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@daydaypush/the-fintech-marketing-team-that-fits-in-one-login-b8e3a0550cc3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "954",
+    "slug": "i-spent-a-day-learning-to-prompt-claude-for-code-heres-how-m",
+    "title": "I Spent a Day Learning to Prompt Claude for Code. Here’s How My React Workflow Changed.",
+    "summary": "A single Saturday, twelve hours of deliberate practice, and a completely different way of writing React.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ArunprakashS/i-spent-a-day-learning-to-prompt-claude-for-code-heres-how-my-react-workflow-changed-371c4f8826ac?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ArunprakashS/i-spent-a-day-learning-to-prompt-claude-for-code-heres-how-my-react-workflow-changed-371c4f8826ac?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "955",
+    "slug": "using-entireio-to-capture-search-and-review-the-context",
+    "title": "Using entire.io to capture, search, and review the context",
+    "summary": "AI coding agents are becoming increasingly capable, but one problem remains: how do you preserve and review the reasoning, decisions, and&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@BhanuM/using-entire-io-to-capture-search-and-review-the-context-958bf58d83eb?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@BhanuM/using-entire-io-to-capture-search-and-review-the-context-958bf58d83eb?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "956",
+    "slug": "review-in-seconds-fix-in-a-turn",
+    "title": "Review in Seconds, Fix in a Turn",
+    "summary": "Or: How I Stopped Waiting for GitLab Integration and Started Reviewing Commits MyselfContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sadaf.cuagain/review-in-seconds-fix-in-a-turn-050206fa4bdd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sadaf.cuagain/review-in-seconds-fix-in-a-turn-050206fa4bdd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "957",
+    "slug": "how-to-use-claude-adhd-skill-better-than-99-of-people",
+    "title": "How to Use Claude ADHD Skill Better Than 99% of People",
+    "summary": "Most people install the ADHD skill, run one prompt, shrug, and move on. Here&#x2019;s how to actually get the productivity gains people are&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rizwanalibutt545/how-to-use-claude-adhd-skill-better-than-99-of-people-3e1aefc30e73?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rizwanalibutt545/how-to-use-claude-adhd-skill-better-than-99-of-people-3e1aefc30e73?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "958",
+    "slug": "-token",
+    "title": "省 token 工具說能省多少，扣掉暖機費後才算數",
+    "summary": "&#x6211;&#x9019;&#x6B21;&#x5148;&#x7B97;&#x4E00;&#x4EF6;&#x5BB9;&#x6613;&#x88AB;&#x5FFD;&#x7565;&#x7684;&#x4E8B;&#xFF1A;&#x628A; Claude Code &#x6307;&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/%E7%9C%81-token-%E5%B7%A5%E5%85%B7%E8%AA%AA%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91-%E6%89%A3%E6%8E%89%E6%9A%96%E6%A9%9F%E8%B2%BB%E5%BE%8C%E6%89%8D%E7%AE%97%E6%95%B8-4f702fbfe00c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/%E7%9C%81-token-%E5%B7%A5%E5%85%B7%E8%AA%AA%E8%83%BD%E7%9C%81%E5%A4%9A%E5%B0%91-%E6%89%A3%E6%8E%89%E6%9A%96%E6%A9%9F%E8%B2%BB%E5%BE%8C%E6%89%8D%E7%AE%97%E6%95%B8-4f702fbfe00c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "947",
     "slug": "claudes-safety-policy-was-clear-the-control-wasnt",
     "title": "Claude’s Safety Policy Was Clear. The Control Wasn’t.",
@@ -25796,5 +26030,77 @@
     "slug": "anthropic-claude-opus-linux",
     "draft": false,
     "id": "946"
+  },
+  {
+    "title": "Anthropic Claude Code — AI 작성 코드를 커밋 전에 자동 검증하는 오픈소스 게이트 하네스 'forge-harness'",
+    "summary": "AI 에이전트가 작성한 코드를 커밋 전에 자동으로 검증하는 git 훅 기반 오픈소스 하네스 'forge-harness'가 공개됐다. 검사를 통과하지 못하면 커밋이 차단되며, 언어·프레임워크를 가리지 않고 변경 내용 자체를 대상으로 검사한다.",
+    "content": "## 주요 내용\n- AI 에이전트가 작성한 코드를 매번 수동으로 확인하는 번거로움을 줄이기 위해 제작\n- git 훅을 활용해 커밋 직전에 자동 검사 실행\n- 검사 미통과 시 커밋 차단\n- 특정 언어나 프레임워크에 종속되지 않고 변경된 내용 자체를 검사\n- 별도 설치 없이 npx로 실행 가능 (npx @chrono-meta/f...)\n\n## 의미\nAI 에이전트 기반 코드 생성이 확산되는 가운데, 사람의 수동 검토 의존도를 낮추고 코드 신뢰성 검증을 자동화·표준화하려는 시도다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-25",
+    "tags": [
+      "forge-harness",
+      "Claude Code",
+      "AI코드검증",
+      "git훅",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32868",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32868",
+        "name": "GeekNews — Show GN: forge-harness — AI가 쓴 코드를 커밋 전에 막는 Claude Code 게이트 하네스 (오픈소스)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-code-forge-harness",
+    "draft": false,
+    "id": "948"
+  },
+  {
+    "title": "무신사, AI 네이티브 조직을 위한 2층 시맨틱 레이어로 도메인 지식 공유",
+    "summary": "무신사는 여러 AI 에이전트가 조직 고유의 도메인 지식을 공유할 수 있도록 산업 표준 기반의 'Core'와 조직 특화 규칙을 담는 'Overlay'로 구성된 2층 시맨틱 레이어를 구축했다. LLM은 산업 표준은 잘 알지만 조직 고유 프로세스에서는 자신만만하게 틀린 답을 내놓는 문제를 해결하기 위한 시도로, Overlay는 Core를 직접 수정하지 않고 ID로 참조만 하는 방식을 채택했다. 이를 통해 코드 리뷰 봇·운영 지원 에이전트·IDE 코파일럿 등 여러 AI가 동일한 도메인 지식을 공유해 활용할 수 있게 했다.",
+    "content": "## 주요 내용\n- LLM은 물류·회계·결제·제조 등 산업 표준 도메인 지식은 학습하고 있지만, 조직 고유의 특수 프로세스와 규칙에서는 오답을 생성하는 한계가 있음\n- 이를 해결하기 위해 '시맨틱 레이어'를 도입, Core(산업 표준 기반, 범용)와 Overlay(조직 특화 규칙·예외, 자주 변경)의 2층 구조로 설계\n- Overlay는 Core를 직접 수정하지 않고 ID 참조 방식만 사용하는 것이 핵심 규칙\n- Core는 다른 팀에도 재사용 가능하고, 변경이 잦은 Overlay만 유지보수하면 돼 관리 부담이 줄어드는 이점이 있음\n- 이 방법은 산업 표준이 존재하는 도메인에 한해 유효하다는 전제(한계)를 명시\n- 150개 질문을 통해 해당 접근법이 언제 효과적이고 언제 위험한지 비교 검증 수행\n\n## 의미\n여러 AI가 동시에 같은 코드를 다루는 AI 네이티브 환경에서 조직 고유의 도메인 지식을 표준화된 방식으로 공유하는 실용적 방법론을 제시했으며, 개별 AI마다 도메인을 별도로 학습시키는 방식의 한계를 극복하는 시도로 볼 수 있다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "무신사",
+      "시맨틱레이어",
+      "AI네이티브",
+      "도메인지식",
+      "LLM",
+      "AI에이전트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/ai-native-%EC%A1%B0%EC%A7%81%EC%9D%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A7%80%EC%8B%9D%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94%EA%B0%80-f2e3de607df3?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/ai-native-%EC%A1%B0%EC%A7%81%EC%9D%80-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A7%80%EC%8B%9D%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EC%9C%A0%ED%95%98%EB%8A%94%EA%B0%80-f2e3de607df3?source=rss----f107b03c406e---4",
+        "name": "무신사 — AI Native 조직은 도메인 지식을 어떻게 공유하는가"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-news-2",
+    "draft": false,
+    "id": "949"
   }
 ]
