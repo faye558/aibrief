@@ -1,5 +1,291 @@
 [
   {
+    "id": "935",
+    "slug": "encoding-the-developer-cognitive-pipeline-a-7phase-ai-orches",
+    "title": "Encoding the Developer Cognitive Pipeline: A 7-Phase AI Orchestration Harness with Devin Subagents…",
+    "summary": "The Repeatable Intelligence Behind Every Code ChangeContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@arijit.bhattacharya_26317/encoding-the-developer-cognitive-pipeline-a-7-phase-ai-orchestration-harness-with-devin-subagents-182c188d47fb?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@arijit.bhattacharya_26317/encoding-the-developer-cognitive-pipeline-a-7-phase-ai-orchestration-harness-with-devin-subagents-182c188d47fb?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "936",
+    "slug": "i-built-a-redditlike-forum-for-ai-agents",
+    "title": "I Built a Reddit-Like Forum for AI Agents.",
+    "summary": "TL;DR: h5i is a self-hosted, Git-backed forum where sandboxed AI agents can debate and collaborate. In this forum multi-agent team&#x2026;Continue rea",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Koukyosyumei/i-built-a-reddit-like-forum-for-ai-agents-f8f6515f28b1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Koukyosyumei/i-built-a-reddit-like-forum-for-ai-agents-f8f6515f28b1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "937",
+    "slug": "one-project-three-ai-conversations-why-i-put-dsh-codex-and-c",
+    "title": "One Project, Three AI Conversations: Why I Put DSH, Codex, and Claude Together",
+    "summary": "One Project, Three AI Conversations: Why I Put DSH, Codex, and Claude Together",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ybb_y1b1b1/one-project-three-ai-conversations-why-i-put-dsh-codex-and-claude-together-c8890f246d44?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ybb_y1b1b1/one-project-three-ai-conversations-why-i-put-dsh-codex-and-claude-together-c8890f246d44?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "938",
+    "slug": "ive-built-websites-three-different-ways-heres-what-changed",
+    "title": "I’ve Built Websites Three Different Ways. Here’s What Changed.",
+    "summary": "From coding websites from scratch to no-code tools to AI-assisted development.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@miwak.work/ive-built-websites-three-different-ways-here-s-what-changed-57b1a206285c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@miwak.work/ive-built-websites-three-different-ways-here-s-what-changed-57b1a206285c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "939",
+    "slug": "my-ten-favorite-rules-for-aipowered-ide-development",
+    "title": "My Ten Favorite Rules for AI-Powered IDE Development",
+    "summary": "10. Maximum script line lengthContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@nick.rios/my-ten-favorite-rules-for-ai-powered-ide-development-7a7cd1a34d3b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@nick.rios/my-ten-favorite-rules-for-ai-powered-ide-development-7a7cd1a34d3b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "940",
+    "slug": "the-cheapest-win-in-my-ai-system-has-no-model-in-it",
+    "title": "The cheapest win in my AI system has no model in it",
+    "summary": "In the last post I described giving my orchestration system a hard cost ceiling, and the tier ladder that came out of it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@santiagohoyos999/the-cheapest-win-in-my-ai-system-has-no-model-in-it-41744143727b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@santiagohoyos999/the-cheapest-win-in-my-ai-system-has-no-model-in-it-41744143727b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "941",
+    "slug": "ai-coding-agents-what-actually-makes-them-different",
+    "title": "AI Coding Agents: What Actually Makes Them Different",
+    "summary": "Eleven agents, two tools that keep them out of each other&#x2019;s way, and the one thing that still holds after next month&#x2019;s benchmarks&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tracelogs.medium.com/ai-coding-agents-what-actually-makes-them-different-428b2b05d4c2?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://tracelogs.medium.com/ai-coding-agents-what-actually-makes-them-different-428b2b05d4c2?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "942",
+    "slug": "token-code-review",
+    "title": "拯救Token大作戰 之 向Code Review下手",
+    "summary": "&#x5927;&#x5BB6;&#x5728;&#x505A; code review &#x6642;&#xFF0C;&#x6709;&#x5426;&#x767C;&#x73FE;&#x6D88;&#x8017; token &#x7684;&#x901F;&#x5EA6;&#x6BD4;&#",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://michaellinus.medium.com/%E6%8B%AF%E6%95%91token%E5%A4%A7%E4%BD%9C%E6%88%B0-%E4%B9%8B-%E5%90%91code-review%E4%B8%8B%E6%89%8B-6ad49a98248e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://michaellinus.medium.com/%E6%8B%AF%E6%95%91token%E5%A4%A7%E4%BD%9C%E6%88%B0-%E4%B9%8B-%E5%90%91code-review%E4%B8%8B%E6%89%8B-6ad49a98248e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "943",
+    "slug": "i-cut-80-of-the-bash-output-my-coding-agent-reads",
+    "title": "I Cut 80% of the Bash Output My Coding Agent Reads.",
+    "summary": "What a Rust CLI proxy called RTK actually does to your context window, and why the per-command spread matters more than the averageContinue reading on",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jonyfs/i-cut-80-of-the-bash-output-my-coding-agent-reads-1bdce402ea63?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jonyfs/i-cut-80-of-the-bash-output-my-coding-agent-reads-1bdce402ea63?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "944",
+    "slug": "how-i-got-claude-code-cursor-and-copilot-to-draw-real-archit",
+    "title": "How I got Claude Code, Cursor and Copilot to draw real architecture diagrams & Bi-visuals",
+    "summary": "An Agent Skill that renders diagrams, slides, social cards and animated sequence GIFs to PNG by authoring HTML and screenshotting it with&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@imshaik0t/how-i-got-claude-code-cursor-and-copilot-to-draw-real-architecture-diagrams-bi-visuals-22364147fe9c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@imshaik0t/how-i-got-claude-code-cursor-and-copilot-to-draw-real-architecture-diagrams-bi-visuals-22364147fe9c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "945",
+    "slug": "you-are-flying-blind-in-claude-code",
+    "title": "You Are Flying Blind in Claude Code",
+    "summary": "Every number you need is already being sent to your terminal. Nothing is showing it to you.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jonyfs/you-are-flying-blind-in-claude-code-4ed9ad5855fd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jonyfs/you-are-flying-blind-in-claude-code-4ed9ad5855fd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "925",
     "slug": "we-gave-ai-agents-skills-what-about-experience",
     "title": "We Gave AI Agents Skills. What About Experience?",
