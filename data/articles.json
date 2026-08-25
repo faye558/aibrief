@@ -1,5 +1,239 @@
 [
   {
+    "id": "959",
+    "slug": "zero-lag-total-silence-debugging-a-kafka-partition-that-quie",
+    "title": "Zero Lag, Total Silence: Debugging a Kafka Partition That Quietly Died",
+    "summary": "How a batch of messages vanished for days while every dashboard stayed green &#x2014; and what working alongside an AI taught me about where&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://thedatasingh.medium.com/zero-lag-total-silence-debugging-a-kafka-partition-that-quietly-died-463908bbd8f1?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://thedatasingh.medium.com/zero-lag-total-silence-debugging-a-kafka-partition-that-quietly-died-463908bbd8f1?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "960",
+    "slug": "claude-went-down-yesterday-and-it-says-more-about-ai-than-yo",
+    "title": "Claude Went Down Yesterday. And It Says More About AI Than You Might Think !!!!",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://prateeksrivastav598.medium.com/claude-went-down-yesterday-and-it-says-more-about-ai-than-you-might-think-97ba926dd6f8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://prateeksrivastav598.medium.com/claude-went-down-yesterday-and-it-says-more-about-ai-than-you-might-think-97ba926dd6f8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "961",
+    "slug": "i-ran-a-blind-test-on-my-claude-code-ai-tools-my-documentati",
+    "title": "I ran a blind test on my Claude Code AI tools. My documentation was the real winner.",
+    "summary": "The real optimization was already sitting in my repo.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@FrankPizzuta/i-ran-a-blind-test-on-my-claude-code-ai-tools-my-documentation-was-the-real-winner-f2a03fb98f28?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@FrankPizzuta/i-ran-a-blind-test-on-my-claude-code-ai-tools-my-documentation-was-the-real-winner-f2a03fb98f28?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "962",
+    "slug": "ithyno-specdriven-multiagent-coding-with-openspec",
+    "title": "ithyno: Spec-Driven Multi-Agent Coding with OpenSpec",
+    "summary": "I built ithyno, an open-source app and extension that coordinates AI coding work around OpenSpec.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@fluentdb/ithyno-spec-driven-multi-agent-coding-with-openspec-24d7db5f1051?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@fluentdb/ithyno-spec-driven-multi-agent-coding-with-openspec-24d7db5f1051?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "963",
+    "slug": "my-fully-automated-sdlc-part-3-claude-loop-vs-gitops-dev-ser",
+    "title": "My fully automated SDLC part 3: Claude loop vs GitOps & Dev server",
+    "summary": "Continuing the story of the automated SDLC on my project &#x2014; Pomegra.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dariakushnarova/my-fully-automated-sdlc-part-3-claude-loop-vs-gitops-dev-server-fec03c5ceac7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dariakushnarova/my-fully-automated-sdlc-part-3-claude-loop-vs-gitops-dev-server-fec03c5ceac7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "964",
+    "slug": "the-only-claude-skills-worth-installing-in-2026",
+    "title": "The Only Claude Skills Worth Installing in 2026",
+    "summary": "A practical, tested list of the official Skills actually worth your time and exactly where to get themContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rimsha-kiran/the-only-claude-skills-worth-installing-in-2026-7f5d69028d3c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rimsha-kiran/the-only-claude-skills-worth-installing-in-2026-7f5d69028d3c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "965",
+    "slug": "how-to-make-your-ai-assistant-ping-you-when-it-is-done",
+    "title": "How to Make Your AI Assistant Ping You When It Is Done",
+    "summary": "Have you ever started a long task with an AI coding tool and just stared at the screen waiting for it to finish?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@websitescity/how-to-make-your-ai-assistant-ping-you-when-it-is-done-0a7991557408?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@websitescity/how-to-make-your-ai-assistant-ping-you-when-it-is-done-0a7991557408?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "966",
+    "slug": "why-claude-is-quietly-dominating-workflows-and-how-to-actual",
+    "title": "Why Claude is Quietly Dominating Workflows (And How to Actually Use It)",
+    "summary": "Most people treat AI chatbots like glorified search engines: you type a prompt, you get a block of text, and you copy-paste it elsewhere.Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@a.basit6823/why-claude-is-quietly-dominating-workflows-and-how-to-actually-use-it-8d1785374adc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@a.basit6823/why-claude-is-quietly-dominating-workflows-and-how-to-actually-use-it-8d1785374adc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "967",
+    "slug": "why-has-ai-not-made-us-all-rich-yet",
+    "title": "Why has AI not made us all rich yet?",
+    "summary": "Have you ever wondered why &#x201C;productivity&#x201D; rarely means &#x201C;pay rise&#x201D;?Continue reading on Realworld AI Use Cases »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/realworld-ai-use-cases/why-has-ai-not-made-us-all-rich-yet-90a90aa18e21?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/realworld-ai-use-cases/why-has-ai-not-made-us-all-rich-yet-90a90aa18e21?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "950",
     "slug": "six-hidden-cost-lines-in-selfhosting-rag-agents-for-biopharm",
     "title": "Six Hidden Cost Lines in Self-Hosting RAG Agents for Biopharma Document Workflows: Field Notes from…",
