@@ -1,5 +1,343 @@
 [
   {
+    "id": "970",
+    "slug": "i-was-busy-with-ai-and-still-going-nowhere",
+    "title": "I Was Busy with AI and Still Going Nowhere",
+    "summary": "How I stopped using AI to work faster and started using it to think better.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@patty_39070/i-was-busy-with-ai-and-still-going-nowhere-8c66f6b4d0f4?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@patty_39070/i-was-busy-with-ai-and-still-going-nowhere-8c66f6b4d0f4?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "971",
+    "slug": "orchestrating-background-ai-agents-for-software-teams",
+    "title": "Orchestrating Background AI Agents for Software Teams",
+    "summary": "How to design agents as a graph, run them through a harness that keeps them reliable, sandbox them because you can&#x2019;t just trust what they&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://shahbhat.medium.com/orchestrating-background-ai-agents-for-software-teams-97434233cf13?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://shahbhat.medium.com/orchestrating-background-ai-agents-for-software-teams-97434233cf13?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "972",
+    "slug": "aipowered-uxui-design-workflow",
+    "title": "AI-Powered UX/UI Design Workflow",
+    "summary": "How AI enhances every stage of the UX/UI lifecycleContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dhevashak/ai-powered-ux-ui-design-workflow-8e69529fdd3d?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dhevashak/ai-powered-ux-ui-design-workflow-8e69529fdd3d?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "973",
+    "slug": "how-to-cut-a-250-ai-month-without-shipping-less-5-checks-tha",
+    "title": "How to Cut a $250 AI Month Without Shipping Less — 5 Checks That Take 15 Minutes",
+    "summary": "*Your bill isn&#x2019;t a pricing problem. It&#x2019;s the conversation you never closed.*Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@erick-killmonger/how-to-cut-a-250-ai-month-without-shipping-less-5-checks-that-take-15-minutes-28fa8a5b282e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@erick-killmonger/how-to-cut-a-250-ai-month-without-shipping-less-5-checks-that-take-15-minutes-28fa8a5b282e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "974",
+    "slug": "teaching-an-ai-agent-to-design-like-a-senior-product-designe",
+    "title": "Teaching an AI Agent to Design Like a Senior Product Designer",
+    "summary": "An instruction kit turns Claude into a token driven, accessibility first UX and UI collaboratorContinue reading on Open Intelligence »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/open-intelligence/teaching-an-ai-agent-to-design-like-a-senior-product-designer-3224e7964738?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/open-intelligence/teaching-an-ai-agent-to-design-like-a-senior-product-designer-3224e7964738?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "975",
+    "slug": "running-insights-on-myself",
+    "title": "Running /insights on myself",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jsiripurapu27/running-insights-on-myself-14a75a47ea15?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jsiripurapu27/running-insights-on-myself-14a75a47ea15?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "976",
+    "slug": "crispengine-sodic-memory-for-ai-agents",
+    "title": "Crisp-Engine: *sodic memory for ai agents",
+    "summary": "I got tired of explaining context to my AI coding assistant every single session.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@amitavaa.ag/crisp-engine-sodic-memory-for-ai-agents-2c8923a87d2e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@amitavaa.ag/crisp-engine-sodic-memory-for-ai-agents-2c8923a87d2e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "977",
+    "slug": "i-built-my-first-website-with-claude-code-what-the-flyrank-a",
+    "title": "I Built My First Website With Claude Code: What the FlyRank AI Fluency Track Taught Me",
+    "summary": "I never expected my first real website to be for my family&#x2019;s business.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@daraalimi78/i-built-my-first-website-with-claude-code-what-the-flyrank-ai-fluency-track-taught-me-937b11b6d0db?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@daraalimi78/i-built-my-first-website-with-claude-code-what-the-flyrank-ai-fluency-track-taught-me-937b11b6d0db?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "978",
+    "slug": "use-claude-code-with-nararouter-simple-setup",
+    "title": "Use Claude Code with NaraRouter: Simple Setup",
+    "summary": "Want to use Claude Code with NaraRouter instead of connecting directly to Anthropic?Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@srsoumyax11/use-claude-code-with-nararouter-simple-setup-2a6e133ee5ef?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@srsoumyax11/use-claude-code-with-nararouter-simple-setup-2a6e133ee5ef?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "979",
+    "slug": "one-model-for-everything-is-a-mistake",
+    "title": "One Model for Everything Is a Mistake",
+    "summary": "How I route work between Fable 5, Opus, Sonnet, and Haiku in Claude Code, and why 15+ years of .NET turned out to be the right preparationContinue rea",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://doomerdgr8.medium.com/one-model-for-everything-is-a-mistake-64d3a7e3788e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://doomerdgr8.medium.com/one-model-for-everything-is-a-mistake-64d3a7e3788e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "980",
+    "slug": "i-tried-to-build-a-token-optimization-stack-for-coding-agent",
+    "title": "I tried to build a “token optimization stack” for coding agents. Here’s why I killed it.",
+    "summary": "A pilot benchmark, a $5.60 receipt, and a 97%-savings number that was actually a silent failure.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@shreyasht15/i-tried-to-build-a-token-optimization-stack-for-coding-agents-heres-why-i-killed-it-a01c38b7c0b4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@shreyasht15/i-tried-to-build-a-token-optimization-stack-for-coding-agents-heres-why-i-killed-it-a01c38b7c0b4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "981",
+    "slug": "everything-is-a-plugin-including-the-agent-loop-so-i-went-an",
+    "title": "“Everything is a plugin, including the agent loop.” so I went and checked.",
+    "summary": "There&#x2019;s a post going around titled &#x201C;Deepseek harness hit 100k stars in 2 days, real frontier is agent infrastructure.&#x201D; I&#x2019;m",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@akishorekumar2494/everything-is-a-plugin-including-the-agent-loop-so-i-went-and-checked-0462fdca5bcd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@akishorekumar2494/everything-is-a-plugin-including-the-agent-loop-so-i-went-and-checked-0462fdca5bcd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "982",
+    "slug": "the-face-of-knowing-too-much",
+    "title": "The Face of Knowing Too Much",
+    "summary": "Fourth part of the thought about history and knowing. It follows directly from [the last&#x2026;Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/the-face-of-knowing-too-much-7ce8be418e05?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/the-face-of-knowing-too-much-7ce8be418e05?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "959",
     "slug": "zero-lag-total-silence-debugging-a-kafka-partition-that-quie",
     "title": "Zero Lag, Total Silence: Debugging a Kafka Partition That Quietly Died",
@@ -26336,5 +26674,63 @@
     "slug": "-news-2",
     "draft": false,
     "id": "949"
+  },
+  {
+    "title": "내 친구 Aaron — AI 에이전트로 3,000개 봇을 구축한 한 청년의 이야기",
+    "summary": "열한 살 때부터 알고 지낸 Aaron은 뛰어난 재능과 강한 중독 성향을 가졌으나 학업과 진로에 정착하지 못했고, 예측 시장에서 상속금까지 잃었다. 그 뒤 프로그래밍을 배우고 해커톤에서 받은 AI 에이전트 크레딧으로 3,000개의 봇을 구축하며 직접 거래소를 만들기 시작했다.",
+    "content": "## 주요 내용\n- Aaron은 열한 살 때부터 알고 지낸 인물로, 뛰어난 재능을 보였으나 강한 중독 성향도 함께 지님\n- 학업과 진로에 정착하지 못했고, 예측 시장에서 상속금까지 잃는 상황에 처함\n- 이후 프로그래밍을 직접 익힘\n- 해커톤에서 받은 AI 에이전트 크레딧을 활용해 3,000개의 봇을 구축함\n- 직접 거래소를 만들기 시작함\n\n## 의미\nAI 에이전트 크레딧과 프로그래밍 학습을 결합해 대규모 봇 구축 및 거래소 창업으로 이어진 개인의 사례로, AI 도구 접근성이 개인의 창업 가능성을 어떻게 변화시키는지를 보여준다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-25",
+    "tags": [
+      "AI에이전트",
+      "봇",
+      "해커톤",
+      "예측시장",
+      "거래소"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32887",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32887",
+        "name": "GeekNews — 내 친구 Aaron"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-aaron-agent",
+    "draft": false,
+    "id": "968"
+  },
+  {
+    "slug": "ai-data-2",
+    "title": "AI 데이터센터 냉각 문제 해결책으로 '인체 유래 물질' 활용 제안",
+    "summary": "AI 인프라의 급속한 확대로 심화되는 데이터센터 냉각 에너지 문제에 대해 창의적이고 도발적인 대안을 제시한 캠페인으로, 기술 혁신만이 아닌 사회적 참여 방식의 재해석을 시도하고 있다.",
+    "content": "## 큐레이션 노트\n\nAI 시대 데이터센터의 에너지 소비와 냉각 문제는 업계의 근본적 과제인데, 이 캠페인은 그 심각성을 풍자적으로 드러내며 관심을 환기시키는 크리에이티브 접근법을 보여준다. 기술적 솔루션만이 아닌 사회적 대화와 문제 인식의 필요성을 주목하게 하며, 향후 지속가능성 논의에서 기업과 대중의 협력 방식이 어떻게 재구성될 수 있는지 시사한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-26",
+    "tags": [
+      "AI인프라",
+      "데이터센터",
+      "에너지효율",
+      "지속가능성",
+      "크리에이티브캠페인",
+      "사회문제"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28741",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28741",
+        "name": "매드타임스 — [해외 크리에이티브] AI 데이터센터 식히려면 ‘소변을 기부하세요’ 리퀴드 데스와 개러지 비어가 제안한 방법"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "969"
   }
 ]
