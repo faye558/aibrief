@@ -1,5 +1,343 @@
 [
   {
+    "id": "1006",
+    "slug": "500-ai-money-prompts-how-502-proven-prompts-can-turn-chatgpt",
+    "title": "500+ AI Money Prompts: How 502 Proven Prompts Can Turn ChatGPT, Claude, and Gemini Into…",
+    "summary": "Learn how 502 proven AI money prompts can help freelancers, digital product creators, coaches, consultants, and side-hustlers use ChatGPT&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@zhz819_49198/500-ai-money-prompts-how-502-proven-prompts-can-turn-chatgpt-claude-and-gemini-into-bce376363953?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@zhz819_49198/500-ai-money-prompts-how-502-proven-prompts-can-turn-chatgpt-claude-and-gemini-into-bce376363953?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1007",
+    "slug": "how-we-built-a-oneshot-pr-creator-at-inkitt",
+    "title": "How we built a one-shot PR creator at Inkitt",
+    "summary": "Well defined, low-risk tasks go straight from idea to PR with no setup required. Here is how we did it.Continue reading on Inkitt Tech »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/inkitt-tech/how-we-built-a-one-shot-pr-creator-at-inkitt-e1b8dbc52cda?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/inkitt-tech/how-we-built-a-one-shot-pr-creator-at-inkitt-e1b8dbc52cda?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1008",
+    "slug": "i-replaced-manual-meeting-notes-with-these-ai-tools-and-rank",
+    "title": "I replaced manual meeting notes with these AI tools and ranked the results",
+    "summary": "I&#x2019;m a good multitasker, except when it comes to meetings. Often, I struggle between paying attention to what&#x2019;s being said and jotting do",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@yulia.savliuk/i-use-an-ai-meeting-note-taker-so-i-can-stop-jotting-notes-f0b2f2b5e7fc?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@yulia.savliuk/i-use-an-ai-meeting-note-taker-so-i-can-stop-jotting-notes-f0b2f2b5e7fc?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1009",
+    "slug": "google-stitch-from-design-prompt-to-flutter-screen-with-mcp",
+    "title": "Google Stitch: From Design Prompt to Flutter Screen (with MCP + Claude Code)",
+    "summary": "Design screens in Stitch, refine them visually, then let your coding agent build them. No manual handoff required.Continue reading on Simform Engineer",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/simform-engineering/google-stitch-from-design-prompt-to-flutter-screen-with-mcp-claude-code-9d21e05986d3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/simform-engineering/google-stitch-from-design-prompt-to-flutter-screen-with-mcp-claude-code-9d21e05986d3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1010",
+    "slug": "talking-to-claude-beats-typing-to-claude-heres-why",
+    "title": "Talking to Claude Beats Typing to Claude. Here’s Why.",
+    "summary": "You type at 45 words a minute. You talk at 220. Let that sink in for a second &#x2014; that&#x2019;s not a small gap, that&#x2019;s the difference bet",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@zemabotdigital/talking-to-claude-beats-typing-to-claude-heres-why-95765f94359e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@zemabotdigital/talking-to-claude-beats-typing-to-claude-heres-why-95765f94359e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1011",
+    "slug": "how-i-passed-the-claude-certified-architect-professional-cca",
+    "title": "How I Passed the Claude Certified Architect — Professional (CCAR-P) Exam",
+    "summary": "Exam Score of 986/1000Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@harshalsant0/how-i-passed-the-claude-certified-architect-professional-ccar-p-exam-d6b633fa13b3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@harshalsant0/how-i-passed-the-claude-certified-architect-professional-ccar-p-exam-d6b633fa13b3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1012",
+    "slug": "the-most-virgo-coding-project",
+    "title": "The Most Virgo Coding Project:",
+    "summary": "Practicing Coding with AI Assistance by Making Myself a Weekly Yoga Class Schedule EmailContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@lrochesudar/the-most-virgo-coding-project-f47a08592f5d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@lrochesudar/the-most-virgo-coding-project-f47a08592f5d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1013",
+    "slug": "how-i-taught-claude-code-to-offload-grunt-work-to-a-local-4b",
+    "title": "How I Taught Claude Code to Offload Grunt Work to a Local 4B Model",
+    "summary": "Subagents won&#x2019;t help. Base URL switching is the wrong tradeoff. Here&#x2019;s the Skill that actually works.Continue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/claude-code-skill-local-qwen-3c6bb5d051bd?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/claude-code-skill-local-qwen-3c6bb5d051bd?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1014",
+    "slug": "how-im-approaching-agentic-software-development-as-a-platfor",
+    "title": "How I’m Approaching Agentic Software Development as a Platform Engineer",
+    "summary": "AI coding agents have changed the way I think about software development.Continue reading on DevOps.dev »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.devops.dev/how-im-approaching-agentic-software-development-as-a-platform-engineer-5be017890b8a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.devops.dev/how-im-approaching-agentic-software-development-as-a-platform-engineer-5be017890b8a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1015",
+    "slug": "the-claude-plugin-economy-runs-on-problems-claude-already-so",
+    "title": "The Claude Plugin Economy Runs on Problems Claude Already Solved",
+    "summary": "Graphify promises 71x token savings. Caveman promises 65% shorter output. Here&#x2019;s what&#x2019;s real, what shipped natively months ago, and what",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@itaispector1/the-claude-plugin-economy-runs-on-problems-claude-already-solved-72339f96ccef?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@itaispector1/the-claude-plugin-economy-runs-on-problems-claude-already-solved-72339f96ccef?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1016",
+    "slug": "when-agents-go-rogue-defending-against-prompt-injections-and",
+    "title": "When Agents Go Rogue: Defending Against Prompt Injections and Confused Deputies",
+    "summary": "An Architecture Blueprint for Local Path Sandboxing, Untrusted Context Sanitization, and Least-Privilege Execution on Localhost.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dumkaabhipray/when-agents-go-rogue-defending-against-prompt-injections-and-confused-deputies-0ae25b670c56?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dumkaabhipray/when-agents-go-rogue-defending-against-prompt-injections-and-confused-deputies-0ae25b670c56?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1017",
+    "slug": "i-sent-a-militarygrade-ai-staff-after-my-own-twoyearold-code",
+    "title": "I Sent a Military-Grade AI Staff After My Own Two-Year-Old Code",
+    "summary": "Eight agents, one wargame, one overruled verdict, and a bug my 2024 article shipped to production. Part 2 of the war diaries.Continue reading on Stack",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.stackademic.com/i-sent-a-military-grade-ai-staff-after-my-own-two-year-old-code-bfc09217e378?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.stackademic.com/i-sent-a-military-grade-ai-staff-after-my-own-two-year-old-code-bfc09217e378?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1018",
+    "slug": "can-you-build-your-own-local-grok-bot-with-codex-claude-code",
+    "title": "Can You Build Your Own Local Grok Bot with Codex, Claude Code, or IBM Bob?",
+    "summary": "Partly. You can rebuild the specialist roles, skills, handoffs, and review gates &#x2014; but not the managed cloud service by writing a few&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@khan.rafflesia/can-you-build-your-own-local-grok-bot-with-codex-claude-code-or-ibm-bob-b9c607f7dae4?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@khan.rafflesia/can-you-build-your-own-local-grok-bot-with-codex-claude-code-or-ibm-bob-b9c607f7dae4?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "991",
     "slug": "anyone-can-build-a-consistent-ai-character",
     "title": "Anyone Can Build a Consistent AI Character",
@@ -27229,5 +27567,136 @@
     "slug": "ai-key-amnesia-agent",
     "draft": false,
     "id": "983"
+  },
+  {
+    "title": "Anthropic·AI 업계 — AI 차별화의 핵심은 기술이 아닌 '환대(Hospitality)'",
+    "summary": "마이크로소프트를 비롯한 빅테크들이 올해 AI 인프라에 수천억 달러를 쏟아붓고 있지만, AI 지능 자체는 점점 상품화되고 있다. 마이크로소프트는 자사 코파일럿이 ChatGPT, Claude, Gemini 등을 상황에 따라 교체해 사용하며 고객에게 특정 AI에 집착하지 말 것을 권고했다. 이에 따라 AI 제품 간 진정한 차별화 요소는 기술력이 아니라, 호텔·외식업이 수십 년간 다듬어온 '서비스 경험' 방식에서 찾아야 한다는 주장이 제기된다.",
+    "content": "## 주요 내용\n- 올해 빅테크들의 AI 인프라 투자 규모는 약 7,000억 달러에 달하며, 마이크로소프트 단독으로 약 1,900억 달러를 투자할 예정\n- 마이크로소프트 코파일럿은 ChatGPT, Claude, Gemini, 자체 AI를 상황에 따라 혼용하며, 고객에게 특정 AI 모델에 의존하지 말 것을 권고\n- AI 지능 자체가 상품화되면서, ChatGPT·Claude·Gemini 간 실질적 차이를 사용자가 구분하기 어려운 수준에 도달\n- AI 제품의 진정한 차별화 전략으로, 호텔·소매업이 수십 년간 구축해온 '환대(Hospitality)' 방식의 서비스 경험이 주목받음\n\n## 의미\nAI 기술력의 평준화가 가속화되는 상황에서, 향후 AI 제품 경쟁의 승부처는 기술 그 자체보다 사용자 경험과 서비스 방식에 있다는 시각이 부상하고 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-26",
+    "tags": [
+      "AI차별화",
+      "사용자경험",
+      "마이크로소프트",
+      "코파일럿",
+      "AI상품화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+        "name": "UX Collective — AI has a hospitality problem money can’t fix"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-hospitality",
+    "draft": false,
+    "id": "1002"
+  },
+  {
+    "title": "Harvey·Legora·Sierra 등 AI 하네스 기업들의 ARR 배수 현황",
+    "summary": "Harvey와 Legora는 법률 업무용 AI 플랫폼, Sierra는 기업 고객 경험 처리용 AI 에이전트 플랫폼으로, 모두 기반 AI 모델 위에 특정 업무 수행을 위한 제품·워크플로우 계층을 구축하는 'AI 하네스 기업'이다. Harvey, Legora, Sierra 각각의 ARR 배수 지표가 소개되고 있다.",
+    "content": "## 주요 내용\n- Harvey, Legora: 법률 업무 특화 AI 플랫폼\n- Sierra: 기업 고객 경험을 처리하는 AI 에이전트 플랫폼\n- 세 기업 모두 기반 AI 모델 위에 특정 업무용 제품·워크플로우 계층을 구축하는 'AI 하네스 기업'으로 분류\n- Harvey, Legora, Sierra 각각의 ARR 배수 수치가 제시됨\n\n## 의미\n기반 AI 모델을 활용해 특정 산업·업무에 특화된 계층을 구축하는 AI 하네스 기업들의 ARR 배수는 해당 비즈니스 모델의 시장 평가 수준을 가늠하는 지표로 주목된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-27",
+    "tags": [
+      "AI 하네스",
+      "ARR",
+      "Harvey",
+      "Legora",
+      "Sierra",
+      "법률 AI",
+      "AI 에이전트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32930",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32930",
+        "name": "GeekNews — AI 하네스 기업의 ARR 배수"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-harvey-legora-sierra",
+    "draft": false,
+    "id": "1003"
+  },
+  {
+    "title": "Corsair — AI 에이전트의 외부 서비스 연결·권한을 통합 관리하는 TypeScript 라이브러리",
+    "summary": "Corsair는 AI 에이전트가 Gmail, Slack, GitHub, Notion, Stripe 등 외부 서비스를 호출할 때 필요한 도구, 인증 정보, 실행 권한을 한곳에서 관리하는 TypeScript 라이브러리입니다. MCP를 에이전트에 연결하거나 SDK를 애플리케이션에 직접 삽입하는 방식으로 사용할 수 있으며, 모든 서비스를 자동으로 처리하는 통합 레이어 역할을 합니다.",
+    "content": "## 주요 내용\n- AI 에이전트가 외부 서비스(Gmail, Slack, GitHub, Notion, Stripe 등)를 호출할 때 필요한 도구, 인증 정보, 실행 권한을 단일 지점에서 관리\n- TypeScript 라이브러리로 제공\n- Corsair MCP를 에이전트에 연결하거나 SDK를 애플리케이션에 직접 삽입하는 두 가지 사용 방식 지원\n- 모든 서비스를 자동으로 처리하는 통합 레이어 구조\n\n## 의미\nAI 에이전트가 다양한 외부 서비스와 연동할 때 발생하는 인증·권한 관리의 복잡성을 단일 통합 레이어로 단순화함으로써, 에이전트 개발 및 운영의 효율성을 높일 수 있습니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-27",
+    "tags": [
+      "AI에이전트",
+      "TypeScript",
+      "MCP",
+      "인증관리",
+      "외부서비스연동"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32927",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32927",
+        "name": "GeekNews — Corsair - AI 에이전트의 외부 서비스 연결과 권한을 관리하는 통합 레이어"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-corsair-typescript",
+    "draft": false,
+    "id": "1004"
+  },
+  {
+    "title": "쿼리 가능한 실행 파일 — 프로그램을 SQLite DB로 구성하는 SELF 포맷",
+    "summary": "SELF는 프로그램을 SQLite 데이터베이스로 구성해 코드, 웹사이트, 라우트, 방문 기록, 애플리케이션 상태를 하나의 파일에 저장하는 실행 파일 포맷이다. Linux의 binfmt_misc가 전용 인터프리터를 실행하면 segments 테이블을 메모리에 매핑하는 방식으로 동작한다.",
+    "content": "## 주요 내용\n- SELF는 프로그램을 SQLite 데이터베이스 형태로 구성하는 실행 파일 포맷\n- 코드뿐 아니라 웹사이트, 라우트, 방문 기록, 애플리케이션 상태까지 하나의 파일에 저장\n- Linux의 binfmt_misc를 통해 전용 인터프리터가 실행되며, segments 테이블을 메모리에 매핑하는 방식으로 동작\n\n## 의미\n실행 파일과 관련 데이터를 단일 SQLite 파일로 통합함으로써, 프로그램 상태 및 구성 요소를 SQL 쿼리로 직접 조회·관리할 수 있는 새로운 실행 파일 패러다임을 제시한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-26",
+    "tags": [
+      "SELF",
+      "SQLite",
+      "실행파일",
+      "binfmt_misc",
+      "Linux"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32922",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32922",
+        "name": "GeekNews — 쿼리 가능한 실행 파일"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-sqlite-self",
+    "draft": false,
+    "id": "1005"
   }
 ]
