@@ -1,5 +1,343 @@
 [
   {
+    "id": "1022",
+    "slug": "scaling-ai-is-a-workflow-problem-not-a-model-problem",
+    "title": "Scaling AI Is a Workflow Problem, Not a Model Problem",
+    "summary": "Why better models don&#x2019;t help, and redesigning the process does, with an example from the field.Continue reading on Generative AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://generativeai.pub/scaling-ai-is-a-workflow-problem-not-a-model-problem-2c4ea44e2031?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://generativeai.pub/scaling-ai-is-a-workflow-problem-not-a-model-problem-2c4ea44e2031?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1023",
+    "slug": "ticket-kapatmak-zm-deil-it-help-deski-dntren-5-itsm-best-pra",
+    "title": "Ticket Kapatmak Çözüm Değil: IT Help Desk’i Dönüştüren 5 ITSM Best Practice",
+    "summary": "Bir IT help desk&#x2019;in ba&#x15F;ar&#x131;s&#x131;n&#x131; ka&#xE7; ticket kapatt&#x131;&#x11F;&#x131;yla &#xF6;l&#xE7;&#xFC;yorsan&#x131;z, ITSM y",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@spidya.software/ticket-kapatmak-%C3%A7%C3%B6z%C3%BCm-de%C4%9Fil-it-help-deski-d%C3%B6n%C3%BC%C5%9Ft%C3%BCren-5-itsm-best-practice-8902c03a6d90?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@spidya.software/ticket-kapatmak-%C3%A7%C3%B6z%C3%BCm-de%C4%9Fil-it-help-deski-d%C3%B6n%C3%BC%C5%9Ft%C3%BCren-5-itsm-best-practice-8902c03a6d90?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1024",
+    "slug": "probabilistic-isnt-a-dirty-word",
+    "title": "Probabilistic isn’t a dirty word…",
+    "summary": "The most load-bearing file in my design system is co-authored, inter-species friendly prose.Continue reading on Design Systems Collective »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.designsystemscollective.com/probabilistic-isnt-a-dirty-word-37fa836bedd8?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://www.designsystemscollective.com/probabilistic-isnt-a-dirty-word-37fa836bedd8?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1025",
+    "slug": "-by-he-justin-sun",
+    "title": "我的女友景甜 – by H.E. Justin Sun",
+    "summary": "&#x65E9;&#x4E0A;&#x7684;&#x670B;&#x53CB;&#x5708;&#x63A8;&#x9001;&#x4E86;&#x4E00;&#x7BC7;&#x201D;&#x7231;&#x60C5;&#x6545;&#x4E8B;&#x201D;&#x636E;&#x8BF",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@lynnmengusa/%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-by-h-e-justin-sun-d52aa07a5fd3?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@lynnmengusa/%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-by-h-e-justin-sun-d52aa07a5fd3?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1026",
+    "slug": "building-a-safer-aws-security-and-cost-audit-workflow-with-b",
+    "title": "Building a Safer AWS Security and Cost Audit Workflow with Bash, AWS CLI, and AI",
+    "summary": "IntroductionContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@onyinyenwoke/building-a-safer-aws-security-and-cost-audit-workflow-with-bash-aws-cli-and-ai-b3856dfed837?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@onyinyenwoke/building-a-safer-aws-security-and-cost-audit-workflow-with-bash-aws-cli-and-ai-b3856dfed837?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1027",
+    "slug": "half-of-us-developers-now-use-claude-code-the-other-half-sho",
+    "title": "Half of US Developers Now Use Claude Code. The Other Half Should Be Worried ?",
+    "summary": "JetBrains surveyed more than 15,000 professional developers. The adoption curve is the headline. The thing buried three charts down is the&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.plainenglish.io/half-of-us-developers-now-use-claude-code-the-other-half-should-be-worried-30c09b668e58?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.plainenglish.io/half-of-us-developers-now-use-claude-code-the-other-half-should-be-worried-30c09b668e58?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1028",
+    "slug": "every-session-starts-with-remembering-not-with-the-task",
+    "title": "Every Session Starts With Remembering, Not With the Task",
+    "summary": "Rule number one, and the three things we found out after making it rule number one.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/every-session-starts-with-remembering-not-with-the-task-0510704bf541?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/every-session-starts-with-remembering-not-with-the-task-0510704bf541?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1029",
+    "slug": "inbound-robots-in-every-messenger",
+    "title": "Inbound Robots in Every Messenger",
+    "summary": "He asked what to watch out for. Here is our list, and every item on it is something that already bit us.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/inbound-robots-in-every-messenger-37f726436d7a?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dzyatkovskiy.a2/inbound-robots-in-every-messenger-37f726436d7a?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1030",
+    "slug": "context-engineering-in-practice",
+    "title": "Context engineering in practice.",
+    "summary": "Poor output is almost never the model. It is almost always the context you sent.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sudhiryelikar/context-engineering-in-practice-e8fe0c4cb630?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sudhiryelikar/context-engineering-in-practice-e8fe0c4cb630?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1031",
+    "slug": "from-weeks-to-hours-shipping-production-features-with-struct",
+    "title": "From Weeks to Hours: Shipping Production Features with Structured AI Workflows",
+    "summary": "How we turned feature development into a repeatable, orchestrated pipeline &#x2014; with quality gates a traditional team would envy.Continue reading",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://blog.whiteprompt.com/from-weeks-to-hours-shipping-production-features-with-structured-ai-workflows-27bc4c68153c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://blog.whiteprompt.com/from-weeks-to-hours-shipping-production-features-with-structured-ai-workflows-27bc4c68153c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1032",
+    "slug": "i-let-claude-code-edit-my-video-and-ran-a-stopwatch-on-the-1",
+    "title": "I Let Claude Code Edit My Video and Ran a Stopwatch on the “15-Minute” Promise",
+    "summary": "Yesterday I opened Claude Code for the first time in my life and used it to edit a 20-minute video. The experience was great and nothing&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vse-horoscho.medium.com/i-let-claude-code-edit-my-video-and-ran-a-stopwatch-on-the-15-minute-promise-44bd80710bd0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vse-horoscho.medium.com/i-let-claude-code-edit-my-video-and-ran-a-stopwatch-on-the-15-minute-promise-44bd80710bd0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1033",
+    "slug": "claude-code-subscription-provider-session-model-subagents",
+    "title": "Claude Code แบบ Subscription แต่อยากใช้หลาย Provider ใน Session เดียว สลับ Model — สร้าง Subagents…",
+    "summary": "&#xE2A;&#xE27;&#xE31;&#xE2A;&#xE14;&#xE35;&#xE04;&#xE23;&#xE31;&#xE1A;&#xE1C;&#xE21;&#xE41;&#xE21;&#xE01;&#xE0B;&#xE4C;&#xE19;&#xE30;&#xE04;&#xE23;&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@themaxaboy/claude-code-%E0%B9%81%E0%B8%9A%E0%B8%9A-subscription-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2-provider-%E0%B9%83%E0%B8%99-session-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A-model-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-subagents-c7c52a9c8d95?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@themaxaboy/claude-code-%E0%B9%81%E0%B8%9A%E0%B8%9A-subscription-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2-provider-%E0%B9%83%E0%B8%99-session-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A-model-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-subagents-c7c52a9c8d95?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1034",
+    "slug": "gpt-review",
+    "title": "GPT 不是停不下來，是看不見停止線：Review 隧道視野與停止條件治理",
+    "summary": "&#x4E00;&#x6BB5;&#x7531; GPT-5.6-sol &#x9A45;&#x52D5;&#x3001;&#x8DE8;&#x65E5;&#x7121;&#x4EBA;&#x503C;&#x5B88;&#x7684;&#x5DE5;&#x4F5C;&#x7D50;&#x675F;&",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-27",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@qwe70301_22684/gpt-%E4%B8%8D%E6%98%AF%E5%81%9C%E4%B8%8D%E4%B8%8B%E4%BE%86-%E6%98%AF%E7%9C%8B%E4%B8%8D%E8%A6%8B%E5%81%9C%E6%AD%A2%E7%B7%9A-review-%E9%9A%A7%E9%81%93%E8%A6%96%E9%87%8E%E8%88%87%E5%81%9C%E6%AD%A2%E6%A2%9D%E4%BB%B6%E6%B2%BB%E7%90%86-b8f5f7f78dff?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@qwe70301_22684/gpt-%E4%B8%8D%E6%98%AF%E5%81%9C%E4%B8%8D%E4%B8%8B%E4%BE%86-%E6%98%AF%E7%9C%8B%E4%B8%8D%E8%A6%8B%E5%81%9C%E6%AD%A2%E7%B7%9A-review-%E9%9A%A7%E9%81%93%E8%A6%96%E9%87%8E%E8%88%87%E5%81%9C%E6%AD%A2%E6%A2%9D%E4%BB%B6%E6%B2%BB%E7%90%86-b8f5f7f78dff?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1006",
     "slug": "500-ai-money-prompts-how-502-proven-prompts-can-turn-chatgpt",
     "title": "500+ AI Money Prompts: How 502 Proven Prompts Can Turn ChatGPT, Claude, and Gemini Into…",
@@ -27698,5 +28036,112 @@
     "slug": "ux-sqlite-self",
     "draft": false,
     "id": "1005"
+  },
+  {
+    "title": "산돌, 삼성 Galaxy Watch 전용 숫자 폰트 'Watch Num' 개발",
+    "summary": "산돌이 삼성전자와 협력해 Galaxy Watch 신작을 위한 전용 숫자 폰트 'Watch Num'을 개발했다. 기존 One UI Sans의 숫자를 바탕으로 작은 워치 화면에서의 가독성과 시인성을 정교하게 보완한 프로젝트로, 고딕·라운드 두 가지 스타일과 고정폭·가변폭, 9단계 굵기 및 배리어블 폰트 형태로 제공된다.",
+    "content": "## 주요 내용\n- 산돌이 삼성전자와 함께 Galaxy Watch 전용 숫자 폰트 'Watch Num' 개발\n- 기존 One UI Sans 숫자를 기반으로 워치 환경에 최적화된 튜닝 작업\n- 숫자 0~9 및 콜론, 도 기호, 따옴표, 콤마 등 시간·각도 표기 관련 부호에 집중\n- 고정폭(타이머 등 변동 수치용)과 가변폭(날짜·온도 등 안정적 정보용) 두 가지 제공\n- 스타일은 고딕(단정함)과 라운드(친근함) 두 종류\n- 굵기는 Hairline(100)부터 Black(900)까지 9단계, 배리어블 폰트로도 제공\n- 옵티컬 사이즈 보정을 통해 실제 워치에서 사용되는 작은 크기 기준으로 획 대비와 속공간을 재설정\n\n## 의미\n스마트워치의 소형 화면과 짧은 정보 확인 환경에 특화된 숫자 폰트를 별도 개발함으로써, 타입 디자인이 기기의 사용 조건에 맞게 정밀하게 최적화될 수 있음을 보여주는 사례다.",
+    "company": "산돌",
+    "category": "디자인툴",
+    "date": "2026-08-27",
+    "tags": [
+      "산돌",
+      "Galaxy Watch",
+      "폰트",
+      "타입디자인",
+      "삼성전자",
+      "Watch Num",
+      "One UI Sans"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.sandoll.co.kr/story_backup/?idx=173484287&bmode=view",
+    "sourceName": "산돌 공식",
+    "sources": [
+      {
+        "url": "https://www.sandoll.co.kr/story_backup/?idx=173484287&bmode=view",
+        "name": "산돌 공식 — Galaxy Watch를 위한 숫자 폰트, 작은 화면에서 더 또렷하게"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 산돌",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C"
+      },
+      {
+        "name": "네이버 카페 검색: 산돌캔버스",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
+      },
+      {
+        "name": "클리앙 검색: 산돌",
+        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
+      },
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      }
+    ],
+    "slug": "sandoll-galaxy-watch-watch",
+    "draft": false,
+    "id": "1019"
+  },
+  {
+    "title": "라인 — mold: 대규모 병렬 링커로 C++ 빌드 병목 해소",
+    "summary": "mold는 대형 C++ 프로그램의 링크 병목을 줄이기 위해 Unix/Linux 링크 파이프라인의 모든 주요 패스를 데이터 병렬 방식으로 설계한 프로덕션 품질 링커이다. 입력 파일 파싱과 심볼 해석을 분리해 아카이브의 모든 멤버를 병렬로 파싱한 뒤, 원자적 비교 후 교환(CAS) 방식으로 심볼을 해석한다.",
+    "content": "## 주요 내용\n- 대형 C++ 프로그램의 링크 병목 해소를 목적으로 설계된 링커\n- Unix/Linux 링크 파이프라인의 모든 주요 패스를 데이터 병렬 방식으로 처리\n- 입력 파일 파싱과 심볼 해석을 분리하여 아카이브 멤버를 병렬로 파싱\n- 원자적 비교 후 교환(CAS) 방식으로 심볼 해석 수행\n- 프로덕션 품질 수준의 링커로 소개됨\n\n## 의미\nmold는 기존 링커의 직렬 처리 방식을 병렬화함으로써 대규모 C++ 프로젝트의 빌드 속도 개선에 실질적으로 기여할 수 있는 도구로 평가된다.",
+    "company": "라인",
+    "category": "테크",
+    "date": "2026-08-27",
+    "tags": [
+      "mold",
+      "링커",
+      "C++",
+      "병렬처리",
+      "빌드도구",
+      "Linux"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32942",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32942",
+        "name": "GeekNews — mold - 대규모 병렬 링커"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-mold",
+    "draft": false,
+    "id": "1020"
+  },
+  {
+    "title": "카카오, 부산에서 'AI 돛 Summit 26' 개최…지역 AI 생태계 조성 나선다",
+    "summary": "카카오가 부산광역시, 카카오임팩트와 함께 지역 AI 생태계 조성과 기술 교류를 위한 '카카오 AI 돛 Summit 26'을 개최한다. 이번 행사는 카카오가 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력해 비수도권 인재 양성 및 창업을 지원하는 '카카오 AI 돛' 프로젝트의 핵심 행사다.",
+    "content": "## 주요 내용\n- 카카오·부산광역시·카카오임팩트 공동 주최로 'AI 돛 Summit 26' 개최\n- 4대 과학기술원(KAIST, GIST, DGIST, UNIST)과 협력\n- 비수도권 인재 양성 및 창업 지원을 목표로 하는 '카카오 AI 돛' 프로젝트의 핵심 행사\n- 슬로건: '미래를 향해, 가능성의 항해'\n\n## 의미\n수도권에 집중된 AI 생태계를 지역으로 확산하기 위한 시도로, 카카오가 지역 거점 과학기술원들과 손잡고 비수도권 AI 인재 양성 및 창업 지원에 본격 나선다는 점에서 의미가 있다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-08-26",
+    "tags": [
+      "카카오",
+      "AI 돛",
+      "지역AI생태계",
+      "과학기술원",
+      "부산"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/830",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/830",
+        "name": "카카오 테크블로그 — 지역 AI 생태계의 새로운 가능성, 카카오 AI 돛 Summit 26을 개최합니다!"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-summit",
+    "draft": false,
+    "id": "1021"
   }
 ]
