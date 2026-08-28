@@ -1,5 +1,291 @@
 [
   {
+    "id": "1051",
+    "slug": "make-your-claude-subscription-generate-animation-with-a-free",
+    "title": "Make Your Claude Subscription Generate Animation With a Free App",
+    "summary": "If you already pay for Claude Pro or Max, Heramotion Demo turns that same subscription into a working motion-graphics render, free.Continue reading on",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@microstockinsights/make-your-claude-subscription-generate-animation-with-a-free-app-3f19ffd34510?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@microstockinsights/make-your-claude-subscription-generate-animation-with-a-free-app-3f19ffd34510?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1052",
+    "slug": "how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-bestsell",
+    "title": "How I Used an AI Agent to Build One of Adobe Stock’s Best-Selling Themes",
+    "summary": "One theme dominates Adobe Stock&#x2019;s download-sorted search results, so I built it with Heramotion and watched the agent verify its own work.Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@microstockinsights/how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-best-selling-themes-db2c98971a8a?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@microstockinsights/how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-best-selling-themes-db2c98971a8a?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1053",
+    "slug": "one-skills-repo-every-ai-agent-how-our-data-team-ships-its-c",
+    "title": "One Skills Repo, Every AI Agent: How Our Data Team Ships Its Conventions to Claude Code, GitLab…",
+    "summary": "Five engineers on my data team. One lives in Claude Code, one prefers OpenCode, one runs GitLab Duo&#x2019;s CLI, one drives Snowflake CoCo, and&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/snowflake/one-skills-repo-every-ai-agent-how-our-data-team-ships-its-conventions-to-claude-code-gitlab-1fe42bd7c824?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/snowflake/one-skills-repo-every-ai-agent-how-our-data-team-ships-its-conventions-to-claude-code-gitlab-1fe42bd7c824?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1054",
+    "slug": "your-documentation-is-a-build-artifact-start-treating-it-lik",
+    "title": "Your documentation is a build artifact. Start treating it like one.",
+    "summary": "AI made documentation cheap to write. That turned out to be the easy half. Here&#x2019;s the mechanism I (and Claude Code &#x1F916;) built for the oth",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@lukicov/your-documentation-is-a-build-artifact-start-treating-it-like-one-ab48df61b1e0?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@lukicov/your-documentation-is-a-build-artifact-start-treating-it-like-one-ab48df61b1e0?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1055",
+    "slug": "your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty",
+    "title": "Your Coding Agent Is Flying Blind — And IDEs Fixed This Twenty Years Ago",
+    "summary": "Terminal agents regressed to grep. Here is what they lost, what it costs you per session, and how I gave it back with a stdlib-only plugin&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/codex/your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty-years-ago-4cf3bfaf1999?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/codex/your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty-years-ago-4cf3bfaf1999?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1056",
+    "slug": "poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop",
+    "title": "PoC: Creating a Game in one prompt via the Gauntlet Loop",
+    "summary": "The Gauntlet LoopContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@calvin.hawkes/poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop-2958890f71ab?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@calvin.hawkes/poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop-2958890f71ab?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1057",
+    "slug": "learning-ai-but-worried-you-cant-code-fast-enough-good-news",
+    "title": "Learning AI but worried you can’t code fast enough? Good news.",
+    "summary": "The person who hires the engineers building Claude Code just said the quiet part out loud. It&#x2019;s good news, and it isn&#x2019;t for the reason&#",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@erick-killmonger/learning-ai-but-worried-you-cant-code-fast-enough-good-news-f8f69de51943?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@erick-killmonger/learning-ai-but-worried-you-cant-code-fast-enough-good-news-f8f69de51943?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1058",
+    "slug": "claude-code-vs-opencode-the-premium-specialist-or-the-open-p",
+    "title": "Claude Code vs OpenCode: The Premium Specialist or the Open Playground?",
+    "summary": "&#x1F916; Two AI coding agents enter your terminal. One offers a tightly integrated, polished experience. The other lets you choose almost&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@suryatc/claude-code-vs-opencode-the-premium-specialist-or-the-open-playground-4c4ed9e153c6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@suryatc/claude-code-vs-opencode-the-premium-specialist-or-the-open-playground-4c4ed9e153c6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1059",
+    "slug": "adapting-aifirst-software-development",
+    "title": "Adapting AI-First Software Development",
+    "summary": "How to make AI a reliable part of the engineering system instead of just a faster way to generate codeContinue reading on Level Up Coding »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://levelup.gitconnected.com/adapting-ai-first-software-development-54fbfb08bc3e?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://levelup.gitconnected.com/adapting-ai-first-software-development-54fbfb08bc3e?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1060",
+    "slug": "when-the-best-model-becomes-difficult-to-use-the-problem-wit",
+    "title": "When the best model becomes difficult to use: the problem with Claude’s quotas",
+    "summary": "The Financial Times has published an article on the performance of Anthropic&#x2019;s models, starting from a figure that until recently would&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://levysoft.medium.com/when-the-best-model-becomes-difficult-to-use-the-problem-with-claudes-quotas-e9b1227868bf?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://levysoft.medium.com/when-the-best-model-becomes-difficult-to-use-the-problem-with-claudes-quotas-e9b1227868bf?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1061",
+    "slug": "what-i-would-do-differently-if-i-started-with-claude-today",
+    "title": "What I Would Do Differently If I Started With Claude Today!",
+    "summary": "If I were starting with Claude today, knowing what I know after eight months of daily use, the first four hours would look completely&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://dkspeaks.medium.com/what-i-would-do-differently-if-i-started-with-claude-today-a2000e61e427?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://dkspeaks.medium.com/what-i-would-do-differently-if-i-started-with-claude-today-a2000e61e427?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1040",
     "slug": "i-had-claude-and-codex-rewrite-the-same-app-the-one-with-bet",
     "title": "I Had Claude and Codex Rewrite the Same App. The One With Better Architecture Lost.",
@@ -28590,5 +28876,47 @@
     "slug": "-ssot-release",
     "draft": false,
     "id": "1039"
+  },
+  {
+    "title": "Mycelium — AI 코딩 에이전트 세션을 정리하고 재사용하는 TUI 도구",
+    "summary": "Claude Code 등 AI 코딩 에이전트를 매일 사용하다 보면 프로젝트별 세션이 쌓여 이전 컨텍스트를 찾거나 이어가기 어려운 문제가 생긴다. 이를 해결하기 위해 개발된 Mycelium은 AI 코딩 에이전트 세션을 정리하고 재사용할 수 있도록 돕는 TUI(터미널 사용자 인터페이스) 도구다.",
+    "content": "## 주요 내용\n- Claude Code를 비롯한 AI 코딩 에이전트 사용 시 세션이 프로젝트별로 누적되어 관리가 어려워지는 문제 존재\n- /rename 기능을 사용해도 이전 세션의 컨텍스트를 다시 찾거나 이어가기 어려운 불편함 발생\n- Mycelium은 이러한 세션을 정리하고 재사용할 수 있도록 지원하는 TUI 도구로 개발됨\n\n## 의미\nAI 코딩 에이전트의 세션 관리 문제를 실사용 경험 기반으로 해결하려는 시도로, 반복적인 컨텍스트 재구성 비용을 줄이는 데 의의가 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-28",
+    "tags": [
+      "Mycelium",
+      "Claude Code",
+      "AI코딩에이전트",
+      "TUI",
+      "세션관리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32974",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32974",
+        "name": "GeekNews — Show GN: Mycelium - AI 코딩 에이전트 세션을 정리하고 재사용하는 TUI"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-mycelium-tui",
+    "draft": false,
+    "id": "1050"
   }
 ]
