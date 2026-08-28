@@ -1,5 +1,265 @@
 [
   {
+    "id": "1040",
+    "slug": "i-had-claude-and-codex-rewrite-the-same-app-the-one-with-bet",
+    "title": "I Had Claude and Codex Rewrite the Same App. The One With Better Architecture Lost.",
+    "summary": "One human, one month, two AI fleets, 270 commits, and 2,243 passing tests &#x2014; measuring the resource that coding benchmarks ignore: human&#x2026;",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@yalovoy/i-had-claude-and-codex-rewrite-the-same-app-the-one-with-better-architecture-lost-bee522b1ddf8?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@yalovoy/i-had-claude-and-codex-rewrite-the-same-app-the-one-with-better-architecture-lost-bee522b1ddf8?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1041",
+    "slug": "i-tried-to-verify-selfrepairing-ai-systems-by-actually-insta",
+    "title": "I Tried to Verify “Self-Repairing AI Systems” by Actually Installing the Thing",
+    "summary": "A hands-on look at the Agent Harnesses standard, and why the word &#x201C;harness&#x201D; means three different things right nowContinue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://topuzas.medium.com/i-tried-to-verify-self-repairing-ai-systems-by-actually-installing-the-thing-4c3aadb6d970?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://topuzas.medium.com/i-tried-to-verify-self-repairing-ai-systems-by-actually-installing-the-thing-4c3aadb6d970?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1042",
+    "slug": "prompt-caching-at-the-edge-using-cloudfront-functions-and-la",
+    "title": "Prompt Caching at the Edge: Using CloudFront Functions and Lambda to Speed Up Claude Calls",
+    "summary": "I Tried Putting Claude Behind a CDN. Here&#x2019;s What I Learned About Caching LLM ResponsesContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dineshshuttler/prompt-caching-at-the-edge-using-cloudfront-functions-and-lambda-to-speed-up-claude-calls-93e7e2318b95?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dineshshuttler/prompt-caching-at-the-edge-using-cloudfront-functions-and-lambda-to-speed-up-claude-calls-93e7e2318b95?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1043",
+    "slug": "why-is-claude-so-verbose-how-to-get-shorter-ai-answers",
+    "title": "Why Is Claude So Verbose? How to Get Shorter AI Answers",
+    "summary": "IntroductionContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@cartseoservice/why-is-claude-so-verbose-how-to-get-shorter-ai-answers-84097f8faa60?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@cartseoservice/why-is-claude-so-verbose-how-to-get-shorter-ai-answers-84097f8faa60?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1044",
+    "slug": "the-4-lines-every-claudemd-needs",
+    "title": "The 4 Lines Every CLAUDE.md Needs",
+    "summary": "Most developers think a &#x201C;CLAUDE.md&quot; file is just a place to write a few instructions for Claude. In reality, it can become one of the most",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rizwanalibutt545/the-4-lines-every-claude-md-needs-80d3aa551e39?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rizwanalibutt545/the-4-lines-every-claude-md-needs-80d3aa551e39?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1045",
+    "slug": "i-stopped-prompting-ai-and-started-managing-it-like-a-develo",
+    "title": "I Stopped Prompting AI and Started Managing It Like a Development Team",
+    "summary": "What changed when I separated thinking, implementation, testing and decision-making between humans and AI.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@muhammedhhadhilcmr/i-stopped-prompting-ai-and-started-managing-it-like-a-development-team-ba7400a82b8c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@muhammedhhadhilcmr/i-stopped-prompting-ai-and-started-managing-it-like-a-development-team-ba7400a82b8c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1046",
+    "slug": "the-token-wall-bypassing-quadratic-context-bleed-with-local",
+    "title": "The Token Wall — Bypassing Quadratic Context Bleed with Local MCP Engines",
+    "summary": "How offloading AST skeletonization, log squashing, and sqlite-vec memory to localhost slashes agent API bills by up to 90% and defeats&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dumkaabhipray/the-token-wall-bypassing-quadratic-context-bleed-with-local-mcp-engines-c299e4b03a11?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dumkaabhipray/the-token-wall-bypassing-quadratic-context-bleed-with-local-mcp-engines-c299e4b03a11?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1047",
+    "slug": "architecture-concept-local-mcp-servers-and-multislm-context",
+    "title": "Architecture Concept: Local MCP Servers and Multi-SLM Context Orchestration",
+    "summary": "Combining AST skeletonization, local vision models, and cross-repo dependency isolation to optimize developer workflows.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@dumkaabhipray/architecture-concept-local-mcp-servers-and-multi-slm-context-orchestration-dfbe5c53802b?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@dumkaabhipray/architecture-concept-local-mcp-servers-and-multi-slm-context-orchestration-dfbe5c53802b?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1048",
+    "slug": "how-to-use-unslothqwen3827bgguf-in-claude-code-via-ollama-wi",
+    "title": "How to Use unsloth/Qwen3.8–27B-GGUF in Claude Code via Ollama Without Dying in the Process? (1/2)",
+    "summary": "Your 500 error isn&#x2019;t Ollama or your GPU: it&#x2019;s Claude Code injecting mid-conversation system messages into a template that forbids them.C",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/how-to-use-unsloth-qwen3-8-27b-gguf-in-claude-code-via-ollama-without-dying-in-the-process-1-2-31acd5105227?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/how-to-use-unsloth-qwen3-8-27b-gguf-in-claude-code-via-ollama-without-dying-in-the-process-1-2-31acd5105227?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1049",
+    "slug": "claudeobsidian-makes-you-approve-every-ai-write-before-it-to",
+    "title": "claude-obsidian Makes You Approve Every AI Write Before It Touches Your Notes",
+    "summary": "The MIT-licensed Obsidian vault system is trending as an AI second brain. The architecture worth stealing is the write gate.Continue reading on Medium",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@creativeaininja/claude-obsidian-makes-you-approve-every-ai-write-before-it-touches-your-notes-af6a278fd811?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@creativeaininja/claude-obsidian-makes-you-approve-every-ai-write-before-it-touches-your-notes-af6a278fd811?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1022",
     "slug": "scaling-ai-is-a-workflow-problem-not-a-model-problem",
     "title": "Scaling AI Is a Workflow Problem, Not a Model Problem",
@@ -28143,5 +28403,192 @@
     "slug": "-summit",
     "draft": false,
     "id": "1021"
+  },
+  {
+    "title": "Anthropic Claude Code — 장황한 설명을 Gemini로 간결하게 재작성하는 TUI 도구 'cc-gemini-rewrite'",
+    "summary": "Claude Code는 코드 작성 능력은 뛰어나지만 설명이 장황하고 웅장한 말투를 사용해 개발자들 사이에서 불만이 많다. 이를 해결하기 위해 Claude Code의 설명을 TUI 환경 안에서 Gemini로 재작성해 보여주는 도구 'cc-gemini-rewrite'가 공개됐다.",
+    "content": "## 주요 내용\n- Claude Code는 코드 품질은 높으나 설명 방식이 장황하고 웅장한 말투를 사용하는 문제가 있음\n- 이 문제는 해당 개발자뿐 아니라 주변 개발자 및 커뮤니티에서도 공통적으로 겪는 불만으로 언급됨\n- 'cc-gemini-rewrite'는 Claude Code의 설명을 TUI(터미널 사용자 인터페이스) 안에서 Gemini를 활용해 재작성해 보여주는 도구임\n\n## 의미\nClaude Code 사용자들이 체감하는 설명 품질 문제를 외부 AI 모델(Gemini)로 보완하려는 실용적인 시도로, 개발자 커뮤니티의 실제 불편을 해소하기 위한 도구라는 점에서 주목된다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-28",
+    "tags": [
+      "ClaudeCode",
+      "Anthropic",
+      "Gemini",
+      "TUI",
+      "개발자도구"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32972",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32972",
+        "name": "GeekNews — Show GN: cc-gemini-rewrite - Claude Code의 장황한 설명을 TUI 안에서 Gemini로 재작성해서 보기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-code-gemini",
+    "draft": false,
+    "id": "1035"
+  },
+  {
+    "title": "Anthropic Claude — GitHub PR 46만 건 분석에서 'Claude 문체' 급증 포착",
+    "summary": "GitHub 풀리퀘스트 46만 건을 어휘 기반으로 분류한 결과, 2025년 초 0.7%에 불과했던 특정 문체 집단이 2026년 중반 약 39%까지 급증한 것으로 나타났다. 해당 집단은 'load-bearing', 'plainly', 'quietly', 'seam', 'byte-identical' 등 특징적인 어휘를 포함하며, Claude와 유사한 문체로 분류된다.",
+    "content": "## 주요 내용\n- GitHub PR 46만 건을 어휘만으로 문체 집단 분류 분석 수행\n- 2025년 초 0.7%였던 'Claude 같은' 문체 집단이 2026년 중반 약 39%로 급증\n- 해당 문체 집단의 특징적 어휘: load-bearing, plainly, quietly, seam, byte-identical 등\n\n## 의미\n대규모 코드 리뷰 및 PR 작성 영역에서 Claude 스타일의 AI 문체가 단기간에 매우 빠른 속도로 확산되고 있음을 어휘 분석을 통해 실증적으로 보여주는 사례다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-08-28",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "GitHub",
+      "AI문체분석",
+      "풀리퀘스트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32970",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32970",
+        "name": "GeekNews — GitHub PR에 급증한 ‘Claude 같은’ 문체 - 46만 건의 어휘 변화 분석"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-github-claude",
+    "draft": false,
+    "id": "1036"
+  },
+  {
+    "title": "Google Antigravity — 다중 AI 에이전트가 장기 연구·개발 문제를 협력 수행하는 기능 공개",
+    "summary": "Google의 Antigravity는 여러 AI 에이전트가 수시간에서 수일에 걸쳐 장기 연구 및 엔지니어링 문제를 함께 해결하는 다중 에이전트 기능이다. 에이전트들은 서로 해법을 제안하고 비판·검증·개선하며, 과제에 따라 코딩·증명·자체 검증·문서 검토 등의 패턴을 선택한다. 실행 중에도 에이전트 수와 팀 구조를 동적으로 조정할 수 있다.",
+    "content": "## 주요 내용\n- 여러 AI 에이전트가 수시간~수일 동안 장기 연구·엔지니어링 문제를 협력 해결\n- 에이전트 간 해법 제안, 상호 비판·검증·개선 수행\n- 과제에 맞춰 코딩, 증명, 자체 검증, 문서 검토 등 패턴 선택\n- 실행 중에도 에이전트 수와 팀 구조를 동적으로 조정 가능\n- 사람은 감독 역할 수행\n\n## 의미\nGoogle Antigravity는 단일 AI가 아닌 다중 에이전트 협업을 통해 장기적이고 복잡한 연구·개발 과제를 자율적으로 처리할 수 있는 가능성을 보여주는 시도이다.",
+    "company": "Google",
+    "category": "AI",
+    "date": "2026-08-28",
+    "tags": [
+      "Google",
+      "Antigravity",
+      "다중에이전트",
+      "AI에이전트",
+      "장기연구",
+      "자율AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32969",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32969",
+        "name": "GeekNews — Google Antigravity Teamwork - 여러 AI 에이전트가 장기 연구·개발을 함께 수행하는 기능"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-antigravity-release",
+    "draft": false,
+    "id": "1037"
+  },
+  {
+    "title": "Agent Behavior — AI 에이전트의 반복 행동을 문서화해 평가 기준으로 삼는 개방형 표준",
+    "summary": "장시간 동작하며 수백 번 판단을 내리는 AI 에이전트를 최종 결과 하나만으로 평가하기 어렵다는 문제의식에서 출발한 개방형 포맷이다. 작업 과정에서 반복적으로 나타나야 할 행동을 문서화해 평가 기준으로 삼는 방식을 제안한다.",
+    "content": "## 주요 내용\n- AI 에이전트는 장시간 동작하며 수백 번의 판단을 수행하므로 최종 결과 하나로만 평가하기 어려움\n- 작업 과정에서 반복적으로 보여야 할 행동을 문서화하는 개방형 포맷\n- 에이전트가 어떤 정보를 확인하고, 무엇을 판단하며, 어떻게 실행하는지 기록\n- 정보가 부족하거나 실패했을 때 어떻게 복구해야 하는지도 문서화 대상에 포함\n\n## 의미\n단순 결과 중심 평가의 한계를 보완하기 위해, 에이전트의 행동 과정 자체를 표준화된 방식으로 문서화하고 평가 기준으로 활용할 수 있는 접근법을 제시한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-28",
+    "tags": [
+      "AI에이전트",
+      "평가기준",
+      "오픈스탠다드",
+      "AgentBehavior",
+      "행동문서화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32962",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32962",
+        "name": "GeekNews — Agent Behavior - AI 에이전트의 반복 행동을 문서화해 평가 기준으로 삼는 표준"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-agent-behavior",
+    "draft": false,
+    "id": "1038"
+  },
+  {
+    "title": "라인, LLM 기반 코드 자동 최신화 도메인 지식 SSOT 구축 방법 공개",
+    "summary": "LINE Plus의 Global E-Commerce Platform 개발자 윤석범이 LLM을 활용한 개발 시 결과물 품질을 높이기 위해 코드 기준으로 자동 최신화되는 도메인 지식 단일 진실 공급원(SSOT) 구축 방법을 소개했다. AI 코드 생성 능력보다 도메인 지식의 정확성과 최신성이 결과물 품질에 더 중요한 영향을 미친다는 문제의식에서 출발한 접근법이다.",
+    "content": "## 주요 내용\n- LINE Plus Global E-Commerce Platform 개발자가 LLM Wiki 구축 경험 공유\n- AI 개발 결과물의 품질은 AI의 코드 생성 능력보다 도메인 지식의 질에 좌우된다는 문제의식\n- 코드를 기준으로 자동 최신화되는 도메인 지식 SSOT(Single Source of Truth) 구축 방법 제시\n\n## 의미\n코드와 연동해 자동으로 최신 상태를 유지하는 도메인 지식 체계를 만듦으로써, LLM 기반 개발 환경에서 지식 관리의 정확성과 효율성을 높일 수 있는 실践적 접근법을 제안한다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-08-28",
+    "tags": [
+      "라인",
+      "LLM",
+      "SSOT",
+      "도메인지식",
+      "AI개발",
+      "코드자동화",
+      "LINEPlus"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/llm-wiki-code-driven-knowledge-ssot",
+        "name": "라인 — LLM Wiki: 코드 기준으로 자동 최신화되는 도메인 지식 SSOT 만들기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-ssot-release",
+    "draft": false,
+    "id": "1039"
   }
 ]
