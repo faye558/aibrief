@@ -1,5 +1,187 @@
 [
   {
+    "id": "1063",
+    "slug": "i-spent-4-years-managing-aws-manually-now-it-takes-12-minute",
+    "title": "I Spent 4 Years Managing AWS Manually. Now It Takes 12 Minutes.",
+    "summary": "For 4 years, I managed AWS infrastructure the traditional way: clicking through the console, writing Terraform by hand, debugging IAM&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@saurabhraj042/i-spent-4-years-managing-aws-manually-now-it-takes-12-minutes-ef7613dc8622?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@saurabhraj042/i-spent-4-years-managing-aws-manually-now-it-takes-12-minutes-ef7613dc8622?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1064",
+    "slug": "how-im-preparing-for-the-claude-certified-architect-foundati",
+    "title": "How I’m Preparing for the Claude Certified Architect — Foundations Exam (CCA-F)",
+    "summary": "My practical roadmap for going from &#x201C;I can build an agent&#x201D; to &#x201C;I can design a production-ready Claude system&#x201D;Continue read",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vinitpahwa.medium.com/how-im-preparing-for-the-claude-certified-architect-foundations-exam-cca-f-2416e5547ab9?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vinitpahwa.medium.com/how-im-preparing-for-the-claude-certified-architect-foundations-exam-cca-f-2416e5547ab9?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1065",
+    "slug": "claudemd",
+    "title": "CLAUDE.md 多專案技巧",
+    "summary": "CLAUDE.md 多專案技巧",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://milkmidi.medium.com/claude-md-%E5%A4%9A%E5%B0%88%E6%A1%88%E6%8A%80%E5%B7%A7-3b361e58ed0c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://milkmidi.medium.com/claude-md-%E5%A4%9A%E5%B0%88%E6%A1%88%E6%8A%80%E5%B7%A7-3b361e58ed0c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1066",
+    "slug": "a-new-chapter",
+    "title": "A New Chapter",
+    "summary": "Two things an audit told me that I hadn&#x2019;t told myself.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://abelhow.medium.com/a-new-chapter-4aac35106ebe?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://abelhow.medium.com/a-new-chapter-4aac35106ebe?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1067",
+    "slug": "top-10-opensource-claude-code-plugins-skills-every-developer",
+    "title": "Top 10 Open-Source Claude Code Plugins & Skills Every Developer Should Try",
+    "summary": "From debugging and context management to token optimization and developer productivity, here are the open-source AI coding extensions that&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.plainenglish.io/top-10-open-source-claude-code-plugins-skills-every-developer-should-try-c4ce71997ec7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.plainenglish.io/top-10-open-source-claude-code-plugins-skills-every-developer-should-try-c4ce71997ec7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1068",
+    "slug": "cli-vs-ide-coding-agents-i-use-both-heres-what-each-gets-rig",
+    "title": "CLI vs IDE Coding Agents: I Use Both. Here’s What Each Gets Right",
+    "summary": "I kept asking the wrong question:Continue reading on Artificial Intelligence in Plain English »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://ai.plainenglish.io/cli-vs-ide-coding-agents-i-use-both-heres-what-each-gets-right-8861d197fee6?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://ai.plainenglish.io/cli-vs-ide-coding-agents-i-use-both-heres-what-each-gets-right-8861d197fee6?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1069",
+    "slug": "claude-code-in-action-august-2026",
+    "title": "Claude Code in Action: August 2026",
+    "summary": "IntroContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mackenzie.gonzales.k_98971/claude-code-in-action-august-2026-caea44afaf68?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mackenzie.gonzales.k_98971/claude-code-in-action-august-2026-caea44afaf68?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1051",
     "slug": "make-your-claude-subscription-generate-animation-with-a-free",
     "title": "Make Your Claude Subscription Generate Animation With a Free App",
@@ -28918,5 +29100,34 @@
     "slug": "anthropic-mycelium-tui",
     "draft": false,
     "id": "1050"
+  },
+  {
+    "title": "EasyEffects — 모든 Linux 배포판에 기본 포함해 노트북 스피커 음질 개선해야",
+    "summary": "노트북 소형 스피커의 물리적 한계를 Linux 오디오 처리 기능과 EasyEffects를 통해 크게 개선할 수 있다는 주장이 제기됐다. EasyEffects는 PipeWire 스트림에 이퀄라이저, 압축기, 리미터, 베이스 강화 등 다양한 효과를 적용할 수 있는 도구다.",
+    "content": "## 주요 내용\n- 소형 노트북 스피커의 물리적 한계는 피할 수 없으나, Linux 오디오 처리로 음질 개선 가능\n- EasyEffects는 PipeWire 입출력 스트림에 이퀄라이저, 압축기, 리미터, 베이스 강화 등 다양한 효과 적용 가능\n- 모든 Linux 배포판에 EasyEffects를 기본 포함해야 한다는 주장\n\n## 의미\nEasyEffects를 Linux 배포판에 기본 탑재함으로써 별도 설정 없이도 노트북 스피커 음질을 개선할 수 있는 사용자 경험 향상이 기대된다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-29",
+    "tags": [
+      "EasyEffects",
+      "Linux",
+      "오디오",
+      "PipeWire",
+      "스피커"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=32998",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=32998",
+        "name": "GeekNews — EasyEffects를 모든 Linux 배포판에 포함해 노트북 스피커 음질을 개선해야 함"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-easyeffects-linux",
+    "draft": false,
+    "id": "1062"
   }
 ]
