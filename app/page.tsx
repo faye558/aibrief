@@ -21,8 +21,32 @@ export const metadata: Metadata = {
   },
 };
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "name": "toolr",
+      "url": "https://toolr.kr",
+      "description": "AI·테크 분야의 작고 실용적인 웹 툴을 만드는 스튜디오",
+      "email": "fanfaye1@gmail.com",
+    },
+    {
+      "@type": "WebSite",
+      "name": "toolr",
+      "url": "https://toolr.kr",
+      "inLanguage": "ko-KR",
+    },
+  ],
+};
+
 export default function ToolrPage() {
   return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
     <div style={{ minHeight: "100vh", background: "#0d0d0f", color: "#e6edf3", fontFamily: "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif", display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", padding: "40px 24px" }}>
       <div style={{ maxWidth: "480px", width: "100%", textAlign: "center" }}>
         <div style={{ fontSize: "36px", fontWeight: 800, letterSpacing: "-0.03em", marginBottom: "4px" }}>
@@ -64,5 +88,6 @@ export default function ToolrPage() {
         </div>
       </div>
     </div>
+    </>
   );
 }

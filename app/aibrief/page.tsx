@@ -55,9 +55,34 @@ function loadArticles(): Article[] {
 
 export default function Home() {
   const articles = loadArticles();
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "ai brief — AI·디자인·PM 업계 뉴스 큐레이션",
+    "description": "AI·테크·디자인 분야의 새로운 소식을 함께 나눠요.",
+    "url": "https://toolr.kr/aibrief",
+    "isPartOf": { "@type": "WebSite", "name": "toolr", "url": "https://toolr.kr" },
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": articles.slice(0, 30).map((a, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "url": `https://toolr.kr/aibrief/article/${a.slug}`,
+        "name": a.title,
+      })),
+    },
+  };
+
   return (
-    <Suspense>
-      <FeedPage articles={articles} />
-    </Suspense>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Suspense>
+        <FeedPage articles={articles} />
+      </Suspense>
+    </>
   );
 }
