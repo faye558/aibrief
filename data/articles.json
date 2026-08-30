@@ -78,32 +78,6 @@
     "hidden": true
   },
   {
-    "id": "1056",
-    "slug": "poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop",
-    "title": "PoC: Creating a Game in one prompt via the Gauntlet Loop",
-    "summary": "The Gauntlet LoopContinue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@calvin.hawkes/poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop-2958890f71ab?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@calvin.hawkes/poc-creating-a-game-in-one-prompt-via-the-gauntlet-loop-2958890f71ab?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1057",
     "slug": "learning-ai-but-worried-you-cant-code-fast-enough-good-news",
     "title": "Learning AI but worried you can’t code fast enough? Good news.",
