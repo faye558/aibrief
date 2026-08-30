@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1057",
-    "slug": "learning-ai-but-worried-you-cant-code-fast-enough-good-news",
-    "title": "Learning AI but worried you can’t code fast enough? Good news.",
-    "summary": "The person who hires the engineers building Claude Code just said the quiet part out loud. It&#x2019;s good news, and it isn&#x2019;t for the reason&#",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@erick-killmonger/learning-ai-but-worried-you-cant-code-fast-enough-good-news-f8f69de51943?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@erick-killmonger/learning-ai-but-worried-you-cant-code-fast-enough-good-news-f8f69de51943?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1058",
     "slug": "claude-code-vs-opencode-the-premium-specialist-or-the-open-p",
     "title": "Claude Code vs OpenCode: The Premium Specialist or the Open Playground?",
