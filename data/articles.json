@@ -26573,7 +26573,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "686"
+    "id": "686",
+    "hidden": true
   },
   {
     "title": "Linux 7.3, VRAM 부족 시 성능 저하 및 충돌 개선 패치 포함",
