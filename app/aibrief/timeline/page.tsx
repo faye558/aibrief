@@ -119,11 +119,11 @@ export default function TimelinePage({
           <a
             key={cat}
             href={cat === "전체" ? "/aibrief/timeline" : `/aibrief/timeline?category=${cat}`}
-            className={`px-4 py-2 rounded-full text-sm font-bold tracking-tight transition-all ${
-              category === cat
-                ? "bg-brand-600 text-white shadow-md"
-                : "bg-white border border-gray-200 text-gray-600 hover:border-brand-300 hover:text-brand-600"
-            }`}
+            className="px-4 py-2 rounded-full text-sm font-bold tracking-tight transition-all"
+            style={category === cat
+              ? { background: "#5B4FE8", color: "#fff", boxShadow: "0 2px 8px rgba(91,79,232,0.3)" }
+              : { background: "#fff", border: "1px solid #e5e7eb", color: "#374151" }
+            }
           >
             {cat}
           </a>
