@@ -29087,7 +29087,8 @@
     ],
     "slug": "anthropic-claude-code-forge-harness",
     "draft": false,
-    "id": "948"
+    "id": "948",
+    "hidden": true
   },
   {
     "title": "무신사, AI 네이티브 조직을 위한 2층 시맨틱 레이어로 도메인 지식 공유",
