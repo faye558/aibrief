@@ -204,32 +204,36 @@ export default function DraftsPage() {
   }
 
   async function bulkHide() {
-    if (!checked.size) return;
+    if (!checked.size || bulkLoading) return;
+    const ids = Array.from(checked);
     setBulkLoading(true);
-    for (const id of checked) {
-      await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
+    setMsg(`${ids.length}개 숨기는 중...`);
+    await Promise.all(ids.map((id) =>
+      fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
         method: "PATCH", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ id, action: "hide" }),
-      });
-    }
+      })
+    ));
     setDrafts((d) => d.filter((a) => !checked.has(a.id)));
-    setMsg(`${checked.size}개 숨김`);
+    setMsg(`${ids.length}개 숨김 완료`);
     setChecked(new Set());
     setBulkLoading(false);
     setTimeout(() => setMsg(""), 2000);
   }
 
   async function bulkDelete() {
-    if (!checked.size) return;
+    if (!checked.size || bulkLoading) return;
+    const ids = Array.from(checked);
     setBulkLoading(true);
-    for (const id of checked) {
-      await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
+    setMsg(`${ids.length}개 삭제하는 중...`);
+    await Promise.all(ids.map((id) =>
+      fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
         method: "DELETE", headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ id }),
-      });
-    }
+      })
+    ));
     setDrafts((d) => d.filter((a) => !checked.has(a.id)));
-    setMsg(`${checked.size}개 삭제`);
+    setMsg(`${ids.length}개 삭제 완료`);
     setChecked(new Set());
     setBulkLoading(false);
     setTimeout(() => setMsg(""), 2000);
