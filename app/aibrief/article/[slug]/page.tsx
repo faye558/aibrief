@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       siteName: "ai brief",
       locale: "ko_KR",
       type: "article",
+      publishedTime: new Date(article.date).toISOString(),
     },
     alternates: { canonical: `https://toolr.kr/aibrief/article/${slug}` },
     robots: { index: true, follow: true },
