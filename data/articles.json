@@ -29175,7 +29175,8 @@
     ],
     "communityLinks": null,
     "draft": false,
-    "id": "969"
+    "id": "969",
+    "hidden": true
   },
   {
     "title": "key-amnesia — AI 에이전트에 시크릿을 노출하지 않고 명령을 실행하는 오픈소스 도구",
