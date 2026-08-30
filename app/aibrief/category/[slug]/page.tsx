@@ -7,11 +7,11 @@ export const dynamic = "force-dynamic";
 import FeedPage from "@/components/FeedPage";
 import type { Article } from "@/app/aibrief/page";
 
-const CATEGORY_MAP: Record<string, { label: string; values: string[] }> = {
-  "ai":     { label: "AI",     values: ["AI", "AI모델", "3D AI"] },
-  "design": { label: "디자인", values: ["디자인툴", "이미지", "폰트"] },
-  "ux":     { label: "UX",     values: ["UX"] },
-  "tech":   { label: "테크",   values: ["테크", "테크블로그"] },
+const CATEGORY_MAP: Record<string, { label: string; title: string; description: string; values: string[] }> = {
+  "ai":     { label: "AI",     title: "AI 업계 최신 소식 — ai brief", description: "AI 모델·에이전트 관련 업계 소식을 모아봅니다.", values: ["AI", "AI모델", "3D AI"] },
+  "design": { label: "디자인", title: "디자인 툴·트렌드 소식 — ai brief", description: "디자인 툴, 폰트, 이미지 관련 최신 소식을 모아봅니다.", values: ["디자인툴", "이미지", "폰트"] },
+  "ux":     { label: "UX",     title: "UX 리서치·디자인 소식 — ai brief", description: "UX 리서치와 디자인 관련 최신 소식을 모아봅니다.", values: ["UX"] },
+  "tech":   { label: "테크",   title: "테크 업계 최신 소식 — ai brief", description: "테크 업계 전반의 최신 소식을 모아봅니다.", values: ["테크", "테크블로그"] },
 };
 
 function loadArticles(): Article[] {
@@ -32,8 +32,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const cat = CATEGORY_MAP[slug];
   if (!cat) return {};
   return {
-    title: `${cat.label} — aibrief`,
-    description: `${cat.label} 관련 최신 뉴스와 인사이트`,
+    title: cat.title,
+    description: cat.description,
+    alternates: { canonical: `https://toolr.kr/aibrief/category/${slug}` },
   };
 }
 

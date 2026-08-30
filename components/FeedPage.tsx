@@ -48,6 +48,15 @@ const CATEGORIES = [
   { id: "tech",   label: "테크",   icon: "⌨" },
 ];
 
+// 허브 페이지 H1용 — 위 label은 필터 탭에 쓰는 짧은 라벨이라 별도로 키워드 포함 문구를 둔다.
+const CATEGORY_H1: Record<string, string> = {
+  all: "매일 업데이트되는 AI 소식",
+  ai: "AI 업계 최신 소식",
+  design: "디자인 툴·트렌드 소식",
+  ux: "UX 리서치·디자인 소식",
+  tech: "테크 업계 최신 소식",
+};
+
 const TAG_STYLES: Record<string, { bg: string; color: string }> = {
   ai:     { bg: "var(--tag-ai-bg)",       color: "var(--tag-ai)" },
   ux:     { bg: "var(--tag-ux-bg)",       color: "var(--tag-ux)" },
@@ -511,7 +520,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
           <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: hasFilter ? "12px" : "20px" }}>
             <div>
               <h1 style={{ fontSize: "20px", fontWeight: 700, color: "var(--text)", letterSpacing: "-0.4px" }}>
-                {searchQuery ? `"${searchQuery}" 검색 결과` : activeTag ? `#${activeTag}` : activeSource ? activeSource : activeCategory === "all" ? "매일 업데이트되는 AI 소식" : CATEGORIES.find((c) => c.id === activeCategory)?.label ?? "전체"}
+                {searchQuery ? `"${searchQuery}" 검색 결과` : activeTag ? `#${activeTag}` : activeSource ? activeSource : CATEGORY_H1[activeCategory] ?? "전체"}
               </h1>
               <p style={{ fontSize: "12px", color: "var(--text-faint)", marginTop: "2px" }}>
                 {filtered.length}개 아티클
