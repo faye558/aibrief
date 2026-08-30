@@ -31,6 +31,9 @@ export default function ToolrPage() {
         <div style={{ fontSize: "13px", color: "#6b7280", marginBottom: "24px", letterSpacing: "0.1em" }}>
           툴러
         </div>
+        <h1 style={{ fontSize: "15px", fontWeight: 600, color: "#8b949e", marginBottom: "8px" }}>
+          매일 업데이트되는 AI 소식과 툴 모음
+        </h1>
         <p style={{ fontSize: "15px", color: "#8b949e", lineHeight: 1.8, marginBottom: "48px" }}>
           쓸모 있는 것들을 만듭니다.<br />
           작고 실용적인 웹 툴을 하나씩 쌓아가는 작은 스튜디오예요.

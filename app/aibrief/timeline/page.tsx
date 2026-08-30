@@ -108,7 +108,7 @@ export default function TimelinePage({
 
       <div className="mb-8">
         <h1 className="text-3xl font-black text-gray-900 mb-1">
-          {company ? `${company} 타임라인` : "타임라인"}
+          {company ? `${company} 타임라인` : "매일 업데이트되는 AI 소식"}
         </h1>
         <p className="text-gray-500 text-sm">AI·디자인툴 업계 전체 흐름을 날짜순으로 한눈에</p>
       </div>

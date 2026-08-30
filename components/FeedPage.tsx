@@ -511,7 +511,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
           <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: hasFilter ? "12px" : "20px" }}>
             <div>
               <h1 style={{ fontSize: "20px", fontWeight: 700, color: "var(--text)", letterSpacing: "-0.4px" }}>
-                {searchQuery ? `"${searchQuery}" 검색 결과` : activeTag ? `#${activeTag}` : activeSource ? activeSource : CATEGORIES.find((c) => c.id === activeCategory)?.label ?? "전체"}
+                {searchQuery ? `"${searchQuery}" 검색 결과` : activeTag ? `#${activeTag}` : activeSource ? activeSource : activeCategory === "all" ? "매일 업데이트되는 AI 소식" : CATEGORIES.find((c) => c.id === activeCategory)?.label ?? "전체"}
               </h1>
               <p style={{ fontSize: "12px", color: "var(--text-faint)", marginTop: "2px" }}>
                 {filtered.length}개 아티클
