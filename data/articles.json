@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1040",
-    "slug": "i-had-claude-and-codex-rewrite-the-same-app-the-one-with-bet",
-    "title": "I Had Claude and Codex Rewrite the Same App. The One With Better Architecture Lost.",
-    "summary": "One human, one month, two AI fleets, 270 commits, and 2,243 passing tests &#x2014; measuring the resource that coding benchmarks ignore: human&#x2026;",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@yalovoy/i-had-claude-and-codex-rewrite-the-same-app-the-one-with-better-architecture-lost-bee522b1ddf8?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@yalovoy/i-had-claude-and-codex-rewrite-the-same-app-the-one-with-better-architecture-lost-bee522b1ddf8?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1041",
     "slug": "i-tried-to-verify-selfrepairing-ai-systems-by-actually-insta",
     "title": "I Tried to Verify “Self-Repairing AI Systems” by Actually Installing the Thing",
