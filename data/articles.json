@@ -26,32 +26,6 @@
     "hidden": false
   },
   {
-    "id": "1092",
-    "slug": "-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from",
-    "title": "☎️ One Phone, Many Brains: I Ran a Team of Claude Sessions From My Pocket",
-    "summary": "Claude Code quietly shipped session-to-session messaging. I spent a week finding out what it&#x2019;s actually for &#x2014; with a phone, a Telegram b",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-30",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@vivek-karmarkar/%EF%B8%8F-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from-my-pocket-b2ffcc54466d?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@vivek-karmarkar/%EF%B8%8F-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from-my-pocket-b2ffcc54466d?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1072",
     "slug": "these-5-words-dramatically-reduced-my-claude-code-token-usag",
     "title": "These 5 Words Dramatically Reduced My Claude Code Token Usage",
