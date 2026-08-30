@@ -28861,7 +28861,8 @@
     "communityLinks": null,
     "slug": "ai-srelens-agent",
     "draft": false,
-    "id": "895"
+    "id": "895",
+    "hidden": true
   },
   {
     "title": "무신사, AI 기반 개발 전 과정 혁신 담은 '패턴 '26 테크 컨퍼런스' 9월 개최",
