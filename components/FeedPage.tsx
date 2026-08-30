@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback, useRef } from "react";
 import { useSearchParams, useRouter } from "next/navigation";
 import GlobalNav from "./GlobalNav";
 import MarketStrip from "./MarketStrip";
@@ -290,6 +290,13 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const searchParams = useSearchParams();
   const router = useRouter();
   const [activeCategory, setActiveCategory] = useState(() => categoryFilter ? (LABEL_TO_ID[categoryFilter] ?? "all") : "all");
+  const [translatedTitles, setTranslatedTitles] = useState<Record<string, string>>({});
+  const translatingRef = useRef(false);
+
+  function isEnglish(t: string) {
+    const en = (t.match(/[A-Za-z\s]/g) || []).length;
+    return t.length > 0 && en / t.length > 0.5;
+  }
 
   const handleCategoryClick = useCallback((catId: string, e: React.MouseEvent) => {
     e.preventDefault();
@@ -308,6 +315,29 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     if (tag) setActiveTag(tag);
   }, [searchParams]);
 
+  useEffect(() => {
+    if (translatingRef.current) return;
+    const sevenDaysAgo = new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString().slice(0, 10);
+    const needTranslation = articles.filter((a) => a.date >= sevenDaysAgo && isEnglish(a.title) && !translatedTitles[a.id]);
+    if (!needTranslation.length) return;
+    translatingRef.current = true;
+    (async () => {
+      await Promise.all(needTranslation.map(async (a) => {
+        try {
+          const res = await fetch("/aibrief/api/translate", {
+            method: "POST", headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ title: a.title }),
+          });
+          if (res.ok) {
+            const { translated } = await res.json();
+            setTranslatedTitles((prev) => ({ ...prev, [a.id]: translated }));
+          }
+        } catch { /* skip */ }
+      }));
+      translatingRef.current = false;
+    })();
+  }, [articles]);
+
   function clearFilters() {
     setActiveCategory("all");
     setActiveTag(null);
@@ -319,7 +349,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const cards: CardArticle[] = articles.map((a, i) => ({
     id: a.id,
     slug: a.slug,
-    title: a.title,
+    title: translatedTitles[a.id] || a.title,
     summary: a.summary,
     content: a.content,
     uiCategory: mapCategory(a.category),
