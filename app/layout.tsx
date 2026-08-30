@@ -26,12 +26,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <head>
         <Script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6383180248696987" crossOrigin="anonymous" strategy="afterInteractive" />
         <Script src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`} strategy="afterInteractive" />
-        <Script id="ga4-init" strategy="afterInteractive">{`
+        <Script id="ga4-init" strategy="afterInteractive" dangerouslySetInnerHTML={{ __html: `
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
           gtag('config', '${GA_ID}');
-        `}</Script>
+        ` }} />
       </head>
       <body>
         <script dangerouslySetInnerHTML={{ __html: `
