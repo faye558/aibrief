@@ -624,32 +624,6 @@
     "hidden": true
   },
   {
-    "id": "1008",
-    "slug": "i-replaced-manual-meeting-notes-with-these-ai-tools-and-rank",
-    "title": "I replaced manual meeting notes with these AI tools and ranked the results",
-    "summary": "I&#x2019;m a good multitasker, except when it comes to meetings. Often, I struggle between paying attention to what&#x2019;s being said and jotting do",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@yulia.savliuk/i-use-an-ai-meeting-note-taker-so-i-can-stop-jotting-notes-f0b2f2b5e7fc?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@yulia.savliuk/i-use-an-ai-meeting-note-taker-so-i-can-stop-jotting-notes-f0b2f2b5e7fc?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1009",
     "slug": "google-stitch-from-design-prompt-to-flutter-screen-with-mcp",
     "title": "Google Stitch: From Design Prompt to Flutter Screen (with MCP + Claude Code)",
