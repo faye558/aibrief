@@ -26,32 +26,6 @@
     "hidden": true
   },
   {
-    "id": "1091",
-    "slug": "7-claude-code-mistakes-that-quietly-burn-your-token-budget",
-    "title": "7 Claude Code Mistakes That Quietly Burn Your Token Budget",
-    "summary": "A developer left it running overnight and woke up $6,000 poorer. The dashboard didn&#x2019;t warn him it runs days behind.Continue reading on Towards",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-30",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1092",
     "slug": "-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from",
     "title": "☎️ One Phone, Many Brains: I Ran a Team of Claude Sessions From My Pocket",
