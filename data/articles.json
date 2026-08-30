@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1080",
-    "slug": "i-spent-1000-hours-in-claude-code-heres-the-workflow-that-su",
-    "title": "I Spent 1,000 Hours in Claude Code. Here’s the Workflow That Survived.",
-    "summary": "The setup, the prompts, the safety loop, and the remote-control trick almost nobody uses &#x2014; a complete, hands-on guide.Continue reading on Data",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/data-science-collective/i-spent-1-000-hours-in-claude-code-heres-the-workflow-that-survived-d4b861cdf132?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/data-science-collective/i-spent-1-000-hours-in-claude-code-heres-the-workflow-that-survived-d4b861cdf132?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1063",
     "slug": "i-spent-4-years-managing-aws-manually-now-it-takes-12-minute",
     "title": "I Spent 4 Years Managing AWS Manually. Now It Takes 12 Minutes.",
