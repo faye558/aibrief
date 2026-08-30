@@ -390,32 +390,6 @@
     "hidden": true
   },
   {
-    "id": "1026",
-    "slug": "building-a-safer-aws-security-and-cost-audit-workflow-with-b",
-    "title": "Building a Safer AWS Security and Cost Audit Workflow with Bash, AWS CLI, and AI",
-    "summary": "IntroductionContinue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@onyinyenwoke/building-a-safer-aws-security-and-cost-audit-workflow-with-bash-aws-cli-and-ai-b3856dfed837?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@onyinyenwoke/building-a-safer-aws-security-and-cost-audit-workflow-with-bash-aws-cli-and-ai-b3856dfed837?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1027",
     "slug": "half-of-us-developers-now-use-claude-code-the-other-half-sho",
     "title": "Half of US Developers Now Use Claude Code. The Other Half Should Be Worried ?",
