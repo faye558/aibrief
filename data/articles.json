@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1052",
-    "slug": "how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-bestsell",
-    "title": "How I Used an AI Agent to Build One of Adobe Stock’s Best-Selling Themes",
-    "summary": "One theme dominates Adobe Stock&#x2019;s download-sorted search results, so I built it with Heramotion and watched the agent verify its own work.Conti",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@microstockinsights/how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-best-selling-themes-db2c98971a8a?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@microstockinsights/how-i-used-an-ai-agent-to-build-one-of-adobe-stocks-best-selling-themes-db2c98971a8a?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1053",
     "slug": "one-skills-repo-every-ai-agent-how-our-data-team-ships-its-c",
     "title": "One Skills Repo, Every AI Agent: How Our Data Team Ships Its Conventions to Claude Code, GitLab…",
