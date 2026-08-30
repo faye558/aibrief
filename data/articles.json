@@ -28983,36 +28983,6 @@
     "hidden": true
   },
   {
-    "title": "EasyEffects — 모든 Linux 배포판에 기본 포함해 노트북 스피커 음질 개선해야",
-    "summary": "노트북 소형 스피커의 물리적 한계를 Linux 오디오 처리 기능과 EasyEffects를 통해 크게 개선할 수 있다는 주장이 제기됐다. EasyEffects는 PipeWire 스트림에 이퀄라이저, 압축기, 리미터, 베이스 강화 등 다양한 효과를 적용할 수 있는 도구다.",
-    "content": "## 주요 내용\n- 소형 노트북 스피커의 물리적 한계는 피할 수 없으나, Linux 오디오 처리로 음질 개선 가능\n- EasyEffects는 PipeWire 입출력 스트림에 이퀄라이저, 압축기, 리미터, 베이스 강화 등 다양한 효과 적용 가능\n- 모든 Linux 배포판에 EasyEffects를 기본 포함해야 한다는 주장\n\n## 의미\nEasyEffects를 Linux 배포판에 기본 탑재함으로써 별도 설정 없이도 노트북 스피커 음질을 개선할 수 있는 사용자 경험 향상이 기대된다.",
-    "company": "UX·디자인",
-    "category": "UX",
-    "date": "2026-08-29",
-    "tags": [
-      "EasyEffects",
-      "Linux",
-      "오디오",
-      "PipeWire",
-      "스피커"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://news.hada.io/topic?id=32998",
-    "sourceName": "GeekNews",
-    "sources": [
-      {
-        "url": "https://news.hada.io/topic?id=32998",
-        "name": "GeekNews — EasyEffects를 모든 Linux 배포판에 포함해 노트북 스피커 음질을 개선해야 함"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "slug": "ux-easyeffects-linux",
-    "draft": false,
-    "id": "1062",
-    "hidden": true
-  },
-  {
     "title": "Nielsen Norman Group: AI 시대, UX는 AI가 만든 설계를 검토·정리하는 역할로 진화해야",
     "summary": "AI로 인해 팀이 UX가 평가할 수 있는 속도보다 더 빠르게 제품을 구축할 수 있게 됐다. Nielsen Norman Group은 UX가 이에 대응하기 위해 공유된 판단 기준 구축, 평가 가속화, AI 생성 디자인 가이드 역할을 수행해야 한다고 제안한다.",
     "content": "## 주요 내용\n- AI는 UX가 평가할 수 있는 속도보다 빠르게 팀의 개발 속도를 높임\n- UX는 공유된 판단 기준(shared judgment) 구축으로 대응 가능\n- 평가 프로세스 가속화가 필요\n- AI가 생성한 디자인을 안내(guide)하는 역할을 UX가 담당해야 함\n\n## 의미\nAI 도입이 가속화되는 환경에서 UX 전문가의 역할이 단순 설계에서 AI 산출물을 검토하고 품질을 관리하는 '관리자(custodial)' 역할로 변화하고 있음을 시사한다.",
