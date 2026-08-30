@@ -1040,32 +1040,6 @@
     "hidden": false
   },
   {
-    "id": "994",
-    "slug": "workflow-templates-cut-build-time-for-common-agent-tasks",
-    "title": "Workflow Templates Cut Build Time for Common Agent Tasks",
-    "summary": "AI workflow templates function as prebuilt structural starting points for agent automation, encoding proven sequences, decision logic, and&#x2026;Cont",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-26",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@nikhilchatterjee/workflow-templates-cut-build-time-for-common-agent-tasks-1b3afa55aedf?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@nikhilchatterjee/workflow-templates-cut-build-time-for-common-agent-tasks-1b3afa55aedf?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "996",
     "slug": "i-replaced-notion-bookmarks-and-my-memory-with-one-folder",
     "title": "I replaced notion, bookmarks and my memory with one folder.",
