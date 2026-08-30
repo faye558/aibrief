@@ -27240,7 +27240,8 @@
     "communityLinks": null,
     "slug": "ai-labor0-agent",
     "draft": false,
-    "id": "860"
+    "id": "860",
+    "hidden": true
   },
   {
     "title": "srelens — 엔지니어와 AI 에이전트를 위한 쿠버네티스 통합 컨트롤룸",
