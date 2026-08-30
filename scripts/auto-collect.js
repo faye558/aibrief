@@ -111,6 +111,43 @@ const OUTLINK_FEEDS = [
     includeKeywords: ["직무", "조직", "일하는", "문화", "팀", "협업", "리더십", "채용", "온보딩", "성장", "커리어", "AI", "워크플로우", "프로세스"],
     excludeKeywords: ["API", "SDK", "아키텍처", "서버", "데이터베이스", "알고리즘", "인프라", "kubernetes", "docker"],
   },
+
+  // ===== 소상공인 · 이커머스 · 핸드메이드 =====
+  {
+    company: "Shopify",
+    category: "이커머스",
+    name: "Shopify Blog",
+    url: "https://www.shopify.com/blog.atom",
+    sourceName: "Shopify Blog",
+    includeKeywords: ["AI", "소상공인", "small business", "seller", "handmade", "creator", "자동화", "automation", "marketing", "마케팅", "SNS", "instagram", "무료", "free", "비용", "운영", "스토어", "store", "판매", "sell", "고객", "customer", "브랜드", "brand"],
+    excludeKeywords: ["API", "developer", "engineering", "sdk", "platform update", "changelog"],
+  },
+  {
+    company: "Etsy",
+    category: "이커머스",
+    name: "Etsy News",
+    url: "https://www.etsy.com/news/rss",
+    sourceName: "Etsy News",
+    includeKeywords: ["AI", "seller", "handmade", "creator", "small business", "shop", "marketing", "운영"],
+  },
+  {
+    company: "Medium",
+    category: "이커머스",
+    name: "Medium - small business AI",
+    url: "https://medium.com/feed/tag/small-business",
+    sourceName: "Medium",
+    includeKeywords: ["AI", "automation", "소상공인", "handmade", "ecommerce", "seller", "creator", "shop", "marketing", "free", "무료", "운영", "브랜드"],
+    excludeKeywords: ["developer", "engineering", "coding", "programming", "startup funding", "venture", "IPO"],
+  },
+  {
+    company: "Medium",
+    category: "이커머스",
+    name: "Medium - ecommerce",
+    url: "https://medium.com/feed/tag/ecommerce",
+    sourceName: "Medium",
+    includeKeywords: ["AI", "small business", "handmade", "seller", "creator", "automation", "marketing", "free", "무료", "운영", "비용 절감", "소상공인"],
+    excludeKeywords: ["developer", "engineering", "coding", "venture", "IPO", "funding"],
+  },
 ];
 
 // ===== 유틸 =====
