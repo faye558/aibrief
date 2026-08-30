@@ -755,6 +755,39 @@ const EXCLUDE_KEYWORDS = [
   '스마트홈', 'IoT', '가전', '냉장고', '세탁기', '에어컨', '전자제품', '칩', 'hardware',
   // 홍보성 마케팅 성공 사례
   '성공 사례', '글로벌 진출', '대만 진출', '해외 진출', '캠페인 성공',
+  // 음향/소리
+  '음질', '스피커', '음향', 'audio', 'speaker', 'sound quality', 'easyeffects',
+  // 개발자 전용 AI 코딩 도구
+  'claude code', 'claude.md', 'token budget', 'token usage', 'coding agent',
+  'tui', 'cli agent', 'mcp server', 'mcp engine', 'ollama', 'gguf',
+  'ai 코딩', 'ai coding', '코딩 에이전트',
+  // 개발 인프라/기술
+  'linux', 'debian', 'kernel', '크롤러', 'crawler', 'aws', 'cloudfront', 'lambda',
+  'codebase', 'rewrite', 'architecture', 'build artifact', 'deployment',
+  'prompt caching', 'context window', 'orchestration', 'ssot', '코드 자동',
+  'fine-tuning', 'rag', '벡터 db', 'framework', 'sdk', '쿼리',
+  // 개인 경험담 (개발자용)
+  'i spent', 'how i ', 'i tried to', 'i stopped', 'i cleaned', 'i ran a team',
+  // 개발자 리스트형 팁
+  'mistakes that', 'token budget', 'claude code skills', 'claude code plugins',
+  'every developer', 'skills repo',
+  // 기타 개발/엔지니어링
+  'git.kernel', 'github pr', 'multi-slm', 'context bleed', 'tui 도구',
+  '도메인 지식 ssot', 'llm 기반 코드',
+  // AI 인프라/데이터센터
+  '데이터센터', '냉각', 'data center', 'cooling', '인체 유래', '서버 팜',
+  '전력 소비', 'gpu 클러스터', '컴퓨팅 인프라',
+  // DevOps/SRE/인프라 운영
+  '쿠버네티스', 'kubernetes', 'devops', 'sre', '클러스터', 'cluster',
+  'yaml', '로그 추적', '포트 포워드', '엔지니어 도구', '개발도구',
+  // 보안/역공학
+  '펌웨어', 'firmware', '역공학', 'reverse engineering', '취약점', '보안 취약점',
+  '주변기기', 'dsp', '내부 버스',
+  // 컴파일러/빌드 도구
+  '링커', 'linker', 'c++', '빌드 병목', '병렬 링크', '컴파일', '심볼 해석',
+  '빌드 속도', 'mold', '파이프라인 병렬',
+  // DB/실행파일/저수준 기술
+  'sqlite', '실행 파일', '실행파일', 'sql 쿼리', 'binfmt', '메모리 매핑', '파일 포맷',
 ];
 
 function isExcluded(item) {

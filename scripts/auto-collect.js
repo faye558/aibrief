@@ -111,20 +111,6 @@ const OUTLINK_FEEDS = [
     includeKeywords: ["직무", "조직", "일하는", "문화", "팀", "협업", "리더십", "채용", "온보딩", "성장", "커리어", "AI", "워크플로우", "프로세스"],
     excludeKeywords: ["API", "SDK", "아키텍처", "서버", "데이터베이스", "알고리즘", "인프라", "kubernetes", "docker"],
   },
-  {
-    company: "Medium",
-    category: "블로그",
-    name: "Medium — ai-workflow",
-    url: "https://medium.com/feed/tag/ai-workflow",
-    sourceName: "Medium",
-  },
-  {
-    company: "Medium",
-    category: "블로그",
-    name: "Medium — claude-code",
-    url: "https://medium.com/feed/tag/claude-code",
-    sourceName: "Medium",
-  },
 ];
 
 // ===== 유틸 =====
@@ -201,11 +187,55 @@ const GLOBAL_EXCLUDE = [
   "Suno", "Udio", "음악 생성", "music generation", "작곡 AI",
   // 암호화/보안 기술
   "동형 암호", "homomorphic", "암호화", "워터마킹", "watermark", "워터마크",
-  // 하드웨어/에너지/제조 — 특히 수집 금지
+  // 하드웨어/에너지/제조
   "온수기", "배터리", "태양광", "에너지", "전력", "충전기", "반도체 제조", "공장",
   "스마트홈", "IoT", "가전", "냉장고", "세탁기", "에어컨", "전자제품",
   // 홍보성 마케팅 성공 사례
   "성공 사례", "글로벌 진출", "해외 진출", "캠페인 성공",
+  // 음향/소리 — aibrief 주제 아님
+  "음질", "스피커", "음향", "오디오", "audio", "speaker", "sound quality", "EasyEffects",
+  // 개발자 전용 기술 도구 — aibrief 독자(디자이너/PM) 대상 아님
+  "Claude Code", "claude code", "CLAUDE.md", "claude.md", "token budget", "token usage",
+  "coding agent", "TUI", "CLI agent", "MCP server", "MCP engine",
+  "infrastructure", "인프라", "Linux", "Debian", "kernel", "크롤러", "crawler",
+  "AWS", "CloudFront", "Lambda", "Ollama", "GGUF", "Qwen",
+  "코딩 에이전트", "AI 코딩", "AI coding",
+  // 개인 경험담 형식 — 정보성 없는 블로그 글
+  "How I ", "I Spent ", "I Tried ", "I Stopped ", "I Started ", "I Turned ",
+  "I Had ", "I Ran ", "I Used ", "I cleaned ", "What I Would",
+  // 리스트형 AI 팁 — 개발자 대상
+  "Claude Code Mistakes", "Token Budget", "CLAUDE.md Needs",
+  "Claude Code skills", "Claude Code Plugins",
+  // 기타 개발 관련
+  "open-source", "open source", "오픈소스 플러그인", "git.kernel", "GitHub PR",
+  "agent behavior", "agent 표준", "multi-SLM", "context bleed",
+  // 개발자 전용 AI 활용 — 코드/인프라 자동화
+  "코드 자동", "SSOT", "도메인 지식 구축", "LLM 기반 코드", "코딩 에이전트 세션",
+  "자동 최신화", "아키텍처", "architecture", "rewrite", "codebase",
+  "documentation", "build artifact", "deployment", "배포 자동",
+  "prompt caching", "context window", "quadratic", "orchestration",
+  // 개발자 도구/플러그인
+  "TUI 도구", "CLI 도구", "플러그인 개발", "obsidian", "skills repo",
+  "skills every developer", "developer", "개발자 도구",
+  // 순수 기술/엔지니어링 주제
+  "SSOT", "LLM 파인튜닝", "fine-tuning", "RAG", "벡터", "vector",
+  "데이터베이스", "쿼리", "API 호출", "SDK", "프레임워크", "framework",
+  // AI 인프라/데이터센터
+  "데이터센터", "냉각", "data center", "cooling", "인체 유래", "서버 팜",
+  "전력 소비", "GPU 클러스터", "컴퓨팅 인프라",
+  // DevOps/SRE/인프라 운영
+  "쿠버네티스", "kubernetes", "DevOps", "devops", "SRE", "클러스터", "cluster",
+  "컨트롤룸", "워크스페이스 통합", "로그 추적", "포트 포워드", "YAML", "터미널 통합",
+  "엔지니어 도구", "개발도구", "개발 인프라",
+  // 보안/해킹/역공학
+  "펌웨어", "firmware", "역공학", "reverse engineering", "취약점", "보안 취약점",
+  "비인증 메모리", "주변기기", "DSP", "내부 버스",
+  // 컴파일러/빌드 도구
+  "링커", "linker", "C++", "빌드 병목", "병렬 링크", "컴파일", "심볼 해석",
+  "빌드 속도", "mold", "파이프라인 병렬", "Unix 링크",
+  // DB/실행파일/저수준 기술
+  "SQLite", "sqlite", "실행 파일", "실행파일", "SQL 쿼리", "데이터베이스 형태",
+  "binfmt", "인터프리터", "메모리 매핑", "세그먼트 테이블", "파일 포맷",
 ];
 
 // 매칭 강도: 2개 이상 → 발행, 1개 or 필터없음 → 드래프트
