@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1063",
-    "slug": "i-spent-4-years-managing-aws-manually-now-it-takes-12-minute",
-    "title": "I Spent 4 Years Managing AWS Manually. Now It Takes 12 Minutes.",
-    "summary": "For 4 years, I managed AWS infrastructure the traditional way: clicking through the console, writing Terraform by hand, debugging IAM&#x2026;Continue",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@saurabhraj042/i-spent-4-years-managing-aws-manually-now-it-takes-12-minutes-ef7613dc8622?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@saurabhraj042/i-spent-4-years-managing-aws-manually-now-it-takes-12-minutes-ef7613dc8622?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1064",
     "slug": "how-im-preparing-for-the-claude-certified-architect-foundati",
     "title": "How I’m Preparing for the Claude Certified Architect — Foundations Exam (CCA-F)",
