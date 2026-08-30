@@ -1066,32 +1066,6 @@
     "hidden": true
   },
   {
-    "id": "995",
-    "slug": "i-have-38-agent-skills-ten-of-them-have-never-fired",
-    "title": "I Have 38 Agent Skills. Ten of Them Have Never Fired.",
-    "summary": "Claude Code writes down which skill was active on every tool call. I read 128 sessions of mine: 376 activations, six skills doing all of&#x2026;Contin",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-26",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://hailneed.medium.com/i-have-38-agent-skills-ten-of-them-have-never-fired-6e908ee56a35?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://hailneed.medium.com/i-have-38-agent-skills-ten-of-them-have-never-fired-6e908ee56a35?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "996",
     "slug": "i-replaced-notion-bookmarks-and-my-memory-with-one-folder",
     "title": "I replaced notion, bookmarks and my memory with one folder.",
