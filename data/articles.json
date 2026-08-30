@@ -494,32 +494,6 @@
     "hidden": true
   },
   {
-    "id": "1030",
-    "slug": "context-engineering-in-practice",
-    "title": "Context engineering in practice.",
-    "summary": "Poor output is almost never the model. It is almost always the context you sent.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@sudhiryelikar/context-engineering-in-practice-e8fe0c4cb630?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@sudhiryelikar/context-engineering-in-practice-e8fe0c4cb630?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1031",
     "slug": "from-weeks-to-hours-shipping-production-features-with-struct",
     "title": "From Weeks to Hours: Shipping Production Features with Structured AI Workflows",
