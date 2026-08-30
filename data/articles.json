@@ -29484,7 +29484,8 @@
     ],
     "slug": "anthropic-claude-code-gemini",
     "draft": false,
-    "id": "1035"
+    "id": "1035",
+    "hidden": true
   },
   {
     "title": "Anthropic Claude — GitHub PR 46만 건 분석에서 'Claude 문체' 급증 포착",
@@ -29526,7 +29527,8 @@
     ],
     "slug": "anthropic-claude-github-claude",
     "draft": false,
-    "id": "1036"
+    "id": "1036",
+    "hidden": true
   },
   {
     "title": "Google Antigravity — 다중 AI 에이전트가 장기 연구·개발 문제를 협력 수행하는 기능 공개",
@@ -29569,7 +29571,8 @@
     ],
     "slug": "google-antigravity-release",
     "draft": false,
-    "id": "1037"
+    "id": "1037",
+    "hidden": true
   },
   {
     "title": "Agent Behavior — AI 에이전트의 반복 행동을 문서화해 평가 기준으로 삼는 개방형 표준",
@@ -29598,7 +29601,8 @@
     "communityLinks": null,
     "slug": "ai-agent-behavior",
     "draft": false,
-    "id": "1038"
+    "id": "1038",
+    "hidden": true
   },
   {
     "title": "라인, LLM 기반 코드 자동 최신화 도메인 지식 SSOT 구축 방법 공개",
@@ -29629,7 +29633,8 @@
     "communityLinks": null,
     "slug": "-ssot-release",
     "draft": false,
-    "id": "1039"
+    "id": "1039",
+    "hidden": true
   },
   {
     "title": "Mycelium — AI 코딩 에이전트 세션을 정리하고 재사용하는 TUI 도구",
@@ -29671,7 +29676,8 @@
     ],
     "slug": "anthropic-mycelium-tui",
     "draft": false,
-    "id": "1050"
+    "id": "1050",
+    "hidden": true
   },
   {
     "title": "EasyEffects — 모든 Linux 배포판에 기본 포함해 노트북 스피커 음질 개선해야",
@@ -29700,7 +29706,8 @@
     "communityLinks": null,
     "slug": "ux-easyeffects-linux",
     "draft": false,
-    "id": "1062"
+    "id": "1062",
+    "hidden": true
   },
   {
     "title": "Nielsen Norman Group: AI 시대, UX는 AI가 만든 설계를 검토·정리하는 역할로 진화해야",
@@ -29729,7 +29736,8 @@
     "communityLinks": null,
     "slug": "ux-nielsen-norman-group-2",
     "draft": false,
-    "id": "1070"
+    "id": "1070",
+    "hidden": true
   },
   {
     "title": "Debian, LLM 사용 허용도 금지도 않는 중립 정책 채택",
@@ -29758,7 +29766,8 @@
     "communityLinks": null,
     "slug": "ai-debian",
     "draft": false,
-    "id": "1081"
+    "id": "1081",
+    "hidden": true
   },
   {
     "title": "소름 끼치는 AI 크롤러 — git.kernel.org에서 정상 접근보다 더 많은 CPU 소비",
@@ -29787,6 +29796,7 @@
     "communityLinks": null,
     "slug": "ux-git-kernel-org-cpu",
     "draft": false,
-    "id": "1082"
+    "id": "1082",
+    "hidden": true
   }
 ]
