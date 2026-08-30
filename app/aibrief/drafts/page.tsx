@@ -361,11 +361,9 @@ export default function DraftsPage() {
           </div>
           {tab === "published" && (
             <div style={{ display: "flex", gap: "4px", background: "var(--surface)", borderRadius: "10px", padding: "4px" }}>
-              {([["all", "전체"], ["visible", "노출중"], ["hidden", "숨김"]] as const).map(([val, label]) => (
-                <button key={val} onClick={() => setHideFilter(val)} style={{ padding: "6px 14px", borderRadius: "7px", border: "none", background: hideFilter === val ? (val === "hidden" ? "#555" : "var(--accent)") : "transparent", color: hideFilter === val ? "#fff" : "var(--text-faint)", fontSize: "12px", fontWeight: 600, cursor: "pointer" }}>
-                  {label}
-                </button>
-              ))}
+              <button onClick={() => setHideFilter("all")} style={{ padding: "6px 14px", borderRadius: "7px", border: "none", background: hideFilter === "all" ? "var(--accent)" : "transparent", color: hideFilter === "all" ? "#fff" : "var(--text-faint)", fontSize: "12px", fontWeight: 600, cursor: "pointer" }}>전체</button>
+              <button onClick={() => setHideFilter("visible")} style={{ padding: "6px 14px", borderRadius: "7px", border: "none", background: hideFilter === "visible" ? "var(--accent)" : "transparent", color: hideFilter === "visible" ? "#fff" : "var(--text-faint)", fontSize: "12px", fontWeight: 600, cursor: "pointer" }}>노출중</button>
+              <button onClick={() => setHideFilter("hidden")} style={{ padding: "6px 14px", borderRadius: "7px", border: "none", background: hideFilter === "hidden" ? "#555" : "transparent", color: hideFilter === "hidden" ? "#fff" : "var(--text-faint)", fontSize: "12px", fontWeight: 600, cursor: "pointer" }}>숨김</button>
             </div>
           )}
         </div>
