@@ -20,6 +20,37 @@ const path = require("path");
 
 const DRY_RUN = process.argv.includes("--dry-run");
 const ARTICLES_PATH = path.join(__dirname, "../data/articles.json");
+const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY || "";
+
+function isEnglish(title) {
+  const en = (title.match(/[A-Za-z\s]/g) || []).length;
+  return en / title.length > 0.5;
+}
+
+async function translateToKorean(title) {
+  if (!ANTHROPIC_API_KEY) return title;
+  const body = JSON.stringify({
+    model: "claude-haiku-4-5-20251001",
+    max_tokens: 200,
+    messages: [{ role: "user", content: `다음 영어 제목을 자연스러운 한국어로 번역해줘. 번역문만 출력:\n${title}` }],
+  });
+  return new Promise((resolve) => {
+    const req = https.request(
+      { hostname: "api.anthropic.com", path: "/v1/messages", method: "POST",
+        headers: { "x-api-key": ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01", "content-type": "application/json", "content-length": Buffer.byteLength(body) } },
+      (res) => {
+        let data = "";
+        res.on("data", (c) => (data += c));
+        res.on("end", () => {
+          try { resolve(JSON.parse(data).content[0].text.trim()); } catch { resolve(title); }
+        });
+      }
+    );
+    req.on("error", () => resolve(title));
+    req.write(body);
+    req.end();
+  });
+}
 
 // ===== 아웃링크 수집 피드 =====
 const OUTLINK_FEEDS = [
@@ -224,7 +255,8 @@ async function main() {
         const action = classify(item.title, feed);
         if (action === "skip") continue;
 
-        const slug = makeSlug(item.title, existingSlugs);
+        const title = isEnglish(item.title) ? await translateToKorean(item.title) : item.title;
+        const slug = makeSlug(title, existingSlugs);
         existingSlugs.add(slug);
         existingUrls.add(item.link);
 
@@ -232,8 +264,8 @@ async function main() {
         const article = {
           id: String(nextId++),
           slug,
-          title: item.title,
-          summary: item.summary || item.title,
+          title,
+          summary: item.summary || title,
           content: null,
           company: feed.company,
           category: feed.category,
