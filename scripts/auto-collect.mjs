@@ -437,12 +437,7 @@ const MEDIA_SOURCES = [
     keywords: ['generative ai', 'ai design', 'creative ai', 'ai workplace', 'future of work', 'ai product'],
     maxItems: 2,
   },
-  {
-    name: 'GeekNews',
-    rssUrl: 'https://feeds.feedburner.com/geeknews-feed',
-    keywords: ['AI 디자인', 'AI 도구', 'AI 에이전트', 'AI 서비스', 'UX', 'UI', '생성형 AI', '프로덕트', '업무 자동화', '피그마', '어도비', '캔바', 'AI 워크플로우'],
-    maxItems: 5,
-  },
+
   // 콘텐츠/플랫폼 소스
   {
     name: 'PR Newswire Tech',
