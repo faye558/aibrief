@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1053",
-    "slug": "one-skills-repo-every-ai-agent-how-our-data-team-ships-its-c",
-    "title": "One Skills Repo, Every AI Agent: How Our Data Team Ships Its Conventions to Claude Code, GitLab…",
-    "summary": "Five engineers on my data team. One lives in Claude Code, one prefers OpenCode, one runs GitLab Duo&#x2019;s CLI, one drives Snowflake CoCo, and&#x202",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/snowflake/one-skills-repo-every-ai-agent-how-our-data-team-ships-its-conventions-to-claude-code-gitlab-1fe42bd7c824?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/snowflake/one-skills-repo-every-ai-agent-how-our-data-team-ships-its-conventions-to-claude-code-gitlab-1fe42bd7c824?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1054",
     "slug": "your-documentation-is-a-build-artifact-start-treating-it-lik",
     "title": "Your documentation is a build artifact. Start treating it like one.",
