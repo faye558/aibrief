@@ -26677,7 +26677,8 @@
     ],
     "slug": "anthropic-news-8",
     "draft": false,
-    "id": "739"
+    "id": "739",
+    "hidden": true
   },
   {
     "slug": "ai-venturebeat-lead-analyst",
