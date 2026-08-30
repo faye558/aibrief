@@ -29004,7 +29004,8 @@
     ],
     "slug": "adobe-linux-acrobat-pdf",
     "draft": false,
-    "id": "924"
+    "id": "924",
+    "hidden": true
   },
   {
     "title": "Anthropic Claude Opus 5로 주변기기 5종 펌웨어 역공학 — 보안 취약점 및 Linux 지원 도구 개발",
