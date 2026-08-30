@@ -1,5 +1,317 @@
 [
   {
+    "id": "1083",
+    "slug": "1-prompt-1-expensive-video-1-composition-8-cheap-videos",
+    "title": "1 Prompt = 1 Expensive Video. 1 Composition = 8 Cheap Videos.",
+    "summary": "A brand-new prompt makes an AI agent work out the pattern from zero. A composition that already passed every check does not.Continue reading on Medium",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@microstockinsights/1-prompt-1-expensive-video-1-composition-8-cheap-videos-af460330c744?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@microstockinsights/1-prompt-1-expensive-video-1-composition-8-cheap-videos-af460330c744?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1084",
+    "slug": "adobe-stocks-top-sellers-keep-reusing-one-trick-animated-das",
+    "title": "Adobe Stock's Top Sellers Keep Reusing One Trick: Animated Dashboards Overlays",
+    "summary": "Five top-selling creators on Adobe Stock lean on the same chart-and-panel dashboard overlay, so I checked what it takes to animate one.Continue readin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@microstockinsights/adobe-stocks-top-sellers-keep-reusing-one-trick-animated-dashboards-overlays-c7161d3c5f84?source=rss------ai_workflow-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@microstockinsights/adobe-stocks-top-sellers-keep-reusing-one-trick-animated-dashboards-overlays-c7161d3c5f84?source=rss------ai_workflow-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1085",
+    "slug": "stop-browsing-60000-claude-code-skills-install-findskills",
+    "title": "Stop browsing 60,000 Claude Code skills. Install find-skills.",
+    "summary": "The most-installed skill is a finder. It ranks by real installs while you are still in the task.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@info_73960/stop-browsing-60-000-claude-code-skills-install-find-skills-97a3d24761ef?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@info_73960/stop-browsing-60-000-claude-code-skills-install-find-skills-97a3d24761ef?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1086",
+    "slug": "claude-code-can-now-run-on-your-own-infrastructure-the-archi",
+    "title": "Claude Code Can Now Run on Your Own Infrastructure: The Architecture Explained",
+    "summary": "Anthropic&#x2019;s new self-hosted environments move Claude Code cloud-session execution into your network, next to private repositories&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@surajkhaitan16/claude-code-can-now-run-on-your-own-infrastructure-the-architecture-explained-69ea804126f7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@surajkhaitan16/claude-code-can-now-run-on-your-own-infrastructure-the-architecture-explained-69ea804126f7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1087",
+    "slug": "i-use-both-claude-code-and-codex-every-day-often-on-the-exac",
+    "title": "I use both Claude Code and Codex every day, often on the exact same codebase within the same…",
+    "summary": "I use both Claude Code and Codex every day, often on the exact same codebase within the same afternoon.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@bashir.bandi/i-use-both-claude-code-and-codex-every-day-often-on-the-exact-same-codebase-within-the-same-7752b70bfa4c?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@bashir.bandi/i-use-both-claude-code-and-codex-every-day-often-on-the-exact-same-codebase-within-the-same-7752b70bfa4c?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1088",
+    "slug": "from-figma-to-code-how-ai-is-breaking-the-handoff",
+    "title": "From Figma to Code: How AI Is Breaking the Handoff",
+    "summary": "Your Figma files were never the problem. The loop between them and the browser was.Continue reading on Bootcamp »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/design-bootcamp/from-figma-to-code-how-ai-is-breaking-the-handoff-1e9829d25a91?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/design-bootcamp/from-figma-to-code-how-ai-is-breaking-the-handoff-1e9829d25a91?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1089",
+    "slug": "ai-agents-are-great-your-engineering-system-isnt-ready-for-t",
+    "title": "AI Agents Are Great. Your Engineering System Isn’t Ready for Them",
+    "summary": "The model is already smart enough. Your process probably isn&#x2019;t.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sergey-bocharov/ai-agents-are-great-your-engineering-system-isnt-ready-for-them-c71db8e67ea7?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sergey-bocharov/ai-agents-are-great-your-engineering-system-isnt-ready-for-them-c71db8e67ea7?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1090",
+    "slug": "how-i-slowly-figured-out-how-to-code-with-ai-a-2year-journey",
+    "title": "How I Slowly Figured Out How to Code With AI — A 2-Year Journey",
+    "summary": "From staring open-mouthed at ChatGPT to paying USD 200 a month to Anthropic &#x2014; a very honest, slightly embarrassing account of how I&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chetanhere/how-i-slowly-figured-out-how-to-code-with-ai-a-2-year-journey-df1f0eaf51cc?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chetanhere/how-i-slowly-figured-out-how-to-code-with-ai-a-2-year-journey-df1f0eaf51cc?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1091",
+    "slug": "7-claude-code-mistakes-that-quietly-burn-your-token-budget",
+    "title": "7 Claude Code Mistakes That Quietly Burn Your Token Budget",
+    "summary": "A developer left it running overnight and woke up $6,000 poorer. The dashboard didn&#x2019;t warn him it runs days behind.Continue reading on Towards",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/7-claude-code-mistakes-that-quietly-burn-your-token-budget-6235db31cf18?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1092",
+    "slug": "-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from",
+    "title": "☎️ One Phone, Many Brains: I Ran a Team of Claude Sessions From My Pocket",
+    "summary": "Claude Code quietly shipped session-to-session messaging. I spent a week finding out what it&#x2019;s actually for &#x2014; with a phone, a Telegram b",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vivek-karmarkar/%EF%B8%8F-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from-my-pocket-b2ffcc54466d?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vivek-karmarkar/%EF%B8%8F-one-phone-many-brains-i-ran-a-team-of-claude-sessions-from-my-pocket-b2ffcc54466d?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1093",
+    "slug": "ai-coding-dictionary-in-detail-permission-requests-permissio",
+    "title": "AI Coding Dictionary in Detail: Permission Requests, Permission Modes, Agent Modes & Sandboxes",
+    "summary": "You tell an AI coding agent:Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@niteshkrjhag/ai-coding-dictionary-in-detail-permission-requests-permission-modes-agent-modes-sandboxes-b761b8a8c351?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@niteshkrjhag/ai-coding-dictionary-in-detail-permission-requests-permission-modes-agent-modes-sandboxes-b761b8a8c351?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1094",
+    "slug": "the-ai-humanizer-tools-i-stopped-trusting",
+    "title": "The AI Humanizer Tools I Stopped Trusting!",
+    "summary": "Does AI detection work is the wrong question to start with. The question that actually matters is whether you&#x2019;d trust the tool that claims&#x20",
+    "content": null,
+    "company": "Medium",
+    "category": "블로그",
+    "date": "2026-08-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://dkspeaks.medium.com/the-ai-humanizer-tools-i-stopped-trusting-7739e0e64a28?source=rss------claude_code-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://dkspeaks.medium.com/the-ai-humanizer-tools-i-stopped-trusting-7739e0e64a28?source=rss------claude_code-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1071",
     "slug": "you-dont-drive-ai-you-ride-it",
     "title": "You Don’t Drive AI. You Ride It.",
@@ -29418,5 +29730,63 @@
     "slug": "ux-nielsen-norman-group-2",
     "draft": false,
     "id": "1070"
+  },
+  {
+    "title": "Debian, LLM 사용 허용도 금지도 않는 중립 정책 채택",
+    "summary": "Debian은 생성형 AI 도구 사용에 대해 특별히 허용하거나 금지하지 않는 중립적 입장을 취하기로 했다. 제작 도구와 무관하게 모든 기여에 기존의 품질·정확성·유지보수성·법적 적합성 기준을 동일하게 적용한다. 기여자는 AI 보조 결과물을 직접 이해·검토·테스트·수정해야 하며, 기술적 품질과 법적 수용 가능성에 대한 책임을 져야 한다.",
+    "content": "## 주요 내용\n- Debian은 생성형 AI를 특별히 허용하거나 금지하지 않는 중립 정책 채택\n- 제작 도구와 관계없이 모든 기여에 기존 기준(품질·정확성·유지보수성·법적 적합성) 동일 적용\n- 기여자는 AI 보조 결과물을 이해·검토·테스트·수정할 의무 보유\n- 기술적 품질 및 법적 수용 가능성에 대한 책임은 기여자에게 귀속\n\n## 의미\nDebian이 AI 도구 사용 자체보다 결과물의 품질과 책임에 초점을 맞춘 실용적 접근 방식을 선택함으로써, 오픈소스 커뮤니티의 AI 활용 기준 논의에 참고 사례가 될 수 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-30",
+    "tags": [
+      "Debian",
+      "LLM",
+      "오픈소스",
+      "생성형AI",
+      "기여정책"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=33020",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=33020",
+        "name": "GeekNews — Debian의 LLM 사용, 지지도 금지도 하지 않음"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-debian",
+    "draft": false,
+    "id": "1081"
+  },
+  {
+    "title": "소름 끼치는 AI 크롤러 — git.kernel.org에서 정상 접근보다 더 많은 CPU 소비",
+    "summary": "AI 학습용 크롤러가 Git 커밋을 하나씩 HTML로 렌더링하는 방식으로 git.kernel.org에 접근하면서, Git 복제를 포함한 모든 정상 접근보다 더 많은 CPU 자원을 소비하고 있다. 크롤러는 저장소를 한 번도 복제하지 않고 922개 포크와 148만 커밋을 개별적으로 크롤링하고 있다.",
+    "content": "## 주요 내용\n- AI 학습용 크롤러가 git.kernel.org에서 Git 커밋을 하나씩 HTML로 렌더링하며 크롤링\n- 해당 크롤러의 CPU 자원 소비가 Git 복제를 포함한 모든 정상 접근보다 많음\n- 저장소를 단 한 번도 복제하지 않고 922개 포크와 148만 커밋을 개별 접근 방식으로 수집\n- AI 생성물이 섞이지 않은 Linux 개발 이력을 목적으로 하는 것으로 보임\n\n## 의미\nAI 학습 데이터 수집을 위한 비효율적인 크롤링 방식이 오픈소스 인프라에 실질적인 부하를 유발하고 있으며, 이는 정상적인 개발자 접근보다 더 많은 서버 자원을 소모하는 심각한 문제로 지적된다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-30",
+    "tags": [
+      "AI크롤러",
+      "git.kernel.org",
+      "Linux",
+      "오픈소스",
+      "서버부하"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://news.hada.io/topic?id=33019",
+    "sourceName": "GeekNews",
+    "sources": [
+      {
+        "url": "https://news.hada.io/topic?id=33019",
+        "name": "GeekNews — 소름 끼치는 크롤러들"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-git-kernel-org-cpu",
+    "draft": false,
+    "id": "1082"
   }
 ]
