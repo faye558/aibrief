@@ -325,23 +325,23 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     (async () => {
       await Promise.all(needTranslation.map(async (a) => {
         try {
-          const [titleRes, summaryRes] = await Promise.all([
-            fetch("/aibrief/api/translate", {
-              method: "POST", headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({ title: a.title }),
-            }),
-            a.summary && isEnglish(a.summary) ? fetch("/aibrief/api/translate", {
-              method: "POST", headers: { "Content-Type": "application/json" },
-              body: JSON.stringify({ title: a.summary }),
-            }) : Promise.resolve(null),
-          ]);
+          const titleRes = await fetch("/aibrief/api/translate", {
+            method: "POST", headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ title: a.title }),
+          });
           if (titleRes.ok) {
             const { translated } = await titleRes.json();
             setTranslatedTitles((prev) => ({ ...prev, [a.id]: translated }));
           }
-          if (summaryRes?.ok) {
-            const { translated } = await summaryRes.json();
-            setTranslatedSummaries((prev) => ({ ...prev, [a.id]: translated }));
+          if (a.summary) {
+            const summaryRes = await fetch("/aibrief/api/translate", {
+              method: "POST", headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ title: a.summary }),
+            });
+            if (summaryRes.ok) {
+              const { translated } = await summaryRes.json();
+              setTranslatedSummaries((prev) => ({ ...prev, [a.id]: translated }));
+            }
           }
         } catch { /* skip */ }
       }));
