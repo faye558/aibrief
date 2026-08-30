@@ -28961,7 +28961,8 @@
     "communityLinks": null,
     "slug": "ux-nielsen-norman-group",
     "draft": false,
-    "id": "923"
+    "id": "923",
+    "hidden": true
   },
   {
     "title": "Linux에서 Adobe Acrobat 대체 PDF 편집 도구 — 이미지 편집·개요 생성까지 지원하는 솔루션 찾기 어려워",
