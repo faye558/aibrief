@@ -624,32 +624,6 @@
     "hidden": true
   },
   {
-    "id": "1007",
-    "slug": "how-we-built-a-oneshot-pr-creator-at-inkitt",
-    "title": "How we built a one-shot PR creator at Inkitt",
-    "summary": "Well defined, low-risk tasks go straight from idea to PR with no setup required. Here is how we did it.Continue reading on Inkitt Tech »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/inkitt-tech/how-we-built-a-one-shot-pr-creator-at-inkitt-e1b8dbc52cda?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/inkitt-tech/how-we-built-a-one-shot-pr-creator-at-inkitt-e1b8dbc52cda?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1008",
     "slug": "i-replaced-manual-meeting-notes-with-these-ai-tools-and-rank",
     "title": "I replaced manual meeting notes with these AI tools and ranked the results",
