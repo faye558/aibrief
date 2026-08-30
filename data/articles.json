@@ -26,32 +26,6 @@
     "hidden": false
   },
   {
-    "id": "1075",
-    "slug": "weekly-round-up-on-ai-10-launches-that-mattered-open-weights",
-    "title": "Weekly Round UP on AI : 10 launches that mattered — open weights, vertical LLMs, agent pricing",
-    "summary": "Weekly roundup of 10 AI launches from Aug 22&#x2013;29 2026: GLM-5.3-Flash open weights, Thomson Reuters legal LLM, Salesforce&#xD7;Anthropic, Glean&#",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@dremfind/weekly-round-up-on-ai-10-launches-that-mattered-open-weights-vertical-llms-agent-pricing-efd3b4b2e622?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@dremfind/weekly-round-up-on-ai-10-launches-that-mattered-open-weights-vertical-llms-agent-pricing-efd3b4b2e622?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1076",
     "slug": "a-specification-does-not-govern-execution",
     "title": "A Specification Does Not Govern Execution",
