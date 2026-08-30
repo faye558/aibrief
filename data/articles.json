@@ -29048,7 +29048,8 @@
     ],
     "slug": "anthropic-claude-opus-linux",
     "draft": false,
-    "id": "946"
+    "id": "946",
+    "hidden": true
   },
   {
     "title": "Anthropic Claude Code — AI 작성 코드를 커밋 전에 자동 검증하는 오픈소스 게이트 하네스 'forge-harness'",
