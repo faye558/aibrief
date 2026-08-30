@@ -52,32 +52,6 @@
     "hidden": true
   },
   {
-    "id": "1071",
-    "slug": "you-dont-drive-ai-you-ride-it",
-    "title": "You Don’t Drive AI. You Ride It.",
-    "summary": "This article was first published on the OpenTeams Engineering Blog by Amelia Thurdekoos &#x2014; Technical Program Manager at OpenTeams.Continue readi",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/openteams/you-dont-drive-ai-you-ride-it-2000eb190444?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/openteams/you-dont-drive-ai-you-ride-it-2000eb190444?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1072",
     "slug": "these-5-words-dramatically-reduced-my-claude-code-token-usag",
     "title": "These 5 Words Dramatically Reduced My Claude Code Token Usage",
