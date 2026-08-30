@@ -1040,32 +1040,6 @@
     "hidden": false
   },
   {
-    "id": "996",
-    "slug": "i-replaced-notion-bookmarks-and-my-memory-with-one-folder",
-    "title": "I replaced notion, bookmarks and my memory with one folder.",
-    "summary": "A few weeks ago, sometime past midnight, I caught myself asking an AI how to write a zsh helper I had already solved. Twice. Both answers&#x2026;Conti",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-26",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://sujal-rana.medium.com/i-replaced-notion-bookmarks-and-my-memory-with-one-folder-40a68d6d43b7?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://sujal-rana.medium.com/i-replaced-notion-bookmarks-and-my-memory-with-one-folder-40a68d6d43b7?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "997",
     "slug": "what-are-ai-agent-skills-claude-code-cursor-skillmd-explaine",
     "title": "What Are AI Agent Skills? Claude Code, Cursor, SKILL.md Explained (Plus 392-Skill Library to Instal)",
