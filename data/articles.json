@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1055",
-    "slug": "your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty",
-    "title": "Your Coding Agent Is Flying Blind — And IDEs Fixed This Twenty Years Ago",
-    "summary": "Terminal agents regressed to grep. Here is what they lost, what it costs you per session, and how I gave it back with a stdlib-only plugin&#x2026;Cont",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/codex/your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty-years-ago-4cf3bfaf1999?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/codex/your-coding-agent-is-flying-blind-and-ides-fixed-this-twenty-years-ago-4cf3bfaf1999?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1057",
     "slug": "learning-ai-but-worried-you-cant-code-fast-enough-good-news",
     "title": "Learning AI but worried you can’t code fast enough? Good news.",
