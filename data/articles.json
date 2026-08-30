@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1066",
-    "slug": "a-new-chapter",
-    "title": "A New Chapter",
-    "summary": "Two things an audit told me that I hadn&#x2019;t told myself.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://abelhow.medium.com/a-new-chapter-4aac35106ebe?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://abelhow.medium.com/a-new-chapter-4aac35106ebe?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1067",
     "slug": "top-10-opensource-claude-code-plugins-skills-every-developer",
     "title": "Top 10 Open-Source Claude Code Plugins & Skills Every Developer Should Try",
