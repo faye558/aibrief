@@ -19,17 +19,29 @@ async function fetchIndex(symbol: string) {
   return { value: current, change, time };
 }
 
+async function fetchFxRates() {
+  // USD 기준 환율 → KRW, JPY 추출해서 JPY/KRW, USD/KRW 계산
+  const res = await fetch("https://open.er-api.com/v6/latest/USD", { next: { revalidate: 300 } });
+  const data = await res.json();
+  const rates = data?.rates ?? {};
+  const krwPerUsd: number = rates.KRW ?? 0;
+  const jpyPerUsd: number = rates.JPY ?? 0;
+  const jpyKrw = jpyPerUsd > 0 ? krwPerUsd / jpyPerUsd : 0; // 1엔당 원
+  return { usdKrw: krwPerUsd, jpyKrw };
+}
+
 export async function GET() {
   try {
-    const [usd, jpy, sp500, nasdaq, kodex, samsung, hynix] = await Promise.all([
-      fetchIndex("KRW=X"),
-      fetchIndex("JPYKRW=X"),
+    const [fx, sp500, nasdaq, kodex, samsung, hynix] = await Promise.all([
+      fetchFxRates(),
       fetchIndex("^GSPC"),
       fetchIndex("^IXIC"),
       fetchIndex("069500.KS"),
       fetchIndex("005930.KS"),
       fetchIndex("000660.KS"),
     ]);
+    const usd = { value: fx.usdKrw, change: 0, time: Date.now() };
+    const jpy = { value: fx.jpyKrw, change: 0, time: Date.now() };
 
     const times = [usd.time, jpy.time, sp500.time, nasdaq.time, kodex.time, samsung.time, hynix.time].filter(
       (t): t is number => t != null
