@@ -29737,7 +29737,7 @@
     "slug": "ux-nielsen-norman-group-2",
     "draft": false,
     "id": "1070",
-    "hidden": true
+    "hidden": false
   },
   {
     "title": "Debian, LLM 사용 허용도 금지도 않는 중립 정책 채택",
