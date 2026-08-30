@@ -442,32 +442,6 @@
     "hidden": true
   },
   {
-    "id": "1028",
-    "slug": "every-session-starts-with-remembering-not-with-the-task",
-    "title": "Every Session Starts With Remembering, Not With the Task",
-    "summary": "Rule number one, and the three things we found out after making it rule number one.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/every-session-starts-with-remembering-not-with-the-task-0510704bf541?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@dzyatkovskiy.a2/every-session-starts-with-remembering-not-with-the-task-0510704bf541?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1031",
     "slug": "from-weeks-to-hours-shipping-production-features-with-struct",
     "title": "From Weeks to Hours: Shipping Production Features with Structured AI Workflows",
