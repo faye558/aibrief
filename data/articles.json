@@ -29284,7 +29284,8 @@
     "communityLinks": null,
     "slug": "ai-harvey-legora-sierra",
     "draft": false,
-    "id": "1003"
+    "id": "1003",
+    "hidden": true
   },
   {
     "title": "Corsair — AI 에이전트의 외부 서비스 연결·권한을 통합 관리하는 TypeScript 라이브러리",
