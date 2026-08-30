@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1059",
-    "slug": "adapting-aifirst-software-development",
-    "title": "Adapting AI-First Software Development",
-    "summary": "How to make AI a reliable part of the engineering system instead of just a faster way to generate codeContinue reading on Level Up Coding »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://levelup.gitconnected.com/adapting-ai-first-software-development-54fbfb08bc3e?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://levelup.gitconnected.com/adapting-ai-first-software-development-54fbfb08bc3e?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1060",
     "slug": "when-the-best-model-becomes-difficult-to-use-the-problem-wit",
     "title": "When the best model becomes difficult to use: the problem with Claude’s quotas",
