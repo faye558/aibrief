@@ -29463,35 +29463,5 @@
     "draft": false,
     "id": "1070",
     "hidden": false
-  },
-  {
-    "title": "소름 끼치는 AI 크롤러 — git.kernel.org에서 정상 접근보다 더 많은 CPU 소비",
-    "summary": "AI 학습용 크롤러가 Git 커밋을 하나씩 HTML로 렌더링하는 방식으로 git.kernel.org에 접근하면서, Git 복제를 포함한 모든 정상 접근보다 더 많은 CPU 자원을 소비하고 있다. 크롤러는 저장소를 한 번도 복제하지 않고 922개 포크와 148만 커밋을 개별적으로 크롤링하고 있다.",
-    "content": "## 주요 내용\n- AI 학습용 크롤러가 git.kernel.org에서 Git 커밋을 하나씩 HTML로 렌더링하며 크롤링\n- 해당 크롤러의 CPU 자원 소비가 Git 복제를 포함한 모든 정상 접근보다 많음\n- 저장소를 단 한 번도 복제하지 않고 922개 포크와 148만 커밋을 개별 접근 방식으로 수집\n- AI 생성물이 섞이지 않은 Linux 개발 이력을 목적으로 하는 것으로 보임\n\n## 의미\nAI 학습 데이터 수집을 위한 비효율적인 크롤링 방식이 오픈소스 인프라에 실질적인 부하를 유발하고 있으며, 이는 정상적인 개발자 접근보다 더 많은 서버 자원을 소모하는 심각한 문제로 지적된다.",
-    "company": "UX·디자인",
-    "category": "UX",
-    "date": "2026-08-30",
-    "tags": [
-      "AI크롤러",
-      "git.kernel.org",
-      "Linux",
-      "오픈소스",
-      "서버부하"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://news.hada.io/topic?id=33019",
-    "sourceName": "GeekNews",
-    "sources": [
-      {
-        "url": "https://news.hada.io/topic?id=33019",
-        "name": "GeekNews — 소름 끼치는 크롤러들"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "slug": "ux-git-kernel-org-cpu",
-    "draft": false,
-    "id": "1082",
-    "hidden": true
   }
 ]
