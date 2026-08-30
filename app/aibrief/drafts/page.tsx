@@ -46,6 +46,7 @@ export default function DraftsPage() {
   const [generating, setGenerating] = useState(false);
   const [checked, setChecked] = useState<Set<string>>(new Set());
   const [bulkLoading, setBulkLoading] = useState(false);
+  const [hideFilter, setHideFilter] = useState<"all" | "visible" | "hidden">("all");
   const [translatedTitles, setTranslatedTitles] = useState<Record<string, string>>({});
   const translatingRef = useRef(false);
 
@@ -197,8 +198,18 @@ export default function DraftsPage() {
     });
   }
 
+  function filteredDrafts() {
+    return drafts.filter((d) => {
+      if (search.trim() && !d.title.toLowerCase().includes(search.toLowerCase())) return false;
+      const isHidden = (d as Draft & { hidden?: boolean }).hidden;
+      if (hideFilter === "visible") return !isHidden;
+      if (hideFilter === "hidden") return !!isHidden;
+      return true;
+    });
+  }
+
   function toggleAll() {
-    const visible = drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase()));
+    const visible = filteredDrafts();
     if (checked.size === visible.length) setChecked(new Set());
     else setChecked(new Set(visible.map((d) => d.id)));
   }
@@ -339,13 +350,24 @@ export default function DraftsPage() {
           style={{ ...inputStyle, marginBottom: "16px" }}
         />
 
-        {/* 탭 */}
-        <div style={{ display: "flex", gap: "4px", marginBottom: "24px", background: "var(--surface)", borderRadius: "10px", padding: "4px", width: "fit-content" }}>
-          {(["drafts", "published"] as const).map((t) => (
-            <button key={t} onClick={() => { setTab(t); fetchDrafts(key, t); }} style={{ padding: "7px 18px", borderRadius: "7px", border: "none", background: tab === t ? "var(--accent)" : "transparent", color: tab === t ? "#fff" : "var(--text-faint)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
-              {t === "drafts" ? `초안 ${drafts.length > 0 && tab === "drafts" ? `(${drafts.length})` : ""}` : "발행됨"}
-            </button>
-          ))}
+        {/* 탭 + 숨김 필터 */}
+        <div style={{ display: "flex", alignItems: "center", gap: "12px", marginBottom: "24px", flexWrap: "wrap" }}>
+          <div style={{ display: "flex", gap: "4px", background: "var(--surface)", borderRadius: "10px", padding: "4px" }}>
+            {(["drafts", "published"] as const).map((t) => (
+              <button key={t} onClick={() => { setTab(t); fetchDrafts(key, t); }} style={{ padding: "7px 18px", borderRadius: "7px", border: "none", background: tab === t ? "var(--accent)" : "transparent", color: tab === t ? "#fff" : "var(--text-faint)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+                {t === "drafts" ? `초안 ${drafts.length > 0 && tab === "drafts" ? `(${drafts.length})` : ""}` : "발행됨"}
+              </button>
+            ))}
+          </div>
+          {tab === "published" && (
+            <div style={{ display: "flex", gap: "4px", background: "var(--surface)", borderRadius: "10px", padding: "4px" }}>
+              {([["all", "전체"], ["visible", "노출중"], ["hidden", "숨김"]] as const).map(([val, label]) => (
+                <button key={val} onClick={() => setHideFilter(val)} style={{ padding: "6px 14px", borderRadius: "7px", border: "none", background: hideFilter === val ? (val === "hidden" ? "#555" : "var(--accent)") : "transparent", color: hideFilter === val ? "#fff" : "var(--text-faint)", fontSize: "12px", fontWeight: 600, cursor: "pointer" }}>
+                  {label}
+                </button>
+              ))}
+            </div>
+          )}
         </div>
 
         {/* 아웃링크 폼 */}
@@ -427,7 +449,7 @@ export default function DraftsPage() {
             <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "8px" }}>
               <label style={{ display: "flex", alignItems: "center", gap: "6px", fontSize: "13px", color: "var(--text-faint)", cursor: "pointer" }}>
                 <input type="checkbox"
-                  checked={checked.size > 0 && checked.size === drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase())).length}
+                  checked={checked.size > 0 && checked.size === filteredDrafts().length}
                   onChange={toggleAll}
                 />
                 전체 선택
@@ -446,7 +468,7 @@ export default function DraftsPage() {
             </div>
 
           <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
-            {drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase())).map((d) => (
+            {filteredDrafts().map((d) => (
               <div key={d.id} style={{ background: "var(--surface)", border: checked.has(d.id) ? "1px solid var(--accent)" : "1px solid var(--border)", borderRadius: "14px", overflow: "hidden" }}>
                 <div style={{ padding: "20px 24px", cursor: "pointer" }} onClick={() => setExpanded(expanded === d.id ? null : d.id)}>
                   <div style={{ display: "flex", alignItems: "flex-start", gap: "12px", justifyContent: "space-between" }}>
