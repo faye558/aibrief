@@ -2,6 +2,8 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import { notFound } from "next/navigation";
 import { Suspense } from "react";
+
+export const dynamic = "force-dynamic";
 import FeedPage from "@/components/FeedPage";
 import type { Article } from "@/app/aibrief/page";
 

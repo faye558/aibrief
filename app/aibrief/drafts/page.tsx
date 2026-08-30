@@ -14,6 +14,8 @@ interface Draft {
   sourceName: string;
   sourceUrl: string | null;
   date: string;
+  hidden?: boolean;
+  draft?: boolean;
 }
 
 const CATEGORIES = ["IT·테크", "AI·머신러닝", "디자인·UX", "업무환경·생산성", "스타트업·비즈니스", "기타"];
@@ -201,7 +203,7 @@ export default function DraftsPage() {
   function filteredDrafts() {
     return drafts.filter((d) => {
       if (search.trim() && !d.title.toLowerCase().includes(search.toLowerCase())) return false;
-      const isHidden = (d as Draft & { hidden?: boolean }).hidden;
+      const isHidden = d.hidden;
       if (hideFilter === "visible") return !isHidden;
       if (hideFilter === "hidden") return !!isHidden;
       return true;
@@ -354,7 +356,7 @@ export default function DraftsPage() {
         <div style={{ display: "flex", alignItems: "center", gap: "12px", marginBottom: "24px", flexWrap: "wrap" }}>
           <div style={{ display: "flex", gap: "4px", background: "var(--surface)", borderRadius: "10px", padding: "4px" }}>
             {(["drafts", "published"] as const).map((t) => (
-              <button key={t} onClick={() => { setTab(t); fetchDrafts(key, t); }} style={{ padding: "7px 18px", borderRadius: "7px", border: "none", background: tab === t ? "var(--accent)" : "transparent", color: tab === t ? "#fff" : "var(--text-faint)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+              <button key={t} onClick={() => { setTab(t); setHideFilter("all"); fetchDrafts(key, t); }} style={{ padding: "7px 18px", borderRadius: "7px", border: "none", background: tab === t ? "var(--accent)" : "transparent", color: tab === t ? "#fff" : "var(--text-faint)", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
                 {t === "drafts" ? `초안 ${drafts.length > 0 && tab === "drafts" ? `(${drafts.length})` : ""}` : "발행됨"}
               </button>
             ))}
@@ -542,8 +544,8 @@ export default function DraftsPage() {
                     </button>
                   )}
                   {tab === "published" ? (
-                    <button onClick={() => toggleHidden(d.id, !(d as Draft & { hidden?: boolean }).hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: (d as Draft & { hidden?: boolean }).hidden ? "var(--accent)" : "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
-                      {(d as Draft & { hidden?: boolean }).hidden ? "노출" : "숨기기"}
+                    <button onClick={() => toggleHidden(d.id, !d.hidden)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: d.hidden ? "var(--accent)" : "#555", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>
+                      {d.hidden ? "노출" : "숨기기"}
                     </button>
                   ) : (
                     <button onClick={() => approve(d.id)} style={{ padding: "7px 16px", borderRadius: "8px", border: "none", background: "var(--accent)", color: "#fff", fontSize: "13px", fontWeight: 600, cursor: "pointer" }}>

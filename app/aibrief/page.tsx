@@ -2,6 +2,8 @@ import { readFileSync } from "fs";
 import { join } from "path";
 import { Suspense } from "react";
 import type { Metadata } from "next";
+
+export const dynamic = "force-dynamic";
 import FeedPage from "@/components/FeedPage";
 
 export const metadata: Metadata = {
