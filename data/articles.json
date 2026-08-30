@@ -468,32 +468,6 @@
     "hidden": true
   },
   {
-    "id": "1029",
-    "slug": "inbound-robots-in-every-messenger",
-    "title": "Inbound Robots in Every Messenger",
-    "summary": "He asked what to watch out for. Here is our list, and every item on it is something that already bit us.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@dzyatkovskiy.a2/inbound-robots-in-every-messenger-37f726436d7a?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@dzyatkovskiy.a2/inbound-robots-in-every-messenger-37f726436d7a?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1031",
     "slug": "from-weeks-to-hours-shipping-production-features-with-struct",
     "title": "From Weeks to Hours: Shipping Production Features with Structured AI Workflows",
