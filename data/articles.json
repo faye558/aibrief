@@ -26,32 +26,6 @@
     "hidden": false
   },
   {
-    "id": "1074",
-    "slug": "i-turned-claude-into-my-fulltime-research-team",
-    "title": "I Turned Claude Into My Full-Time Research Team .",
-    "summary": "Most people use AI the same way: open ChatGPT or Claude, type a question, get an answer, and move on.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@saniaumar090/i-turned-claude-into-my-full-time-research-team-308eb23b392e?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@saniaumar090/i-turned-claude-into-my-full-time-research-team-308eb23b392e?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1075",
     "slug": "weekly-round-up-on-ai-10-launches-that-mattered-open-weights",
     "title": "Weekly Round UP on AI : 10 launches that mattered — open weights, vertical LLMs, agent pricing",
