@@ -195,17 +195,42 @@ function parseRSSItems(xml) {
   return items.slice(0, 10);
 }
 
+// 한글을 슬러그에 그대로 쓰면 [slug] 라우트가 404 나는 문제가 있어(Next.js
+// 16.3 + Turbopack, 정적 빌드에서도 재현 확인) 로마자로 변환한다.
+const RR_INITIALS = ["g", "kk", "n", "d", "tt", "r", "m", "b", "pp", "s", "ss", "", "j", "jj", "ch", "k", "t", "p", "h"];
+const RR_MEDIALS = ["a", "ae", "ya", "yae", "eo", "e", "yeo", "ye", "o", "wa", "wae", "oe", "yo", "u", "wo", "we", "wi", "yu", "eu", "ui", "i"];
+const RR_FINALS = ["", "g", "kk", "gs", "n", "nj", "nh", "d", "l", "lg", "lm", "lb", "ls", "lt", "lp", "lh", "m", "b", "bs", "s", "ss", "ng", "j", "c", "k", "t", "p", "h"];
+
+function romanizeHangul(text) {
+  let out = "";
+  for (const ch of text) {
+    const code = ch.codePointAt(0);
+    if (code >= 0xac00 && code <= 0xd7a3) {
+      const idx = code - 0xac00;
+      const initial = Math.floor(idx / (21 * 28));
+      const medial = Math.floor((idx % (21 * 28)) / 28);
+      const final = idx % 28;
+      out += RR_INITIALS[initial] + RR_MEDIALS[medial] + RR_FINALS[final];
+    } else {
+      out += ch;
+    }
+  }
+  return out;
+}
+
 function makeSlug(title, existingSlugs) {
-  const base = title
+  const base = romanizeHangul(title)
     .toLowerCase()
-    .replace(/[^\w\s가-힣]/g, "")
+    .replace(/[^a-z0-9\s-]/g, "")
+    .trim()
     .replace(/\s+/g, "-")
     .slice(0, 60)
     .replace(/-+$/, "");
-  let slug = base;
+  const seed = base || "article";
+  let slug = seed;
   let i = 2;
   while (existingSlugs.has(slug)) {
-    slug = `${base}-${i++}`;
+    slug = `${seed}-${i++}`;
   }
   return slug;
 }

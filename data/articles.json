@@ -937,7 +937,7 @@
   },
   {
     "id": "987",
-    "slug": "-a-download-line-5",
+    "slug": "a-download-line-5",
     "title": "อย่าเชื่อ <a download> ถ้าแอปคุณอยู่ใน LINE — 5 ท่าที่ผมลองแล้วพัง",
     "summary": "[&#xE0B;&#xE35;&#xE23;&#xE35;&#xE2A;&#xE4C;: &#xE2A;&#xE23;&#xE49;&#xE32;&#xE07;&#xE23;&#xE30;&#xE1A;&#xE1A; HR &#xE17;&#xE31;&#xE49;&#xE07;&#xE23;&#x",
     "content": null,
@@ -1795,7 +1795,7 @@
   },
   {
     "id": "958",
-    "slug": "-token",
+    "slug": "token",
     "title": "省 token 工具說能省多少，扣掉暖機費後才算數",
     "summary": "&#x6211;&#x9019;&#x6B21;&#x5148;&#x7B97;&#x4E00;&#x4EF6;&#x5BB9;&#x6613;&#x88AB;&#x5FFD;&#x7565;&#x7684;&#x4E8B;&#xFF1A;&#x628A; Claude Code &#x6307;&",
     "content": null,
@@ -2419,7 +2419,7 @@
   },
   {
     "id": "913",
-    "slug": "-multiagent-orchestration-how-multiple-ai-agents-work-togeth",
+    "slug": "multi-agent-orchestration-how-multiple-ai-agents-work-togeth",
     "title": "️ Multi-Agent Orchestration: How Multiple AI Agents Work Together",
     "summary": "As AI tasks become more complex, a single agent may not be enough.Continue reading on Medium »",
     "content": null,
@@ -2575,7 +2575,7 @@
   },
   {
     "id": "919",
-    "slug": "",
+    "slug": "article-919",
     "title": "…",
     "summary": "Teams ship features that pass every staging check &#x2014; then fail in production.Continue reading on Medium »",
     "content": null,
@@ -2965,7 +2965,7 @@
   },
   {
     "id": "904",
-    "slug": "",
+    "slug": "article-904",
     "title": "當一百個版本變便宜，設計師剩下的價值只有一件事",
     "summary": "&#x57F7;&#x884C;&#x8B8A;&#x4FBF;&#x5B9C;&#x4E86;&#xFF0C;&#x5224;&#x65B7;&#x8B8A;&#x8CB4;&#x4E86;Continue reading on Medium »",
     "content": null,
@@ -4759,7 +4759,7 @@
   },
   {
     "id": "824",
-    "slug": "-apple",
+    "slug": "apple",
     "title": "圖只負責告訴你該讀哪幾個檔 — — 用知識圖解析一個完全陌生的 Apple 開源專案",
     "summary": "&#x524D;&#x5169;&#x7BC7;&#x6211;&#x90FD;&#x662F;&#x7528;&#x5716;&#x6AA2;&#x8996;&#x81EA;&#x5DF1;&#x7684;&#x5C08;&#x6848;&#x3002;&#x9019;&#x6B21;&#x63D",
     "content": null,
@@ -5643,7 +5643,7 @@
   },
   {
     "id": "780",
-    "slug": "-agent",
+    "slug": "agent",
     "title": "派一個 agent 出去，先付一筆看不見的開機費",
     "summary": "&#x5148;&#x627F;&#x8A8D;&#x4E00;&#x4EF6;&#x5C37;&#x5C2C;&#x7684;&#x4E8B;&#xFF1A;&#x6211;&#x4E4B;&#x524D;&#x628A; subagent &#x7684;&#x958B;&#x6A5F;&#x6",
     "content": null,
@@ -7073,7 +7073,7 @@
   },
   {
     "id": "722",
-    "slug": "-ai-agentmy-side-project-hit-top-6-on-the-app-store",
+    "slug": "ai-agentmy-side-project-hit-top-6-on-the-app-store",
     "title": "【設計師遇上 AI Agent】My Side Project Hit Top 6 on the App Store!",
     "summary": "&#x55E8;&#x6211;&#x662F;Gogolook&#x7684; CC &#x1F44B;&#x8EAB;&#x70BA;Product Designer&#xFF0C;&#x4E00;&#x76F4;&#x5C0D; AI &#x5354;&#x4F5C;&#xFF08;Vibe",
     "content": null,
@@ -8139,7 +8139,7 @@
   },
   {
     "id": "683",
-    "slug": "-symlinkgit-gitignore",
+    "slug": "symlinkgit-gitignore",
     "title": "軟連結不是複製，一次搞懂 Symlink、Git 與 .gitignore",
     "summary": "&#x5728;&#x5B78; Claude Code&#x3001;Codex &#x548C; AI Agent Skills &#x6642;&#xFF0C;&#x6211;&#x78B0;&#x5230;&#x4E86;&#x4E00;&#x500B;&#x4EE5;&#x524D;&#x",
     "content": null,
@@ -10271,7 +10271,7 @@
   },
   {
     "id": "594",
-    "slug": "-awesome",
+    "slug": "awesome",
     "title": "抄 awesome 清單不難，難的是決定不抄什麼",
     "summary": "&#x73FE;&#x5728;&#x793E;&#x7FA4;&#x4E0A;&#x5404;&#x7A2E; awesome &#x6E05;&#x55AE;&#x6EFF;&#x5929;&#x98DB;&#xFF0C;&#x96A8;&#x4FBF;&#x6ED1;&#x904E;&#x53",
     "content": null,
@@ -10791,7 +10791,7 @@
   },
   {
     "id": "572",
-    "slug": "-ai-4",
+    "slug": "ai-2",
     "title": "遇到問題，直接問 AI 不香嗎？",
     "summary": "&#x300C;&#x9999;&#xFF01;&#x300D;&#x9019;&#x662F;&#x5927;&#x591A;&#x6578;&#x4EBA;&#x5FC3;&#x4E2D;&#x7684;&#x7B54;&#x6848;&#x3002;Continue reading on De",
     "content": null,
@@ -10843,7 +10843,7 @@
   },
   {
     "id": "560",
-    "slug": "-ai-3",
+    "slug": "ai-3",
     "title": "遇到問題，直接問 AI 不香嗎？",
     "summary": "&#x300C;&#x9999;&#xFF01;&#x300D;&#x9019;&#x662F;&#x5927;&#x591A;&#x6578;&#x4EBA;&#x5FC3;&#x4E2D;&#x7684;&#x7B54;&#x6848;&#x3002;Continue reading on Me",
     "content": null,
@@ -11285,7 +11285,7 @@
   },
   {
     "id": "536",
-    "slug": "-watched-not-subscribed",
+    "slug": "watched-not-subscribed",
     "title": "# Watched, Not Subscribed",
     "summary": "Part two of turning a decade of watch history into a system.*Continue reading on Medium »",
     "content": null,
@@ -11441,7 +11441,7 @@
   },
   {
     "id": "542",
-    "slug": "-claude-code",
+    "slug": "claude-code",
     "title": "圖說遷移只做一半,那我就把它拆 — — 帶 Claude Code 動一次真重構(附前後對照)",
     "summary": "&#x4E0A;&#x4E00;&#x7BC7;&#x7684;&#x7D50;&#x5C3E;&#x6211;&#x8AAA;,&#x90A3; 99 &#x689D;&#x908A;&#x8981;&#x4E0D;&#x8981;&#x62C6;&#x662F;&#x6211;&#x7684;&",
     "content": null,
@@ -12689,7 +12689,7 @@
   },
   {
     "id": "467",
-    "slug": "-claude-code-issue",
+    "slug": "claude-code-issue",
     "title": "寫了等於沒寫：用 Claude Code 建立 Issue 驗收標準的自動化閉環",
     "summary": "AC &#x7F3A;&#x7684;&#x4E0D;&#x662F;&#x683C;&#x5F0F;&#xFF0C;&#x662F;&#x300C;&#x4E0B;&#x6E38;&#x57F7;&#x884C;&#x93C8;&#x300D;&#x3002;&#x5F9E;&#x958B;&#x",
     "content": null,
@@ -13183,7 +13183,7 @@
   },
   {
     "id": "444",
-    "slug": "-ai-2",
+    "slug": "ai-4",
     "title": "我裁掉了兩個 AI 檢查員，留下的那個能者過勞",
     "summary": "&#x6211;&#x7D66;&#x6BCF;&#x500B;&#x81EA;&#x52D5;&#x5316;&#x6A5F;&#x5236;&#x90FD;&#x8A2D;&#x89C0;&#x5BDF;&#x671F;&#xFF0C;&#x5230;&#x671F;&#x8981;&#x4EA",
     "content": null,
@@ -13443,7 +13443,7 @@
   },
   {
     "id": "429",
-    "slug": "",
+    "slug": "article-429",
     "title": "",
     "summary": "",
     "content": null,
@@ -15419,7 +15419,7 @@
   },
   {
     "id": "350",
-    "slug": "-ai-shell",
+    "slug": "ai-shell",
     "title": "防得了失誤，防不住意圖：給 AI 的 shell 裝一把鎖",
     "summary": "&#x88DD;&#x4E0A;&#x6514;&#x622A;&#x5668;&#x7684;&#x7B2C;&#x4E00;&#x5929;&#xFF0C;agent &#x70BA;&#x4E86;&#x6E05;&#x7406;&#x4E00;&#x500B;&#x8A66;&#x7528;",
     "content": null,
@@ -15549,7 +15549,7 @@
   },
   {
     "id": "287",
-    "slug": "-하네스는-어디까지-쌓아야-하는가",
+    "slug": "haneseuneun-eodikkaji-ssahaya-haneunga",
     "title": "🤔 하네스는 어디까지 쌓아야 하는가?",
     "summary": "🤔 하네스는 어디까지 쌓아야 하는가?",
     "content": null,
@@ -16121,7 +16121,7 @@
   },
   {
     "id": "309",
-    "slug": "기억에-대해서",
+    "slug": "gieoge-daehaeseo",
     "title": "기억에 대해서",
     "summary": "기억에 대해서",
     "content": null,
@@ -16511,7 +16511,7 @@
   },
   {
     "id": "325",
-    "slug": "-ai",
+    "slug": "ai-5",
     "title": "文件治理多 AI 協作：從模糊需求到開發維護",
     "summary": "&#x7576; Session &#x88AB;&#x8FEB;&#x4E2D;&#x65B7;&#x3001;&#x9808;&#x7528;&#x53E6;&#x4E00;&#x500B; AI &#x91CD;&#x65B0;&#x958B;&#x59CB;&#x6642;&#xFF0C;&",
     "content": null,
@@ -16953,7 +16953,7 @@
   },
   {
     "id": "342",
-    "slug": "-claude-code-openai-codex-avalai",
+    "slug": "claude-code-openai-codex-avalai",
     "title": "✅استفاده از Claude Code و OpenAI Codex با AvalAI؛ بدون کارمزد اضافه",
     "summary": "Continue reading on Medium »",
     "content": null,
@@ -17855,7 +17855,7 @@
     ],
     "communityReaction": "의료 현장 종사자들 사이에서 'AI가 보조 도구를 넘어 실질적 오진 방지 역할을 한다는 게 이번에 제대로 증명됐다'는 반응이 나오는 한편, '무료 배포가 실제로 이뤄지면 중소 병원이나 응급의학과에서부터 빠르게 도입될 것 같다'는 기대감도 함께 표출되고 있다.",
     "communityLinks": null,
-    "slug": "ai-news",
+    "slug": "ai-jindan-peurogeuraem-uisaga-cheonsigeuro-ojinhan-hwanjaese",
     "id": "149",
     "hidden": true
   },
@@ -18465,7 +18465,7 @@
     ],
     "communityReaction": "\"5G 전환 중에도 LTE 품질 관리를 이렇게 챙기는 건 맞는 방향이긴 한데, 결국 장비 수주 어디로 가느냐가 관건 아닐까요?\" \"AI 자율운용망이라는 말이 요즘 너무 남발되는 느낌인데, 실제 구현 로드맵이 구체적으로 나와야 의미 있을 것 같습니다.\"",
     "communityLinks": null,
-    "slug": "ai-lte",
+    "slug": "sktelrekom-16nyeondoen-ltemang-hyeondaehwa-chagsu-ai-jayulun",
     "id": "127",
     "hidden": true
   },
@@ -18648,7 +18648,7 @@
       }
     ],
     "communityReaction": "개발자·IT 커뮤니티에서는 전력난과 냉각 문제를 동시에 해결하는 창의적 접근법이라며 긍정적 관심을 보이는 한편, 해상 환경에서의 실제 운영 안정성과 유지보수 비용에 대한 현실적 우려도 제기될 것으로 예상된다.",
-    "slug": "ai-data",
+    "slug": "paenteolrasa-haesang-ai-deiteosenteo-chujin-padoro-jeongi-sa",
     "id": "102",
     "hidden": true
   },
@@ -25029,7 +25029,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-tossion-release",
+    "slug": "toseu-jache-gaebal-qa-peulraespom-tosyeontossion-gonggae-heu",
     "draft": false,
     "id": "437"
   },
@@ -25059,7 +25059,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-webview-lynx",
+    "slug": "danggeun-webview-hangye-geugbog-wihae-lynx-gisul-doib-gyeolj",
     "draft": false,
     "id": "438"
   },
@@ -25090,7 +25090,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-lynx-intro",
+    "slug": "danggeun-webbyu-seongneung-hangye-geugbog-wihae-keuroseupeul",
     "draft": false,
     "id": "439"
   },
@@ -25121,7 +25121,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-vllm-ai-native",
+    "slug": "neibeo-vllm-model-byeonhwanbaeporeul-ai-nativero-jadonghwaha",
     "draft": false,
     "id": "440"
   },
@@ -25152,12 +25152,12 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-vllm-model",
+    "slug": "neibeo-vllm-peulreogeuineuro-geomsaeg-ai-model-seobing-seong",
     "draft": false,
     "id": "441"
   },
   {
-    "slug": "it-news",
+    "slug": "seutateueob-onsugireul-seumateu-yeol-baeteoriro-jeonhwanhary",
     "title": "스타트업, 온수기를 스마트 열 배터리로 전환하려 한다",
     "summary": "분산 에너지 자원(DER) 관점에서 가정의 온수기를 그리드 안정화 자산으로 활용하려는 시도로, 재생에너지 변동성 대응과 수요반응(DR) 시장의 새로운 기회를 제시한다.",
     "content": "## 큐레이션 노트\n기존에 수동적 소비 자산으로만 여겨지던 온수기를 AI와 IoT 기술로 '능동적 저장' 자산으로 재정의하는 것은, 스마트 그리드 전환 과정에서 인프라 투자 없이 기존 자산을 활용하는 효율적 패러다임이다. 태양광·풍력 확대로 인한 전력 수급 불균형 문제가 심화되는 시점에서, 수백만 가정의 온수기를 통합 제어하면 대규모 배터리 저장소 수준의 조정 용량을 확보할 수 있다는 점에서 에너지 시스템 혁신의 실마리를 제공한다.",
@@ -25240,7 +25240,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-data",
+    "slug": "rain-ingangwa-aiui-kodeu-ribyu-bangsig-bigyo-bunseog-27manye",
     "draft": false,
     "id": "446",
     "hidden": true
@@ -25964,7 +25964,7 @@
     "hidden": true
   },
   {
-    "slug": "ai-tool",
+    "slug": "beulraeghaeseseo-deureonan-aiui-yangmyeonseong-saibeo-wihyeo",
     "title": "블랙햇에서 드러난 AI의 양면성: 사이버 위협 탐지 도구이자 새로운 공격 수단",
     "summary": "AI가 보안 방어를 강화하는 동시에 공격자의 손에 들어가면 더욱 정교한 위협을 만들어낼 수 있다는 딜레마가 업계의 중심 이슈로 떠올랐습니다.",
     "content": "## 큐레이션 노트\n\n보안 업계의 최대 행사인 블랙햇에서 AI의 이중성이 화두가 되고 있습니다. 방어자 입장에서는 위협 탐지와 대응 속도를 혁신적으로 개선할 수 있지만, 공격자도 동일한 AI 기술을 활용해 더욱 치밀한 사회공학 공격이나 제로데이 공격을 설계할 수 있다는 점에서 기술 우위를 둘러싼 경쟁이 심화되고 있습니다. 결국 AI 시대의 사이버 보안은 기술 고도화만큼 거버넌스와 윤리적 기준 수립이 얼마나 빠르게 따라가느냐가 업계의 생존 문제가 될 것이라는 점을 시사합니다.",
@@ -26542,7 +26542,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-sage-release",
+    "slug": "rain-boan-eobmuyong-ai-eijeonteu-peulraespom-sage-gaebalgi-g",
     "draft": false,
     "id": "674"
   },
@@ -26814,7 +26814,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-sms-intro",
+    "slug": "danggeun-injeung-siseutemui-byeoncheonsa-sms-jeomyu-injeungb",
     "draft": false,
     "id": "754"
   },
@@ -27046,7 +27046,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-elasticsearch-kuromoji-opensearch",
+    "slug": "rain-ilboneo-sangpum-geomsaeg-jeonghwagdo-hyangsang-wihae-el",
     "draft": false,
     "id": "804",
     "hidden": true
@@ -27078,7 +27078,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-match-console-mai",
+    "slug": "musinsa-gaeinhwa-unyeong-dogu-match-consolegwa-ai-eosiseuteo",
     "draft": false,
     "id": "809"
   },
@@ -27301,7 +27301,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-news",
+    "slug": "musinsa-ai-giban-gaebal-jeon-gwajeong-hyeogsin-dameun-paeteo",
     "draft": false,
     "id": "907"
   },
@@ -27532,7 +27532,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-news-2",
+    "slug": "musinsa-ai-neitibeu-jojigeul-wihan-2cheung-simaentig-reieoro",
     "draft": false,
     "id": "949"
   },
@@ -27835,7 +27835,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-mold",
+    "slug": "rain-mold-daegyumo-byeongryeol-ringkeoro-c-bildeu-byeongmog",
     "draft": false,
     "id": "1020",
     "hidden": true
@@ -27865,7 +27865,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-summit",
+    "slug": "kakao-busaneseo-ai-doc-summit-26-gaechoejiyeog-ai-saengtaegy",
     "draft": false,
     "id": "1021"
   },
@@ -28056,7 +28056,7 @@
     ],
     "communityReaction": null,
     "communityLinks": null,
-    "slug": "-ssot-release",
+    "slug": "rain-llm-giban-kodeu-jadong-choesinhwa-domein-jisig-ssot-guc",
     "draft": false,
     "id": "1039",
     "hidden": true
