@@ -29421,7 +29421,8 @@
     "communityLinks": null,
     "slug": "-mold",
     "draft": false,
-    "id": "1020"
+    "id": "1020",
+    "hidden": true
   },
   {
     "title": "카카오, 부산에서 'AI 돛 Summit 26' 개최…지역 AI 생태계 조성 나선다",
