@@ -29146,7 +29146,8 @@
     "communityLinks": null,
     "slug": "ai-aaron-agent",
     "draft": false,
-    "id": "968"
+    "id": "968",
+    "hidden": true
   },
   {
     "slug": "ai-data-2",
