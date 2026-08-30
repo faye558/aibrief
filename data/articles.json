@@ -29336,7 +29336,8 @@
     "communityLinks": null,
     "slug": "ux-sqlite-self",
     "draft": false,
-    "id": "1005"
+    "id": "1005",
+    "hidden": true
   },
   {
     "title": "산돌, 삼성 Galaxy Watch 전용 숫자 폰트 'Watch Num' 개발",
