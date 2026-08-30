@@ -29313,7 +29313,8 @@
     "communityLinks": null,
     "slug": "ai-corsair-typescript",
     "draft": false,
-    "id": "1004"
+    "id": "1004",
+    "hidden": true
   },
   {
     "title": "쿼리 가능한 실행 파일 — 프로그램을 SQLite DB로 구성하는 SELF 포맷",
