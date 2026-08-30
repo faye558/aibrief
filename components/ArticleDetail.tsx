@@ -229,10 +229,8 @@ export default function ArticleDetail({ article, related }: { article: Article; 
         </div>
 
         {/* 쿠팡 배너 */}
-        <div style={{ marginBottom: "32px" }}>
-          <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
-            <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
-          </a>
+        <div style={{ marginBottom: "32px", overflow: "hidden" }}>
+          <iframe src="https://ads-partners.coupang.com/widgets.html?id=999030&template=carousel&trackingCode=AF5585556&subId=&width=728&height=90&tsource=" width="728" height="90" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" style={{ width: "100%", height: "90px", border: "none", display: "block" }} />
         </div>
 
         {/* 관련 기사 */}

@@ -572,10 +572,8 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               </div>
               {/* TODAY 기사 직후 배너 */}
               {newCards.some(a => a.timeAgo === "today") && (
-                <div style={{ margin: "12px 0" }}>
-                  <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
-                    <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
-                  </a>
+                <div style={{ margin: "12px 0", overflow: "hidden" }}>
+                  <iframe src="https://ads-partners.coupang.com/widgets.html?id=999030&template=carousel&trackingCode=AF5585556&subId=&width=728&height=90&tsource=" width="728" height="90" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" style={{ width: "100%", height: "90px", border: "none", display: "block" }} />
                 </div>
               )}
               {/* 나머지 NEW 카드 */}
@@ -588,10 +586,8 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
           )}
 
           {/* 쿠팡 배너 — NEW 섹션 직후 */}
-          <div style={{ margin: "4px 0 20px" }}>
-            <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
-              <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
-            </a>
+          <div style={{ margin: "4px 0 20px", overflow: "hidden" }}>
+            <iframe src="https://ads-partners.coupang.com/widgets.html?id=999030&template=carousel&trackingCode=AF5585556&subId=&width=728&height=90&tsource=" width="728" height="90" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" style={{ width: "100%", height: "90px", border: "none", display: "block" }} />
           </div>
 
           {/* 이전 아티클 */}
@@ -606,18 +602,9 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
               <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
                 {groupCards(olderCards).map((block, i) => (
                   <div key={`wrap-${i}`}>
-                    {i === 2 && (
-                      <div style={{ marginBottom: "20px" }}>
-                        <a href="https://link.coupang.com/a/f76O38Y4WW" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
-                          <img src="https://ads-partners.coupang.com/banners/1016464?trackingCode=AF5585556&subId=&traceId=V0-301-f5c692db558def48-I1016464&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
-                        </a>
-                      </div>
-                    )}
-                    {i === 4 && (
-                      <div style={{ marginBottom: "20px" }}>
-                        <a href="https://link.coupang.com/a/f76U5O21uK" target="_blank" rel="noreferrer" referrerPolicy="unsafe-url">
-                          <img src="https://ads-partners.coupang.com/banners/1016467?trackingCode=AF5585556&subId=&traceId=V0-301-969b06e95b87326d-I1016467&w=728&h=90" alt="" style={{ width: "100%", height: "auto", display: "block", borderRadius: "8px" }} />
-                        </a>
+                    {(i === 2 || i === 4) && (
+                      <div style={{ marginBottom: "20px", overflow: "hidden" }}>
+                        <iframe src="https://ads-partners.coupang.com/widgets.html?id=999030&template=carousel&trackingCode=AF5585556&subId=&width=728&height=90&tsource=" width="728" height="90" frameBorder="0" scrolling="no" referrerPolicy="unsafe-url" style={{ width: "100%", height: "90px", border: "none", display: "block" }} />
                       </div>
                     )}
                     {block.type === "featured" ? (
