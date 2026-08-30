@@ -338,32 +338,6 @@
     "hidden": true
   },
   {
-    "id": "1024",
-    "slug": "probabilistic-isnt-a-dirty-word",
-    "title": "Probabilistic isn’t a dirty word…",
-    "summary": "The most load-bearing file in my design system is co-authored, inter-species friendly prose.Continue reading on Design Systems Collective »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://www.designsystemscollective.com/probabilistic-isnt-a-dirty-word-37fa836bedd8?source=rss------ai_workflow-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://www.designsystemscollective.com/probabilistic-isnt-a-dirty-word-37fa836bedd8?source=rss------ai_workflow-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1027",
     "slug": "half-of-us-developers-now-use-claude-code-the-other-half-sho",
     "title": "Half of US Developers Now Use Claude Code. The Other Half Should Be Worried ?",
