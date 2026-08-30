@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect, useRef } from "react";
 import GlobalNav from "@/components/GlobalNav";
 
 interface Draft {
@@ -44,6 +44,10 @@ export default function DraftsPage() {
   const [saving, setSaving] = useState(false);
   const [topic, setTopic] = useState("");
   const [generating, setGenerating] = useState(false);
+  const [checked, setChecked] = useState<Set<string>>(new Set());
+  const [bulkLoading, setBulkLoading] = useState(false);
+  const [translatedTitles, setTranslatedTitles] = useState<Record<string, string>>({});
+  const translatingRef = useRef(false);
 
   const fetchDrafts = useCallback(async (k: string, t: "drafts" | "published" = "drafts") => {
     setLoading(true);
@@ -156,6 +160,79 @@ export default function DraftsPage() {
       setMsg("생성 실패");
     }
     setGenerating(false);
+  }
+
+  function isEnglish(t: string) {
+    const en = (t.match(/[A-Za-z\s]/g) || []).length;
+    return t.length > 0 && en / t.length > 0.5;
+  }
+
+  useEffect(() => {
+    if (!drafts.length || translatingRef.current) return;
+    const needTranslation = drafts.filter((d) => isEnglish(d.title) && !translatedTitles[d.id]);
+    if (!needTranslation.length) return;
+    translatingRef.current = true;
+    (async () => {
+      for (const d of needTranslation) {
+        try {
+          const res = await fetch("/aibrief/api/translate", {
+            method: "POST", headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ title: d.title }),
+          });
+          if (res.ok) {
+            const { translated } = await res.json();
+            setTranslatedTitles((prev) => ({ ...prev, [d.id]: translated }));
+          }
+        } catch { /* skip */ }
+      }
+      translatingRef.current = false;
+    })();
+  }, [drafts]);
+
+  function toggleCheck(id: string) {
+    setChecked((prev) => {
+      const next = new Set(prev);
+      if (next.has(id)) next.delete(id); else next.add(id);
+      return next;
+    });
+  }
+
+  function toggleAll() {
+    const visible = drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase()));
+    if (checked.size === visible.length) setChecked(new Set());
+    else setChecked(new Set(visible.map((d) => d.id)));
+  }
+
+  async function bulkHide() {
+    if (!checked.size) return;
+    setBulkLoading(true);
+    for (const id of checked) {
+      await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
+        method: "PATCH", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id, action: "hide" }),
+      });
+    }
+    setDrafts((d) => d.filter((a) => !checked.has(a.id)));
+    setMsg(`${checked.size}개 숨김`);
+    setChecked(new Set());
+    setBulkLoading(false);
+    setTimeout(() => setMsg(""), 2000);
+  }
+
+  async function bulkDelete() {
+    if (!checked.size) return;
+    setBulkLoading(true);
+    for (const id of checked) {
+      await fetch(`/aibrief/api/drafts?key=${encodeURIComponent(key)}`, {
+        method: "DELETE", headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ id }),
+      });
+    }
+    setDrafts((d) => d.filter((a) => !checked.has(a.id)));
+    setMsg(`${checked.size}개 삭제`);
+    setChecked(new Set());
+    setBulkLoading(false);
+    setTimeout(() => setMsg(""), 2000);
   }
 
   async function saveOutlink() {
@@ -341,18 +418,50 @@ export default function DraftsPage() {
             대기 중인 초안이 없어요
           </div>
         ) : (
+          <>
+            {/* 일괄 액션 바 */}
+            <div style={{ display: "flex", alignItems: "center", gap: "10px", marginBottom: "8px" }}>
+              <label style={{ display: "flex", alignItems: "center", gap: "6px", fontSize: "13px", color: "var(--text-faint)", cursor: "pointer" }}>
+                <input type="checkbox"
+                  checked={checked.size > 0 && checked.size === drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase())).length}
+                  onChange={toggleAll}
+                />
+                전체 선택
+              </label>
+              {checked.size > 0 && (
+                <>
+                  <span style={{ fontSize: "13px", color: "var(--accent-hover)", fontWeight: 600 }}>{checked.size}개 선택</span>
+                  <button onClick={bulkHide} disabled={bulkLoading} style={{ padding: "5px 14px", borderRadius: "7px", border: "1px solid var(--border)", background: "transparent", color: "var(--text)", fontSize: "13px", cursor: "pointer" }}>
+                    일괄 숨기기
+                  </button>
+                  <button onClick={bulkDelete} disabled={bulkLoading} style={{ padding: "5px 14px", borderRadius: "7px", border: "none", background: "#e53e3e", color: "#fff", fontSize: "13px", cursor: "pointer" }}>
+                    일괄 삭제
+                  </button>
+                </>
+              )}
+            </div>
+
           <div style={{ display: "flex", flexDirection: "column", gap: "12px" }}>
             {drafts.filter((d) => !search.trim() || d.title.toLowerCase().includes(search.toLowerCase())).map((d) => (
-              <div key={d.id} style={{ background: "var(--surface)", border: "1px solid var(--border)", borderRadius: "14px", overflow: "hidden" }}>
+              <div key={d.id} style={{ background: "var(--surface)", border: checked.has(d.id) ? "1px solid var(--accent)" : "1px solid var(--border)", borderRadius: "14px", overflow: "hidden" }}>
                 <div style={{ padding: "20px 24px", cursor: "pointer" }} onClick={() => setExpanded(expanded === d.id ? null : d.id)}>
                   <div style={{ display: "flex", alignItems: "flex-start", gap: "12px", justifyContent: "space-between" }}>
+                    <input type="checkbox" checked={checked.has(d.id)} onClick={(e) => e.stopPropagation()}
+                      onChange={() => toggleCheck(d.id)}
+                      style={{ marginTop: "3px", flexShrink: 0, width: "16px", height: "16px", cursor: "pointer" }}
+                    />
                     <div style={{ flex: 1 }}>
                       <div style={{ display: "flex", gap: "8px", marginBottom: "8px", flexWrap: "wrap" }}>
                         <span style={{ fontSize: "11px", fontWeight: 600, padding: "2px 8px", borderRadius: "4px", background: "var(--accent-dim)", color: "var(--accent-hover)" }}>{d.category}</span>
                         <span style={{ fontSize: "11px", color: "var(--text-faint)" }}>{d.sourceName}</span>
                         <span style={{ fontSize: "11px", color: "var(--text-faint)" }}>{d.date}</span>
                       </div>
-                      <p style={{ fontSize: "16px", fontWeight: 600, color: "var(--text)", lineHeight: 1.45 }}>{d.title}</p>
+                      <p style={{ fontSize: "16px", fontWeight: 600, color: "var(--text)", lineHeight: 1.45 }}>
+                        {translatedTitles[d.id] || d.title}
+                        {translatedTitles[d.id] && isEnglish(d.title) && (
+                          <span style={{ fontSize: "11px", color: "var(--text-faint)", marginLeft: "8px", fontWeight: 400 }}>번역됨</span>
+                        )}
+                      </p>
                     </div>
                     <span style={{ color: "var(--text-faint)", fontSize: "12px", flexShrink: 0, marginTop: "2px" }}>{expanded === d.id ? "▲" : "▼"}</span>
                   </div>
@@ -421,6 +530,7 @@ export default function DraftsPage() {
               </div>
             ))}
           </div>
+          </>
         )}
       </div>
     </div>
