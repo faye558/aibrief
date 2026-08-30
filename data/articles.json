@@ -572,32 +572,6 @@
     "hidden": true
   },
   {
-    "id": "1033",
-    "slug": "claude-code-subscription-provider-session-model-subagents",
-    "title": "Claude Code แบบ Subscription แต่อยากใช้หลาย Provider ใน Session เดียว สลับ Model — สร้าง Subagents…",
-    "summary": "&#xE2A;&#xE27;&#xE31;&#xE2A;&#xE14;&#xE35;&#xE04;&#xE23;&#xE31;&#xE1A;&#xE1C;&#xE21;&#xE41;&#xE21;&#xE01;&#xE0B;&#xE4C;&#xE19;&#xE30;&#xE04;&#xE23;&#x",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@themaxaboy/claude-code-%E0%B9%81%E0%B8%9A%E0%B8%9A-subscription-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2-provider-%E0%B9%83%E0%B8%99-session-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A-model-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-subagents-c7c52a9c8d95?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@themaxaboy/claude-code-%E0%B9%81%E0%B8%9A%E0%B8%9A-subscription-%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%AB%E0%B8%A5%E0%B8%B2%E0%B8%A2-provider-%E0%B9%83%E0%B8%99-session-%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7-%E0%B8%AA%E0%B8%A5%E0%B8%B1%E0%B8%9A-model-%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-subagents-c7c52a9c8d95?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1034",
     "slug": "gpt-review",
     "title": "GPT 不是停不下來，是看不見停止線：Review 隧道視野與停止條件治理",
