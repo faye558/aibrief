@@ -25707,7 +25707,8 @@
     ],
     "slug": "adobe-palmier-pro-macos",
     "draft": false,
-    "id": "499"
+    "id": "499",
+    "hidden": true
   },
   {
     "title": "OpenAI·Cerebras, GPT-4.5 Sol 초당 750토큰 'Ultrafast Mode' 제한 공개",
