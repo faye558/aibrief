@@ -624,32 +624,6 @@
     "hidden": true
   },
   {
-    "id": "1009",
-    "slug": "google-stitch-from-design-prompt-to-flutter-screen-with-mcp",
-    "title": "Google Stitch: From Design Prompt to Flutter Screen (with MCP + Claude Code)",
-    "summary": "Design screens in Stitch, refine them visually, then let your coding agent build them. No manual handoff required.Continue reading on Simform Engineer",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/simform-engineering/google-stitch-from-design-prompt-to-flutter-screen-with-mcp-claude-code-9d21e05986d3?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/simform-engineering/google-stitch-from-design-prompt-to-flutter-screen-with-mcp-claude-code-9d21e05986d3?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1010",
     "slug": "talking-to-claude-beats-typing-to-claude-heres-why",
     "title": "Talking to Claude Beats Typing to Claude. Here’s Why.",
