@@ -291,6 +291,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
   const router = useRouter();
   const [activeCategory, setActiveCategory] = useState(() => categoryFilter ? (LABEL_TO_ID[categoryFilter] ?? "all") : "all");
   const [translatedTitles, setTranslatedTitles] = useState<Record<string, string>>({});
+  const [translatedSummaries, setTranslatedSummaries] = useState<Record<string, string>>({});
   const translatingRef = useRef(false);
 
   function isEnglish(t: string) {
@@ -324,13 +325,23 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     (async () => {
       await Promise.all(needTranslation.map(async (a) => {
         try {
-          const res = await fetch("/aibrief/api/translate", {
-            method: "POST", headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ title: a.title }),
-          });
-          if (res.ok) {
-            const { translated } = await res.json();
+          const [titleRes, summaryRes] = await Promise.all([
+            fetch("/aibrief/api/translate", {
+              method: "POST", headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ title: a.title }),
+            }),
+            a.summary && isEnglish(a.summary) ? fetch("/aibrief/api/translate", {
+              method: "POST", headers: { "Content-Type": "application/json" },
+              body: JSON.stringify({ title: a.summary }),
+            }) : Promise.resolve(null),
+          ]);
+          if (titleRes.ok) {
+            const { translated } = await titleRes.json();
             setTranslatedTitles((prev) => ({ ...prev, [a.id]: translated }));
+          }
+          if (summaryRes?.ok) {
+            const { translated } = await summaryRes.json();
+            setTranslatedSummaries((prev) => ({ ...prev, [a.id]: translated }));
           }
         } catch { /* skip */ }
       }));
@@ -350,7 +361,7 @@ export default function FeedPage({ articles, categoryFilter }: { articles: RawAr
     id: a.id,
     slug: a.slug,
     title: translatedTitles[a.id] || a.title,
-    summary: a.summary,
+    summary: translatedSummaries[a.id] || a.summary,
     content: a.content,
     uiCategory: mapCategory(a.category),
     sourceName: a.sourceName,
