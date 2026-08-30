@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1061",
-    "slug": "what-i-would-do-differently-if-i-started-with-claude-today",
-    "title": "What I Would Do Differently If I Started With Claude Today!",
-    "summary": "If I were starting with Claude today, knowing what I know after eight months of daily use, the first four hours would look completely&#x2026;Continue",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-28",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://dkspeaks.medium.com/what-i-would-do-differently-if-i-started-with-claude-today-a2000e61e427?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://dkspeaks.medium.com/what-i-would-do-differently-if-i-started-with-claude-today-a2000e61e427?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1040",
     "slug": "i-had-claude-and-codex-rewrite-the-same-app-the-one-with-bet",
     "title": "I Had Claude and Codex Rewrite the Same App. The One With Better Architecture Lost.",
