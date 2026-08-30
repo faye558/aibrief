@@ -1,31 +1,5 @@
 [
   {
-    "id": "1085",
-    "slug": "stop-browsing-60000-claude-code-skills-install-findskills",
-    "title": "Stop browsing 60,000 Claude Code skills. Install find-skills.",
-    "summary": "The most-installed skill is a finder. It ranks by real installs while you are still in the task.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-30",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@info_73960/stop-browsing-60-000-claude-code-skills-install-find-skills-97a3d24761ef?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@info_73960/stop-browsing-60-000-claude-code-skills-install-find-skills-97a3d24761ef?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1086",
     "slug": "claude-code-can-now-run-on-your-own-infrastructure-the-archi",
     "title": "Claude Code Can Now Run on Your Own Infrastructure: The Architecture Explained",
