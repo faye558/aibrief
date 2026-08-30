@@ -1,31 +1,5 @@
 [
   {
-    "id": "1086",
-    "slug": "claude-code-can-now-run-on-your-own-infrastructure-the-archi",
-    "title": "Claude Code Can Now Run on Your Own Infrastructure: The Architecture Explained",
-    "summary": "Anthropic&#x2019;s new self-hosted environments move Claude Code cloud-session execution into your network, next to private repositories&#x2026;Contin",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-30",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@surajkhaitan16/claude-code-can-now-run-on-your-own-infrastructure-the-architecture-explained-69ea804126f7?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@surajkhaitan16/claude-code-can-now-run-on-your-own-infrastructure-the-architecture-explained-69ea804126f7?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1087",
     "slug": "i-use-both-claude-code-and-codex-every-day-often-on-the-exac",
     "title": "I use both Claude Code and Codex every day, often on the exact same codebase within the same…",
