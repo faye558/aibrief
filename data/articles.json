@@ -1,31 +1,5 @@
 [
   {
-    "id": "1087",
-    "slug": "i-use-both-claude-code-and-codex-every-day-often-on-the-exac",
-    "title": "I use both Claude Code and Codex every day, often on the exact same codebase within the same…",
-    "summary": "I use both Claude Code and Codex every day, often on the exact same codebase within the same afternoon.Continue reading on Medium »",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-30",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@bashir.bandi/i-use-both-claude-code-and-codex-every-day-often-on-the-exact-same-codebase-within-the-same-7752b70bfa4c?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@bashir.bandi/i-use-both-claude-code-and-codex-every-day-often-on-the-exact-same-codebase-within-the-same-7752b70bfa4c?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1088",
     "slug": "from-figma-to-code-how-ai-is-breaking-the-handoff",
     "title": "From Figma to Code: How AI Is Breaking the Handoff",
