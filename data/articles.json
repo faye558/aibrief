@@ -52,32 +52,6 @@
     "hidden": false
   },
   {
-    "id": "1067",
-    "slug": "top-10-opensource-claude-code-plugins-skills-every-developer",
-    "title": "Top 10 Open-Source Claude Code Plugins & Skills Every Developer Should Try",
-    "summary": "From debugging and context management to token optimization and developer productivity, here are the open-source AI coding extensions that&#x2026;Cont",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-29",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://ai.plainenglish.io/top-10-open-source-claude-code-plugins-skills-every-developer-should-try-c4ce71997ec7?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://ai.plainenglish.io/top-10-open-source-claude-code-plugins-skills-every-developer-should-try-c4ce71997ec7?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1068",
     "slug": "cli-vs-ide-coding-agents-i-use-both-heres-what-each-gets-rig",
     "title": "CLI vs IDE Coding Agents: I Use Both. Here’s What Each Gets Right",
