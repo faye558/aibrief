@@ -364,32 +364,6 @@
     "hidden": true
   },
   {
-    "id": "1025",
-    "slug": "-by-he-justin-sun",
-    "title": "我的女友景甜 – by H.E. Justin Sun",
-    "summary": "&#x65E9;&#x4E0A;&#x7684;&#x670B;&#x53CB;&#x5708;&#x63A8;&#x9001;&#x4E86;&#x4E00;&#x7BC7;&#x201D;&#x7231;&#x60C5;&#x6545;&#x4E8B;&#x201D;&#x636E;&#x8BF",
-    "content": null,
-    "company": "Medium",
-    "category": "블로그",
-    "date": "2026-08-27",
-    "tags": [
-      "Medium"
-    ],
-    "imageUrl": null,
-    "sourceUrl": "https://medium.com/@lynnmengusa/%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-by-h-e-justin-sun-d52aa07a5fd3?source=rss------claude_code-5",
-    "sourceName": "Medium",
-    "sources": [
-      {
-        "url": "https://medium.com/@lynnmengusa/%E6%88%91%E7%9A%84%E5%A5%B3%E5%8F%8B%E6%99%AF%E7%94%9C-by-h-e-justin-sun-d52aa07a5fd3?source=rss------claude_code-5",
-        "name": "Medium"
-      }
-    ],
-    "communityReaction": null,
-    "communityLinks": null,
-    "type": "outlink",
-    "hidden": true
-  },
-  {
     "id": "1027",
     "slug": "half-of-us-developers-now-use-claude-code-the-other-half-sho",
     "title": "Half of US Developers Now Use Claude Code. The Other Half Should Be Worried ?",
