@@ -28133,5 +28133,34 @@
     "draft": false,
     "id": "1070",
     "hidden": false
+  },
+  {
+    "title": "카카오, 배포 전 장애 예방 위한 AI 리뷰 시스템 KRIS 개발",
+    "summary": "카카오는 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 리뷰 품질 평가 체계를 구축한 이후, '이 리뷰가 실제로 무엇을 막아주고 있는가'라는 질문에 답하기 위해 KRIS 개발에 나섰다. 코드버디는 PR 요약(describe), 리뷰(review), 개선안 제안(improve) 기능을 제공하며 정확도를 꾸준히 높여왔다.",
+    "content": "## 주요 내용\n- 카카오 사내 AI 코드 리뷰 서비스 코드버디(CodeBuddy)의 응답 품질 측정 체계 구축 이후 KRIS 개발로 이어짐\n- 코드버디는 PR 요약(describe), 리뷰(review), 개선안 제안(improve) 세 가지 기능을 제공\n- '리뷰가 실제로 무엇을 막아주고 있는가'라는 문제의식에서 KRIS 개발 시작\n\n## 의미\n단순한 코드 리뷰 품질 평가를 넘어, 배포 전 실질적인 장애 예방 효과를 측정하고 검증하려는 시도로 AI 코드 리뷰 서비스의 실용적 가치를 높이려는 방향성을 보여준다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-08-30",
+    "tags": [
+      "카카오",
+      "CodeBuddy",
+      "KRIS",
+      "AI코드리뷰",
+      "장애예방"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/831",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/831",
+        "name": "카카오 테크블로그 — 같은 장애를 두 번 겪지 않기 위해, 배포 전에 리뷰합니다 — KRIS 개발기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-kris",
+    "draft": false,
+    "id": "1089"
   }
 ]
