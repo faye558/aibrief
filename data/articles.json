@@ -1,5 +1,83 @@
 [
   {
+    "id": "1092",
+    "slug": "what-ai-search-actually-cites-and-why-your-website-barely-sh",
+    "title": "What AI Search Actually Cites (and Why Your Website Barely Shows Up)",
+    "summary": "For twenty years, the rule of search was simple: make your website better than your competitors&#x2019;, and you win. Optimize your pages, earn&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-01",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://vizyreport.medium.com/what-ai-search-actually-cites-and-why-your-website-barely-shows-up-d042c22a673b?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://vizyreport.medium.com/what-ai-search-actually-cites-and-why-your-website-barely-shows-up-d042c22a673b?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1093",
+    "slug": "operationalizing-agentic-ai-shifting-marketers-from-campaign",
+    "title": "Operationalizing Agentic AI: Shifting Marketers from Campaign Builders to Strategic Conductors",
+    "summary": "Pratik is the CEO North America at Netcore and Netcore UnbxdContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-01",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pratik_bhadra/operationalizing-agentic-ai-shifting-marketers-from-campaign-builders-to-strategic-conductors-9bacfb293844?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pratik_bhadra/operationalizing-agentic-ai-shifting-marketers-from-campaign-builders-to-strategic-conductors-9bacfb293844?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1094",
+    "slug": "llm-consensus-what-most-ai-visibility-strategies-are-missing",
+    "title": "LLM Consensus: What Most AI Visibility Strategies Are Missing",
+    "summary": "More and more business owners are concerned about the lack of visibility in AI/LLM answers.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-01",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@seosmarty/llm-consensus-what-most-ai-visibility-strategies-are-missing-dbcc6bcde81c?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@seosmarty/llm-consensus-what-most-ai-visibility-strategies-are-missing-dbcc6bcde81c?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1088",
     "slug": "from-figma-to-code-how-ai-is-breaking-the-handoff",
     "title": "From Figma to Code: How AI Is Breaking the Handoff",
@@ -28162,5 +28240,65 @@
     "slug": "ai-kris",
     "draft": false,
     "id": "1089"
+  },
+  {
+    "title": "UX Collective 주간 큐레이션 — 빈 페이지 문제, 연구자 주도 AI, 디자인의 장인정신 위기",
+    "summary": "UX Collective가 디자이너를 위한 주간 큐레이션 콘텐츠를 발행했다. 이번 호에서는 인터페이스 디자인에서 '빈 페이지' 문제, AI 기반 UX 리서치에서 연구자의 역할, AI 윤리 및 AI의 호스피탈리티 문제 등을 다룬다. Jakob Nielsen의 여섯 번째 사용성 원칙인 '회상보다 인식'을 토대로 사용자의 기억 부담을 최소화해야 한다는 점이 강조된다.",
+    "content": "## 주요 내용\n- '빈 페이지'는 아무도 원하지 않지만, 완벽한 페이지는 아무도 건드리지 않는다는 인터페이스 설계 통찰 소개\n- Jakob Nielsen의 여섯 번째 사용성 휴리스틱(회상보다 인식)을 통해 인터페이스 요소의 가시성 중요성 강조\n- 'Researcher-in-the-loop': 연구자가 AI를 주도하는 UX 리서치 모델 소개\n- AI 윤리에서 '기계 뒤의 인간'을 가시화하는 것의 필요성 언급\n- AI의 호스피탈리티 문제는 돈으로 해결할 수 없다는 시각 제시\n- Designlab의 'AI for UX Design' 4주 과정 스폰서 소개 (1,000명 이상 수강, 백투스쿨 세일 $150 할인)\n- 'AI Interface Museum' 및 미래주의의 극단성에 관한 콘텐츠 포함\n\n## 의미\nUX 디자인 분야에서 AI 도입이 확산되는 가운데, 연구자와 디자이너가 AI를 주체적으로 활용하고 윤리적 관점을 견지해야 한다는 논의가 이어지고 있음을 보여준다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-08-31",
+    "tags": [
+      "UX디자인",
+      "AI윤리",
+      "UXリサーチ",
+      "인터페이스디자인",
+      "UXCollective"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/blank-pages-researcher-in-the-loop-designs-craft-crisis-7934ab0bc9cf?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Blank pages, Researcher-in-the-loop, Design’s craft crisis"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-4",
+    "draft": false,
+    "id": "1090"
+  },
+  {
+    "title": "무신사, 통합임베딩(Layer 0) 도입으로 개인화 푸시 CTR 21.3% 향상",
+    "summary": "무신사 Core-E Personalization 팀은 모든 모델과 의사결정이 공유하는 유저 표현층인 '통합임베딩(Layer 0)'을 구축하고 이를 개인화 푸시에 처음 적용해 CTR을 21.3% 개선했다. 기존에는 추천·푸시·쿠폰 등 각 모델이 같은 유저를 각각 독립적으로 학습해 유저 이해가 모델 수만큼 조각나는 구조적 문제가 있었다. 통합임베딩은 이런 '학습의 격차'를 해소하기 위해 유저에 대한 공통된 표현을 하나의 레이어로 통합한 접근이다.",
+    "content": "## 주요 내용\n- 무신사는 기존에 추천, 푸시, 쿠폰 등 서비스별로 전용 모델을 각각 구축해 같은 유저를 여러 번 개별 학습하는 구조를 운영해왔음\n- 이로 인해 유저에 대한 이해가 모델 수만큼 분산(사일로화)되고, 새 모델 개발 시마다 유저를 처음부터 다시 학습해야 하는 비효율 발생\n- 개인화 푸시는 오랫동안 DeepFM 기반 CTR 예측 모델로 운영됐으나, 운영 주체가 여러 차례 교체되면서 피처 설계 의도 등 운영 지식이 소실되는 문제도 발생\n- 이를 해결하기 위해 모든 모델과 의사결정이 공유하는 유저 표현층 'Layer 0(통합임베딩)'을 구축하고 개인화 푸시에 처음 적용\n- 결과적으로 개인화 푸시 CTR이 21.3% 향상됨\n\n## 의미\n통합임베딩은 개별 모델 성능 개선과 달리 모든 의사결정의 기반이 되는 유저 이해를 공유 레이어로 통합함으로써, 각 모델의 학습 격차를 구조적으로 해소하는 접근이라는 점에서 의의가 있다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-08-31",
+    "tags": [
+      "무신사",
+      "개인화",
+      "통합임베딩",
+      "추천시스템",
+      "CTR",
+      "머신러닝",
+      "푸시알림"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/%ED%86%B5%ED%95%A9%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%ED%91%B8%EC%8B%9C-ctr-21-3-%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%BC%EC%A0%95-08bd63623aff?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/%ED%86%B5%ED%95%A9%EC%9E%84%EB%B2%A0%EB%94%A9%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%9D%B8%ED%99%94-%ED%91%B8%EC%8B%9C-ctr-21-3-%EB%A5%BC-%EB%A7%8C%EB%93%A0-%EA%B3%BC%EC%A0%95-08bd63623aff?source=rss----f107b03c406e---4",
+        "name": "무신사 — 통합임베딩으로 개인화 푸시 CTR +21.3%를 만든 과정"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-layer-ctr",
+    "draft": false,
+    "id": "1091"
   }
 ]
