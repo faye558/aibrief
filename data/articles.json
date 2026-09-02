@@ -1,5 +1,57 @@
 [
   {
+    "id": "1109",
+    "slug": "agence-freelance-ou-webmaster-les-3-critres-qui-comptent-vra",
+    "title": "Agence, freelance ou webmaster : les 3 critères qui comptent vraiment",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@nicolas.lemaire.strategie/agence-freelance-ou-webmaster-les-3-crit%C3%A8res-qui-comptent-vraiment-d27aa3ac5e7a?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@nicolas.lemaire.strategie/agence-freelance-ou-webmaster-les-3-crit%C3%A8res-qui-comptent-vraiment-d27aa3ac5e7a?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1110",
+    "slug": "iptv-reseller-uk-how-to-choose-the-right-panel-providers-and",
+    "title": "IPTV Reseller UK: How to Choose the Right Panel, Providers and Reseller Solutions",
+    "summary": "Starting an online subscription business requires careful planning, reliable tools, and a clear understanding of the market. For anyone&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@iptvreseller10/iptv-reseller-uk-how-to-choose-the-right-panel-providers-and-reseller-solutions-cda1cf8f0007?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@iptvreseller10/iptv-reseller-uk-how-to-choose-the-right-panel-providers-and-reseller-solutions-cda1cf8f0007?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1106",
     "slug": "my-ai-agent-answered-312-customer-messages-over-a-weekend-i",
     "title": "My AI Agent Answered 312 Customer Messages Over a Weekend. I Didn't Touch My Phone.",
@@ -28689,5 +28741,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "1105"
+  },
+  {
+    "slug": "-video",
+    "title": "파일러 오재호 대표 'AI 영상 시대, 광고도 장면 단위로 봐야'",
+    "summary": "AI가 영상 제작·편집을 자동화하면서 광고 산업의 평가 기준과 전략이 근본적으로 바뀌어야 한다는 주장으로, 생성형 AI 시대 광고 업계의 패러다임 전환을 촉구하는 메시지.",
+    "content": "## 큐레이션 노트\n\nGenerative AI가 영상 제작의 진입장벽을 낮추자, 기존의 광고 평가 방식이 더 이상 유효하지 않다는 통찰입니다. 전체 영상이 아닌 개별 장면 단위의 효율성과 임팩트를 측정하는 새로운 메트릭이 필요하다는 점은, AI 시대 광고의 세분화와 최적화 방향을 보여줍니다. 이는 마케팅 ROI 측정, 크리에이티브 전략, 에이전시의 역할 재정의 등 광고 산업 전반에 걸친 구조적 변화를 예고하고 있습니다.",
+    "company": "라인",
+    "category": "테크",
+    "date": "2026-09-03",
+    "tags": [
+      "AI 영상생성",
+      "광고 산업",
+      "마케팅 혁신",
+      "생성형AI",
+      "광고 평가 메트릭",
+      "디지털 트랜스포메이션"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28815",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28815",
+        "name": "매드타임스 — 파일러 오재호 대표 “AI 영상 시대, 광고도 ‘장면 단위’로 봐야”"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1108"
   }
 ]
