@@ -1,5 +1,31 @@
 [
   {
+    "id": "1104",
+    "slug": "your-ai-assistant-is-about-to-start-buying-things",
+    "title": "Your AI assistant is about to start buying things",
+    "summary": "Software is starting to act on your behalf, and the web can&#x2019;t tell it apart from a botContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://nischalmaharjan.medium.com/your-ai-assistant-is-about-to-start-buying-things-4ccb34cf793d?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://nischalmaharjan.medium.com/your-ai-assistant-is-about-to-start-buying-things-4ccb34cf793d?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1097",
     "slug": "everything-small-brands-need-to-know-about-ai-social-media-m",
     "title": "Everything Small Brands Need to Know About AI Social Media Managers in 2026",
@@ -28405,5 +28431,182 @@
     "slug": "-airflow-poc-python",
     "draft": false,
     "id": "1096"
+  },
+  {
+    "title": "윤디자인, 윤콜렉션 Thin·Bold에 싱글폰트 15종 추가",
+    "summary": "윤디자인이 윤콜렉션 Thin과 Bold 구독 상품에 싱글폰트 15종을 새롭게 추가했다. 이번 업데이트에는 빅빅 넘버스, 위트 아이콘, 글자와브랜딩 이탤릭, DS 최최최최최종 등 다양한 스타일의 폰트가 포함된다. 해당 폰트들은 이전에 출시된 폰트로 무료 체험은 제공되지 않으며, 윤콜렉션 Thin 또는 Bold 구매 고객은 즉시 사용 가능하다.",
+    "content": "## 주요 내용\n- 윤콜렉션 Thin·Bold에 싱글폰트 15종 추가\n- 추가 폰트 구성: 빅빅 넘버스(숫자 강조용), 위트 아이콘(아이콘 폰트), 글자와브랜딩 이탤릭(기울임 타이틀용), DS 최최최최최종(고딕체 제목용)\n- 추가된 15종은 기존 출시 폰트로, 현재 무료 체험 미제공\n- 윤콜렉션 Thin 또는 Bold 구매 고객은 추가 비용 없이 바로 사용 가능\n\n## 의미\n윤콜렉션 구독 고객의 활용 범위가 넓어졌으며, 숫자·아이콘·이탤릭·고딕 등 다양한 용도의 폰트를 추가로 제공함으로써 콘텐츠 디자인 표현의 다양성이 확대되었다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-09-01",
+    "tags": [
+      "윤디자인",
+      "윤콜렉션",
+      "폰트",
+      "싱글폰트",
+      "디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1155",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1155",
+        "name": "윤디자인 공식 — 윤콜렉션에 새로운 개성을 더하다, 싱글폰트 15종 추가"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-thin-bold",
+    "draft": false,
+    "id": "1098"
+  },
+  {
+    "title": "UX Collective — 사용자는 디자인 시스템을 보지 않는다",
+    "summary": "UX Collective에 게재된 이 글은 사용자가 디자인 시스템 자체를 직접 인식하지 못한다는 전제에서 출발한다. 게슈탈트 원칙이 어떻게 훌륭한 디자인 시스템을 뒷받침하는지를 주제로 다룬다.",
+    "content": "## 주요 내용\n- 사용자는 디자인 시스템을 직접 인식하지 못함\n- 게슈탈트(Gestalt) 원칙이 훌륭한 디자인 시스템의 근간이 됨\n\n## 의미\n디자인 시스템의 가치는 사용자에게 직접 드러나지 않으며, 게슈탈트 원칙과 같은 인지 심리학적 기반이 좋은 디자인 시스템 설계에 중요한 역할을 한다는 점을 시사한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-09-01",
+    "tags": [
+      "디자인시스템",
+      "게슈탈트",
+      "UX디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Users don’t see your design system"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-5",
+    "draft": false,
+    "id": "1099"
+  },
+  {
+    "title": "Nielsen Norman Group, 2026년 9월 UX 컨퍼런스 교육 과정 발표",
+    "summary": "Nielsen Norman Group이 2026년 9월 14일부터 25일까지 UX 컨퍼런스 교육 프로그램을 진행한다고 발표했다. 최대 5개의 심화 교육 과정을 통해 성공적인 디자인을 위한 UX 모범 사례를 가르친다.",
+    "content": "## 주요 내용\n- 일정: 2026년 9월 14일 ~ 9월 25일\n- 최대 5개의 심화 교육 과정 제공\n- UX 전문가를 위한 장기적 역량 개발에 초점\n- 성공적인 디자인을 위한 UX 모범 사례 교육\n\n## 의미\nNielsen Norman Group이 UX 전문가를 대상으로 한 정기 컨퍼런스 형식의 교육 프로그램을 2026년 9월에 운영할 예정이며, 지속 가능한 실무 역량 강화를 목표로 한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-09-01",
+    "tags": [
+      "UX교육",
+      "NielsenNormanGroup",
+      "UX컨퍼런스",
+      "디자인교육"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/training/september/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — UX Conference September Announced (Sep 14 - Sep 25)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-3",
+    "draft": false,
+    "id": "1100"
+  },
+  {
+    "slug": "it-news",
+    "title": "AI가 가족의 최고 참모관이 되고 싶어 한다. 허락해야 할까?",
+    "summary": "AI가 개인의 일상 관리를 넘어 가족 단위의 의사결정까지 담당하려는 움직임이 본격화되면서, 기술 편의성과 개인정보 보호·자율성 사이의 근본적인 균형 문제가 대두되고 있다.",
+    "content": "## 큐레이션 노트\n\nAI의 역할이 단순한 업무 자동화에서 가정 내 의사결정 중추로 확대되는 추세는 소비자 기술의 패러다임 전환을 의미한다. 이는 편의성의 극대화와 동시에 데이터 통제권, 가족의 자율적 판단력, 프라이버시 침해 위험 등 다층적인 윤리적 질문을 던진다. 기술 기업들이 일상생활 전반에 깊숙이 개입하려는 시도를 평가하는 것이 개인과 가정, 그리고 사회 전체가 AI와 공존하는 방식을 정의하는 중요한 분기점이 될 것이다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-09-01",
+    "tags": [
+      "AI",
+      "일상생활 자동화",
+      "개인정보 보호",
+      "가정 기술",
+      "윤리",
+      "의사결정",
+      "소비자 기술"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91599193/ai-wants-to-become-your-familys-chief-of-staff-should-you-let-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91599193/ai-wants-to-become-your-familys-chief-of-staff-should-you-let-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — AI wants to become your family’s chief of staff. Should you let it?"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1101"
+  },
+  {
+    "slug": "it-surveymonkey",
+    "title": "SurveyMonkey, AI로 설문조사의 유용성을 되살리려 한다",
+    "summary": "설문조사 플랫폼의 대명사인 SurveyMonkey가 AI를 핵심 경쟁력으로 내세우며, 데이터 수집 도구에서 인사이트 도출 플랫폼으로의 진화를 시도하고 있다.",
+    "content": "## 큐레이션 노트\n\n설문조사는 그동안 단순 데이터 수집 수단으로 전락했지만, SurveyMonkey의 AI 전략은 방대한 응답 데이터를 자동으로 분석하고 의미 있는 패턴을 추출하는 방식으로 설문의 가치를 재정의하려 한다. 이는 생성형 AI 시대에 기존 엔터프라이즈 소프트웨어가 어떻게 기존 기능을 강화하고 고객 관계를 심화할 수 있는지 보여주는 사례로, 단순한 기술 적용을 넘어 비즈니스 인텔리전스 플랫폼으로의 포지셔닝 변화를 의미한다.",
+    "company": "IT·테크",
+    "category": "테크",
+    "date": "2026-09-01",
+    "tags": [
+      "AI",
+      "SurveyMonkey",
+      "데이터 분석",
+      "엔터프라이즈 소프트웨어",
+      "생성형 AI",
+      "플랫폼 확장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91599172/surveymonkey-is-betting-ai-can-make-surveys-useful-again?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91599172/surveymonkey-is-betting-ai-can-make-surveys-useful-again?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — SurveyMonkey is betting AI can make surveys useful again"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1102"
+  },
+  {
+    "slug": "google-generate",
+    "title": "원클럽과 구글, 생성형 AI로 겨루는 글로벌 'AI 크리에이티브 챌린지' 개최",
+    "summary": "생성형 AI의 창의적 활용을 경쟁하는 글로벌 챌린지는 AI 기술이 단순 자동화를 넘어 콘텐츠 창작 산업의 핵심 도구로 자리잡았음을 보여주는 신호다.",
+    "content": "## 큐레이션 노트\n주요 기술 기업과 크리에이티브 플랫폼이 협력하는 AI 챌린지 개최는 생성형 AI 대중화가 학술/기술 영역을 넘어 실제 산업 적용 단계에 진입했음을 의미한다. 이는 창작자 경제에서 AI 리터러시가 경쟁력이 되는 시대 도래를 암시하며, 앞으로 AI 활용 능력이 콘텐츠 제작자들의 필수 스킬셋으로 재편될 가능성을 높인다.",
+    "company": "Google",
+    "category": "AI",
+    "date": "2026-09-02",
+    "tags": [
+      "생성형AI",
+      "AI크리에이티브",
+      "구글",
+      "콘텐츠창작",
+      "AI산업화",
+      "글로벌트렌드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28828",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28828",
+        "name": "매드타임스 — 원클럽·구글, 생성형 AI로 겨루는 글로벌 ‘AI 크리에이티브 챌린지’ 개최"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1103"
   }
 ]
