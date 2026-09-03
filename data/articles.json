@@ -1,5 +1,31 @@
 [
   {
+    "id": "1117",
+    "slug": "the-question-to-ask-before-you-pick-an-ai-tool",
+    "title": "The Question to Ask Before You Pick an AI Tool",
+    "summary": "Every team that adopts AI eventually holds the same meeting. Someone brings a shortlist of tools, someone else brings a demo, and the&#x2026;Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-03",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@paul.crinigan218/the-question-to-ask-before-you-pick-an-ai-tool-b92b23ea82c4?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@paul.crinigan218/the-question-to-ask-before-you-pick-an-ai-tool-b92b23ea82c4?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1113",
     "slug": "one-ai-tool-for-shop-owners-not-for-tech-people",
     "title": "One AI tool for shop owners (not for tech people)",
@@ -28874,5 +28900,65 @@
     "communityLinks": null,
     "draft": false,
     "id": "1108"
+  },
+  {
+    "title": "Nielsen Norman Group, 2026년 11월 UX 컨퍼런스 온라인 교육 일정 발표",
+    "summary": "Nielsen Norman Group이 2026년 11월 UX 전문가를 대상으로 한 라이브 온라인 교육 과정을 발표했다. 교육은 아메리카 지역 기준 11월 16일~19일, 아시아·오세아니아 지역 기준 11월 17일~20일에 진행된다.",
+    "content": "## 주요 내용\n- 최대 2개의 심화 UX 교육 과정 수강 가능\n- UX 성공적인 디자인을 위한 모범 사례 교육\n- 라이브 온라인 방식으로 진행\n- 일정: 아메리카 11월 16일~19일, 아시아·오세아니아 11월 17일~20일 (2026년)\n\n## 의미\nUX 전문가들이 장기적으로 활용 가능한 실무 역량을 온라인으로 습득할 수 있는 교육 기회를 제공한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-09-03",
+    "tags": [
+      "UX교육",
+      "NielsenNormanGroup",
+      "온라인교육",
+      "UX컨퍼런스",
+      "디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — UX Conference November Announced (Nov 16 - Nov 19)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-4",
+    "draft": false,
+    "id": "1115"
+  },
+  {
+    "title": "무신사, Playwright·Slack 봇·AI로 회귀 테스트 시간 하루→30분 단축",
+    "summary": "무신사 Retail Platform QA팀이 매주 정기 배포 시 하루 걸리던 회귀 테스트를 자동화 파이프라인 구축으로 30분으로 줄였다. UI 자동화 도구로 Playwright와 TypeScript를 선택하고, Slack 봇 및 AI 기반 테스트케이스 생성기까지 개발해 기획부터 리포트까지 하나의 파이프라인으로 연결했다.",
+    "content": "## 주요 내용\n- 무신사 Retail Platform은 mPOS, Self-POS, PDP, MOSS 등 여러 서비스가 맞물린 구조로, QA팀이 매주 정기 배포 시 수동 회귀 테스트에 하루를 소비했음\n- 인원 부족과 도메인 증가 문제를 해결하기 위해 UI 자동화, Slack 봇, AI 기반 TC 생성기를 포함한 자동화 파이프라인 구축\n- UI 자동화 도구로 Playwright를 선택한 이유: ① Auto-wait(수동 대기 코드 불필요), ② 네트워크 인터셉트(엣지케이스 재현), ③ Trace Viewer(실패 원인 빠른 분석)\n- 테스트 코드 유지보수 비용을 낮추기 위해 Page Object Model(POM) 패턴 적용, UI 조작 로직과 테스트 로직을 분리\n- 전체 구조는 기획 → 설계 → 실행 → 리포트를 하나의 파이프라인으로 연결하는 다섯 영역으로 구성\n- 현재 자동화된 범위 내에서 회귀 테스트 소요 시간이 30분으로 단축됨(전체 커버리지 완성 단계는 아님)\n\n## 의미\n소규모 QA 인원으로 반복적인 회귀 테스트 부담을 해소하고, 테스트 자동화를 단순 실행 수준을 넘어 AI 기반 TC 생성까지 확장한 사례로, 오프라인 매장 운영 플랫폼의 QA 효율화 방향을 보여준다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-09-03",
+    "tags": [
+      "무신사",
+      "QA자동화",
+      "Playwright",
+      "E2E테스트",
+      "PageObjectModel",
+      "AI테스트",
+      "RetailPlatform"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/retail-platform-qa-%EC%9E%90%EB%8F%99%ED%99%94-%EC%97%AC%EC%A0%95-027ceba7fd6d?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/retail-platform-qa-%EC%9E%90%EB%8F%99%ED%99%94-%EC%97%AC%EC%A0%95-027ceba7fd6d?source=rss----f107b03c406e---4",
+        "name": "무신사 — Retail Platform QA 자동화 여정"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-playwright",
+    "draft": false,
+    "id": "1116"
   }
 ]
