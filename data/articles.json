@@ -1,5 +1,109 @@
 [
   {
+    "id": "1127",
+    "slug": "anvil-why-i-refused-to-let-ai-guess-at-product-data-and-buil",
+    "title": "Anvil: Why I Refused to Let AI Guess at Product Data (and Built a Deterministic Pipeline Instead)",
+    "summary": "A UniHack build log &#x2014; Bonded Abrasives, regex, and the discipline of not inventing thingsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jainjiya451/anvil-why-i-refused-to-let-ai-guess-at-product-data-and-built-a-deterministic-pipeline-instead-4b554159eb93?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jainjiya451/anvil-why-i-refused-to-let-ai-guess-at-product-data-and-built-a-deterministic-pipeline-instead-4b554159eb93?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1128",
+    "slug": "agentic-commerce-what-happens-when-ai-starts-shopping-for-yo",
+    "title": "Agentic Commerce: What Happens When AI Starts Shopping for Your Customers?",
+    "summary": "AI is changing more than how customers search. It may soon decide which products they see, compare, and buy. Is your retail business ready?Continue re",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@afrin.fathima/agentic-commerce-what-happens-when-ai-starts-shopping-for-your-customers-48505b5f512f?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@afrin.fathima/agentic-commerce-what-happens-when-ai-starts-shopping-for-your-customers-48505b5f512f?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1129",
+    "slug": "trademax-ai",
+    "title": "一套系统、一个真实案例、一个开源项目：TradeMax 的 AI 外贸增长打法",
+    "summary": "&#x51CC;&#x6668;&#x4E24;&#x70B9;&#xFF0C;AI &#x8FD8;&#x5728;&#x66FF;&#x4F60;&#x627E;&#x5BA2;&#x6237;&#x3001;&#x505A;&#x5185;&#x5BB9;&#x3001;&#x8DDF;&#x",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aijianghaha/%E4%B8%80%E5%A5%97%E7%B3%BB%E7%BB%9F-%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B-%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-trademax-%E7%9A%84-ai-%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%95%BF%E6%89%93%E6%B3%95-9889615edfa5?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aijianghaha/%E4%B8%80%E5%A5%97%E7%B3%BB%E7%BB%9F-%E4%B8%80%E4%B8%AA%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B-%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE-trademax-%E7%9A%84-ai-%E5%A4%96%E8%B4%B8%E5%A2%9E%E9%95%BF%E6%89%93%E6%B3%95-9889615edfa5?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1130",
+    "slug": "ai-agents-are-starting-to-reshape-retail-workflows",
+    "title": "AI Agents Are Starting to Reshape Retail Workflows",
+    "summary": "Retail is moving into a new phase of AI adoption. The most important shift is not another chatbot or another tool that generates text. It&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://jimyeh1971.medium.com/ai-agents-are-starting-to-reshape-retail-workflows-3c706313a76c?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://jimyeh1971.medium.com/ai-agents-are-starting-to-reshape-retail-workflows-3c706313a76c?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1125",
     "slug": "google-ai-overviews-for-shopify-when-the-answer-and-the-pdp",
     "title": "Google AI Overviews for Shopify: When the Answer and the PDP Disagree",
