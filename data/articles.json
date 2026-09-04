@@ -1,5 +1,57 @@
 [
   {
+    "id": "1131",
+    "slug": "aiga-mandeun-kodeuga-eodeumini-doegikkaji",
+    "title": "AI가 만든 코드가 어드민이 되기까지",
+    "summary": "실시간으로 생성되는 코드를 어드민 화면으로 보여 주기 위해, 개발 환경을 브라우저 안으로 옮긴 이야기를 소개해요.",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-09-04",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/52885",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/52885",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1132",
+    "slug": "ai-quote-generation-write-proposals-10x-faster-american-drea",
+    "title": "AI Quote Generation: Write Proposals 10x Faster — American Dream AI",
+    "summary": "You spend 90 minutes building a detailed proposal.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@americandreamai/ai-quote-generation-write-proposals-10x-faster-american-dream-ai-cbbfbe1cfa7d?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@americandreamai/ai-quote-generation-write-proposals-10x-faster-american-dream-ai-cbbfbe1cfa7d?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1127",
     "slug": "anvil-why-i-refused-to-let-ai-guess-at-product-data-and-buil",
     "title": "Anvil: Why I Refused to Let AI Guess at Product Data (and Built a Deterministic Pipeline Instead)",
