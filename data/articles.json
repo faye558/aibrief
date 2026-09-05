@@ -1,5 +1,31 @@
 [
   {
+    "id": "1135",
+    "slug": "your-business-uses-ai-it-has-not-adopted-it",
+    "title": "Your Business Uses AI. It Has Not Adopted It.",
+    "summary": "A year of record AI spending bought nothing on the measure that matters. The reason is people, not software.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-05",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@borisblum2/your-business-uses-ai-it-has-not-adopted-it-8bb1352a082e?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@borisblum2/your-business-uses-ai-it-has-not-adopted-it-8bb1352a082e?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1133",
     "slug": "how-to-start-using-ai-when-youre-a-complete-beginner",
     "title": "How to Start Using AI When You’re a Complete Beginner",
@@ -29391,5 +29417,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "1124"
+  },
+  {
+    "title": "Nielsen Norman Group — UX 업무에 AI 활용하기 학습 가이드 공개",
+    "summary": "Nielsen Norman Group이 UX 업무에 인공지능을 활용하는 방법을 학습할 수 있는 가이드를 공개했다. 이 가이드는 관련 아티클과 영상 링크 모음으로 구성되어 있으며, AI를 UX 업무에 효과적으로 사용하는 방법을 소개한다.",
+    "content": "## 주요 내용\n- UX 업무에 AI를 활용하는 방법을 다룬 아티클 및 영상 링크 모음 제공\n- AI·UX 분야 학습 시작점이 불분명한 이들을 위한 안내 자료\n\n## 의미\nNielsen Norman Group이 UX 실무자들이 AI를 업무에 접목하는 데 참고할 수 있는 학습 자료를 한곳에 정리해 제공함으로써, UX 분야의 AI 활용 교육을 지원하고 있다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-09-04",
+    "tags": [
+      "UX",
+      "AI활용",
+      "NielsenNormanGroup",
+      "학습가이드",
+      "디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Using AI for UX Work: Study Guide"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-5",
+    "draft": false,
+    "id": "1134"
   }
 ]
