@@ -1,5 +1,31 @@
 [
   {
+    "id": "1162",
+    "slug": "aiga-tim-gyuchigeul-jikidorog-haneun-bangbeob",
+    "title": "AI가 팀 규칙을 지키도록 하는 방법",
+    "summary": "Coding Agent를 위한 Stylepack",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-09-08",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/52631",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/52631",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
     "id": "1155",
     "slug": "how-to-turn-messy-notes-into-a-checklist-with-ai",
     "title": "How to Turn Messy Notes Into a Checklist With AI",
@@ -30111,5 +30137,62 @@
     "slug": "-news-3",
     "draft": false,
     "id": "1154"
+  },
+  {
+    "title": "카카오, if(kakao)2026 첫째 날 기술 세션 23개 공개 — AI·모델·에이전트 중심",
+    "summary": "카카오가 if(kakao)2026 컨퍼런스 첫째 날 일정을 공개했다. 키노트를 제외한 총 23개의 기술 세션이 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장 등 4개 트랙으로 구성된다. 주요 세션 중 하나로 단 한 번의 학습으로 4개의 Small Dense Model Family를 개발한 Kanana-2 SLM 관련 노하우가 소개될 예정이다.",
+    "content": "## 주요 내용\n- if(kakao)2026 첫째 날은 AI 방향성, 신뢰와 안전, Model & Agent, 상생과 성장 총 4개 주제로 구성\n- 키노트를 제외한 기술 세션 23개 진행\n- 'You Only Train Once: 더 효율적으로 Kanana SLM 개발하기' 세션에서 단 한 번의 학습으로 4개의 Small Dense Model Family를 개발한 노하우 공유\n- 발표자: 류민호, 한규빈\n\n## 의미\n카카오가 자체 개발 중인 Kanana SLM 시리즈의 기술적 접근 방식을 외부에 공개함으로써, 효율적인 소형 언어모델 개발 방법론을 업계와 공유하는 자리가 될 것으로 보인다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-09-07",
+    "tags": [
+      "카카오",
+      "if(kakao)2026",
+      "Kanana",
+      "SLM",
+      "AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/833",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/833",
+        "name": "카카오 테크블로그 — if(kakao)2026 첫째 날, 기술 세션 소개"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-release-model",
+    "draft": false,
+    "id": "1160"
+  },
+  {
+    "slug": "ai-news-9",
+    "title": "AI 시대, 수작업 크리에이티브는 왜 여전히 중요한가 - 원 아시아 2026, '테이스트'에 주목",
+    "summary": "생성AI가 창작 영역을 침범하면서 역설적으로 인간의 감각과 취향이 담긴 수작업 크리에이티브의 가치가 재평가되고 있다는 점이 주목할 만하다.",
+    "content": "## 큐레이션 노트\n\nAI가 효율성과 규모의 경제를 담당하는 가운데, 마케팅과 크리에이티브 업계는 '개인의 취향(테이스트)'이라는 차별화 요소로 인간의 개입을 강조하고 있다. 이는 단순히 기술 대 인간의 대립이 아닌, 각각의 강점을 어떻게 조합할 것인가에 대한 산업 차원의 적응 신호다. 브랜드와 소비자 관계가 복잡해지는 만큼 알고리즘으로 포착할 수 없는 감정적·문화적 깊이가 경쟁력이 되는 추세를 반영한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-08",
+    "tags": [
+      "생성AI",
+      "크리에이티브",
+      "인간중심설계",
+      "마케팅트렌드",
+      "차별화전략"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28889",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28889",
+        "name": "매드타임스 — “AI시대, 수작업 크리에이티브는 왜 여전히 중요한가” 원 아시아 2026, ‘테이스트’에 주목"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1161"
   }
 ]
