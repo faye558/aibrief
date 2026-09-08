@@ -1,5 +1,31 @@
 [
   {
+    "id": "1169",
+    "slug": "how-ai-helps-keep-e-commerce-marketing-under-control",
+    "title": "How AI Helps Keep E-commerce Marketing Under Control",
+    "summary": "Growing an online store creates opportunities, but it also creates complexity.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vincent.carrie/how-ai-helps-keep-e-commerce-marketing-under-control-30d5df8d3c89?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vincent.carrie/how-ai-helps-keep-e-commerce-marketing-under-control-30d5df8d3c89?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1164",
     "slug": "how-the-right-business-partner-gives-you-something-ai-never",
     "title": "How the Right Business Partner Gives You Something AI Never Will",
@@ -30277,5 +30303,114 @@
     "communityLinks": null,
     "draft": false,
     "id": "1163"
+  },
+  {
+    "title": "Monotype, 카렌 브루어를 최고마케팅책임자(CMO)로 선임",
+    "summary": "Monotype이 카렌 브루어(Karen Brewer)를 최고마케팅책임자(CMO)로 선임했다. 그녀는 25년 이상의 마케팅 경력을 보유하고 있으며, Adobe와 Autodesk 등 글로벌 기업에서 CMO를 역임한 바 있다.",
+    "content": "## 주요 내용\n- 카렌 브루어가 Monotype의 최고마케팅책임자(CMO)로 합류\n- 마케팅 조직을 총괄하며 회사의 타이포그래피 유산을 강화하고 브랜드 인지도 및 수요 창출을 위한 전략적 이니셔티브를 주도\n- 4회 CMO 경험 보유, 25년 이상 성장 전략 수립 및 실행 경력\n- Adobe, Autodesk 등 글로벌 기업 및 초기 스타트업에서 마케팅 리더십 발휘\n- 카테고리 내러티브, 제품 마케팅, 고투마켓 전략 분야 전문성 보유\n- 고성과·다양성 중심의 팀 구축에도 주력\n\n## 의미\n카렌 브루어의 합류는 Monotype이 타이포그래피 전통을 유지하면서도 마케팅 역량을 강화해 사업 확장을 도모하려는 의지를 보여준다.",
+    "company": "Monotype",
+    "category": "폰트",
+    "date": "2026-09-08",
+    "tags": [
+      "Monotype",
+      "CMO",
+      "임원선임",
+      "마케팅",
+      "타이포그래피"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.monotype.com/karen-brewer",
+    "sourceName": "Monotype 공식",
+    "sources": [
+      {
+        "url": "https://www.monotype.com/karen-brewer",
+        "name": "Monotype 공식 — Karen Brewer"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      },
+      {
+        "name": "Reddit r/fonts",
+        "url": "https://www.reddit.com/r/fonts/new/"
+      }
+    ],
+    "slug": "monotype-cmo",
+    "draft": false,
+    "id": "1166"
+  },
+  {
+    "title": "Adobe Substance Painter 대안 — 무료 오픈소스 텍스처 페인팅 앱 주목",
+    "summary": "Adobe Substance Painter의 대안으로 주목받는 무료 오픈소스 텍스처 페인팅 앱이 등장했다. 이 앱은 경량화되어 있으며 모든 플랫폼에서 사용 가능하다.",
+    "content": "## 주요 내용\n- Adobe Substance Painter의 대안 앱\n- 무료 오픈소스\n- 경량 소프트웨어\n- 모든 플랫폼 지원\n\n## 의미\n블렌더(Blender)가 3D 소프트웨어 분야에서 무료 오픈소스의 대표주자가 된 것처럼, 이 앱이 텍스처 페인팅 소프트웨어 분야에서 유사한 위치를 차지할 가능성이 있다고 평가된다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-09-08",
+    "tags": [
+      "텍스처페인팅",
+      "오픈소스",
+      "Adobe",
+      "SubstancePainter",
+      "3D소프트웨어"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/3d/3d-software/this-free-app-could-become-the-blender-of-texture-painting-software",
+        "name": "Creative Bloq —  This free app could become the Blender of texture painting software "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-substance-painter",
+    "draft": false,
+    "id": "1167"
+  },
+  {
+    "slug": "openai-news-4",
+    "title": "'프로틴'이냐 '단백질보충제'냐… 부르는 말 하나에 AI 추천 1위가 바뀌었다",
+    "summary": "사용자의 미묘한 언어 표현 차이가 AI 추천 결과를 완전히 달리하는 현상은 현재 생성형 AI의 시맨틱 이해 능력이 여전히 제한적임을 보여주는 사례입니다.",
+    "content": "## 큐레이션 노트\n\n이는 단순한 마케팅 호기심을 넘어 **AI 기술의 근본적 약점**을 드러내는 중요한 사례입니다. 동일한 상품을 지칭하는 다양한 표현(브랜드명, 카테고리명, 일반명)에 따라 추천 결과가 달라진다는 것은, AI가 진정한 의미 이해보다는 **패턴 매칭에 의존**하고 있음을 시사합니다. 이는 전자상거래, 소비자 권익, 검색 공정성 측면에서 중요한 문제이며, 향후 AI 추천 시스템의 신뢰성 및 투명성을 높이기 위한 기술 개선의 필요성을 강조합니다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-09-09",
+    "tags": [
+      "AI추천시스템",
+      "시맨틱이해",
+      "생성형AI한계",
+      "검색알고리즘",
+      "전자상거래",
+      "AI윤리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=28882",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=28882",
+        "name": "매드타임스 — [브랜딥 인사이트] '프로틴'이냐 '단백질보충제'냐… 부르는 말 하나에 AI 추천 1위가 바뀌었다"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1168"
   }
 ]
