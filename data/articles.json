@@ -1,5 +1,57 @@
 [
   {
+    "id": "1164",
+    "slug": "how-the-right-business-partner-gives-you-something-ai-never",
+    "title": "How the Right Business Partner Gives You Something AI Never Will",
+    "summary": "Everyone is talking about what AI will replace.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@steve_23166/how-the-right-business-partner-gives-you-something-ai-never-will-9754c5d660b4?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@steve_23166/how-the-right-business-partner-gives-you-something-ai-never-will-9754c5d660b4?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1165",
+    "slug": "agentic-ai-is-changing-commerce-are-our-payment-systems-read",
+    "title": "Agentic AI is Changing Commerce: Are Our Payment Systems Ready?",
+    "summary": "When ChatGPT was first introduced, many of us imagined AI as a tool that could answer questions, summarize documents, or generate content&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aditi.datta2345/agentic-ai-is-changing-commerce-are-our-payment-systems-ready-7ba18cf50dea?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aditi.datta2345/agentic-ai-is-changing-commerce-are-our-payment-systems-ready-7ba18cf50dea?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1162",
     "slug": "aiga-tim-gyuchigeul-jikidorog-haneun-bangbeob",
     "title": "AI가 팀 규칙을 지키도록 하는 방법",
@@ -30194,5 +30246,36 @@
     "communityLinks": null,
     "draft": false,
     "id": "1161"
+  },
+  {
+    "slug": "anthropic-news-9",
+    "title": "AI가 당신의 데스크톱을 장악하려는 이유",
+    "summary": "생성형 AI가 단순한 채팅 도구를 넘어 OS 수준의 개인 컴퓨팅 환경을 재편하려는 움직임이 본격화되고 있으며, 이는 향후 기술 플랫폼의 패권 재편을 의미한다.",
+    "content": "## 큐레이션 노트\n\nAI가 브라우저나 앱 단위의 인터페이스를 넘어 전체 데스크톱 환경으로 확대되는 것은 마이크로소프트의 윈도우, 애플의 맥OS 같은 전통적 OS의 역할 자체가 변할 수 있음을 시사한다. 기술 기업들이 데스크톱의 중심에 AI를 배치하려는 이유는 사용자의 모든 디지털 활동 데이터를 확보하고, AI 시대의 새로운 플랫폼 표준을 선점하려는 전략이다. 이러한 움직임은 개인용 컴퓨팅의 다음 10년을 좌우할 핵심 기술 경쟁이 될 것으로 보인다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-09-08",
+    "tags": [
+      "AI",
+      "데스크톱",
+      "OS",
+      "플랫폼",
+      "생성형AI",
+      "기술혁신",
+      "마이크로소프트",
+      "애플"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.fastcompany.com/91602750/why-ai-wants-to-take-over-your-desktop?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "sourceName": "Fast Company",
+    "sources": [
+      {
+        "url": "https://www.fastcompany.com/91602750/why-ai-wants-to-take-over-your-desktop?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+        "name": "Fast Company — Why AI wants to take over your desktop"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1163"
   }
 ]
