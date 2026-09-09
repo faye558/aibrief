@@ -1,5 +1,57 @@
 [
   {
+    "id": "1171",
+    "slug": "your-ai-login-got-stolen-without-a-password-the-chat-history",
+    "title": "Your AI Login Got Stolen Without a Password. The Chat History Is Why It Matters",
+    "summary": "Anthropic spent last week logging Claude users out and deleting their saved cards. The drained usage limits were the small part.Continue reading on Me",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-09",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://zvi-melkman.medium.com/your-ai-login-got-stolen-without-a-password-the-chat-history-is-why-it-matters-bcefbaa37a30?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://zvi-melkman.medium.com/your-ai-login-got-stolen-without-a-password-the-chat-history-is-why-it-matters-bcefbaa37a30?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1172",
+    "slug": "when-ai-agents-start-spending-5-companies-to-watch-in-agenti",
+    "title": "When AI Agents Start Spending: 5 Companies to Watch in Agentic Commerce",
+    "summary": "How GeekyAnts, Stripe, Visa, Mastercard, and Shopify approach the systems behind delegated shopping.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-09",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@yashmahadevvv/when-ai-agents-start-spending-5-companies-to-watch-in-agentic-commerce-aae8ed329dc3?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@yashmahadevvv/when-ai-agents-start-spending-5-companies-to-watch-in-agentic-commerce-aae8ed329dc3?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1169",
     "slug": "how-ai-helps-keep-e-commerce-marketing-under-control",
     "title": "How AI Helps Keep E-commerce Marketing Under Control",
@@ -30412,5 +30464,36 @@
     "communityLinks": null,
     "draft": false,
     "id": "1168"
+  },
+  {
+    "title": "카카오, if(kakao)2026 둘째 날 기술 세션 30개 공개 — 안정성·인프라·AI·에이전트 주제",
+    "summary": "카카오가 if(kakao)2026 둘째 날 일정으로 안정성과 인프라, 거버넌스, AI-DLC, Model & Agent를 주제로 한 총 30개의 기술 세션을 공개했다. 첫 번째 소개된 세션은 유휴 서버 탐색에서 출발해 하이브리드 클라우드와 FinOps 전략으로 이어지는 카카오의 비용 최적화 여정을 다룬다.",
+    "content": "## 주요 내용\n- if(kakao)2026 둘째 날은 키노트를 제외한 총 30개의 기술 세션으로 구성\n- 주요 주제 트랙: 안정성과 인프라, 거버넌스, AI-DLC, Model & Agent\n- 첫 소개 세션: 유휴 서버 탐색에서 Hybrid Cloud 도입까지 이어진 카카오의 FinOps 여정 (비용 가시화 및 Unit Economics)\n\n## 의미\n카카오가 클라우드 비용 최적화부터 AI 모델·에이전트까지 폭넓은 기술 주제를 한자리에서 공유함으로써, 내부 기술 역량과 운영 노하우를 외부에 공개하는 자리로 주목된다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-09-07",
+    "tags": [
+      "카카오",
+      "if(kakao)2026",
+      "FinOps",
+      "하이브리드클라우드",
+      "AI에이전트",
+      "기술세션",
+      "인프라"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/835",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/835",
+        "name": "카카오 테크블로그 — if(kakao)2026 둘째 날, 기술 세션 소개"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-release-agent",
+    "draft": false,
+    "id": "1170"
   }
 ]
