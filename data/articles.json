@@ -1,5 +1,83 @@
 [
   {
+    "id": "1232",
+    "slug": "how-small-businesses-can-use-ai-tools-to-save-time",
+    "title": "How Small Businesses Can Use AI Tools to Save Time",
+    "summary": "Practical ways small businesses can use AI for everyday tasks, productivity, content creation, customer support, research, and workflow&#x2026;Continu",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@barackfernandence/how-small-businesses-can-use-ai-tools-to-save-time-d7a0c510cfe7?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@barackfernandence/how-small-businesses-can-use-ai-tools-to-save-time-d7a0c510cfe7?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1233",
+    "slug": "i-run-my-business-on-ai-agents-i-would-be-fine-if-the-models",
+    "title": "I run my business on AI agents. I would be fine if the models stopped improving today.",
+    "summary": "Dario Amodei published a 3,800-word essay on Saturday 12 September asking AI companies to slow down. Sam Altman, Elon Musk and Demis&#x2026;Continue r",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@juuso.vermasheina/i-run-my-business-on-ai-agents-i-would-be-fine-if-the-models-stopped-improving-today-487c8f2d0ef7?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@juuso.vermasheina/i-run-my-business-on-ai-agents-i-would-be-fine-if-the-models-stopped-improving-today-487c8f2d0ef7?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1234",
+    "slug": "proactive-vs-reactive-ai-shopping-and-what-different-actuall",
+    "title": "Proactive vs. Reactive AI Shopping — And What “Different” Actually Means in Practice",
+    "summary": "Most explanations of proactive AI shopping stop at the word itself, as if &#x201C;proactive&#x201D; were self-explanatory once you say it out loud. It",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-18",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/glanceinspires/proactive-vs-reactive-ai-shopping-and-what-different-actually-means-in-practice-4089e21f964f?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/glanceinspires/proactive-vs-reactive-ai-shopping-and-what-different-actually-means-in-practice-4089e21f964f?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1229",
     "slug": "ali-noor-mostafa-kamal-e-commerce-seo-ai-visibility-speciali",
     "title": "Ali Noor Mostafa Kamal — E-commerce SEO & AI Visibility Specialist",
@@ -32065,5 +32143,35 @@
     "communityLinks": null,
     "draft": false,
     "id": "1228"
+  },
+  {
+    "title": "라인, LLM 기반 AI 에이전트로 광고 분석 리포트 자동화 구현",
+    "summary": "LINE Ads 데이터 분석 플랫폼 팀이 LLM을 활용한 AI 에이전트 기반 광고 분석 리포트 자동화 시스템을 개발했다. 광고 매출은 상품·광고주·캠페인 집행 변화에 따라 매일 변동하며, 이에 따른 광고 KPI 분석 리포트 작업을 자동화하는 것이 핵심 목표다.",
+    "content": "## 주요 내용\n- LINE Ads 데이터 분석 플랫폼 팀이 AI 에이전트 기반 광고 분석 리포트 자동화 프로젝트 진행\n- 광고 매출은 상품, 광고주, 캠페인 집행 변화에 따라 매일 변동하는 특성을 가짐\n- LLM(대규모 언어 모델)을 활용해 광고 KPI 분석 리포트 자동화를 구현\n\n## 의미\n반복적이고 복잡한 광고 KPI 분석 리포트 업무에 LLM 기반 AI 에이전트를 도입함으로써, 데이터 분석 자동화의 실질적인 적용 사례를 제시했다는 점에서 의미가 있다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-09-18",
+    "tags": [
+      "라인",
+      "LLM",
+      "AI에이전트",
+      "광고분석",
+      "자동화",
+      "LINE Ads"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/ai-agent-ad-report-automation",
+        "name": "라인 — LLM에게 어디까지 맡길 것인가: AI 에이전트 기반 광고 분석 리포트 자동화"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-agent",
+    "draft": false,
+    "id": "1231"
   }
 ]
