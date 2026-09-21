@@ -1,5 +1,31 @@
 [
   {
+    "id": "1256",
+    "slug": "b6ai-how-ai-agents-are-transforming-ecommerce-from-product-s",
+    "title": "B6AI: How AI Agents Are Transforming Ecommerce From Product Search to Purchase",
+    "summary": "IntroductionContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mandra_PMatbytesnbinary/b6ai-how-ai-agents-are-transforming-ecommerce-from-product-search-to-purchase-b52d150be13a?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mandra_PMatbytesnbinary/b6ai-how-ai-agents-are-transforming-ecommerce-from-product-search-to-purchase-b52d150be13a?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1251",
     "slug": "ai-at-the-counter-is-costing-restaurants-customers-heres-the",
     "title": "AI at the Counter Is Costing Restaurants Customers. Here’s the Rule That Fixes It.",
@@ -32696,5 +32722,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "1246"
+  },
+  {
+    "slug": "ai-image-video",
+    "title": "문화체육관광부와 한국디지털광告협회, 카피부터 AI 이미지·영상 제작까지 무료 실무교육 개최",
+    "summary": "정부 주도의 생성형 AI 교육 지원이 확대되면서, 마케팅 실무자들의 AI 도구 활용 진입장벽을 낮추는 단계에 접어들었다는 신호다.",
+    "content": "## 큐레이션 노트\n\n이 뉴스는 한국의 디지털 광고·마케팅 산업에서 생성형 AI 스킬이 필수역량으로 자리 잡아가는 과정을 보여준다. 정부와 업계협회가 함께 무료 교육을 제공하는 것은 AI 도입의 기술적 진입장벽을 낮추는 동시에, 종사자들의 고용 안정성과 경쟁력 강화를 위한 정책적 개입의 신호로 해석된다. 카피라이팅부터 이미지·영상 생성까지 실무 전 영역을 다루는 커리큘럼 구성은 현업의 실제 수요에 맞춰 AI 도구의 실용성을 증명하려는 의도로 보인다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-21",
+    "tags": [
+      "생성형AI",
+      "마케팅교육",
+      "디지털광고",
+      "AI스킬",
+      "정부정책",
+      "산업교육"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29011",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29011",
+        "name": "매드타임스 — “카피부터 AI 이미지·영상 제작까지” 문화체육관광부X한국디지털광고협회, 무료 실무교육 진행"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1255"
   }
 ]
