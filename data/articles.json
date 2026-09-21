@@ -1,5 +1,83 @@
 [
   {
+    "id": "1258",
+    "slug": "domein-jisig-eobsneun-dijaineoga-timui-gijuneul-bakkun-bangb",
+    "title": "도메인 지식 없는 디자이너가 팀의 기준을 바꾼 방법",
+    "summary": "은행 지식이 없던 디자이너가 규제가 가득한 도메인에서 어떻게 팀의 기준을 바꿨는지 이야기해 보려고 해요.",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-09-21",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/remittance_transfer",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/remittance_transfer",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "1259",
+    "slug": "the-missed-call-money-leak-why-ai-text-back-is-the-first-aut",
+    "title": "The Missed Call Money Leak: Why AI Text-Back Is the First Automation to Install",
+    "summary": "A third of your calls go unanswered. Here is the automation that catches every one of them.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@innovaitai1/the-missed-call-money-leak-why-ai-text-back-is-the-first-automation-to-install-31ed264da4a9?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@innovaitai1/the-missed-call-money-leak-why-ai-text-back-is-the-first-automation-to-install-31ed264da4a9?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1260",
+    "slug": "ai-shopping-agents-dont-read-your-marketing-copy-heres-what",
+    "title": "AI Shopping Agents Don’t Read Your Marketing Copy. Here’s What They Actually Check",
+    "summary": "Part 1 of a series on agentic commerce. The signal an agent weighs most heavily isn&#x2019;t the one most brands have spent the last decade&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-21",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@MrMarwah/ai-shopping-agents-dont-read-your-marketing-copy-here-s-what-they-actually-check-5066f753ccd8?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@MrMarwah/ai-shopping-agents-dont-read-your-marketing-copy-here-s-what-they-actually-check-5066f753ccd8?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1256",
     "slug": "b6ai-how-ai-agents-are-transforming-ecommerce-from-product-s",
     "title": "B6AI: How AI Agents Are Transforming Ecommerce From Product Search to Purchase",
@@ -32751,5 +32829,33 @@
     "communityLinks": null,
     "draft": false,
     "id": "1255"
+  },
+  {
+    "slug": "openai-news-7",
+    "title": "\"AI는 발전했는데 화장지는 그대로?\" 굿와이프스, 오픈AI 광고를 화장실 유머로 패러디",
+    "summary": "AI 기술의 급속한 발전에 대한 대중의 관심이 높아지면서, 이를 소재로 한 창의적인 광고 패러디가 주목받고 있습니다.",
+    "content": "## 큐레이션 노트\n\nAI 기술 발전이 사회적 화두가 되면서 이를 다양한 관점에서 해석하고 유머화하려는 시도들이 증가하고 있습니다. 특히 기술 혁신에 대한 낙관론과 일상생활의 실질적 변화 간의 간극을 풍자적으로 표현한 크리에이티브 사례는, AI 담론이 단순 기술 논의를 넘어 대중문화와 결합되는 추세를 보여줍니다. 이는 AI에 대한 시장의 기대치와 실제 체감 변화 사이의 괴리를 예술적으로 드러내는 의미 있는 사례입니다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-09-22",
+    "tags": [
+      "AI마케팅",
+      "광고크리에이티브",
+      "AI담론",
+      "브랜드패러디",
+      "팝컬처"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29002",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29002",
+        "name": "매드타임스 — [해외 크리에이티브] “AI는 이렇게 발전했는데 화장지는 그대로?” 굿와이프스, 오픈AI 광고 화장실 유머로 패러디"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1257"
   }
 ]
