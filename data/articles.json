@@ -33751,5 +33751,139 @@
     "communityLinks": null,
     "draft": false,
     "id": "1278"
+  },
+  {
+    "title": "산돌, AI 콘텐츠 제작 확산에 폰트 활용도 급증…산돌구름 캔버스 DAU 6배 증가",
+    "summary": "산돌이 폰트 플랫폼 '산돌구름' 이용 데이터를 분석한 결과, AI 콘텐츠 제작 서비스 '산돌캔버스' 도입 이후 이용자 지표와 폰트 활용이 모두 증가한 것으로 나타났다. 2026년 3월 대비 8월 기준 캔버스 DAU는 6.2배 늘었으며, 손글씨 폰트 활성화는 100%, 디스플레이 폰트는 133% 증가했다.",
+    "content": "## 주요 내용\n- 2026년 3월 산돌구름 MAU, 전년 동월 대비 34% 증가\n- 산돌구름 캔버스 페이지 DAU, 8월 기준 3월 대비 6.2배 증가\n- 활성화율 90% 이상 폰트 수, 3월 이후 8월까지 61% 증가\n- 손글씨 폰트 활성화 3월 대비 100%, 디스플레이 폰트 133% 증가\n- 산돌캔버스는 3월 출시 후 AI 이모티콘 만들기, 비슷한 이미지 만들기 등 기능 확대 중\n\n## 의미\n생성형 AI 확산으로 숏폼·썸네일·SNS 게시물 등 콘텐츠 형태가 다양해지면서, 콘텐츠 완성도와 차별화를 높이는 수단으로 폰트의 중요성이 함께 커지고 있음을 수치로 확인한 사례다.",
+    "company": "산돌",
+    "category": "디자인툴",
+    "date": "2026-09-28",
+    "tags": [
+      "산돌",
+      "산돌구름",
+      "폰트",
+      "AI콘텐츠",
+      "생성형AI",
+      "산돌캔버스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.sandoll.co.kr/press_backup/?idx=174845601&bmode=view",
+    "sourceName": "산돌 공식",
+    "sources": [
+      {
+        "url": "https://www.sandoll.co.kr/press_backup/?idx=174845601&bmode=view",
+        "name": "산돌 공식 — 산돌, AI 시대 콘텐츠 제작에 ‘폰트’ 필수… 사용량도 늘었다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 산돌",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C"
+      },
+      {
+        "name": "네이버 카페 검색: 산돌캔버스",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%82%B0%EB%8F%8C%EC%BA%94%EB%B2%84%EC%8A%A4"
+      },
+      {
+        "name": "클리앙 검색: 산돌",
+        "url": "https://www.clien.net/service/search?q=%EC%82%B0%EB%8F%8C&sort=latest"
+      },
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      }
+    ],
+    "slug": "sandoll-dau-font",
+    "draft": false,
+    "id": "1295"
+  },
+  {
+    "title": "UX Collective — AI 규제의 한계, AI 제품의 편차 문제, 디자인 아카이빙 이슈",
+    "summary": "UX Collective 주간 뉴스레터는 AI 규제 방식의 문제점, AI 제품의 성능 일관성 부족, 툴 종료 시 작업물 보존 문제 등 디자이너와 기술 종사자들이 주목해야 할 주제들을 큐레이션했다. 특히 AI 규제와 관련해, 의회가 인터넷 시대처럼 변화에 유연하게 대응하지 못하고 단일 포괄 법안에 집착하는 '폭포수 방식'에 머물러 있다는 비판이 제기됐다. AI 제품은 하루는 빠르고 다음 날은 느린 '편차 문제'도 주요 이슈로 다뤄졌다.",
+    "content": "## 주요 내용\n- AI 규제 비판: 의회가 포괄적인 단일 AI 법안을 완성하려는 '폭포수식' 접근을 고수하고 있으며, 이는 빠르게 변화하는 기술 현실과 괴리가 있다는 지적\n- 좋은 거버넌스는 완성된 기념물이 아니라 지속적으로 조정하는 살아있는 제품처럼 다뤄야 한다는 주장\n- AI 제품의 편차 문제: 같은 AI 제품이 날마다 성능 차이를 보이는 일관성 부족 현상 조명\n- 툴 서비스 종료 시 작업물 아카이빙 주체에 대한 문제 제기\n- 화면의 물질적 구성, 비디오 재생 이상의 역할을 하는 플레이어 등 디자인 관련 에디터 픽 소개\n\n## 의미\n원문은 AI 기술의 규제와 제품 신뢰성, 디자인 작업물의 지속성 등 현재 UX·AI 분야에서 실질적으로 논의되어야 할 과제들을 짚고 있으며, 기술 거버넌스를 유연하고 반복적인 방식으로 접근해야 한다는 시각을 제시한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-09-28",
+    "tags": [
+      "AI규제",
+      "UX디자인",
+      "AI제품",
+      "편차문제",
+      "디자인아카이빙",
+      "UXCollective"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Regulating AI, Quantifying stress, The variance problem"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-6",
+    "draft": false,
+    "id": "1296"
+  },
+  {
+    "slug": "ai-launch",
+    "title": "타불라, 퍼포먼스 광고 솔루션 '리얼라이즈 ID' 출시… 흩어진 구매 신호를 하나로 연결",
+    "summary": "서드파티 쿠키 폐지 시대에 광고주들이 직면한 크로스 디바이스·크로스 플랫폼 타겟팅 문제를 해결하려는 업계의 실질적 움직임을 보여주는 사례다.",
+    "content": "## 큐레이션 노트\n디지털 광고 시장에서 ID 기반 타게팅의 중요성이 높아지는 가운데, 타불라의 새로운 솔루션은 퍼포먼스 광고 영역에서 파편화된 사용자 데이터를 통합하려는 시도로 주목된다. 이는 광고주의 ROI 극대화와 사용자 프라이버시 보호 사이의 균형을 맞추려는 광고 기술 기업들의 경쟁이 본격화되고 있음을 의미한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-28",
+    "tags": [
+      "광고기술",
+      "퍼포먼스마케팅",
+      "ID솔루션",
+      "디지털광고",
+      "타겟팅"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29067",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29067",
+        "name": "매드타임스 — “흩어진 구매 신호 하나로 연결” 타불라, 퍼포먼스 광고 솔루션 ‘리얼라이즈 ID’ 출시"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1297"
+  },
+  {
+    "slug": "ai-release-intro",
+    "title": "크리에이티브 전문가 81% AI 활용 콘텐츠 공개… 도입은 늘었지만 정착은 아직",
+    "summary": "AI 도구의 광범위한 도입에도 불구하고 크리에이티브 산업 내 표준화와 신뢰 구축이 여전히 과제임을 드러내는 신호로, 기술 채택 속도와 문화적 정착 사이의 간극을 보여준다.",
+    "content": "## 큐레이션 노트\n크리에이티브 업계에서 AI 활용이 보편화되고 있지만, 실무진들이 공개적으로 이를 드러내는 것 자체가 아직 민감한 이슈라는 점은 기술 도입과 사회적 수용 사이의 시간차를 반영한다. 이는 AI 윤리, 저작권, 창의성의 정의라는 근본적인 질문들이 산업 전반에서 아직 합의에 이르지 못했음을 시사하며, 향후 규제와 가이드라인 정립의 중요성을 강조한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-28",
+    "tags": [
+      "AI",
+      "크리에이티브",
+      "콘텐츠",
+      "산업정착",
+      "AI윤리",
+      "기술도입"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29044",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29044",
+        "name": "매드타임스 — 크리에이티브 전문가 81% “AI 활용 콘텐츠 공개”… 도입 늘었지만 정착은 아직"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1298"
   }
 ]
