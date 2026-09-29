@@ -1,5 +1,31 @@
 [
   {
+    "id": "1301",
+    "slug": "the-tipping-point-test-what-the-adas-2026-ai-survey-actually",
+    "title": "The Tipping Point Test: What the ADA’s 2026 AI Survey Actually Tells You",
+    "summary": "There&#x2019;s a difference between a trend and a tipping point, and most people only recognize the second one after they&#x2019;ve missed it.Continue",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://joshlevineceo.medium.com/the-tipping-point-test-what-the-adas-2026-ai-survey-actually-tells-you-4549026ecd2f?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://joshlevineceo.medium.com/the-tipping-point-test-what-the-adas-2026-ai-survey-actually-tells-you-4549026ecd2f?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1290",
     "slug": "a-practical-checklist-is-your-shopify-product-data-ai-ready",
     "title": "A Practical Checklist: Is Your Shopify Product Data AI-Ready?",
@@ -33885,5 +33911,62 @@
     "communityLinks": null,
     "draft": false,
     "id": "1298"
+  },
+  {
+    "slug": "ai-platform",
+    "title": "AI·플랫폼 시대, 광고·PR의 전문성은 무엇인가 - 한국광고홍보학회 가을철 정기학술대회",
+    "summary": "생성형 AI와 플랫폼 중심의 미디어 환경 변화 속에서 광고·PR 업계가 자신의 정체성과 핵심 가치를 재정의해야 한다는 학문적 문제 제기가 중요한 시점을 맞이했다.",
+    "content": "## 큐레이션 노트\n\nAI의 대중화와 디지털 플랫폼의 확산으로 광고·PR 산업의 경계가 급속도로 허물어지고 있는 가운데, 학계가 업계 전문성의 본질에 대한 담론을 주도적으로 제시하는 움직임이 돋보인다. 콘텐츠 생성부터 타겟팅, 캠페인 관리까지 AI가 대체 가능한 영역이 확대되면서, 진정한 광고·PR 전문가의 역할이 기술 활용보다는 전략적 사고, 윤리적 판단, 창의적 통찰력에 있음을 재조명할 필요성이 높아지고 있다. 이는 업계 종사자들이 AI 시대에 자신의 경쟁력을 재구성하고, 교육 기관들이 미래형 인재 양성에 방향을 재설정하는 데 중요한 참고점이 될 것으로 예상된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-29",
+    "tags": [
+      "AI시대 마케팅",
+      "광고·PR 산업",
+      "디지털 트랜스포메이션",
+      "전문성 재정의",
+      "플랫폼 경제"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29099",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29099",
+        "name": "매드타임스 — “AI·플랫폼 시대, 광고·PR의 전문성은 무엇인가” 한국광고홍보학회, 가을철 정기학술대회 개최"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1299"
+  },
+  {
+    "slug": "ai-news-14",
+    "title": "고객보다 AI가 먼저 고르는 시대, 브랜딩 전략 과감히 바꿔야",
+    "summary": "AI 추천 알고리즘이 소비자 선택을 중재하는 시대에 브랜드들이 기존의 소비자 중심 마케팅 패러다임을 근본적으로 재구성해야 한다는 신호.",
+    "content": "## 큐레이션 노트\n\nAI가 개입된 디지털 환경에서는 소비자의 선택지 자체가 알고리즘에 의해 사전 필터링되므로, 브랜드가 인간 고객뿐 아니라 '머신 의사결정 시스템'을 설득 대상으로 삼아야 하는 새로운 현실을 반영합니다. 이는 마케팅의 투명성, 데이터 구조화, SEO·래킹 최적화 같은 기술적 요소가 창의적 브랜딩만큼 중요해진다는 의미이며, 기업들이 '소비자 선호'뿐 아니라 '플랫폼 노출성'을 동시에 확보하는 이중 전략을 요구합니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-29",
+    "tags": [
+      "AI",
+      "마케팅",
+      "브랜딩",
+      "알고리즘",
+      "디지털전환",
+      "소비자심리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29098",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29098",
+        "name": "매드타임스 — 고객보다 AI가 먼저 고르는 시대, 브랜딩 전략 과감히 바꿔야"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1300"
   }
 ]
