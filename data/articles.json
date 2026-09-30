@@ -1,5 +1,57 @@
 [
   {
+    "id": "1304",
+    "slug": "7-best-ai-agents-for-small-business-owners-looking-to-save-2",
+    "title": "7 Best AI Agents for Small Business Owners Looking to Save 20+ Hours a Week",
+    "summary": "Running a small business often means wearing every hat at once, from managing customer inquiries and handling invoicing to updating social&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ellisruperth/7-best-ai-agents-for-small-business-owners-looking-to-save-20-hours-a-week-e44c5a7a2392?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ellisruperth/7-best-ai-agents-for-small-business-owners-looking-to-save-20-hours-a-week-e44c5a7a2392?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1305",
+    "slug": "can-you-sell-ai-prompt-packs-on-etsy-read-this-before-listin",
+    "title": "Can You Sell AI Prompt Packs on Etsy? Read This Before Listing",
+    "summary": "The distinction between prompt bundles and seller-designed AI products matters before you create the mockups.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-09-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jerrytestone1/can-you-sell-ai-prompt-packs-on-etsy-read-this-before-listing-eb03c619413e?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jerrytestone1/can-you-sell-ai-prompt-packs-on-etsy-read-this-before-listing-eb03c619413e?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1301",
     "slug": "the-tipping-point-test-what-the-adas-2026-ai-survey-actually",
     "title": "The Tipping Point Test: What the ADA’s 2026 AI Survey Actually Tells You",
@@ -33968,5 +34020,64 @@
     "communityLinks": null,
     "draft": false,
     "id": "1300"
+  },
+  {
+    "slug": "ai-hsad",
+    "title": "AI로 일하고 성과까지: HSAD의 AX 역량 사업이 실제 결과로 연결되다",
+    "summary": "마케팅 에이전시가 AI 도입을 단순한 기술 도입이 아닌 실질적인 비즈니스 성과로 연결하는 사례를 보여주며, 광고·마케팅 산업의 AI 실무화 수준을 가늠할 수 있는 지표가 된다.",
+    "content": "## 큐레이션 노트\n\n국내 주요 광고 에이전시의 AI 도입 사례는 창의 산업에서 생성형 AI가 어떻게 실질적 가치를 만드는지 보여주는 중요한 벤치마크다. 특히 '역량 강화'에서 '성과 창출'로 한 단계 나아간 구체적 결과물의 등장은, 한국 광고·마케팅 업계가 AI 도입의 시범 단계를 벗어나 실무 통합 단계에 진입했음을 시사한다. 이는 다른 창의산업과 서비스업계에 AI 활용의 로드맵을 제시하는 사례로 주목할 만하다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-30",
+    "tags": [
+      "AI 도입 사례",
+      "광고마케팅",
+      "실무 역량",
+      "비즈니스 성과",
+      "생성형AI 활용",
+      "AX",
+      "한국 에이전시"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29109",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29109",
+        "name": "매드타임스 — “AI로 일하고, 성과까지” HSAD, AX 역량 사업 성과로 연결"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1302"
+  },
+  {
+    "slug": "ai-news-15",
+    "title": "[브랜딥 인사이트] AI가 밝혀낸 '프로틴'과 '단백질보충제' 시장의 이중 구조",
+    "summary": "AI 분석을 통해 동일한 상품군이 마케팅 전략과 타겟 오디언스에 따라 완전히 다른 시장으로 분화되는 현상이 드러났으며, 이는 제품 포지셔닝과 데이터 기반 의사결정의 중요성을 시사합니다.",
+    "content": "## 큐레이션 노트\n\n이 보도는 AI와 빅데이터 분석이 단순한 상품 분류를 넘어 시장의 숨은 구조를 어떻게 재정의하는지 보여주는 사례입니다. 같은 제품도 브랜딩, 유통 채널, 고객군에 따라 전혀 다른 시장으로 작동할 수 있다는 인사이트는 전략적 의사결정과 타겟팅에서 데이터 기반 접근의 실질적 가치를 증명합니다. 특히 대식품 기업과 헬스 전문 브랜드가 동일 상품을 다르게 점유하는 현상은 시장 진입 전략과 경쟁력 분석 시 AI 활용의 필수성을 강조합니다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-09-30",
+    "tags": [
+      "AI분석",
+      "시장분화",
+      "데이터기반전략",
+      "포지셔닝",
+      "헬스푸드",
+      "식품산업"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29103",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29103",
+        "name": "매드타임스 — [브랜딥 인사이트] ‘프로틴’엔 식품 대기업, ‘단백질보충제’엔 헬스 전문… AI가 가른 두 개의 시장"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1303"
   }
 ]
