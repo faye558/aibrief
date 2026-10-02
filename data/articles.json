@@ -34381,5 +34381,97 @@
     "communityLinks": null,
     "draft": false,
     "id": "1310"
+  },
+  {
+    "title": "라인, A2A 기반 대화형 BI 앱 개발 — LLM이 생성한 SQL 신뢰·실행 과정 공개",
+    "summary": "라인 Game Platform실 개발팀이 LLM이 생성한 SQL을 안전하게 신뢰하고 실행하기 위한 A2A(Agent-to-Agent) 기반 대화형 BI 애플리케이션 개발 경험을 공유했다. 게임 퍼블리싱에 필요한 다양한 기능을 개발·운영하는 조직에서 자연어로 데이터를 조회할 수 있는 대화형 BI 시스템 구축 과정을 다룬다.",
+    "content": "## 주요 내용\n- 라인 Game Platform실 이형중, 김민희, 정소영이 A2A 기반 대화형 BI 애플리케이션 개발 경험 공유\n- LLM이 생성한 SQL을 신뢰하고 실행하기까지의 과정을 주제로 다룸\n- 게임 퍼블리싱 관련 기능 개발·운영 조직에서 추진한 프로젝트\n\n## 의미\nLLM 기반 텍스트-투-SQL 기술을 실무 BI 환경에 적용하는 과정에서 발생하는 신뢰성·안전성 문제를 A2A 아키텍처로 해결하려는 실제 사례로, AI 에이전트 활용 방식의 실무 적용 가능성을 보여준다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-10-02",
+    "tags": [
+      "라인",
+      "A2A",
+      "LLM",
+      "SQL",
+      "대화형BI",
+      "AI에이전트",
+      "게임플랫폼"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/a2a-conversational-bi-app",
+        "name": "라인 — LLM이 만든 SQL을 믿고 실행하기까지: A2A 기반의 대화형 BI 애플리케이션 개발기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-a2a-sql",
+    "draft": false,
+    "id": "1317"
+  },
+  {
+    "title": "무신사 — 로그가 서비스를 멈춘 원인과 커스텀 Appender로의 해결기",
+    "summary": "무신사 공통서비스 파트에서 트래픽이 많은 서비스에 장애가 발생했는데, 원인은 로깅이었다. 컨테이너 환경에서 stdout 파이프 버퍼(약 64KB)가 가득 차자 수십 개의 요청 스레드가 DB 커넥션을 쥔 채 쓰기 대기 상태에 빠졌고, 커넥션 풀 고갈로 서비스 전체가 30초 주기로 일괄 실패하는 장애로 이어졌다. 무신사 팀은 이 문제를 약 30줄 분량의 커스텀 Appender로 해결했으며, 그 과정을 관측성과 가용성을 함께 고려한 사례로 정리했다.",
+    "content": "## 주요 내용\n- 컨테이너 환경에서 동기(Synchronous) 로깅 시, 요청 스레드가 stdout에 직접 쓰다가 OS 파이프 버퍼(약 64KB)가 가득 차면 해당 스레드가 DB 커넥션을 보유한 채 블로킹 상태에 빠짐\n- 스레드 덤프 분석 결과 수십 개의 스레드가 'stdout write'에서 멈춰 있었으며, 이로 인해 커넥션 풀 고갈 및 요청 30초 주기 일괄 실패 장애 발생\n- 장애의 배경에는 전사 표준 로깅 가이드가 있었으며, 해당 라이브러리는 로그를 JSON으로 구조화하고 OpenTelemetry를 통해 trace_id·span_id를 자동 삽입·전파하는 방식\n- OpenTelemetry는 W3C Trace Context 표준을 따르며, 서비스 간 traceparent 헤더를 자동으로 파싱·주입해 분산 추적과 로그를 같은 ID로 조회 가능하게 함\n- MDC는 스레드별 로컬 맵이라 서비스 경계를 넘는 자동 전파가 불가해 OpenTelemetry를 채택\n- 최종적으로 약 30줄 분량의 커스텀 Appender를 개발해 문제를 해결\n\n## 의미\n관측성을 높이기 위해 도입한 표준 로깅 방식이 오히려 서비스 가용성을 저해할 수 있음을 보여주는 실제 사례로, 비동기 로깅 전환을 검토하는 백엔드 개발자에게 관측성과 가용성을 동시에 설계해야 한다는 점을 시사한다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-10-01",
+    "tags": [
+      "무신사",
+      "로깅",
+      "장애분석",
+      "비동기로깅",
+      "OpenTelemetry",
+      "분산추적",
+      "백엔드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/%EB%A1%9C%EA%B7%B8%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A3%BD%EC%98%80%EB%8B%A4-4013e35a463b?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/%EB%A1%9C%EA%B7%B8%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%A3%BD%EC%98%80%EB%8B%A4-4013e35a463b?source=rss----f107b03c406e---4",
+        "name": "무신사 — 로그가 서비스를 죽였다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-appender-service",
+    "draft": false,
+    "id": "1318"
+  },
+  {
+    "slug": "-seo-search",
+    "title": "\"검색 1위만 봐선 안 된다\" AI 검색 확산에 달라지는 SEO",
+    "summary": "ChatGPT, Perplexity 등 AI 검색 도구의 확산으로 전통적인 Google 검색 중심의 SEO 전략이 근본적으로 재편되고 있으며, 마케터들은 새로운 검색 생태계에 대응하는 멀티채널 최적화 전략을 수립해야 한다.",
+    "content": "## 큐레이션 노트\n\nGoogle 검색 결과 1위 확보를 목표로 하는 전통적 SEO 패러다임이 AI 기반 검색 도구의 부상으로 흔들리고 있습니다. 이는 단순히 '어디서 검색하는가'의 문제를 넘어 '검색 결과가 어떻게 표현되는가'라는 근본적인 변화를 의미합니다. 검색 엔진에서 AI 요약으로, 클릭에서 대화형 상호작용으로 이동하는 흐름 속에서 기업의 마케팅 전략도 다채널 최적화, 신뢰도 강화, 콘텐츠 다양화 등 새로운 차원의 대응이 필요해진 상황입니다.",
+    "company": "라인",
+    "category": "테크",
+    "date": "2026-10-02",
+    "tags": [
+      "SEO",
+      "AI검색",
+      "검색엔진최적화",
+      "마케팅전략",
+      "디지털마케팅",
+      "생성AI",
+      "검색생태계"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29084",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29084",
+        "name": "매드타임스 — “검색 1위만 봐선 안 된다” AI 검색 확산에 달라지는 SEO"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1319"
   }
 ]
