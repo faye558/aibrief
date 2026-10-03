@@ -1,5 +1,83 @@
 [
   {
+    "id": "1323",
+    "slug": "your-store-was-opted-into-every-new-ai-shopping-channel-by-d",
+    "title": "Your Store Was Opted Into Every New AI Shopping Channel by Default",
+    "summary": "On September 8, Meta launched Muse, an AI agent that, in Meta&#x2019;s own description, can open a browser, fill out forms and negotiate on&#x2026;Con",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-03",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@elliott_webexperts/your-store-was-opted-into-every-new-ai-shopping-channel-by-default-7a3392a7a0c0?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@elliott_webexperts/your-store-was-opted-into-every-new-ai-shopping-channel-by-default-7a3392a7a0c0?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1324",
+    "slug": "when-ai-starts-spending-on-our-behalf",
+    "title": "When AI starts spending on our behalf",
+    "summary": "A few nights ago, I was thinking about a rather stupid problem.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-03",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@iamsiddharths/when-ai-starts-spending-on-our-behalf-9d0977f61d59?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@iamsiddharths/when-ai-starts-spending-on-our-behalf-9d0977f61d59?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1325",
+    "slug": "8-ai-prompt-writing-mistakes-and-how-to-fix-them",
+    "title": "8 AI Prompt Writing Mistakes and How to Fix Them",
+    "summary": "Prompt quality drops when important decisions are missing or contradictory.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-03",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hashtagmateo/8-ai-prompt-writing-mistakes-and-how-to-fix-them-cd5e91091ea5?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hashtagmateo/8-ai-prompt-writing-mistakes-and-how-to-fix-them-cd5e91091ea5?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1320",
     "slug": "the-50-ai-prompts-small-business-owners-actually-need-not-th",
     "title": "The 50+ AI Prompts Small Business Owners Actually Need (Not the Generic Ones)",
@@ -34525,5 +34603,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "1319"
+  },
+  {
+    "title": "Nielsen Norman Group — 공감 지도(Empathy Map): 디자인 씽킹의 첫 단계",
+    "summary": "공감 지도(Empathy Map)는 UX 팀이 사용자의 태도와 행동을 시각화하는 도구입니다. 이를 통해 팀 내 최종 사용자에 대한 공통된 이해를 구축하고, 기존 사용자 데이터의 공백을 파악할 수 있습니다.",
+    "content": "## 주요 내용\n- 공감 지도는 UX 팀이 사용자의 태도와 행동을 시각화하는 데 활용됨\n- 팀 전체가 최종 사용자에 대한 공유된 이해를 형성하는 데 도움을 줌\n- 기존 사용자 데이터에서 부족하거나 누락된 부분을 발견하는 데 유용함\n\n## 의미\n공감 지도는 디자인 씽킹 프로세스의 초기 단계에서 사용자 중심 설계를 위한 팀의 정렬과 데이터 기반 통찰 확보에 기여하는 도구로 소개되고 있습니다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-10-02",
+    "tags": [
+      "공감지도",
+      "UX디자인",
+      "디자인씽킹",
+      "사용자리서치",
+      "NielsenNormanGroup"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Empathy Mapping: The First Step in Design Thinking"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-7",
+    "draft": false,
+    "id": "1322"
   }
 ]
