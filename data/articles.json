@@ -1,5 +1,31 @@
 [
   {
+    "id": "1336",
+    "slug": "he-called-his-ai-agent-to-check-his-email-that-was-just-one",
+    "title": "He Called His AI Agent to Check His Email. That Was Just One Moment From Day 2.",
+    "summary": "Seven highlights from the AI Business Summit with Alicia Lyttle &#x2014; and why you&#x2019;ll want to catch the replays if you missed it.Continue rea",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-06",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@everydaychickchat/he-called-his-ai-agent-to-check-his-email-that-was-just-one-moment-from-day-2-efe7eb973973?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@everydaychickchat/he-called-his-ai-agent-to-check-his-email-that-was-just-one-moment-from-day-2-efe7eb973973?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1331",
     "slug": "ai-document-summarizer-for-small-business-how-to-get-a-summa",
     "title": "AI Document Summarizer for Small Business: How to Get a Summary You Can Trust",
@@ -34847,5 +34873,97 @@
     "communityLinks": null,
     "draft": false,
     "id": "1330"
+  },
+  {
+    "title": "윤디자인, '하이파이브 라운디드' 탄생 배경과 디자인 고민 공개",
+    "summary": "윤디자인이 기존 '하이파이브' 서체의 쾌활한 에너지는 유지하면서 획 끝을 둥글게 다듬어 더 따뜻하고 친근한 인상을 구현한 '하이파이브 라운디드'의 개발 과정을 공개했다. 김지연 디자이너는 단순한 굴림 처리를 넘어 초성·종성 비례 재조정, 시각보정, 쌍자음 간격 조율 등 전체적인 조형 규칙을 새로 정리하는 데 가장 많은 시간을 할애했다고 밝혔다.",
+    "content": "## 주요 내용\n- '하이파이브 라운디드'는 기존 하이파이브의 명랑하고 거침없는 이미지에 따뜻하고 친근한 인상을 더한 서체\n- 획 끝을 둥글게 다듬는 것에 그치지 않고, 전체 조형 규칙과 설계 규칙을 새로 정리하는 작업에 집중\n- 기존 하이파이브 대비 초성이 커 보이는 문제를 인식, 초성과 종성의 비례감을 재조정하여 글자 위아래 균형을 개선\n- 가장 만족스러운 자소로 'ㅁ'을 꼽음: 굴림 적용 시 첫 획 시작 부분이 자연스럽게 도드라져 라운디드만의 형태적 특징이 잘 드러남\n- 굴림 처리 시 글자가 작아 보이는 문제를 보정하기 위해 획을 바깥으로 미세하게 확장하는 시각보정 진행\n- 쌍자음(ㄸ, ㅉ 등) 간격 조율이 가장 어려운 부분으로, 붙이면 답답하고 떼면 둥근 획이 더 깎여 보이는 문제로 여러 차례 수정\n\n## 의미\n'하이파이브 라운디드'는 기존 서체의 골격과 에너지를 계승하면서도 세밀한 비례 조정과 시각보정을 통해 독자적인 조형적 완성도를 추구한 사례로, 라운디드 서체 제작 시 수반되는 실무적 고민을 구체적으로 보여준다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-10-06",
+    "tags": [
+      "윤디자인",
+      "하이파이브라운디드",
+      "한글폰트",
+      "타입디자인",
+      "서체개발"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1163",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1163",
+        "name": "윤디자인 공식 — [TYPE&divide;] 둥글고 친근한 매력, 하이파이브 라운디드에 관해 나눈 타입 디자이너의 스몰토크 (2)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-release-design-4",
+    "draft": false,
+    "id": "1333"
+  },
+  {
+    "title": "당근, AI가 한 문장으로 앱 테스트를 자동 생성·실행하는 QAHub 구축",
+    "summary": "당근 모바일실은 흩어진 테스트 기록을 한곳에 모으고, AI가 한 문장 입력만으로 테스트 Flow를 생성해 실제 기기에서 실행까지 이어지는 QAHub를 개발했다. QA 전담 조직 없이 각 팀이 직접 품질을 검증할 수 있도록 누구나 쉽게 테스트를 만들고 실행하는 환경을 목표로 한다.",
+    "content": "## 주요 내용\n- QAHub는 테스트 생성·관리·실행 전 과정을 담은 플랫폼으로, 현재 22개 프로젝트, 2,000개 이상의 테스트케이스를 관리 중\n- 사용자가 한 문장을 입력하면 AI가 테스트 Flow를 생성하고, 실제 기기에서 앱을 직접 조작해 테스트 수행\n- Flow 내에 코드 스텝(로그인, 딥링크 등 정해진 동작)과 AI 스텝(화면 판단이 필요한 동작)을 혼합 구성 가능\n- 탭·입력 등 기본 동작부터 이미지 매칭, 푸시 알림 열기, 로그 이벤트 검증까지 스텝을 직접 선택해 Flow 구성 가능\n- 채팅처럼 상대가 필요한 기능은 기기 두 대로 테스트 지원\n- 기획 문서와 GitHub 코드를 분석해 테스트케이스 작성을 보조하는 Test Copilot도 도입\n- 기존에 외부 툴, 노션, 구글 시트에 분산되어 있던 테스트 기록을 QAHub로 중앙화\n\n## 의미\n당근이 QA 전담 인력 없이도 각 팀이 직접 품질을 검증할 수 있는 AI 기반 테스트 자동화 환경을 구축함으로써, 앱 개발 속도와 안정성을 동시에 높일 수 있는 내부 플랫폼 사례를 제시했다.",
+    "company": "당근",
+    "category": "테크블로그",
+    "date": "2026-10-06",
+    "tags": [
+      "당근",
+      "테스트자동화",
+      "AI테스트",
+      "QAHub",
+      "모바일QA"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/daangn/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-5340546886b5?source=rss----4505f82a2dbd---4",
+    "sourceName": "당근",
+    "sources": [
+      {
+        "url": "https://medium.com/daangn/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%95%B1%EC%9D%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-5340546886b5?source=rss----4505f82a2dbd---4",
+        "name": "당근 — 한 문장으로 앱을 테스트하기까지"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-qahub-generate",
+    "draft": false,
+    "id": "1334"
+  },
+  {
+    "title": "무신사, 웨이팅 서비스 자체 개발 과정에서 GPS 오차 문제와 씨름한 경험 공유",
+    "summary": "무신사는 오프라인 스토어의 입장 대기 서비스를 외부 솔루션에서 자체 개발 서비스로 전환하면서, 태블릿 전화번호 입력 방식 대신 무신사 회원 계정 기반의 QR 스캔 접수 방식을 도입했다. 이 과정에서 고객의 실제 매장 방문 여부를 소프트웨어로 확인해야 하는 문제가 발생했으며, GPS 오차로 인한 현장 검증 문제를 해결한 과정을 기술 블로그를 통해 공개했다.",
+    "content": "## 주요 내용\n- 기존에는 외부 웨이팅 솔루션을 활용해 매장 태블릿에 전화번호를 입력하는 방식으로 운영\n- 대기 이력·알림·알림 채널이 제3자에게 귀속되는 문제로 자체 서비스 개발 결정\n- 식별자를 전화번호에서 무신사 회원 계정으로 변경, 대기 이력과 알림을 무신사 계정에서 통합 관리\n- 공용 태블릿에 개인 계정 로그인 불가 문제로 고객 본인 스마트폰에서 QR 스캔 후 접수하는 방식 채택\n- QR 방식 도입으로 현장 방문 여부를 소프트웨어적으로 별도 확인해야 하는 과제가 발생, GPS 오차 문제에 직면\n\n## 의미\n무신사가 오프라인 서비스 운영 데이터를 자사 플랫폼 안에서 통합 관리하기 위해 자체 웨이팅 서비스를 구축하는 과정에서 발생한 GPS 오차 등 현장 기술 문제와 해결 과정을 공유함으로써, 오프라인-온라인 연계 서비스 개발의 실질적인 사례를 제시했다.",
+    "company": "무신사",
+    "category": "테크블로그",
+    "date": "2026-10-05",
+    "tags": [
+      "무신사",
+      "웨이팅서비스",
+      "오프라인스토어",
+      "GPS오차",
+      "자체개발"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.musinsa.com/%ED%83%9C%EB%B8%94%EB%A6%BF%EC%9D%84-%EC%97%86%EC%95%A0%EC%9E%90-%EC%83%9D%EA%B8%B4-%EB%AC%B8%EC%A0%9C-7d6a1cee7df5?source=rss----f107b03c406e---4",
+    "sourceName": "무신사",
+    "sources": [
+      {
+        "url": "https://techblog.musinsa.com/%ED%83%9C%EB%B8%94%EB%A6%BF%EC%9D%84-%EC%97%86%EC%95%A0%EC%9E%90-%EC%83%9D%EA%B8%B4-%EB%AC%B8%EC%A0%9C-7d6a1cee7df5?source=rss----f107b03c406e---4",
+        "name": "무신사 — 태블릿을 없애자 생긴 문제"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-gps-service",
+    "draft": false,
+    "id": "1335"
   }
 ]
