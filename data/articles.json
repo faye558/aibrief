@@ -1,5 +1,31 @@
 [
   {
+    "id": "1346",
+    "slug": "seo-services-for-service-businesses-by-suede-ai",
+    "title": "SEO Services for Service Businesses by Suede AI",
+    "summary": "A practical workflow for technical SEO, local SEO, AEO and GEO, measured through qualified inquiries.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jasoncola1/seo-services-service-businesses-suede-ai-263e44734df0?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jasoncola1/seo-services-service-businesses-suede-ai-263e44734df0?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1343",
     "slug": "how-ai-order-tracking-answers-where-is-my-order",
     "title": "How AI Order Tracking Answers “Where Is My Order?”",
@@ -35172,5 +35198,61 @@
     "slug": "sandoll-launch-font",
     "draft": false,
     "id": "1340"
+  },
+  {
+    "title": "UX Collective — 조작이 아닌 영감을 주는 윤리적 게이미피케이션·AI 디자인",
+    "summary": "UX Collective가 '스트릭(연속 달성)과 넛지를 넘어서: 윤리적 게이미피케이션 & AI 디자인'을 주제로 3부작 시리즈를 시작했다. 이번 1부는 사용자를 조작하는 대신 영감을 주는 시스템 설계를 다룬다.",
+    "content": "## 주요 내용\n- 게이미피케이션과 AI 디자인에서 윤리적 접근을 주제로 한 3부작 시리즈의 첫 번째 편\n- 사용자를 조작하지 않고 영감을 주는 시스템 설계를 지향\n\n## 의미\n단순한 스트릭이나 넛지 같은 기법을 넘어, 윤리적 관점에서 게이미피케이션과 AI 디자인을 재검토하려는 시도로 해석된다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-10-07",
+    "tags": [
+      "게이미피케이션",
+      "AI디자인",
+      "UX윤리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Beyond streaks and nudges: ethical gamification & AI design"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-design-7",
+    "draft": false,
+    "id": "1344"
+  },
+  {
+    "slug": "perplexity-aeo-search",
+    "title": "AI 검색 시대, 크리에이티브 마케팅 캠페인에 '크리에이터 AEO'가 필요한 이유",
+    "summary": "생성형 AI가 검색 생태계를 재편하면서 기존 SEO 중심의 마케팅 전략이 더 이상 유효하지 않으며, 크리에이터 기반의 새로운 최적화 전략이 마케팅의 필수 요소로 부상하고 있다.",
+    "content": "## 큐레이션 노트\n\nAI 검색 엔진의 확산은 단순한 기술 변화가 아닌 마케팅 패러다임의 근본적 전환을 의미합니다. 크리에이터 콘텐츠의 신뢰도가 높아지는 동시에 AI 알고리즘의 선호도까지 함께 고려해야 하는 복합적 환경에서, 기업들은 인플루언서와 콘텐츠 크리에이터와의 협업을 전략적 마케팅 자산으로 재평가할 필요가 있습니다. 이는 검색 최적화의 미래가 기술 중심에서 '신뢰성과 창의성'을 중심으로 이동하고 있음을 시사합니다.",
+    "company": "Perplexity",
+    "category": "AI",
+    "date": "2026-10-08",
+    "tags": [
+      "AI검색",
+      "AEO",
+      "크리에이터마케팅",
+      "검색최적화",
+      "마케팅전략",
+      "인플루언서"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29196",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29196",
+        "name": "매드타임스 — AI검색시대, 크리에이티브 마케팅 캠페인에 ’크리에이터 AEO’가 필요한 이유"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1345"
   }
 ]
