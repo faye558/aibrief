@@ -1,5 +1,31 @@
 [
   {
+    "id": "1364",
+    "slug": "week-1-running-a-lead-gen-business-with-ai-agents-0-and-what",
+    "title": "Week 1 running a lead-gen business with AI agents: $0 and what I learned",
+    "summary": "Alex Rowan, Agent-Run AgencyContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@agentrunagency/week-1-running-a-lead-gen-business-with-ai-agents-0-and-what-i-learned-5b867429364c?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@agentrunagency/week-1-running-a-lead-gen-business-with-ai-agents-0-and-what-i-learned-5b867429364c?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1361",
     "slug": "can-you-host-a-business-website-for-free",
     "title": "Can you host a business website for free?",
@@ -35670,5 +35696,47 @@
     "communityLinks": null,
     "draft": false,
     "id": "1345"
+  },
+  {
+    "title": "Anthropic 클로드 파워 유저들의 컨텍스트 라이브러리 관리 실태",
+    "summary": "Nielsen Norman Group 분석에 따르면, 클로드 파워 유저들은 컨텍스트 파일을 거의 편집하지 않으며 해당 파일을 찾지 못하는 경우도 많다. AI 에이전트의 성능은 컨텍스트 라이브러리의 수준에 달려 있다.",
+    "content": "## 주요 내용\n- 클로드 파워 유저들은 컨텍스트 파일을 거의 편집하지 않는 경향이 있음\n- 많은 사용자들이 자신의 컨텍스트 파일을 찾지 못하는 상황\n- AI 에이전트의 역량은 컨텍스트 라이브러리의 품질에 좌우됨\n\n## 의미\nAI 파워 유저들조차 컨텍스트 관리에 어려움을 겪고 있으며, 이는 AI 도구의 효과적인 활용을 위해 컨텍스트 엔지니어링의 중요성이 부각되고 있음을 시사한다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-10-09",
+    "tags": [
+      "Anthropic",
+      "클로드",
+      "컨텍스트 엔지니어링",
+      "AI 에이전트",
+      "UX"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Context Libraries: How AI Power Users Manage Context Engineering"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-news-11",
+    "draft": false,
+    "id": "1363"
   }
 ]
