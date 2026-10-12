@@ -1,5 +1,57 @@
 [
   {
+    "id": "1372",
+    "slug": "ai-shopping-agents-are-coming-for-your-store-it-isnt-ready",
+    "title": "AI Shopping Agents Are Coming for Your Store. It Isn’t Ready.",
+    "summary": "AI shopping is here. The three gates every agent passes your store through readable, quotable, trustworthy  and how to get ready for them.Continue rea",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@tokenrollout/ai-shopping-agents-are-coming-for-your-store-it-isnt-ready-d0fba631abde?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@tokenrollout/ai-shopping-agents-are-coming-for-your-store-it-isnt-ready-d0fba631abde?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1373",
+    "slug": "what-happens-to-marketing-attribution-when-ai-agents-do-the",
+    "title": "What Happens to Marketing Attribution When AI Agents Do the Shopping?",
+    "summary": "AI agents are changing how customers discover and buy products. But there&#x2019;s a difference between tracking where a customer came from and&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ethancaldwell.marketing/what-happens-to-marketing-attribution-when-ai-agents-do-the-shopping-eb4698c96ccf?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ethancaldwell.marketing/what-happens-to-marketing-attribution-when-ai-agents-do-the-shopping-eb4698c96ccf?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1365",
     "slug": "why-70-of-contractors-miss-5-figure-jobs-on-site-and-the-5-a",
     "title": "Why 70% of Contractors Miss 5-Figure Jobs on Site (And the 5 AI Answering Tools Fixing It in 2026)",
@@ -35907,5 +35959,34 @@
     "communityLinks": null,
     "draft": false,
     "id": "1370"
+  },
+  {
+    "title": "카카오, 'if(kakao)26' 온라인 라이브 스트리밍 제공 발표",
+    "summary": "카카오는 10월 13일~14일 카카오 AI 캠퍼스에서 개최되는 'if(kakao)26' 행사를 온라인 라이브로도 시청할 수 있다고 밝혔다. 키노트를 포함한 모든 발표 세션이 라이브 스트리밍으로 제공되며 누구나 온라인 시청이 가능하다.",
+    "content": "## 주요 내용\n- 행사명: if(kakao)26\n- 일정: 10월 13일~14일\n- 장소: 카카오 AI 캠퍼스\n- 온라인 라이브 스트리밍 제공 (키노트 포함 모든 발표 세션)\n- 누구나 온라인 시청 가능\n- DAY 1 주요 세션: 키노트, AI 시대의 개발자, 신뢰와 안전, AI 방향성, 상생과 성장, Model & Agent\n\n## 의미\n현장 참석이 어려운 사람도 온라인으로 카카오의 AI 기술 및 개발 방향성 관련 발표를 실시간으로 접할 수 있게 됐다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-10-11",
+    "tags": [
+      "카카오",
+      "if(kakao)26",
+      "AI",
+      "개발자 컨퍼런스",
+      "라이브 스트리밍"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/839",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/839",
+        "name": "카카오 테크블로그 — if(kakao)26, 온라인 라이브로 함께해요!"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-announce",
+    "draft": false,
+    "id": "1371"
   }
 ]
