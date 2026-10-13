@@ -1,5 +1,57 @@
 [
   {
+    "id": "1374",
+    "slug": "seobiseu-gaebale-jibjunghal-su-issneun-ai-peulraespom-mandeu",
+    "title": "서비스 개발에 집중할 수 있는 AI 플랫폼 만들기",
+    "summary": "서비스 팀의 반복되는 고민을 줄여주는 토스의 AI 플랫폼을 소개합니다.",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-10-13",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/ai-platform-foundation",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/ai-platform-foundation",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1375",
+    "slug": "before-you-buy-another-ai-tool-test-one-small-service-idea",
+    "title": "Before You Buy Another AI Tool, Test One Small Service Idea",
+    "summary": "It&#x2019;s easy to spend an evening researching an AI side hustle and finish with three new subscriptions, a folder full of prompts, and no&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@clintherman/before-you-buy-another-ai-tool-test-one-small-service-idea-599e8c8076e9?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@clintherman/before-you-buy-another-ai-tool-test-one-small-service-idea-599e8c8076e9?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1372",
     "slug": "ai-shopping-agents-are-coming-for-your-store-it-isnt-ready",
     "title": "AI Shopping Agents Are Coming for Your Store. It Isn’t Ready.",
