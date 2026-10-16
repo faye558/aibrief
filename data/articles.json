@@ -1,5 +1,109 @@
 [
   {
+    "id": "1402",
+    "slug": "ai-operating-system-for-auto-shops-a-layer-not-a-replacement",
+    "title": "AI operating system for auto shops: a layer, not a replacement",
+    "summary": "Originally published at revvos.xyz.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@revvosxyz/ai-operating-system-for-auto-shops-a-layer-not-a-replacement-15f3dba65622?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@revvosxyz/ai-operating-system-for-auto-shops-a-layer-not-a-replacement-15f3dba65622?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "1401",
+    "slug": "why-ai-makes-things-up-and-how-to-build-ai-your-customers-ca",
+    "title": "Why AI Makes Things Up, and How to Build AI Your Customers Can Trust",
+    "summary": "If your AI says it, your business said itContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://thebughex.medium.com/why-ai-makes-things-up-and-how-to-build-ai-your-customers-can-trust-ed6d9a88bb34?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://thebughex.medium.com/why-ai-makes-things-up-and-how-to-build-ai-your-customers-can-trust-ed6d9a88bb34?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1403",
+    "slug": "ai-shoppers-now-see-your-price-and-stock-first-what-shop-mcp",
+    "title": "AI Shoppers Now See Your Price and Stock First: What Shop MCP Means for Your Store",
+    "summary": "Shopify&#x2019;s new Shop MCP lets agents search Catalog and see availability. Here is what to check.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@optraseven/ai-shoppers-now-see-your-price-and-stock-first-what-shop-mcp-means-for-your-store-481cb67338e1?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@optraseven/ai-shoppers-now-see-your-price-and-stock-first-what-shop-mcp-means-for-your-store-481cb67338e1?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1404",
+    "slug": "how-ai-is-transforming-e-commerce-product-photography-in-202",
+    "title": "How AI Is Transforming E-commerce Product Photography in 2026",
+    "summary": "How AI Is Transforming E-commerce Product Photography in 2026Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@removephotobg.com/how-ai-is-transforming-e-commerce-product-photography-in-2026-dd9538e9d22e?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@removephotobg.com/how-ai-is-transforming-e-commerce-product-photography-in-2026-dd9538e9d22e?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1399",
     "slug": "i-built-a-free-profit-tracker-for-resellers-heres-why-your-f",
     "title": "I Built a Free Profit Tracker for Resellers. Here’s Why Your Flips Make Less Than You Think",
@@ -36729,5 +36833,35 @@
     "slug": "google-news-4",
     "draft": false,
     "id": "1390"
+  },
+  {
+    "title": "라인, AI 활용 E2E 회귀 테스트 자동화 파이프라인 구축 사례 공개",
+    "summary": "LINE Plus의 대만 Giftshop 서비스 QA 담당자가 AI를 활용해 E2E 회귀 테스트를 자동화한 과정을 공유했다. 수동으로 진행하던 테스트 작업을 AI 기반 파이프라인으로 전환한 실제 적용 사례를 소개한다.",
+    "content": "## 주요 내용\n- LINE Plus 대만 Giftshop 서비스 QA팀이 AI를 테스트 자동화에 적용한 사례 공개\n- 기존 수동 방식의 E2E 회귀 테스트를 AI 기반 자동화 파이프라인으로 전환\n- AI를 테스트 자동화에 활용하려는 다양한 시도와 실제 적용 경험을 바탕으로 작성\n\n## 의미\n실제 서비스 QA 현장에서 AI를 활용해 반복적인 회귀 테스트를 자동화한 구체적인 사례로, AI 기반 테스트 자동화의 실무 적용 가능성을 보여준다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-10-16",
+    "tags": [
+      "라인",
+      "AI",
+      "테스트자동화",
+      "E2E테스트",
+      "QA",
+      "회귀테스트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/ai-e2e-test-automation",
+        "name": "라인 — AI로 E2E 회귀 테스트 자동화하기: ‘딸깍’을 파이프라인으로 바꾸기까지"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-e2e-release",
+    "draft": false,
+    "id": "1400"
   }
 ]
