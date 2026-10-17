@@ -1,5 +1,109 @@
 [
   {
+    "id": "1413",
+    "slug": "why-your-ais-recommendations-feel-slightly-off",
+    "title": "Why Your AI’s Recommendations Feel Slightly Off",
+    "summary": "It doesn&#x2019;t know what you care about most. Three lines can fix that.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@pmd.itokenta/why-your-ais-recommendations-feel-slightly-off-f3e9b506c7bd?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@pmd.itokenta/why-your-ais-recommendations-feel-slightly-off-f3e9b506c7bd?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1414",
+    "slug": "stop-applying-ai-to-your-business",
+    "title": "Stop Applying AI to Your Business",
+    "summary": "My briefing asked me the same settled question four mornings in a row.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@borisblum2/stop-applying-ai-to-your-business-118a2e55665f?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@borisblum2/stop-applying-ai-to-your-business-118a2e55665f?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1415",
+    "slug": "the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titl",
+    "title": "The Etsy SEO Trick Nobody Talks About: Let AI Write Your Titles and Tags",
+    "summary": "Prompted StudioContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@prompted-studio/the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titles-and-tags-b4be4e8e8480?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@prompted-studio/the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titles-and-tags-b4be4e8e8480?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1416",
+    "slug": "the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titl-2",
+    "title": "The Etsy SEO Trick Nobody Talks About: Let AI Write Your Titles and Tags",
+    "summary": "Prompted StudioContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-17",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@prompted-studio/the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titles-and-tags-b4be4e8e8480?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@prompted-studio/the-etsy-seo-trick-nobody-talks-about-let-ai-write-your-titles-and-tags-b4be4e8e8480?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1409",
     "slug": "ai-logo-generators-vs-human-designers-what-actually-changes",
     "title": "AI Logo Generators vs. Human Designers: What Actually Changes for Your Brand",
@@ -37045,5 +37149,34 @@
     "slug": "-e2e-release",
     "draft": false,
     "id": "1400"
+  },
+  {
+    "slug": "openai-gpt-3",
+    "title": "네이버 AI 브리핑의 46.5%가 네이버 블로그 출처… 챗GPT·제미나이는 '0건'",
+    "summary": "한국 최대 포털의 AI 서비스가 자사 플랫폼 콘텐츠를 과도하게 인용하면서 생성형 AI의 정보 다양성과 출처 투명성 문제를 드러냈다.",
+    "content": "## 큐레이션 노트\n\n국내 AI 서비스의 출처 편향성 문제를 적나라하게 보여주는 사례다. 이는 단순히 한 기업의 관행을 넘어 생성형 AI가 학습 데이터와 인용 메커니즘에서 얼마나 쉽게 '자기중심적(self-referential)' 결과를 만들 수 있는지를 시사한다. 향후 AI 서비스의 신뢰도는 얼마나 균형잡힌 정보원을 활용하고 이를 투명하게 공개하는가에 달려 있을 것이다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-10-16",
+    "tags": [
+      "생성형AI",
+      "정보편향",
+      "네이버",
+      "출처투명성",
+      "AI윤리",
+      "한국AI시장"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29350",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29350",
+        "name": "매드타임스 — 네이버 AI 브리핑 인용 출처 46.5%는 네이버 블로그… 챗GPT·제미나이는 ‘0건’"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1412"
   }
 ]
