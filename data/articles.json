@@ -1,5 +1,57 @@
 [
   {
+    "id": "1434",
+    "slug": "the-systemeio-free-plans-real-limit-isnt-the-2000-contacts",
+    "title": "The Systeme.io free plan’s real limit isn’t the 2,000 contacts",
+    "summary": "It&#x2019;s the single automation rule. Here&#x2019;s how to plan around it.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@humabot/the-systeme-io-free-plans-real-limit-isn-t-the-2-000-contacts-4263daafa636?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@humabot/the-systeme-io-free-plans-real-limit-isn-t-the-2-000-contacts-4263daafa636?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1435",
+    "slug": "the-shopify-merchants-guide-to-avoiding-ai-discovery-for-eco",
+    "title": "The Shopify Merchants Guide to Avoiding AI Discovery for Ecommerce Mistakes",
+    "summary": "Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-19",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@ohermans1/the-shopify-merchants-guide-to-avoiding-ai-discovery-for-ecommerce-mistakes-aaa08a2706bf?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@ohermans1/the-shopify-merchants-guide-to-avoiding-ai-discovery-for-ecommerce-mistakes-aaa08a2706bf?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1432",
     "slug": "make-ai-your-best-friend",
     "title": "Make AI your best friend",
@@ -37594,5 +37646,47 @@
     "communityLinks": null,
     "draft": false,
     "id": "1412"
+  },
+  {
+    "title": "Anthropic Claude로 브랜드 기반 구축하기 — 디자인 감각을 잃지 않는 방법",
+    "summary": "UX Collective에 소개된 이 글은 Claude와 몇 가지 가이드라인을 활용해 개발자가 존중하고 클라이언트가 실제로 출시할 수 있는 디자인 시스템을 구축하는 방법을 다룬다.",
+    "content": "## 주요 내용\n- Claude AI와 일정한 가드레일(guardrails)을 활용해 브랜드 기반 디자인 시스템을 구축하는 방법 소개\n- 개발자가 존중할 수 있고 클라이언트가 실제로 출시 가능한 디자인 시스템 구성을 목표로 함\n\n## 의미\n디자이너가 AI 도구를 활용하면서도 고유의 디자인 감각과 전문성을 유지할 수 있는 실용적 접근법을 제시한다는 점에서 의미가 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-10-18",
+    "tags": [
+      "Anthropic",
+      "Claude",
+      "브랜드디자인",
+      "디자인시스템",
+      "AI활용"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+        "name": "UX Collective — How to build a brand foundation with AI without losing your craft"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-claude-design",
+    "draft": false,
+    "id": "1433"
   }
 ]
