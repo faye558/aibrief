@@ -1,5 +1,57 @@
 [
   {
+    "id": "1462",
+    "slug": "byeongmogeul-ttara-bidonggi-cheoributeo-thread-pinningkkaji",
+    "title": "병목을 따라 비동기 처리부터 thread pinning까지",
+    "summary": "병목을 따라 비동기 처리부터 thread pinning까지",
+    "content": null,
+    "company": "velog",
+    "category": "블로그",
+    "date": "2026-10-22",
+    "tags": [
+      "velog"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://velog.io/@giyoul/from-asynchronous-to-thread-pinning",
+    "sourceName": "달리는 개발자 (giyoul)",
+    "sources": [
+      {
+        "url": "https://velog.io/@giyoul/from-asynchronous-to-thread-pinning",
+        "name": "달리는 개발자 (giyoul)"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1463",
+    "slug": "how-dayton-businesses-are-dominating-google-ai-search-in-202",
+    "title": "How Dayton Businesses Are Dominating Google & AI Search in 2026",
+    "summary": "The rules of search engine optimization have fundamentally shifted. For years, ranking a local business meant stuffing keywords into title&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-22",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@contactnxpr/how-dayton-businesses-are-dominating-google-ai-search-in-2026-8ca5765419ea?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@contactnxpr/how-dayton-businesses-are-dominating-google-ai-search-in-2026-8ca5765419ea?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1459",
     "slug": "how-to-build-an-ai-phone-receptionist-for-plumbers-with-mist",
     "title": "How to Build an AI Phone Receptionist for Plumbers With Mistral Voxtral 3",
