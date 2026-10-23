@@ -1,5 +1,57 @@
 [
   {
+    "id": "1464",
+    "slug": "meorissoge-issdeon-rogeu-jeongui-gijuneul-moduui-ai-seukilro",
+    "title": "머릿속에 있던 로그 정의 기준을 모두의 AI 스킬로 만들기",
+    "summary": "도구가 규칙을 검사하고 AI가 제안하면 사람이 확정해서, 누구나 같은 기준으로 로그를 정의해요",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-10-23",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/dataops-log-definition-skill",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/dataops-log-definition-skill",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1465",
+    "slug": "ai-agents-explained-for-non-technical-business-owners",
+    "title": "AI Agents, Explained for Non-Technical Business Owners",
+    "summary": "If the phrase &#x201C;AI agent&#x201D; makes you picture a robot in a headset, you&#x2019;re not alone. The term gets used for everything from a simpl",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@enterpriseai/ai-agents-explained-for-non-technical-business-owners-37abe8a7871a?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@enterpriseai/ai-agents-explained-for-non-technical-business-owners-37abe8a7871a?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1462",
     "slug": "byeongmogeul-ttara-bidonggi-cheoributeo-thread-pinningkkaji",
     "title": "병목을 따라 비동기 처리부터 thread pinning까지",
