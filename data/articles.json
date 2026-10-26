@@ -1,5 +1,109 @@
 [
   {
+    "id": "1483",
+    "slug": "the-best-free-way-to-see-if-chatgpt-recommends-your-business",
+    "title": "The Best Free Way to See If ChatGPT Recommends Your Business: Stop Guessing What AI Says About You",
+    "summary": "ChatGPT, Gemini, Claude and Perplexity rarely agree on who&#x2019;s best. I measured it across 33 categories, then built a free tool that shows&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://navdeepraj.medium.com/the-best-free-way-to-see-if-chatgpt-recommends-your-business-stop-guessing-what-ai-says-about-you-dfcbb8cb26cc?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://navdeepraj.medium.com/the-best-free-way-to-see-if-chatgpt-recommends-your-business-stop-guessing-what-ai-says-about-you-dfcbb8cb26cc?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1484",
+    "slug": "if-ai-is-so-good-why-doesnt-openai-just-start-100-companies",
+    "title": "If AI Is So Good, Why Doesn’t OpenAI Just Start 100 Companies?",
+    "summary": "743 Hacker News comments and 31 years of US business survival data give the same boring answer.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vinay221097/if-ai-is-so-good-why-doesnt-openai-just-start-100-companies-8f5e6f47bee9?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vinay221097/if-ai-is-so-good-why-doesnt-openai-just-start-100-companies-8f5e6f47bee9?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1485",
+    "slug": "how-carwow-uses-ai-to-test-learn-and-scale-faster-episode-61",
+    "title": "How Carwow Uses AI to Test, Learn, and Scale Faster (episode 618)",
+    "summary": "Roman Petrochenkov is the Head of Marketing & Media Analytics at Carwow. Carwow is a one-stop shop for changing your car &#x2014; offering&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chloethomas/how-carwow-uses-ai-to-test-learn-and-scale-faster-episode-618-1f7da441eb4a?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chloethomas/how-carwow-uses-ai-to-test-learn-and-scale-faster-episode-618-1f7da441eb4a?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1486",
+    "slug": "how-to-make-an-ai-ugc-video-ad-a-step-by-step-guide",
+    "title": "How to Make an AI UGC Video Ad: A Step-by-Step Guide",
+    "summary": "An AI UGC video is a short vertical video in which a generated presenter films themselves with your product and talks about it, the way a&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-26",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@bilal.kammoun/how-to-make-an-ai-ugc-video-ad-a-step-by-step-guide-47f498e03c05?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@bilal.kammoun/how-to-make-an-ai-ugc-video-ad-a-step-by-step-guide-47f498e03c05?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1481",
     "slug": "how-to-stop-your-business-ai-assistant-from-inventing-answer",
     "title": "How to Stop Your Business AI Assistant From Inventing Answers: Ground It in Your Own Documents",
@@ -38953,5 +39057,34 @@
     "slug": "ux-nielsen-norman-group-9",
     "draft": false,
     "id": "1473"
+  },
+  {
+    "title": "라인, AI 에이전트를 위한 인프라 'Flava MCP Hub' 구축 과정 공개",
+    "summary": "라인은 AI 에이전트가 실제 서비스 데이터를 활용할 수 있도록 MCP(Model Context Protocol) 기반의 허브 인프라인 'Flava MCP Hub'를 구축했다. 기존 LLM은 실시간 서비스 상태를 파악하기 어려운 한계가 있었으며, 이를 해결하기 위한 배관 공사에 해당하는 기반 작업을 진행해왔다.",
+    "content": "## 주요 내용\n- AI 에이전트가 실제 서비스 상태를 파악하기 어렵다는 문제 인식에서 출발\n- LLM의 한계를 보완하기 위해 MCP 기반의 허브 구조인 Flava MCP Hub 개발\n- AI 시대를 위한 인프라(배관 공사) 성격의 기반 작업으로 소개\n\n## 의미\n라인이 AI 에이전트의 실용적 활용을 위해 데이터 연결 인프라를 직접 구축한 사례로, MCP 기반 허브가 AI 서비스 고도화의 핵심 기반이 될 수 있음을 보여준다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-10-26",
+    "tags": [
+      "라인",
+      "MCP",
+      "AI에이전트",
+      "LLM",
+      "AI인프라"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/flava-mcp-hub-ai-infrastructure",
+        "name": "라인 — Flava MCP Hub가 걸어온 길: AI 시대를 위한 배관 공사"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-flava-mcp-hub",
+    "draft": false,
+    "id": "1482"
   }
 ]
