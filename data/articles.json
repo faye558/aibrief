@@ -39190,5 +39190,34 @@
     "slug": "-flava-mcp-hub",
     "draft": false,
     "id": "1482"
+  },
+  {
+    "title": "UX Collective: 잘못된 스토리텔링, ADHD 친화 디자인의 신화, AI 시대의 직함 무용론",
+    "summary": "UX Collective 주간 뉴스레터는 디자이너들이 빠른 결과물에 급급해 프로세스 단계를 건너뛰고 있으며, 진짜 중요한 경쟁은 이해관계자 정렬 싸움임을 강조한다. 이번 호에서는 잘못된 스토리텔링, ADHD 친화 디자인의 신화, 제품 중심 사고의 함정 등 다양한 주제를 다룬다.",
+    "content": "## 주요 내용\n- 디자이너들이 빠른 결과물을 위해 프로세스 단계를 생략하고 있으며, 진짜 중요한 경쟁은 이해관계자 정렬이라는 주장\n- Jon Sabutis의 글: 건축가가 석재를 이해하듯 디자이너도 실제 출시되는 소재(코드)를 이해해야 한다는 내용\n- Kristian Mikhel의 글: 'ADHD 친화 디자인'이라는 개념의 신화를 비판\n- Dan Maccarone의 글: 툴을 가진 창업자가 반드시 올바른 방향을 아는 것은 아니라는 주장\n- 제품 중심적 사고의 고전적 특성으로 사용자가 직접 찾아오길 기대하거나, 이미 공유된 정보를 재요청하는 행태 등을 지적\n- Figma AI 디자인 에이전트와 Optimal MCP 연동을 통해 리서치 결과를 디자인에 바로 반영하는 기능 소개(스폰서 콘텐츠)\n\n## 의미\n디자이너가 속도보다 이해관계자 정렬과 비판적 사고에 집중해야 한다는 메시지를 담고 있으며, AI 도구 확산 속에서도 본질적인 디자인 역량의 중요성을 재조명한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-10-26",
+    "tags": [
+      "UX디자인",
+      "ADHD디자인",
+      "이해관계자정렬",
+      "제품중심사고",
+      "AI디자인도구"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/telling-the-wrong-story-design-v-adhd-ai-doesnt-care-about-your-job-title-63869c750f07?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Telling the wrong story, Design v ADHD, AI doesn’t care about your job title"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-collective-adhd",
+    "draft": false,
+    "id": "1491"
   }
 ]
