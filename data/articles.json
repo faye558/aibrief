@@ -1,5 +1,83 @@
 [
   {
+    "id": "1495",
+    "slug": "timi-sinroehal-su-issneun-ai-bunseog-hwangyeong-mandeulgi-ch",
+    "title": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+    "summary": "팀이 신뢰할 수 있는 AI 분석 환경 만들기: 추천팀의 컨텍스트 설계",
+    "content": null,
+    "company": "카카오",
+    "category": "블로그",
+    "date": "2026-10-29",
+    "tags": [
+      "카카오"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/844",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/844",
+        "name": "카카오 테크블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "1496",
+    "slug": "your-brand-is-a-promise-seth-godin-on-building-a-brand-in-th",
+    "title": "Your Brand Is a Promise: Seth Godin on Building a Brand in the Age of AI",
+    "summary": "Seth Godin has spent forty years telling businesses that marketing isn&#x2019;t hype, ads or getting the word out. In a recent interview on The&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@walterjordan/your-brand-is-a-promise-seth-godin-on-building-a-brand-in-the-age-of-ai-6c325869dec9?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@walterjordan/your-brand-is-a-promise-seth-godin-on-building-a-brand-in-the-age-of-ai-6c325869dec9?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1497",
+    "slug": "your-ai-shopper-test-is-a-diagnostic-not-a-demand-forecast",
+    "title": "Your AI Shopper Test Is a Diagnostic, Not a Demand Forecast",
+    "summary": "Shopify&#x2019;s new SimGym modes can expose storefront friction. They cannot prove that a redesign will sell more.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-29",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@zhangchongda1/your-ai-shopper-test-is-a-diagnostic-not-a-demand-forecast-93395edf79f4?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@zhangchongda1/your-ai-shopper-test-is-a-diagnostic-not-a-demand-forecast-93395edf79f4?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1492",
     "slug": "ai-search-is-fishing-wheres-your-bait",
     "title": "AI Search Is Fishing. Where’s Your Bait?",
@@ -39271,5 +39349,34 @@
     "slug": "ux-collective-adhd",
     "draft": false,
     "id": "1491"
+  },
+  {
+    "slug": "adobe-generate",
+    "title": "AI 생성 저품질 사이트 2,116개 적발… 프로그래매틱 광고 시장의 새로운 위협",
+    "summary": "생성형 AI의 악용으로 대규모 스팸/사기 사이트가 양산되면서 디지털 광고 생태계의 투명성과 신뢰성이 근본적으로 위협받고 있다.",
+    "content": "## 큐레이션 노트\n\nAI 기술의 민주화는 합법적 창작자뿐 아니라 악의적 행위자에게도 대규모 콘텐츠 제작 능력을 부여했으며, 이는 프로그래매틱 광고 시장의 구조적 허점을 노출하고 있습니다. 광고주는 자신의 광고가 실제 가치있는 사이트에 노출되는지 검증하기 어려워지면서, 광고 예산 낭비와 브랜드 평판 훼손의 이중 위험에 직면하게 되었습니다. 이는 단순한 기술 오용을 넘어 온라인 광고의 신뢰 기반 자체를 재구축해야 한다는 업계적 과제를 제시합니다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-10-29",
+    "tags": [
+      "AI 악용",
+      "프로그래매틱 광고",
+      "광고 사기",
+      "콘텐츠 검증",
+      "디지털 신뢰",
+      "마케팅 투명성"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29460",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29460",
+        "name": "매드타임스 — AI로 만든 저품질 사이트 2,116개 발견… 프로그래매틱 광고 생태계에 새로운 위협"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1494"
   }
 ]
