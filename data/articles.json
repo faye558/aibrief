@@ -1,5 +1,57 @@
 [
   {
+    "id": "1502",
+    "slug": "read-only-ai-agent-access-to-laravel-shop-orders-with-mcp",
+    "title": "Read-Only AI Agent Access to Laravel Shop Orders with MCP",
+    "summary": "Which orders paid in the last seven days are still unshipped? In Aimeos 2026.10, an AI agent can look this up for you. Below is the setup&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@aimeos/read-only-ai-agent-access-to-laravel-shop-orders-with-mcp-76a3e6ef2ebe?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@aimeos/read-only-ai-agent-access-to-laravel-shop-orders-with-mcp-76a3e6ef2ebe?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1503",
+    "slug": "ai-agents-edit-your-shop-where-approval-belongs",
+    "title": "AI agents edit your shop: where approval belongs",
+    "summary": "Your AI agent can change the whole product catalog. Who checks the changes before customers see it?Continue reading on Towards AI »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-10-30",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://pub.towardsai.net/ai-agents-edit-your-shop-where-approval-belongs-35f8b26f0366?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://pub.towardsai.net/ai-agents-edit-your-shop-where-approval-belongs-35f8b26f0366?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1498",
     "slug": "can-your-skincare-brand-run-ai-product-photos-in-meta-and-ti",
     "title": "Can Your Skincare Brand Run AI Product Photos in Meta and TikTok Ads?",
@@ -39404,5 +39456,94 @@
     "communityLinks": null,
     "draft": false,
     "id": "1494"
+  },
+  {
+    "title": "AI 전략은 실제 사용자가 주도해야 한다 — UX Collective 기고",
+    "summary": "AI 도구의 전략적 결정은 계약을 협상하는 운영팀이 아닌, 실제 현장에서 도구를 사용하는 실무자가 주도해야 한다는 주장이 제기됐다. 인터뷰를 직접 진행한 연구자만이 AI가 생성한 잘못된 요약을 즉시 식별할 수 있듯, 판단력은 실무 경험에서 나온다. AI 도구 도입은 단순한 소프트웨어 선택과 달리 맥락과 전문성이 필요하기 때문에, 운영팀은 안전한 실행 환경 구축을 담당하고 전략적 책임은 실무자에게 있어야 한다.",
+    "content": "## 주요 내용\n- AI 합성 도구가 생성한 잘못된 테마와 인용을 발견할 수 있는 사람은 해당 인터뷰를 직접 수행한 연구자뿐이며, 계약을 담당한 관리자는 이를 포착하기 어렵다\n- 디자인·리서치 운영팀은 라이선스, 동의서, 벤더 계약 관리를 담당해왔으나, AI 도구 도입 이후 '무엇을 위해 사용할지'를 결정하는 역할까지 맡게 되는 역전 현상이 발생하고 있다\n- AI 도구는 Figma처럼 동일한 입력에 동일한 출력을 보장하지 않으므로, 체크리스트로 평가할 수 없고 실무 판단력이 필요하다\n- 실무자가 전략의 직접 책임자(DRI)가 되어야 하며, 운영팀은 그 선택을 안전하게 실행하는 '배관' 역할을 맡아야 한다\n- 일부 팀은 이 분야에 필요한 역량이 부족하고 업계 동향을 따라가려는 의지도 없다는 점이 채용 공고를 통해 드러나고 있다\n\n## 의미\nAI 도입 전략의 주도권을 실무 경험 없는 운영 조직이 쥐게 될 경우, 품질 문제를 인지하지 못한 채 잘못된 결과물이 내부에서 통용될 위험이 있다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-10-30",
+    "tags": [
+      "AI전략",
+      "UX리서치",
+      "디자인운영",
+      "실무자주도",
+      "AI도입"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+        "name": "UX Collective — The people using AI should set its strategy"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-collective-2",
+    "draft": false,
+    "id": "1499"
+  },
+  {
+    "slug": "ai-announce-generate",
+    "title": "인크로스, 2026 '아이엠 리포트' 발표...생성형 AI에 월평균 3만 6천 원 지출",
+    "summary": "한국 사용자의 생성형 AI 서비스 이용 현황을 정량적으로 파악할 수 있는 시장조사 결과로, AI 구독/유료 서비스 시장의 실제 규모와 성숙도를 보여주는 지표가 된다.",
+    "content": "## 큐레이션 노트\n국내 AI 시장이 단순 체험 단계를 넘어 실질적인 월정액 결제로 이어지는 '수익화 단계'에 진입했음을 의미한다. 개별 소비자의 구체적인 지출 규모 파악은 향후 AI 서비스 기업들의 가격책정 전략과 수익모델 개선에 직결되는 중요한 데이터 포인트이며, 한국 AI 시장의 거시적 규모 예측과 산업 성숙도를 평가하는 기초 통계로 활용될 가능성이 높다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-10-30",
+    "tags": [
+      "생성형AI",
+      "시장조사",
+      "AI구독서비스",
+      "한국AI시장",
+      "소비자지출",
+      "수익화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29501",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29501",
+        "name": "매드타임스 — “생성형 AI에 월평균 3만 6천 원 쓴다” 인크로스, 2026 ‘아이엠 리포트’ 발표"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1500"
+  },
+  {
+    "slug": "anthropic-news-12",
+    "title": "유튜브 AI 인용의 87%가 구글 AI 오버뷰에서 나온 반면, 네이버 AI 브리핑은 0건",
+    "summary": "생성형 AI 검색 시장에서 구글의 압도적 우위가 데이터 기반으로 검증되면서, 한국 AI 검색 서비스의 시장 영향력 격차가 수치화되었다.",
+    "content": "## 큐레이션 노트\n\n이 기사는 AI 검색 결과의 신뢰성과 영향력이 얼마나 편중되어 있는지 보여주는 중요한 증거다. 구글 AI 오버뷰의 높은 인용률은 단순히 점유율 우위를 넘어, 콘텐츠 생태계에서 어느 플랫폼이 정보 게이트키퍼로 기능하는지를 명확히 드러낸다. 한국 시장에서도 네이버의 부진이 뚜렷한 상황은 지역 AI 서비스의 경쟁력 격차와 글로벌 플랫폼의 통제력 심화를 동시에 반영하는 신호다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-10-30",
+    "tags": [
+      "AI검색",
+      "생성형AI",
+      "구글",
+      "네이버",
+      "시장점유율",
+      "정보신뢰성",
+      "검색엔진",
+      "AI경쟁력"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29489",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29489",
+        "name": "매드타임스 — AI 답변의 유튜브 인용 87%가 구글 AI 오버뷰에서 나와… 네이버 AI 브리핑은 0건"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1501"
   }
 ]
