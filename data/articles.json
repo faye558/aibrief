@@ -1,5 +1,57 @@
 [
   {
+    "id": "1507",
+    "slug": "before-you-upload-a-contract-to-an-ai-chatbot-a-5-minute-che",
+    "title": "Before you upload a contract to an AI chatbot: a 5-minute checklist",
+    "summary": "Pasting a contract into ChatGPT and asking &#x201C;is this OK to sign?&#x201D; is one of the most common things people do with AI now. It&#x2019;s oft",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-01",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@rohangadiya/before-you-upload-a-contract-to-an-ai-chatbot-a-5-minute-checklist-027d02e96607?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@rohangadiya/before-you-upload-a-contract-to-an-ai-chatbot-a-5-minute-checklist-027d02e96607?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1508",
+    "slug": "how-to-put-your-small-business-on-autopilot-in-2026-4-smart",
+    "title": "How to Put Your Small Business on Autopilot in 2026: 4 Smart SEO & AI Upgrades.",
+    "summary": "Save 15+ hours a week and grow organic Google traffic by delegating the technical heavy lifting to vetted specialists.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-01",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@topshopnaz/how-to-put-your-small-business-on-autopilot-in-2026-4-smart-seo-ai-upgrades-f9ad4b97ab14?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@topshopnaz/how-to-put-your-small-business-on-autopilot-in-2026-4-smart-seo-ai-upgrades-f9ad4b97ab14?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1502",
     "slug": "read-only-ai-agent-access-to-laravel-shop-orders-with-mcp",
     "title": "Read-Only AI Agent Access to Laravel Shop Orders with MCP",
@@ -39545,5 +39597,105 @@
     "communityLinks": null,
     "draft": false,
     "id": "1501"
+  },
+  {
+    "title": "Nielsen Norman Group — AI 네이티브 소프트웨어 개발에서 UX의 역할",
+    "summary": "AI 네이티브 소프트웨어 개발 생명주기에서 UX는 단순한 AI 컨텍스트 제공으로 축소될 위험이 있다. UX는 사용자 니즈를 발굴하고, 무엇을 만들지 방향을 설정하며, 출시 전후 평가를 담당해야 한다.",
+    "content": "## 주요 내용\n- AI 네이티브 소프트웨어 개발 생명주기에서 UX의 역할이 AI 컨텍스트 제공으로 축소되는 경향이 있음\n- UX는 사용자 니즈를 발굴하는 역할을 유지해야 함\n- UX는 무엇을 구축할지 방향을 형성하는 역할을 해야 함\n- UX는 출시 전과 출시 후 모두 평가 역할을 수행해야 함\n\n## 의미\nAI 기반 소프트웨어 개발 환경에서도 UX의 본질적 역할—사용자 이해, 방향 설정, 평가—은 여전히 필수적이며 축소되어서는 안 된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-10-30",
+    "tags": [
+      "UX",
+      "AI 네이티브",
+      "소프트웨어 개발",
+      "에이전틱 AI",
+      "Nielsen Norman Group"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — The Role of UX in Agentic Software Factories"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-nielsen-norman-group",
+    "draft": false,
+    "id": "1504"
+  },
+  {
+    "title": "Nielsen Norman Group — AI 시대, '사용자 경험'에서 '경험 디자인'으로의 전환",
+    "summary": "AI의 등장으로 UX 분야가 인간 사용자를 넘어 사용자를 대신해 행동하는 에이전트까지 포함하도록 확장되고 있다. 이에 따라 '경험 디자인(Experience Design)'이라는 더 넓은 개념이 이 분야를 포괄하는 명칭으로 부상하고 있으며, 여전히 사람의 목표를 중심에 둔다.",
+    "content": "## 주요 내용\n- AI 확산으로 UX의 범위가 인간 사용자에서 사용자를 대신하는 AI 에이전트까지 확장됨\n- 이 broader한 분야를 지칭하는 개념으로 '경험 디자인(Experience Design)'이 제시됨\n- 경험 디자인은 여전히 사람의 목표를 중심으로 함\n\n## 의미\nAI 에이전트가 사용자 역할을 일부 대체하는 환경에서, 기존 'UX' 개념만으로는 설명이 부족해졌으며 '경험 디자인'이라는 용어가 이 변화를 반영하는 대안으로 논의되고 있다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-10-30",
+    "tags": [
+      "UX",
+      "경험디자인",
+      "AI에이전트",
+      "Nielsen Norman Group",
+      "디자인트렌드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Experience Design: Dropping the “User” from “User Experience”"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-10",
+    "draft": false,
+    "id": "1505"
+  },
+  {
+    "title": "Cognizant, OpenAI 솔루션 구현 위해 25,000명 이상 전문가 투입",
+    "summary": "Cognizant는 OpenAI 솔루션 구현에 특화된 'OpenAI Frontier Capability Group'을 신설하고, 25,000명 이상의 전문가를 글로벌 조직으로 결집했다. Cognizant는 자사의 영업 및 관련 부문에 OpenAI 활용을 먼저 확대 적용하는 방식으로 시작하고 있다.",
+    "content": "## 주요 내용\n- Cognizant, 'OpenAI Frontier Capability Group' 신설\n- 25,000명 이상의 전문가를 OpenAI 솔루션 구현 전담 글로벌 조직으로 편성\n- Cognizant 자사 내 영업 등 부문에 OpenAI 도입을 우선 확대 적용\n\n## 의미\n기업들이 고도화된 AI를 실제 운영 환경에 도입하는 단계로 나아가는 가운데, Cognizant가 대규모 전문 인력 조직을 통해 OpenAI 솔루션의 엔터프라이즈 구현을 본격 지원하겠다는 의지를 보여준다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-11-01",
+    "tags": [
+      "Cognizant",
+      "OpenAI",
+      "엔터프라이즈AI",
+      "AI구현",
+      "AI전문인력"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.prnewswire.com/news-releases/cognizant-zet-meer-dan-25-000-professionals-in-voor-de-implementatie-van-openai-oplossingen-nu-ondernemingen-geavanceerde-ai-in-productie-nemen-302925664.html",
+    "sourceName": "PR Newswire Tech",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/cognizant-zet-meer-dan-25-000-professionals-in-voor-de-implementatie-van-openai-oplossingen-nu-ondernemingen-geavanceerde-ai-in-productie-nemen-302925664.html",
+        "name": "PR Newswire Tech — Cognizant zet meer dan 25.000 professionals in voor de implementatie van OpenAI-oplossingen nu ondernemingen geavanceerde AI in productie nemen"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-cognizant",
+    "draft": false,
+    "id": "1506"
   }
 ]
