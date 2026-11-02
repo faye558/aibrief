@@ -1,5 +1,83 @@
 [
   {
+    "id": "1512",
+    "slug": "your-sales-ai-should-be-allowed-to-talk-people-out-of-buying",
+    "title": "Your Sales AI Should Be Allowed to Talk People Out of Buying",
+    "summary": "When a customer&#x2019;s non-negotiable requirement cannot be met, another persuasive reply is the wrong next step.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mia_58382/your-sales-ai-should-be-allowed-to-talk-people-out-of-buying-40b65f4c8c28?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mia_58382/your-sales-ai-should-be-allowed-to-talk-people-out-of-buying-40b65f4c8c28?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1513",
+    "slug": "ai-logo-maker-for-ecommerce-brands-7-best-tools-to-try-in-20",
+    "title": "AI Logo Maker for Ecommerce Brands: 7 Best Tools to Try in 2026",
+    "summary": "A strong logo helps an ecommerce brand build recognition and create a consistent identity across its website, packaging, and social media&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@contact_65072/ai-logo-maker-for-ecommerce-brands-7-best-tools-to-try-in-2026-8347d9398944?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@contact_65072/ai-logo-maker-for-ecommerce-brands-7-best-tools-to-try-in-2026-8347d9398944?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1514",
+    "slug": "3-critical-ways-ai-is-changing-ecommerce-in-practice-with-ta",
+    "title": "3 Critical Ways AI is Changing eCommerce in Practice with Tarek Mueller (episode 619)",
+    "summary": "Tarek Mueller is the co-founder of fashion online shop ABOUT YOU, and co-founder at digital commerce engine SCAYLE.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-02",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chloethomas/3-critical-ways-ai-is-changing-ecommerce-in-practice-with-tarek-mueller-episode-619-a267105e49d4?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chloethomas/3-critical-ways-ai-is-changing-ecommerce-in-practice-with-tarek-mueller-episode-619-a267105e49d4?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1509",
     "slug": "why-your-google-business-profile-matters-for-ai-visibility",
     "title": "Why Your Google Business Profile Matters for AI Visibility",
@@ -39749,5 +39827,47 @@
     "slug": "openai-cognizant",
     "draft": false,
     "id": "1506"
+  },
+  {
+    "title": "Google·Atlassian·Figma, 디자인 시스템의 본질은 컴포넌트가 아니다",
+    "summary": "Google, Atlassian, Figma는 이제 디자인의 배경과 이유를 담은 파일을 함께 제공한다. 그러나 어떤 것도 그 이유를 자동으로 따르게 만들지는 못한다.",
+    "content": "## 주요 내용\n- Google, Atlassian, Figma는 디자인 결정의 근거와 이유를 담은 파일을 배포하고 있음\n- 디자인 시스템의 핵심은 컴포넌트 자체가 아니라는 관점 제시\n- 해당 이유나 원칙을 시스템이 자동으로 강제할 수 있는 수단은 존재하지 않음\n\n## 의미\n디자인 시스템에서 컴포넌트보다 디자인 결정의 '이유'가 더 중요하다는 논의가 업계 주요 기업들을 중심으로 부상하고 있음을 보여준다.",
+    "company": "Google",
+    "category": "AI",
+    "date": "2026-11-01",
+    "tags": [
+      "디자인시스템",
+      "Google",
+      "Figma",
+      "Atlassian",
+      "UX"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+        "name": "UX Collective — Your design system was never about components"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/Gemini",
+        "url": "https://www.reddit.com/r/Gemini/new/"
+      },
+      {
+        "name": "Reddit r/artificial",
+        "url": "https://www.reddit.com/r/artificial/new/"
+      },
+      {
+        "name": "클리앙 검색: 제미나이",
+        "url": "https://www.clien.net/service/search?q=%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4&sort=latest"
+      }
+    ],
+    "slug": "google-atlassian-design",
+    "draft": false,
+    "id": "1511"
   }
 ]
