@@ -1,5 +1,83 @@
 [
   {
+    "id": "1528",
+    "slug": "i-put-a-live-ai-chat-assistant-on-my-side-projects-website",
+    "title": "I put a live AI chat assistant on my side project’s website.",
+    "summary": "No platform lock-in, no fake numbers, just what it takes and what can go wrong.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@hello_86179/i-put-a-live-ai-chat-assistant-on-my-side-projects-website-fb88b7577442?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@hello_86179/i-put-a-live-ai-chat-assistant-on-my-side-projects-website-fb88b7577442?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1529",
+    "slug": "how-small-businesses-can-use-ai-automation-to-save-time-and",
+    "title": "How Small Businesses Can Use AI Automation to Save Time and Reduce Costs",
+    "summary": "How Small Businesses Can Use AI Automation to Save Time and Reduce CostsContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@maria.farhat1992/how-small-businesses-can-use-ai-automation-to-save-time-and-reduce-costs-d6fdb882d112?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@maria.farhat1992/how-small-businesses-can-use-ai-automation-to-save-time-and-reduce-costs-d6fdb882d112?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1530",
+    "slug": "how-ai-and-personalisation-are-changing-jewellery-e-commerce",
+    "title": "How AI and Personalisation Are Changing Jewellery E-commerce Websites",
+    "summary": "The online jewellery industry is becoming more personalised, visual, and technology-driven. Customers no longer want to browse hundreds of&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-04",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@3djewelsindia/how-ai-and-personalisation-are-changing-jewellery-e-commerce-websites-a88b46cc7d0b?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@3djewelsindia/how-ai-and-personalisation-are-changing-jewellery-e-commerce-websites-a88b46cc7d0b?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1524",
     "slug": "amazon-blocked-metas-ai-shopping-agent-shopify-let-it-in-her",
     "title": "Amazon Blocked Meta’s AI Shopping Agent. Shopify Let It In. Here’s What Store Owners Should Do.",
@@ -40229,5 +40307,36 @@
     "slug": "-mcp-prd",
     "draft": false,
     "id": "1523"
+  },
+  {
+    "title": "네이버 크림, 추천 시스템에 통합 임베딩(Universal Embedding) 적용 사례 공개",
+    "summary": "네이버 크림팀이 NAVER Engineering Day 10th에서 여러 엔티티를 하나의 벡터 공간에 담는 통합 임베딩(Universal Embedding)을 추천 시스템 후보 생성(Retrieval) 단계에 적용한 경험을 발표했다. v1 모델 운영 중 드러난 차원 과중·조건 조합 한계 등을 v2에서 MRL(Matryoshka Representation Learning)과 Roaring Bitmap 기반 필터드 벡터 검색으로 개선했으며, 그 결과 응답 지연은 약 4배 단축, 메모리는 1/6 수준으로 줄었다고 밝혔다.",
+    "content": "## 주요 내용\n- 기존 크림은 추천 구좌마다 별도 모델이 존재했으나, 이를 하나의 범용 임베딩으로 통합하는 방향으로 설계\n- 단일 인코더(Bi-encoder)가 검색어와 상품을 동일 공간에 임베딩, InfoNCE 기반 Contrastive Learning으로 학습\n- v1 한계: 임베딩 붕괴 현상, 768차원의 높은 무게, 대규모 조건 처리 및 조건 자유 조합 불가\n- v2 개선: 학습 안정화, MRL을 통한 단일 벡터 다중 해상도 지원, Roaring Bitmap으로 조건 조합 실행, 근사 검색(ANN) 대신 전체 후보 브루트포스 계산 방식 채택\n- API 설계도 단일 조건 입력에서 조건 리스트 방식으로 확장\n\n## 의미\n구좌·서비스마다 증가하는 추천 모델을 단일 통합 임베딩으로 대체하려는 시도로, 운영 효율과 시스템 성능을 동시에 개선한 실전 사례로서 추천·검색 시스템 엔지니어에게 참고할 만한 구체적 처방을 제시한다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-04",
+    "tags": [
+      "네이버",
+      "크림",
+      "추천시스템",
+      "임베딩",
+      "벡터검색",
+      "MRL",
+      "후보생성"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/7134499",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/7134499",
+        "name": "네이버 D2 — 크림에서 통합 임베딩(Universal Embedding)은 어떻게 쓰일까?"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-universal-embedding",
+    "draft": false,
+    "id": "1527"
   }
 ]
