@@ -1,5 +1,31 @@
 [
   {
+    "id": "1532",
+    "slug": "ai-insurance-for-businesses-when-bots-get-it-wrong",
+    "title": "AI Insurance for Businesses When Bots Get It Wrong",
+    "summary": "Your AI assistant finishes a client report in seconds. It also invents a number. Unfortunately, the client uses that number to spend real&#x2026;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-05",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://valu8asia.medium.com/ai-insurance-for-businesses-when-bots-get-it-wrong-82b8387001a5?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://valu8asia.medium.com/ai-insurance-for-businesses-when-bots-get-it-wrong-82b8387001a5?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1528",
     "slug": "i-put-a-live-ai-chat-assistant-on-my-side-projects-website",
     "title": "I put a live AI chat assistant on my side project’s website.",
@@ -40338,5 +40364,47 @@
     "slug": "-universal-embedding",
     "draft": false,
     "id": "1527"
+  },
+  {
+    "title": "Anthropic·Google AI 시대, 디자인 시스템은 어떻게 변했나 — 전문가 3인의 현장 증언",
+    "summary": "Claude·Gemini 등 AI로 디자인 시스템을 단 몇 분 만에 구축할 수 있다는 주장이 확산되고 있지만, 실제로는 UI 키트와 디자인 시스템을 혼동한 오해가 많다. UX Collective는 ITV, 지멘스, 프리랜서 전문가 등 디자인 시스템 전문가 3인을 인터뷰해 AI가 실무에서 디자인 시스템에 가져온 변화와 여전히 사람의 역할이 필요한 영역을 짚었다.",
+    "content": "## 주요 내용\n- Claude·Gemini 등 AI를 활용해 디자인 시스템을 수분 내 구축했다는 소셜미디어 게시물이 늘고 있으나, 이는 UI 키트와 디자인 시스템을 혼동한 경우가 많음\n- UXDX Berlin에서의 디자인 시스템 관련 강연을 계기로 AI가 실무 팀의 일상에 미친 영향을 탐구\n- 인터뷰 대상: ITV 프로덕트 디자인 헤드 Marianne Ashton-Booth, 지멘스 최고 디자인 책임자 David Sward, 디자인 시스템·Ops 전문 프리랜서 Nicolas Chatelain\n- Nicolas Chatelain: 팀과 AI 모두에 유연하게 적응하는 프레임워크 중시\n- David Sward: 가드레일을 갖춘 속도 향상을 추구\n\n## 의미\nAI가 디자인 시스템 구축 속도를 높이는 도구로 주목받고 있지만, 전문가들은 AI가 대체할 수 없는 인간의 역할이 여전히 디자인 시스템의 핵심임을 강조하고 있다.",
+    "company": "Anthropic",
+    "category": "AI",
+    "date": "2026-11-04",
+    "tags": [
+      "디자인시스템",
+      "AI디자인",
+      "UX",
+      "Anthropic",
+      "Claude"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/what-ai-has-changed-in-design-systems-and-what-is-still-up-to-us-d4e8e8f4ceb2?source=rss----138adf9c44c---4",
+        "name": "UX Collective — What AI has changed in Design Systems, and what is still up to us"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ClaudeAI",
+        "url": "https://www.reddit.com/r/ClaudeAI/new/"
+      },
+      {
+        "name": "클리앙 검색: 클로드",
+        "url": "https://www.clien.net/service/search?q=%ED%81%B4%EB%A1%9C%EB%93%9C&sort=latest"
+      },
+      {
+        "name": "디스크립 검색: Claude",
+        "url": "https://www.disquiet.io/search?q=Claude"
+      }
+    ],
+    "slug": "anthropic-design-2",
+    "draft": false,
+    "id": "1531"
   }
 ]
