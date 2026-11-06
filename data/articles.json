@@ -1,5 +1,31 @@
 [
   {
+    "id": "1538",
+    "slug": "ai-call-answering-for-service-businesses-alpha-seed",
+    "title": "AI call answering for service businesses | Alpha Seed",
+    "summary": "A Tuesday in January, &#x2212;24 &#xB0;C outside. The after-hours line at Quill Creek Heating & Plumbing.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-06",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@support_17249/ai-call-answering-for-service-businesses-alpha-seed-7f9984fb0d0f?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@support_17249/ai-call-answering-for-service-businesses-alpha-seed-7f9984fb0d0f?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1532",
     "slug": "ai-insurance-for-businesses-when-bots-get-it-wrong",
     "title": "AI Insurance for Businesses When Bots Get It Wrong",
@@ -40406,5 +40432,152 @@
     "slug": "anthropic-design-2",
     "draft": false,
     "id": "1531"
+  },
+  {
+    "title": "라인, 프리미엄콜 녹화 기능 Android 개발 과정 공개",
+    "summary": "LINE 앱의 VoIP Android 서비스 개발 담당자가 프리미엄콜 녹화 기능 개발 과정을 기술 블로그를 통해 공개했다. 녹화 버튼 뒤에서 실제로 어떤 기술적 처리가 이루어지는지를 중심으로 개발 경험을 상세히 설명한다.",
+    "content": "## 주요 내용\n- LINE 앱 VoIP Android 서비스 담당 개발자가 프리미엄콜 녹화 기능 개발기를 공유\n- 녹화 버튼 동작 뒤에서 일어나는 기술적 구현 내용을 다룬 기술 블로그 게시\n\n## 의미\n라인이 자사 개발자 블로그를 통해 프리미엄콜 녹화 기능의 내부 구현 과정을 공개함으로써, VoIP 기반 통화 녹화 기술에 대한 개발 인사이트를 제공하고 있다.",
+    "company": "라인",
+    "category": "테크블로그",
+    "date": "2026-11-06",
+    "tags": [
+      "라인",
+      "VoIP",
+      "Android",
+      "프리미엄콜",
+      "통화녹화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://techblog.lycorp.co.jp/ko/line-premium-call-recording",
+    "sourceName": "라인",
+    "sources": [
+      {
+        "url": "https://techblog.lycorp.co.jp/ko/line-premium-call-recording",
+        "name": "라인 — 녹화 버튼 뒤에서 일어나는 일: LINE 프리미엄콜 개발기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-android-release",
+    "draft": false,
+    "id": "1533"
+  },
+  {
+    "title": "네이버, AI 활용 주간보고 자동화 시스템 'worklog-system' 구축 경험 공개",
+    "summary": "네이버가 사내 기술 교류 행사 'NAVER Engineering Day 10th'에서 주간보고 자동화 시스템 'worklog-system' 구축 경험기를 공개했다. Slack, Jira, Confluence, GitHub 등 사내 협업 도구와 AI를 연동해 업무 기록을 자동으로 수집·정리하는 개인 생산성 도구를 소개하며, 다중 기기·VPN 환경과 중앙 서버 없는 운영 등 실제 구축 과정에서 직면한 문제와 해결 방법을 다룬다.",
+    "content": "## 주요 내용\n- 네이버 사내 기술 행사 'NAVER Engineering Day 10th' 발표 세션 공개\n- 주간보고를 기억이 아닌 기록에서 자동 수집하는 방법 소개\n- 재택·사무실 전환 환경에서 여러 기기와 VPN 환경 간 기록을 빠짐없이 모으는 구조 설명\n- 노트·TODO·일정을 주간보고 화면에 통합하면서 중앙 서버 없이 구현한 과정 공유\n- Slack, Jira, Confluence, GitHub(사내 OSS) 등 협업 도구와 AI를 연동한 개인 생산성 도구\n\n## 의미\n반복적인 주간보고 작성 부담을 줄이고자 AI와 사내 협업 도구를 직접 연동한 자동화 시스템을 구축한 실무 경험을 공유함으로써, 유사한 업무 자동화를 고민하는 개발자들에게 실질적인 참고 사례를 제공한다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-05",
+    "tags": [
+      "네이버",
+      "주간보고 자동화",
+      "worklog",
+      "AI 생산성",
+      "NAVER Engineering Day",
+      "업무 자동화"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/5037598",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/5037598",
+        "name": "네이버 D2 — worklog-system 주간보고 자동화 구축 경험기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-worklog-system-release",
+    "draft": false,
+    "id": "1534"
+  },
+  {
+    "title": "카카오, AI 에이전트용 멀티모달 의사결정 모델 'Kanana-2-v-decide' 오픈소스 공개",
+    "summary": "카카오 Applied AI Model팀이 AI 에이전트의 단계별 판단을 빠르게 처리하기 위한 멀티모달 의사결정 모델 'Kanana-2-v-decide'를 오픈소스로 공개했다. 고객 문의 분류, 상품 사진 확인, 도구 선택 등 명확한 판단이 반복적으로 필요한 Agentic AI 환경을 겨냥한 모델이다.",
+    "content": "## 주요 내용\n- 카카오 Applied AI Model팀(Shawn·Michael)이 멀티모달 의사결정 모델 'Kanana-2-v-decide'를 오픈소스로 공개\n- AI 에이전트가 하나의 요청을 처리하는 동안 여러 차례 반복하는 판단 작업에 특화\n- 고객 문의 분류, 상품 사진 확인, 에이전트의 다음 도구 선택 등 명확한 판단이 필요한 서비스 상황을 대상으로 함\n- Agentic AI 시대에 각 단계의 판단 결과를 빠르게 도출해 서비스의 다음 동작으로 연결하는 것을 목표로 함\n\n## 의미\n긴 생성형 응답보다 빠르고 명확한 판단이 필요한 AI 에이전트 환경에 특화된 경량 의사결정 모델을 오픈소스로 공개함으로써, 국내외 개발자들이 Agentic AI 서비스 구축에 활용할 수 있는 기반을 제공했다는 점에서 의미가 있다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-11-05",
+    "tags": [
+      "카카오",
+      "Kanana",
+      "멀티모달",
+      "AI에이전트",
+      "오픈소스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/846",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/846",
+        "name": "카카오 테크블로그 — AI 에이전트를 위한 멀티모달 의사결정 모델 ‘Kanana-2-v-decide’ 오픈소스 공개"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-kanana-2-v-decide-release",
+    "draft": false,
+    "id": "1535"
+  },
+  {
+    "slug": "adobe-announce",
+    "title": "어도비, AI 기반 고객 유입이 구매 전환율 83% 상승 시킨다고 발표",
+    "summary": "AI 기술이 단순한 트래픽 증대를 넘어 실질적인 매출 개선으로 이어지고 있다는 구체적 사례를 제시하며, 이커머스 플랫폼의 AI 도입 당위성을 강력히 뒷받침한다.",
+    "content": "## 큐레이션 노트\n이 데이터는 마케팅과 상거래 AI의 ROI 논의에서 중요한 벤치마크를 제공한다. 단순히 '더 많은 사람을 모은다'는 수준을 넘어 '모인 고객의 질(구매력)'까지 개선한다는 메시지는, 기업들의 AI 투자 의사결정에 직접적인 영향을 미칠 것으로 예상된다. 특히 생성형 AI 시대에 고객 경험 개선이 비용이 아닌 수익 창출 기제로 인식되는 추세를 반영하는 사례다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-11-06",
+    "tags": [
+      "AI/머신러닝",
+      "이커머스",
+      "마케팅 자동화",
+      "고객 경험",
+      "ROI",
+      "생성형AI",
+      "비즈니스 임팩트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29523",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29523",
+        "name": "매드타임스 — 어도비, \"AI 통해 유입된 쇼핑객, 방문당 매출 83% 높아\""
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1536"
+  },
+  {
+    "slug": "ai-geo",
+    "title": "칸 라이언즈 2027, 어워드 개편… 경험 중심 크리에이티비티 강화·GEO 부문 신설",
+    "summary": "광고·마케팅 업계의 최고 권위 어워드인 칸 라이언즈가 경험 기반 창의성과 지역 중심의 캠페인을 더욱 중시하는 방향으로 구조 개편을 추진 중이다.",
+    "content": "## 큐레이션 노트\n\n칸 라이언즈의 2027년 개편안은 디지털·데이터 중심의 현대 마케팅 환경에서 '경험(Experience)'이 차지하는 비중을 공식적으로 인정하는 신호다. GEO(지역별) 부문 신설은 글로벌 어워드라는 기존 틀에서 벗어나 로컬 마켓 특성을 반영한 창의성을 평가하겠다는 의도로, 한국·아시아 지역 크리에이터들에게 더 많은 수상 기회를 제공할 가능성이 높다. 이는 어워드 자체가 산업 트렌드 변화에 얼마나 민첩하게 대응하는지를 보여주는 지표이며, 향후 광고·마케팅 에이전시들의 인재 영입과 조직 구성에도 영향을 미칠 것으로 예상된다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-11-05",
+    "tags": [
+      "어워드",
+      "칸 라이언즈",
+      "크리에이티비티",
+      "경험 마케팅",
+      "광고산업 트렌드",
+      "GEO 타겟팅"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29573",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29573",
+        "name": "매드타임스 — 칸 라이언즈 2027, 어워드 개편… 경험 중심 크리에이티비티 강화·GEO 부문 신설"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1537"
   }
 ]
