@@ -40712,5 +40712,33 @@
     "slug": "ux-nielsen-norman-group-11",
     "draft": false,
     "id": "1539"
+  },
+  {
+    "title": "Nielsen Norman Group — 에이전트 하네스(Agent Harness) 개념 정의",
+    "summary": "에이전트 하네스는 AI 모델과 그 도구들 사이의 소프트웨어 루프를 관리하는 구성 요소다. 에이전트 하네스의 컨텍스트, 권한, 제한 설정이 사용자가 할 수 있는 것을 결정한다.",
+    "content": "## 주요 내용\n- 에이전트 하네스는 AI 모델과 도구 간의 소프트웨어 루프를 관리함\n- 컨텍스트, 권한, 제한이 에이전트 하네스의 핵심 구성 요소\n- 이 요소들이 사용자의 행동 범위를 규정함\n\n## 의미\n에이전트 하네스는 AI 에이전트의 작동 범위와 사용자 경험을 직접적으로 규정하는 핵심 개념으로, UX 설계 시 고려해야 할 중요한 요소다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-11-06",
+    "tags": [
+      "AI 에이전트",
+      "에이전트 하네스",
+      "UX",
+      "Nielsen Norman Group"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Agent Harness: Definition"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-nielsen-norman-group-2",
+    "draft": false,
+    "id": "1544"
   }
 ]
