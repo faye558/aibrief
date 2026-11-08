@@ -1,5 +1,83 @@
 [
   {
+    "id": "1545",
+    "slug": "how-to-make-your-website-eligible-for-ai-search-a-7-step-beg",
+    "title": "How to Make Your Website Eligible for AI Search: A 7-Step Beginner Playbook",
+    "summary": "Fix crawler access, publish evidence people can use, and measure real outcomes without buying a promise of &#x201C;number one in ChatGPT.&#x201D;Conti",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://davishaal.medium.com/how-to-make-your-website-eligible-for-ai-search-a-7-step-beginner-playbook-56c7f10a13f8?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://davishaal.medium.com/how-to-make-your-website-eligible-for-ai-search-a-7-step-beginner-playbook-56c7f10a13f8?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1546",
+    "slug": "building-an-e-commerce-data-pipeline-with-airflow-dbt-and-lo",
+    "title": "Building an E-Commerce Data Pipeline with Airflow, dbt, and Local AI",
+    "summary": "From synthetic e-commerce data to tested models in PostgreSQL and an executive brief generated with Ollama.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@leo.armster1994/building-an-e-commerce-data-pipeline-with-airflow-dbt-and-local-ai-5519073438b0?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@leo.armster1994/building-an-e-commerce-data-pipeline-with-airflow-dbt-and-local-ai-5519073438b0?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1547",
+    "slug": "ai-is-helping-build-better-ai-but-the-most-revealing-evidenc",
+    "title": "AI Is Helping Build Better AI. But the Most Revealing Evidence Is Missing.",
+    "summary": "Photo by Christian Wiediger on UnsplashContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-08",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@erickisaac14/ai-is-helping-build-better-ai-but-the-most-revealing-evidence-is-missing-924f458ad121?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@erickisaac14/ai-is-helping-build-better-ai-but-the-most-revealing-evidence-is-missing-924f458ad121?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1540",
     "slug": "baengkeusaelreodeu-ai-eijeonteu-pandansilhaeng-jeeo-gisul-te",
     "title": "뱅크샐러드, AI 에이전트 판단·실행 제어 기술 특허 출원",
