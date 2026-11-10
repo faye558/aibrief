@@ -1,5 +1,31 @@
 [
   {
+    "id": "1570",
+    "slug": "amazon-is-bringing-ai-agents-to-sellers-what-it-means-for-th",
+    "title": "Amazon Is Bringing AI Agents to Sellers: What It Means for the Next Generation of eCommerce…",
+    "summary": "The eCommerce industry is entering a new phase where artificial intelligence is becoming more than a tool for customer support and product&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-10",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@agadhachristo/amazon-is-bringing-ai-agents-to-sellers-what-it-means-for-the-next-generation-of-ecommerce-f9adfdc059c5?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@agadhachristo/amazon-is-bringing-ai-agents-to-sellers-what-it-means-for-the-next-generation-of-ecommerce-f9adfdc059c5?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1564",
     "slug": "aiga-bakkun-boheom-yeongeobui-bangsig-ai-native-sales",
     "title": "AI가 바꾼 보험 영업의 방식 \"AI-Native Sales\"",
@@ -41378,5 +41404,47 @@
     "slug": "-sdd-release",
     "draft": false,
     "id": "1563"
+  },
+  {
+    "title": "Adobe, Premiere Pro에 AI 에이전트 도입 — 반복 편집 작업 자동화",
+    "summary": "Adobe Max에서 Adobe Premiere Pro에 Creative Agent, 생성형 갭 채우기, 새로운 색상 그레이딩 기능이 공개됐다. 이 기능들은 반복적이고 지루한 편집 작업을 AI가 대신 처리하는 것을 목표로 한다.",
+    "content": "## 주요 내용\n- Adobe Max에서 Premiere Pro의 새로운 AI 기능 공개\n- Creative Agent 도입으로 반복적인 편집 작업 자동화\n- 생성형 갭 채우기(Generative Gap-Fill) 기능 추가\n- 새로운 색상 그레이딩 접근 방식 도입\n\n## 의미\nAdobe가 Premiere Pro에 AI 에이전트를 도입함으로써 영상 편집 워크플로우에서 단순 반복 작업을 자동화하는 방향으로 나아가고 있음을 보여준다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-11-10",
+    "tags": [
+      "Adobe",
+      "PremierePro",
+      "AI에이전트",
+      "영상편집",
+      "AdobeMax"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/news/adobe-premiere-pro-is-getting-an-ai-agent-to-do-the-boring-editing-jobs",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/news/adobe-premiere-pro-is-getting-an-ai-agent-to-do-the-boring-editing-jobs",
+        "name": "Creative Bloq —  Adobe Premiere Pro is getting an AI agent to do the boring editing jobs "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-premiere-pro",
+    "draft": false,
+    "id": "1569"
   }
 ]
