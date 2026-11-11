@@ -1,5 +1,31 @@
 [
   {
+    "id": "1581",
+    "slug": "complete-list-of-ai-ugc-prompts-for-product-photos-that-actu",
+    "title": "Complete List of AI UGC Prompts for Product Photos That Actually Look Real (2026)",
+    "summary": "10 copy-paste prompts, each next to the image it produced.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-11",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://james-palm.medium.com/ai-ugc-prompts-product-photos-f35baf790710?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://james-palm.medium.com/ai-ugc-prompts-product-photos-f35baf790710?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1573",
     "slug": "6-ai-automation-agency-starter-workflows-rated-what-works-fo",
     "title": "6 “AI Automation Agency” Starter Workflows, Rated: What Works for a Solo Operator (and What Quietly…",
@@ -41660,5 +41686,70 @@
     "communityLinks": null,
     "draft": false,
     "id": "1572"
+  },
+  {
+    "title": "윤디자인, 싸이월드 미니홈피 감성 담은 추억의 픽셀폰트 10종 소개",
+    "summary": "윤디자인이 싸이월드 미니홈피 시절 실제 사용됐던 픽셀폰트 10종을 소개했다. '프리스타일', '쥬크박스', '퍼가요', '브금(BGM)' 등 당시 유행 키워드를 담은 폰트명으로 구성되어 있으며, 그 시절 감성을 그대로 재현한 아기자기한 도트 형태가 특징이다.",
+    "content": "## 주요 내용\n- 싸이월드 미니홈피에서 실제 사용됐던 추억의 픽셀폰트 10종 소개\n- 소개 폰트: Yoon px 피노키오, Yoon px 꼬마츄리(무료), Yoon px 텔레비죤, Yoon px 완두콩, Yoon px 쥬크박스 등 포함\n- 폰트 이름에 '프리스타일', '쥬크박스', '브금(BGM)', '퍼가요' 등 당시 유행 키워드 반영\n- 꼬마츄리는 무료 폰트로 제공\n- 각 폰트는 동화적, 아기자기한 도트·픽셀 형태로 디자인\n\n## 의미\n2000년대 싸이월드 미니홈피 감성을 소환하는 레트로 픽셀폰트 라인업으로, 당시 실제 사용됐던 폰트들을 재조명하며 복고 감성 디자인 수요를 겨냥한 콘텐츠다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-11-11",
+    "tags": [
+      "윤디자인",
+      "픽셀폰트",
+      "싸이월드",
+      "레트로",
+      "폰트추천"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1168",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1168",
+        "name": "윤디자인 공식 — [폰트추천] 싸이월드 미니홈피 감성 그대로, 추억의 픽셀폰트 10종"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-design-font-7",
+    "draft": false,
+    "id": "1579"
+  },
+  {
+    "title": "네이버, 커머스API 플랫폼에 AI 도입 — 검수·MCP 게이트웨이·기술지원 자동화 3가지 사례 공개",
+    "summary": "네이버는 NAVER Engineering Day 10th 세션을 통해 커머스API 플랫폼에 적용한 AI 네이티브 과제 세 건의 설계 결정과 운영 결과를 공개했다. 라우팅 룰 AI 검수, MCP 게이트웨이를 통한 API의 AI 에이전트 Tool화, 기술지원 문의 답변 AI 지원 등 세 가지 사례를 다룬다.",
+    "content": "## 주요 내용\n- 1장: 라우팅 룰 AI 검수 — 자동화 규칙 50개를 데이터로 만들고, 판단이 필요한 규칙까지 자동으로 검수하는 엔진 구축\n- 2장: MCP 게이트웨이 — API 명세를 AI 에이전트가 호출하는 Tool로 전환하고, 동일한 검수·통제 절차를 적용\n- 3장: 기술지원 운영 업무 AI 지원 — 흩어진 지식을 지식 자산으로 통합하고, AI가 읽는 문서와 문의 답변 AI로 연결\n- 발표 대상: API 개발·운영 백엔드 개발자, 게이트웨이·플랫폼 운영자, LLM·MCP를 서비스에 연결하려는 개발자\n\n## 의미\n네이버 커머스API 플랫폼이 API 검수, 에이전트 연동, 기술지원까지 AI를 플랫폼 운영 전반에 적용한 실제 사례를 공유함으로써, API 플랫폼의 AI 네이티브 전환 방향을 구체적으로 제시했다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-11",
+    "tags": [
+      "네이버",
+      "커머스API",
+      "MCP",
+      "AI에이전트",
+      "API플랫폼",
+      "LLM",
+      "Engineering Day"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/7749530",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/7749530",
+        "name": "네이버 D2 — 검수도 답변도 호출도 AI가? 커머스API의 2026"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-mcp-release",
+    "draft": false,
+    "id": "1580"
   }
 ]
