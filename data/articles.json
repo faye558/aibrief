@@ -1,5 +1,57 @@
 [
   {
+    "id": "1584",
+    "slug": "baengkeusaelreodeugeumyungseobiseu-ai-os-injae-chajneundabfs",
+    "title": "뱅크샐러드금융서비스, AI OS 인재 찾는다…BFS 2기 공개 채용",
+    "summary": "- 금융 솔루션 전문가 2기 채용…AI OS로 생산성 높여- AI 상담 플랫폼 활용…AI-Native Sales 비전 제시 뱅크샐러드의 자회사인 뱅크샐러드금융서비스(BFS)가 금융 솔루션 전문가 2기를 공개 채용한다고 밝혔다. 이번 채용을 통해 뱅크샐러드금융서비스의 A",
+    "content": null,
+    "company": "뱅크샐러드",
+    "category": "블로그",
+    "date": "2026-11-12",
+    "tags": [
+      "뱅크샐러드"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://corp.banksalad.com/blog/news/bs1504/",
+    "sourceName": "뱅크샐러드 블로그",
+    "sources": [
+      {
+        "url": "https://corp.banksalad.com/blog/news/bs1504/",
+        "name": "뱅크샐러드 블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": false
+  },
+  {
+    "id": "1585",
+    "slug": "generative-ai-in-retail-why-unified-customer-data-comes-befo",
+    "title": "Generative AI in Retail: Why Unified Customer Data Comes Before Personalization",
+    "summary": "How a 500-store retail chain approached recommendations, demand forecasting and personalized marketing, and where generative AI actually&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-12",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@anshul.nema23/generative-ai-in-retail-why-unified-customer-data-comes-before-personalization-154cfae6b8bf?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@anshul.nema23/generative-ai-in-retail-why-unified-customer-data-comes-before-personalization-154cfae6b8bf?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1581",
     "slug": "complete-list-of-ai-ugc-prompts-for-product-photos-that-actu",
     "title": "Complete List of AI UGC Prompts for Product Photos That Actually Look Real (2026)",
@@ -41751,5 +41803,89 @@
     "slug": "-mcp-release",
     "draft": false,
     "id": "1580"
+  },
+  {
+    "title": "Adobe MAX 2026 스닉스: 'Project Link Up', 벡터 디자인의 혁신 예고",
+    "summary": "Adobe MAX 2026 스닉스에서 공개된 'Project Link Up'은 디자인을 보다 즐겁고 직관적으로 만드는 것을 목표로 한다. Creative Bloq는 Adobe의 이미징 및 디자인 리서치 책임자 Hailin Jin과 인터뷰를 통해 이 프로젝트가 벡터 디자인을 혁신할 가능성에 대해 논의했다.",
+    "content": "## 주요 내용\n- Adobe MAX 2026 스닉스에서 'Project Link Up' 공개\n- Adobe 이미징·디자인 리서치 책임자 Hailin Jin이 프로젝트를 소개\n- 해당 프로젝트는 벡터 디자인 분야에 혁신을 가져올 수 있는 잠재력을 지닌 것으로 소개됨\n- 디자인을 보다 즐겁고 창의적으로 만드는 방향을 지향\n\n## 의미\n'Project Link Up'은 벡터 디자인의 방식을 근본적으로 바꿀 수 있는 프로젝트로, Adobe가 디자인의 접근성과 재미를 높이는 방향으로 연구 개발을 진행하고 있음을 보여준다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-11-11",
+    "tags": [
+      "Adobe",
+      "AdobeMAX2026",
+      "벡터디자인",
+      "ProjectLinkUp",
+      "디자인툴"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/features/adobe-max-2026-sneaks-project-link-up-is-making-design-playful-again",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/features/adobe-max-2026-sneaks-project-link-up-is-making-design-playful-again",
+        "name": "Creative Bloq —  Adobe MAX 2026 Sneaks: Project Link Up is making design playful again "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-max-project-link",
+    "draft": false,
+    "id": "1582"
+  },
+  {
+    "title": "Adobe, AI로 그림 그리고 사진 속 걷고 캐릭터와 대화하는 'Sneaks' 기능 공개",
+    "summary": "Adobe가 크리에이터를 위한 실험적 기능 모음인 'Adobe Sneaks'를 통해 AI 페인팅, 사진 속 공간 체험, 캐릭터 디자인과의 대화 기능 등을 선보였다. 이 기능들은 창작 작업 방식에 새로운 가능성을 제시한다.",
+    "content": "## 주요 내용\n- AI를 활용해 그림을 그리는 기능\n- 사진 속으로 걸어 들어가는 듯한 체험 기능\n- 캐릭터 디자인과 대화할 수 있는 기능\n\n## 의미\nAdobe가 크리에이티브 작업에 AI를 접목한 실험적 기능들을 공개하며, 창작자들의 작업 방식을 혁신하려는 방향성을 보여주고 있다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-11-11",
+    "tags": [
+      "Adobe",
+      "Adobe Sneaks",
+      "AI 창작",
+      "생성형 AI",
+      "크리에이티브 툴"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/news/5-wild-adobe-sneaks-that-creatives-need-to-know-about",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/news/5-wild-adobe-sneaks-that-creatives-need-to-know-about",
+        "name": "Creative Bloq —  5 wild Adobe Sneaks that creatives need to know about "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-sneaks-release",
+    "draft": false,
+    "id": "1583"
   }
 ]
