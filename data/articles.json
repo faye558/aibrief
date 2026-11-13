@@ -1,5 +1,83 @@
 [
   {
+    "id": "1589",
+    "slug": "my-pricing-page-was-selling-what-the-free-plan-already-gave",
+    "title": "My pricing page was selling what the free plan already gave away",
+    "summary": "Today I ran my own checkout path from top to bottom: landing page, Google Maps link, publish, upgrade button, Polar checkout.Continue reading on Mediu",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chonnom61482/my-pricing-page-was-selling-what-the-free-plan-already-gave-away-5b3f09c50a72?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chonnom61482/my-pricing-page-was-selling-what-the-free-plan-already-gave-away-5b3f09c50a72?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1590",
+    "slug": "wirex-gave-an-ai-agent-its-own-iban-and-debit-card",
+    "title": "Wirex Gave an AI Agent Its Own IBAN and Debit Card.",
+    "summary": "Can an AI agent buy things online for you? On Navoka, launched November 12, 2026, yes: from a balance you move into the agent&#x2019;s own&#x2026;Cont",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sarathc225/wirex-gave-an-ai-agent-its-own-iban-and-debit-card-0a0d06d1f12a?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sarathc225/wirex-gave-an-ai-agent-its-own-iban-and-debit-card-0a0d06d1f12a?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1591",
+    "slug": "adapt-your-ecommerce-strategy-with-an-experienced-ai-seo-age",
+    "title": "Adapt Your Ecommerce Strategy with an Experienced AI SEO Agency",
+    "summary": "Search behaviour is evolving as customers use AI-powered platforms alongside traditional search engines to research products & services.Continue readi",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mercier2334354/adapt-your-ecommerce-strategy-with-an-experienced-ai-seo-agency-a6af26c344e2?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mercier2334354/adapt-your-ecommerce-strategy-with-an-experienced-ai-seo-agency-a6af26c344e2?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1586",
     "slug": "calling-app-seo-case-study-432k-ai-citations-to-service-guid",
     "title": "Calling App SEO Case Study: 43.2K AI Citations to Service Guides",
@@ -41913,5 +41991,85 @@
     "slug": "adobe-sneaks-release",
     "draft": false,
     "id": "1583"
+  },
+  {
+    "title": "Getty Images 기고 — AI는 새로운 디자인 재료, 직접 다뤄야 이해할 수 있다",
+    "summary": "디자인 역사에서 창작자들은 항상 재료를 직접 다루며 배워왔으며, AI 모델도 마찬가지로 직접 만들어보며 익혀야 하는 새로운 재료라는 주장이다. Figma나 Sketch 같은 시각 도구는 추상화된 도구일 뿐이며, 진정한 craft는 재료를 직접 다루는 과정에서 나온다.",
+    "content": "## 주요 내용\n- 1390년대 화가 체니노 체니니가 안료 제조법을 기술한 핸드북을 쓴 것처럼, 창작자는 항상 재료를 직접 익히며 작업해왔다.\n- 필자의 어머니는 LA 미술관, 게티, 허스트 캐슬에서 복원사로 일하며 직접 안료를 갈아 600년 이상 된 중국 조각상을 복원했다.\n- 필자는 필름 현상, 페이스트업 등 인쇄 작업을 통해 재료를 이해하는 것의 중요성을 직접 체험했다.\n- Figma, Sketch 같은 시각 도구는 추상화된 도구이며, 실제 craft는 재료와 직접 작업하는 마지막 단계에서 이루어진다.\n- AI 모델은 다음 세대의 디자인 재료이며, 직접 만들어보며 배워야 한다.\n\n## 의미\n디자이너가 코드를 배워야 하는가에 대한 오랜 논쟁처럼, AI도 추상화된 도구에만 의존하지 않고 재료로서 직접 다루며 익혀야 한다는 점에서 craft의 본질은 시대를 초월해 변하지 않는다는 메시지를 전달한다.",
+    "company": "Getty Images",
+    "category": "이미지",
+    "date": "2026-11-13",
+    "tags": [
+      "AI디자인",
+      "UX",
+      "디자인재료",
+      "AI모델",
+      "크래프트"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+        "name": "UX Collective — AI is the new old design material"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/photography",
+        "url": "https://www.reddit.com/r/photography/new/"
+      },
+      {
+        "name": "Reddit r/stockphotography",
+        "url": "https://www.reddit.com/r/stockphotography/new/"
+      }
+    ],
+    "slug": "getty-images-images-design",
+    "draft": false,
+    "id": "1587"
+  },
+  {
+    "title": "OpenAI, Aleph와의 독점 리셀러 파트너십을 통해 44개국 ChatGPT 광고 정정 공지 발표",
+    "summary": "Aleph Group, Inc.는 OpenAI의 44개국 ChatGPT 광고 확대 관련 보도자료에 오류가 있었음을 공지하며 정정본을 배포했다.",
+    "content": "## 주요 내용\n- Aleph Group, Inc.가 기존 배포한 보도자료에 변경 사항이 발생했다고 공지\n- 해당 보도자료는 OpenAI가 Aleph와의 독점 리셀러 파트너십을 통해 44개국에서 ChatGPT 광고를 확대한다는 내용\n- 수정된 완전한 보도자료가 별도로 공개됨\n\n## 의미\n이번 공지는 원본 보도자료의 정정·수정을 알리는 공식 정정문으로, 구체적인 변경 내용은 원문에 명시되지 않았다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-11-12",
+    "tags": [
+      "OpenAI",
+      "ChatGPT광고",
+      "Aleph",
+      "정정공지",
+      "리셀러파트너십"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.prnewswire.com/news-releases/openai-increases-its-chatgpt-ads-presence-in-44-countries-through-an-exclusive-reseller-partnership-with-aleph-302937218.html",
+    "sourceName": "PR Newswire Tech",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/openai-increases-its-chatgpt-ads-presence-in-44-countries-through-an-exclusive-reseller-partnership-with-aleph-302937218.html",
+        "name": "PR Newswire Tech — /C O R R E C T I O N - Aleph Group, Inc/"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/ChatGPT",
+        "url": "https://www.reddit.com/r/ChatGPT/new/"
+      },
+      {
+        "name": "Reddit r/OpenAI",
+        "url": "https://www.reddit.com/r/OpenAI/new/"
+      },
+      {
+        "name": "클리앙 검색: ChatGPT",
+        "url": "https://www.clien.net/service/search?q=ChatGPT&sort=latest"
+      }
+    ],
+    "slug": "openai-aleph-chatgpt",
+    "draft": false,
+    "id": "1588"
   }
 ]
