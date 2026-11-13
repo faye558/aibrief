@@ -1,5 +1,83 @@
 [
   {
+    "id": "1593",
+    "slug": "small-business-owners-are-learning-ai-from-youtube-thats-an",
+    "title": "Small business owners are learning AI from YouTube. That’s an onboarding problem.",
+    "summary": "Forbes ran a piece this month on why small business AI adoption runs wide but stays shallow. The numbers in it stuck with me.Continue reading on Mediu",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@safisiddiquim/small-business-owners-are-learning-ai-from-youtube-thats-an-onboarding-problem-e533377ca871?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@safisiddiquim/small-business-owners-are-learning-ai-from-youtube-thats-an-onboarding-problem-e533377ca871?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1594",
+    "slug": "ai-can-make-client-follow-ups-easier-without-making-them-sou",
+    "title": "AI Can Make Client Follow-Ups Easier Without Making Them Sound Generic",
+    "summary": "Client follow-ups are one of those small business tasks that can quietly consume a lot of time.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@jameswalkerai/ai-can-make-client-follow-ups-easier-without-making-them-sound-generic-cc18ad7b7360?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@jameswalkerai/ai-can-make-client-follow-ups-easier-without-making-them-sound-generic-cc18ad7b7360?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1595",
+    "slug": "free-shipping-isnt-free-how-to-price-it-without-eating-your",
+    "title": "Free shipping isn’t free: how to price it without eating your profit",
+    "summary": "Every buyer expects free shipping now. Every shop that offers it without doing the math quietly dies in month three.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-13",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@chatdecha-notes/free-shipping-isnt-free-how-to-price-it-without-eating-your-profit-3a368caa02bc?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@chatdecha-notes/free-shipping-isnt-free-how-to-price-it-without-eating-your-profit-3a368caa02bc?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1589",
     "slug": "my-pricing-page-was-selling-what-the-free-plan-already-gave",
     "title": "My pricing page was selling what the free plan already gave away",
@@ -42071,5 +42149,43 @@
     "slug": "openai-aleph-chatgpt",
     "draft": false,
     "id": "1588"
+  },
+  {
+    "title": "Monotype, 손글씨에서 영감받은 Inkwell 폰트 패밀리 4종 신규 스타일 추가",
+    "summary": "Monotype이 Inkwell 폰트 패밀리에 Antique, Formal, Chancery, Ornaments 4가지 새로운 스타일을 추가했다. 이번 확장으로 디자이너들은 하나의 일관된 타입 패밀리를 벗어나지 않고도 격식체부터 경쾌한 분위기까지 다양한 톤을 표현할 수 있게 됐다.",
+    "content": "## 주요 내용\n- Monotype이 Inkwell 폰트 패밀리에 4가지 신규 스타일(Antique, Formal, Chancery, Ornaments) 추가\n- 새 스타일은 손글씨의 자유로움에서 영감을 받아 제작\n- 하나의 일관된 폰트 패밀리 내에서 격식체부터 경쾌한 톤까지 전환 가능\n\n## 의미\n이번 Inkwell 패밀리 확장은 디자이너들이 단일 타입 시스템 안에서 다양한 커뮤니케이션 톤을 유연하게 구현할 수 있도록 선택지를 넓혀준다는 점에서 의미가 있다.",
+    "company": "Monotype",
+    "category": "폰트",
+    "date": "2026-11-13",
+    "tags": [
+      "Monotype",
+      "폰트",
+      "타이포그래피",
+      "Inkwell",
+      "디자인"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.prnewswire.com/news-releases/monotype-expands-inkwell-with-four-new-styles-inspired-by-the-freedom-of-handwriting-302939069.html",
+    "sourceName": "PR Newswire Tech",
+    "sources": [
+      {
+        "url": "https://www.prnewswire.com/news-releases/monotype-expands-inkwell-with-four-new-styles-inspired-by-the-freedom-of-handwriting-302939069.html",
+        "name": "PR Newswire Tech — Monotype Expands Inkwell with Four New Styles Inspired by the Freedom of Handwriting"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/typography",
+        "url": "https://www.reddit.com/r/typography/new/"
+      },
+      {
+        "name": "Reddit r/fonts",
+        "url": "https://www.reddit.com/r/fonts/new/"
+      }
+    ],
+    "slug": "monotype-inkwell-new",
+    "draft": false,
+    "id": "1592"
   }
 ]
