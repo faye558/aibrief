@@ -1,5 +1,31 @@
 [
   {
+    "id": "1597",
+    "slug": "ai-agents-booked-4-uber-rides-out-of-320-million-now-big-com",
+    "title": "AI Agents Booked 4 Uber Rides Out of 320 Million. Now Big Companies Are Shutting the Door.",
+    "summary": "Everyone says AI will shop for you, but the stores, airlines and apps have other plans.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-14",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@azharkbarki/ai-agents-booked-4-uber-rides-out-of-320-million-now-big-companies-are-shutting-the-door-a6ce42364845?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@azharkbarki/ai-agents-booked-4-uber-rides-out-of-320-million-now-big-companies-are-shutting-the-door-a6ce42364845?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1593",
     "slug": "small-business-owners-are-learning-ai-from-youtube-thats-an",
     "title": "Small business owners are learning AI from YouTube. That’s an onboarding problem.",
@@ -42187,5 +42213,34 @@
     "slug": "monotype-inkwell-new",
     "draft": false,
     "id": "1592"
+  },
+  {
+    "title": "Nielsen Norman Group — AI 개발 속도에 맞춰 UX 리서치를 적응시키는 방법",
+    "summary": "AI가 개발 속도를 가속화함에 따라 UX 리서치가 이에 적응하는 것이 과제가 되고 있다. 리서치는 각 릴리스에서 측정해야 할 것과 팀이 발견할 수 있는 것을 정의하는 역할을 할 수 있다.",
+    "content": "## 주요 내용\n- AI로 인해 개발 속도가 빨라지면서 UX 리서치가 이 속도에 맞추는 것이 어려워지고 있음\n- 리서치는 각 릴리스에서 반드시 측정해야 할 항목을 정의할 수 있음\n- 리서치는 팀이 새롭게 발견할 수 있는 사항을 도출하는 데에도 기여할 수 있음\n\n## 의미\nAI 중심의 빠른 개발 환경에서 UX 리서치가 단순한 사후 검증이 아닌, 릴리스 주기에 통합된 능동적 역할을 맡아야 함을 시사한다.",
+    "company": "UX·디자인",
+    "category": "UX",
+    "date": "2026-11-13",
+    "tags": [
+      "UX리서치",
+      "AI개발",
+      "Nielsen Norman Group",
+      "디자인",
+      "애자일"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "sourceName": "Nielsen Norman Group",
+    "sources": [
+      {
+        "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+        "name": "Nielsen Norman Group — Research-In-The-Loop: How UXR Adapts to Development at AI Speed"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ux-nielsen-norman-group-12",
+    "draft": false,
+    "id": "1596"
   }
 ]
