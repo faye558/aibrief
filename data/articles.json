@@ -1,5 +1,31 @@
 [
   {
+    "id": "1606",
+    "slug": "google-is-giving-merchants-a-new-way-to-measure-ai-shopping",
+    "title": "Google Is Giving Merchants a New Way to Measure AI Shopping Visibility. Here’s Why It Matters.",
+    "summary": "Google&#x2019;s AI Performance Insights introduces a new way for eligible merchants to understand organic product visibility across AI Mode and&#x2026",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-16",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/startup-insider-edge/google-is-giving-merchants-a-new-way-to-measure-ai-shopping-visibility-heres-why-it-matters-f1edd79bb62e?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/startup-insider-edge/google-is-giving-merchants-a-new-way-to-measure-ai-shopping-visibility-heres-why-it-matters-f1edd79bb62e?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1600",
     "slug": "ai-agents-for-business-what-they-actually-do-what-they-cost",
     "title": "AI Agents for Business: What They Actually Do, What They Cost, and How to Start",
@@ -42372,5 +42398,108 @@
     "slug": "ux-nielsen-norman-group-12",
     "draft": false,
     "id": "1596"
+  },
+  {
+    "title": "Adobe Firefly — '안전한 AI'라는 믿음, OpenAI·ByteDance·Kling 등장으로 흔들리다",
+    "summary": "Adobe Firefly는 저작권 안전성을 내세운 AI 이미지 생성기로 신뢰를 받아왔으나, OpenAI·ByteDance·Kling 등 경쟁자들이 시장에 가세하면서 그 '안전하다'는 약속이 실제로 무엇을 의미하는지에 대한 의구심이 커지고 있다. 필자는 Firefly를 신뢰했던 이유였던 '안전한 AI' 옵션이라는 전제를 재검토하고 있다.",
+    "content": "## 주요 내용\n- Adobe Firefly는 기존에 '안전한 AI 이미지 생성기'로 여겨져 왔음\n- OpenAI, ByteDance, Kling 등 새로운 경쟁 AI 도구들이 시장에 등장\n- 이러한 경쟁자들의 등장으로 Firefly의 '안전성' 약속이 실제로 무엇을 보장하는지에 대한 의문이 제기됨\n\n## 의미\nAI 이미지 생성 시장의 경쟁이 심화되면서, 'Adobe Firefly = 안전한 선택'이라는 기존 인식이 흔들리고 있으며, 사용자들이 AI 도구의 안전성 기준을 보다 비판적으로 살펴볼 필요성이 커지고 있다.",
+    "company": "Adobe",
+    "category": "디자인툴",
+    "date": "2026-11-15",
+    "tags": [
+      "Adobe",
+      "Firefly",
+      "AI이미지생성",
+      "OpenAI",
+      "ByteDance",
+      "Kling",
+      "생성형AI"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+    "sourceName": "Creative Bloq",
+    "sources": [
+      {
+        "url": "https://www.creativebloq.com/news/i-trusted-adobe-firefly-because-it-was-the-safe-ai-option-now-im-not-so-sure",
+        "name": "Creative Bloq —  I trusted Adobe Firefly because it was the safe AI option, now I'm not so sure "
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "Reddit r/adobe",
+        "url": "https://www.reddit.com/r/adobe/new/"
+      },
+      {
+        "name": "Reddit r/graphic_design",
+        "url": "https://www.reddit.com/r/graphic_design/new/"
+      },
+      {
+        "name": "클리앙 검색: 어도비",
+        "url": "https://www.clien.net/service/search?q=%EC%96%B4%EB%8F%84%EB%B9%84&sort=latest"
+      }
+    ],
+    "slug": "adobe-firefly-bytedance-kling",
+    "draft": false,
+    "id": "1603"
+  },
+  {
+    "title": "네이버, 전 지면 사용자 행동 학습하는 버티컬 추천 모델(VMs) 개발기 공개",
+    "summary": "네이버가 NAVER Engineering Day 10th 발표 세션을 외부에 공개했다. 해당 세션은 검색·피드·광고 등 여러 도메인 데이터를 연결하는 버티컬 추천 모델(VMs)의 개발·서빙 최적화·지식 증류 기술을 주제로 한다.",
+    "content": "## 주요 내용\n- 네이버 검색·피드·광고 등 다양한 도메인 데이터를 연결하는 버티컬 추천 모델(VMs) 개발 및 서비스 적용 경험 소개\n- VMs 시스템 구조, 리트리버와 통합 랭커, 지면별 적용 현황 및 성과 공유\n- 대규모 추천 모델의 실시간 추론 및 GPU 서빙 최적화 내용 포함\n- Foundation Model의 지식을 경량 모델로 전이하는 Knowledge Distillation 기술 방향 공유\n- NAVER Engineering Day는 2016년부터 시작된 사내 개발자 행사로, 현재 매회 평균 100개 이상의 발표가 진행됨\n\n## 의미\n네이버가 전사 지면에 걸친 크로스 도메인 추천 기술과 대규모 모델 서빙 최적화 노하우를 외부에 공개함으로써, 추천 시스템 및 지식 증류 기술에 관심 있는 개발자들에게 실무 적용 사례를 제공한다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-16",
+    "tags": [
+      "네이버",
+      "추천시스템",
+      "크로스도메인추천",
+      "지식증류",
+      "GPU서빙최적화",
+      "FoundationModel",
+      "NAVER Engineering Day"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/1599966",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/1599966",
+        "name": "네이버 D2 — 흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-vms-release",
+    "draft": false,
+    "id": "1604"
+  },
+  {
+    "slug": "openai-news-8",
+    "title": "AI가 추천한 패딩 1위는 노스페이스…'가성비'는 스파오, '오래 입을 패딩'은 파타고니아",
+    "summary": "AI 기반 상품 추천 시스템이 소비자 선택에 영향을 미치는 시대, 브랜드별 차별화된 가치 포지셔닝이 얼마나 중요한지를 보여주는 사례입니다.",
+    "content": "## 큐레이션 노트\n\nAI 추천 알고리즘이 의류 시장의 소비자 선택을 점진적으로 좌우하고 있습니다. 이 사례는 동일한 카테고리 상품도 브랜드별로 가성비, 내구성, 프리미엄 이미지 등 서로 다른 가치 평가를 받으며, AI 모델이 이러한 차별화된 포지셔닝을 정확히 인식하고 있음을 시사합니다. 향후 이커머스와 추천 플랫폼 비즈니스에서 브랜드는 AI 학습 데이터에 얼마나 명확한 신호를 전달하느냐가 경쟁력 결정 요소가 될 것으로 예상됩니다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-11-16",
+    "tags": [
+      "AI추천시스템",
+      "이커머스",
+      "브랜드포지셔닝",
+      "소비자심리",
+      "알고리즘마케팅"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29702",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29702",
+        "name": "매드타임스 — [브랜딥 인사이트] AI가 추천한 패딩 1위는 노스페이스…'가성비'는 스파오, '오래 입을 패딩'은 파타고니아"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1605"
   }
 ]
