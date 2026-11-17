@@ -182,6 +182,7 @@ const PRIORITY_SOURCES = [
   {
     company: 'Adobe',
     category: '디자인툴',
+    prnKeyword: 'Adobe',
     rssUrls: [
       'https://blog.adobe.com/en/feed',
       'https://blog.adobe.com/feed',
@@ -197,6 +198,7 @@ const PRIORITY_SOURCES = [
   {
     company: 'Canva',
     category: '디자인툴',
+    prnKeyword: 'Canva',
     rssUrls: [
       'https://www.canva.com/newsroom/feed/',
       'https://www.canva.com/newsroom/rss.xml',
@@ -271,6 +273,7 @@ const PRIORITY_SOURCES = [
   {
     company: 'Freepik',
     category: '디자인툴',
+    prnKeyword: 'Freepik',
     rssUrls: [
       'https://www.freepik.com/blog/feed/',
       'https://magnific.ai/blog/rss',
@@ -286,11 +289,9 @@ const PRIORITY_SOURCES = [
   {
     company: 'Monotype',
     category: '폰트',
-    rssUrls: [
-      'https://www.monotype.com/rss.xml',
-      'https://www.monotype.com/news/rss',
-      'https://www.monotype.com/resources/rss',
-    ],
+    // rss.xml은 임원 소개 페이지만 나와서 제거 → PR Newswire 키워드 검색으로 보도자료 수집
+    rssUrls: [],
+    prnKeyword: 'Monotype',
     scrapeUrls: [
       'https://www.monotype.com/resources/articles',
       'https://www.monotype.com/news',
@@ -312,6 +313,19 @@ const PRIORITY_SOURCES = [
     ],
     maxItems: 8,
     dayWindow: 60,
+  },
+  {
+    // RSS 없음 → sitemap.xml의 lastmod로 최신 /ideas 글 수집
+    company: 'Ogilvy',
+    category: '광고',
+    rssUrls: [],
+    sitemapUrl: 'https://www.ogilvy.com/sitemap.xml',
+    sitemapPrefix: 'https://www.ogilvy.com/ideas/',
+    // AI·크리에이티브 테크 결의 글만 (수상/인사 소식 제외)
+    includeKeywords: ['\\bAI\\b', 'generative', 'agentic', 'agent', 'consent', 'likeness', 'copyright', 'creative tech', 'automation', 'LLM', 'ChatGPT', 'Gemini', 'Claude', 'synthetic', 'deepfake'],
+    excludeKeywords: ['appointed', 'appoints', 'named network', 'network of the year', 'award', 'earns', 'wins', 'promoted', 'joins', 'welcomes'],
+    maxItems: 4,
+    dayWindow: 14,
   },
 ];
 
@@ -649,6 +663,69 @@ async function scrapeArticleLinks(url) {
       pubDate: new Date().toISOString(),
       _scraped: true,
     }));
+  } catch {
+    return null;
+  }
+}
+
+// PR Newswire 키워드 검색 → 제목에 키워드가 든 보도자료만 (검색 결과가 노이즈가 많아서 제목으로 거름)
+async function fetchPRNewswireItems(keyword, dayWindow) {
+  try {
+    const headers = { 'User-Agent': 'Mozilla/5.0 (compatible; AIBriefBot/1.0)' };
+    const res = await fetch(`https://www.prnewswire.com/search/news/?keyword=${encodeURIComponent(keyword)}&pagesize=25`, { headers, signal: AbortSignal.timeout(20000) });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const decode = (t) => t.replace(/&#0?39;|&apos;|&#x27;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+    const kwRe = new RegExp(`\\b${keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+    const cutoff = Date.now() - dayWindow * 24 * 60 * 60 * 1000;
+    const seen = new Set();
+    const items = [];
+    for (const m of html.matchAll(/<a[^>]+href="(\/news-releases\/[^"]+-\d{6,}\.html)"[^>]*>([\s\S]*?)<\/a>/g)) {
+      const title = decode(m[2].replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim());
+      const link = 'https://www.prnewswire.com' + m[1];
+      if (!title || seen.has(link) || !kwRe.test(title)) continue;
+      seen.add(link);
+      const page = await fetch(link, { headers, signal: AbortSignal.timeout(15000) }).then((r) => (r.ok ? r.text() : '')).catch(() => '');
+      const date = new Date(page.match(/"datePublished":\s*"([^"]+)"/)?.[1] || 0);
+      if (!(date.getTime() >= cutoff)) continue;
+      const description = decode(page.match(/<meta[^>]+property="og:description"[^>]+content="([^"]+)"/i)?.[1] || '');
+      items.push({ link, title, description, pubDate: date.toISOString() });
+    }
+    return items.length > 0 ? items : null;
+  } catch {
+    return null;
+  }
+}
+
+// sitemap.xml에서 prefix에 맞는 최신(lastmod) 페이지 추출 (RSS 없는 사이트용)
+async function fetchSitemapItems(sitemapUrl, prefix, dayWindow, include = [], exclude = []) {
+  try {
+    const res = await fetch(sitemapUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; AIBriefBot/1.0)' },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!res.ok) return null;
+    const xml = await res.text();
+    const cutoff = Date.now() - dayWindow * 24 * 60 * 60 * 1000;
+    const entries = [...xml.matchAll(/<loc>([^<]+)<\/loc>\s*<lastmod>([^<]+)<\/lastmod>/g)]
+      .map((m) => ({ link: m[1].trim(), date: new Date(m[2].trim()) }))
+      .filter((e) => e.link.startsWith(prefix) && e.date.getTime() >= cutoff)
+      .sort((a, b) => b.date - a.date);
+    const items = [];
+    const decode = (t) => t.replace(/&#0?39;|&apos;/g, "'").replace(/&quot;/g, '"').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+    const incRe = include.length ? new RegExp(include.join('|'), 'i') : null;
+    const excRe = exclude.length ? new RegExp(exclude.join('|'), 'i') : null;
+    for (const e of entries.slice(0, 20)) {
+      const content = await fetchArticleContent(e.link);
+      if (!content || !content.title) continue;
+      const title = decode(content.title);
+      const description = decode(content.description || '');
+      const text = `${title} ${description.slice(0, 300)}`;
+      if (excRe && excRe.test(title)) continue;
+      if (incRe && !incRe.test(text)) continue;
+      items.push({ link: e.link, title, description, pubDate: e.date.toISOString() });
+    }
+    return items.length > 0 ? items : null;
   } catch {
     return null;
   }
@@ -1026,6 +1103,20 @@ async function processPrioritySource(source, existingUrls, existingSlugs, nextId
   for (const url of source.rssUrls) {
     items = await fetchRSS(url);
     if (items) { console.log(`  ✓ RSS: ${url}`); break; }
+  }
+
+  if (source.prnKeyword) {
+    const prn = await fetchPRNewswireItems(source.prnKeyword, source.dayWindow);
+    if (prn) {
+      console.log(`  ✓ PR Newswire "${source.prnKeyword}" (${prn.length}개)`);
+      const have = new Set((items || []).map((i) => extractLink(i)));
+      items = [...(items || []), ...prn.filter((i) => !have.has(i.link))];
+    }
+  }
+
+  if (!items && source.sitemapUrl) {
+    items = await fetchSitemapItems(source.sitemapUrl, source.sitemapPrefix, source.dayWindow, source.includeKeywords, source.excludeKeywords);
+    if (items) console.log(`  ✓ sitemap: ${source.sitemapUrl} (${items.length}개)`);
   }
 
   if (!items && source.scrapeUrls?.length > 0) {
