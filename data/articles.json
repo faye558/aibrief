@@ -42765,5 +42765,63 @@
     "slug": "-storybook-msw",
     "draft": false,
     "id": "1610"
+  },
+  {
+    "title": "UI 엣지 케이스 참고 가이드 — AI 코드 생성 품질 향상을 위한 실전 문서",
+    "summary": "UX Collective에 게재된 이 글은 UI 디자인·개발 과정에서 놓치기 쉬운 엣지 케이스를 카테고리별로 정리한 실전 참고 가이드다. 클라이언트 워크숍에서 'AI에게 엣지 케이스 목록을 미리 제공하면 어떨까'라는 질문이 계기가 됐으며, 15년 이상의 UI 디자인·개발 경험을 바탕으로 작성됐다. 실제로 이 문서를 에이전틱 워크플로우에 적용한 결과 코드 생성 품질이 향상됐다고 밝혔다.",
+    "content": "## 주요 내용\n- 클라이언트 워크숍에서 AI 에이전틱 워크플로우 관련 논의 중, AI가 놓칠 수 있는 UI 엣지 케이스 목록을 사전에 제공하자는 아이디어가 출발점\n- 저자와 동료는 합산 15년 이상의 UI 디자인·개발 경력을 보유하며, 범용적이면서도 구체적인 기존 문서를 찾지 못해 직접 작성\n- 군사·정부·의료·통신 등 특정 산업 특화 문서는 일부 존재했으나 범용 가이드는 부재\n- 이 가이드는 카테고리별 분류, 테스트 방법, 현장 감지 방법, 수정 디자인 방법 및 예시를 포함\n- 실제 에이전틱 워크플로우에 적용 시 코드 생성 결과가 개선됨을 확인\n- 기술적 코드 내용 일부를 제외하고 사람이 읽기 쉬운 언어로 전문 공개\n\n## 의미\nAI 기반 코드 생성이 확산되는 환경에서 UI 엣지 케이스를 체계적으로 정리한 참고 문서를 AI에 사전 제공하면 출력 품질을 높일 수 있다는 실용적 접근법을 제시한다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-11-16",
+    "tags": [
+      "UI엣지케이스",
+      "AI코드생성",
+      "UX디자인",
+      "에이전틱워크플로우",
+      "프론트엔드개발"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
+    "sourceName": "UX Collective",
+    "sources": [
+      {
+        "url": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
+        "name": "UX Collective — UI edge cases: A reference guide"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "ai-generate",
+    "draft": false,
+    "id": "1616"
+  },
+  {
+    "title": "카카오, 'if(kakao)26' 개최 — AI 기술·서비스 경험 공유",
+    "summary": "카카오는 10월 13일과 14일 카카오 AI 캠퍼스에서 개발자 컨퍼런스 'if(kakao)26'을 개최했다. '모든 연결에 지능을'이라는 주제 아래 카카오의 AI 기술과 서비스, 개발·운영 경험을 현장 및 온라인으로 공유했다.",
+    "content": "## 주요 내용\n- 행사 일시: 2025년 10월 13일~14일\n- 장소: 카카오 AI 캠퍼스\n- 주제: '모든 연결에 지능을'\n- 카카오 AI 기술·서비스 소개 및 개발·운영 경험 공유\n- 현장과 온라인 동시 진행\n- 비슷한 고민을 가진 개발자들 간의 경험 교류에 집중\n\n## 의미\n카카오가 자사 AI 기술 개발 현황과 아직 해결 중인 과제를 솔직하게 공유하며, 개발자 커뮤니티와의 소통을 강화하는 자리로 마련되었다.",
+    "company": "카카오",
+    "category": "테크",
+    "date": "2026-11-16",
+    "tags": [
+      "카카오",
+      "if(kakao)26",
+      "AI",
+      "개발자 컨퍼런스",
+      "테크블로그"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://tech.kakao.com/posts/849",
+    "sourceName": "카카오 테크블로그",
+    "sources": [
+      {
+        "url": "https://tech.kakao.com/posts/849",
+        "name": "카카오 테크블로그 — if(kakao)26 현장 스케치"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-service-2",
+    "draft": false,
+    "id": "1617"
   }
 ]
