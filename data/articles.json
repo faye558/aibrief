@@ -1,5 +1,109 @@
 [
   {
+    "id": "1635",
+    "slug": "dijain-siseutem-mandeuldeon-dijaineoga-3d-geuraepigeul-geuri",
+    "title": "디자인 시스템 만들던 디자이너가 3D 그래픽을 그린다면",
+    "summary": "통장 개설 UI를 그리면서 AI와 함께 상상의 폭을 넓혀 본 과정을 소개합니다.",
+    "content": null,
+    "company": "토스",
+    "category": "블로그",
+    "date": "2026-11-20",
+    "tags": [
+      "토스"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://toss.tech/article/bankbook_graphic",
+    "sourceName": "토스 기술블로그",
+    "sources": [
+      {
+        "url": "https://toss.tech/article/bankbook_graphic",
+        "name": "토스 기술블로그"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1636",
+    "slug": "a-personal-experiment-i-gave-ai-30-days-heres-what-actually",
+    "title": "A personal experiment: “I Gave AI 30 Days… Here’s What Actually Happened.\"",
+    "summary": "The shops that slipped off the map didn&#x2019;t do anything wrong. That was the problem.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@localseoexperts/a-personal-experiment-i-gave-ai-30-days-heres-what-actually-happened-e550a6332ba4?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@localseoexperts/a-personal-experiment-i-gave-ai-30-days-heres-what-actually-happened-e550a6332ba4?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1637",
+    "slug": "can-you-tell-how-much-revenue-came-from-ai-shopping-agents",
+    "title": "Can You Tell How Much Revenue Came From AI Shopping Agents?",
+    "summary": "Ask a merchant how much of last month&#x2019;s revenue came through AI shopping agents and most will not be able to say. The question is hard to&#x202",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@Innovify/can-you-tell-how-much-revenue-came-from-ai-shopping-agents-f3662fe3539f?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@Innovify/can-you-tell-how-much-revenue-came-from-ai-shopping-agents-f3662fe3539f?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1638",
+    "slug": "how-to-build-a-successful-ecommerce-website-in-australia-wit",
+    "title": "How to Build a Successful Ecommerce Website in Australia with the Right Platform and AI",
+    "summary": "Understanding Ecommerce Website Development in AustraliaContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-20",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@vrinssoftaustralia/how-to-build-a-successful-ecommerce-website-in-australia-with-the-right-platform-and-ai-e3de48f79f2c?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@vrinssoftaustralia/how-to-build-a-successful-ecommerce-website-in-australia-with-the-right-platform-and-ai-e3de48f79f2c?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1632",
     "slug": "vendra-ai-crm-merancang-crm-berbasis-ai-untuk-umkm-cokelat-l",
     "title": "Vendra AI CRM: Merancang CRM Berbasis AI untuk UMKM Cokelat Lokal | PRODUCT CASE STUDY",
