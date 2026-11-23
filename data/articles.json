@@ -1,5 +1,57 @@
 [
   {
+    "id": "1648",
+    "slug": "before-you-buy-another-ai-tool-get-the-technology-direction",
+    "title": "Before You Buy Another AI Tool, Get the Technology Direction Right",
+    "summary": "Why growing businesses get more from clear technology leadership than from another subscription, and what the first 90 days of fixing it&#x2026;Contin",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@prayagvakharia/before-you-buy-another-ai-tool-get-the-technology-direction-right-001f87d8ad9e?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@prayagvakharia/before-you-buy-another-ai-tool-get-the-technology-direction-right-001f87d8ad9e?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1649",
+    "slug": "when-the-shopper-is-an-ai-agent-new-metrics-sportswear-brand",
+    "title": "When the Shopper Is an AI Agent: New Metrics Sportswear Brands Need to Win",
+    "summary": "Why sessions and click-through rates won&#x2019;t tell you who&#x2019;s winning in agentic commerce, and what to measure instead.Continue reading on M",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-23",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@sa.balamurugan/when-the-shopper-is-an-ai-agent-new-metrics-sportswear-brands-need-to-win-63f8fb298598?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@sa.balamurugan/when-the-shopper-is-an-ai-agent-new-metrics-sportswear-brands-need-to-win-63f8fb298598?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1640",
     "slug": "black-friday-prep-checklist-for-small-shopify-stores-with-ai",
     "title": "Black Friday prep checklist for small Shopify stores (with AI)",
@@ -43705,5 +43757,34 @@
     "slug": "-release-service",
     "draft": false,
     "id": "1646"
+  },
+  {
+    "slug": "ai-launch-2",
+    "title": "딜로이트, 마케팅·영업 AI 솔루션 출시… 기존 시스템 연결해 업무 효율 높인다",
+    "summary": "글로벌 컨설팅 대형사가 마케팅·영업 부문의 생성형 AI 솔루션을 직접 선보이며, 엔터프라이즈 AI의 현실적 도입 경로가 '새로운 AI 도입'에서 '기존 시스템과의 통합'으로 전환되고 있음을 보여준다.",
+    "content": "## 큐레이션 노트\n\n기존 비즈니스 시스템과의 호환성을 중심에 두는 AI 솔루션 출시는 대기업 기술 자문사들이 생성형 AI 붐 속에서 실질적인 ROI를 추구하는 방향성을 반영한다. 이는 단순히 AI 기술의 도입을 넘어, 조직의 레거시 인프라를 활용하면서도 현대적 AI 역량을 갖추려는 수요가 얼마나 절실한지를 시사한다. 향후 AI 시장의 경쟁 우위는 '최신 모델'보다 '통합 가능성'과 '실제 워크플로우에 얼마나 빠르게 착용할 수 있느냐'에 달려 있을 것으로 보인다.",
+    "company": "AI·테크",
+    "category": "AI",
+    "date": "2026-11-23",
+    "tags": [
+      "생성형AI",
+      "엔터프라이즈AI",
+      "디지털변환",
+      "마케팅테크",
+      "AI솔루션",
+      "비즈니스통합"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29790",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29790",
+        "name": "매드타임스 — 딜로이트, 마케팅·영업 AI 솔루션 출시… 기존 시스템 연결해 업무 효율 높인다"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1647"
   }
 ]
