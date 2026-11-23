@@ -43786,5 +43786,35 @@
     "communityLinks": null,
     "draft": false,
     "id": "1647"
+  },
+  {
+    "title": "네이버, AI Agent로 새벽 온콜 대응 자동화한 경험 공유",
+    "summary": "네이버는 NAVER Engineering Day 10th에서 AI Agent를 활용해 새벽 온콜 알림 대응을 자동화한 11개월간의 여정을 공개했다. 원인 조사부터 직접 조치까지 AI Agent에게 운영 업무를 맡기는 과정에서 겪은 경험과 노하우를 발표했다.",
+    "content": "## 주요 내용\n- 개발과 운영 온콜을 함께 맡는 조직의 공통 문제를 해결하기 위해 AI Agent 도입을 추진\n- 1단계: 알림을 한 곳으로 모으고 기억·지식을 부여한 '조사하는 Agent' 구현\n- 2단계: '뭘 할 수 있나(능력)', '언제 해도 되나(판정)', '틀리면 어떻게 되나(안전망)' 세 가지 질문을 넘어 직접 조치하는 Agent로 발전\n- 무인 조치 사례와 Agent의 진화 및 운영 결과, 향후 방향도 함께 공유\n- 발표 대상은 온콜 운영 개발자, AI Agent에 실제 운영 업무를 맡기려는 개발자, 사내 Agent 도입 검토 팀\n\n## 의미\n운영 대상은 늘고 인력은 줄어드는 현실에서 AI Agent를 통해 새벽 알림 대응 등 반복적인 운영 업무를 자동화한 실무 경험을 구체적으로 공유했다는 점에서 유사한 고민을 가진 개발·운영 조직에 실질적인 참고 사례가 될 수 있다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-23",
+    "tags": [
+      "네이버",
+      "AI Agent",
+      "온콜자동화",
+      "DevOps",
+      "운영자동화",
+      "NAVER Engineering Day"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/1126768",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/1126768",
+        "name": "네이버 D2 — 새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-agent-2",
+    "draft": false,
+    "id": "1650"
   }
 ]
