@@ -1,5 +1,57 @@
 [
   {
+    "id": "1664",
+    "slug": "let-ai-answer-the-review-you-dont-want-to-answer",
+    "title": "Let AI Answer the Review You Don’t Want to Answer",
+    "summary": "One small move for owners who dread their review notifications.Continue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@mainstreetedge/let-ai-answer-the-review-you-dont-want-to-answer-6bce5185f291?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@mainstreetedge/let-ai-answer-the-review-you-dont-want-to-answer-6bce5185f291?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1665",
+    "slug": "black-friday-cybersecurity-how-ai-enabled-threats-put-retail",
+    "title": "Black Friday Cybersecurity: How AI-Enabled Threats Put Retailers and Online Shoppers at Risk",
+    "summary": "AI Security &#xB7; E-Commerce &#xB7; Fraud Prevention &#xB7; Retail Cybersecurity &#xB7; Cyber ResilienceContinue reading on Medium »",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@reblinecybersec/black-friday-cybersecurity-how-ai-enabled-threats-put-retailers-and-online-shoppers-at-risk-ba9fcdd9e741?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@reblinecybersec/black-friday-cybersecurity-how-ai-enabled-threats-put-retailers-and-online-shoppers-at-risk-ba9fcdd9e741?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1661",
     "slug": "the-support-inbox-at-9-pm-what-a-small-business-should-know",
     "title": "The Support Inbox at 9 p.m.: What a Small Business Should Know Before Hiring an AI Agent",
@@ -44197,5 +44249,34 @@
     "slug": "-news-6",
     "draft": false,
     "id": "1660"
+  },
+  {
+    "slug": "openai-search-2",
+    "title": "AI 추천 결과도 질문 방식과 검색 엔진에 따라 달라진다…삼성전자가 1위인 이유",
+    "summary": "생성형 AI의 추천 결과가 프롬프트 설계와 기반 엔진에 따라 편향될 수 있음을 보여주는 사례로, AI 기반 의사결정 도구의 투명성과 공정성 논쟁을 촉발한다.",
+    "content": "## 큐레이션 노트\n\nAI 추천 시스템이 완전히 객관적이라는 통념을 깨는 사례연구입니다. 동일한 주제에 대해 질문의 초점이 조금 달라지거나 사용하는 LLM 엔진이 다르면 결과가 크게 달라진다는 것은, AI가 사용자의 의도나 학습 데이터의 편향을 무의식적으로 반영할 수 있음을 의미합니다. 특히 소비재 추천처럼 개인의 선택에 영향을 미치는 영역에서 AI 결과의 변수성을 이해하는 것은 기업과 소비자 모두에게 중요한 리터러시 문제로 떠오르고 있습니다.",
+    "company": "OpenAI",
+    "category": "AI",
+    "date": "2026-11-26",
+    "tags": [
+      "AI_투명성",
+      "생성형AI",
+      "LLM_편향",
+      "AI_추천시스템",
+      "프롬프트_엔지니어링",
+      "AI_윤리"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.madtimes.co.kr/news/articleView.html?idxno=29810",
+    "sourceName": "매드타임스",
+    "sources": [
+      {
+        "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29810",
+        "name": "매드타임스 — [브랜딥 인사이트] AI가 추천한 휴대폰 1위는 삼성전자…질문 초점·엔진별 노출 차이"
+      }
+    ],
+    "communityLinks": null,
+    "draft": false,
+    "id": "1663"
   }
 ]
