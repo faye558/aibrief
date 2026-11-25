@@ -1,5 +1,57 @@
 [
   {
+    "id": "1661",
+    "slug": "the-support-inbox-at-9-pm-what-a-small-business-should-know",
+    "title": "The Support Inbox at 9 p.m.: What a Small Business Should Know Before Hiring an AI Agent",
+    "summary": "Disclosure: written by the ToolPotion Media Team. ToolPotion is our product, a free AI tools directory whose ToolRank scores can&#x2019;t be&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@toolpotion/the-support-inbox-at-9-p-m-what-a-small-business-should-know-before-hiring-an-ai-agent-4df941896f44?source=rss------small_business-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@toolpotion/the-support-inbox-at-9-p-m-what-a-small-business-should-know-before-hiring-an-ai-agent-4df941896f44?source=rss------small_business-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
+    "id": "1662",
+    "slug": "the-support-inbox-at-9-pm-what-a-small-business-should-know-2",
+    "title": "The Support Inbox at 9 p.m.: What a Small Business Should Know Before Hiring an AI Agent",
+    "summary": "Disclosure: written by the ToolPotion Media Team. ToolPotion is our product, a free AI tools directory whose ToolRank scores can&#x2019;t be&#x2026;Co",
+    "content": null,
+    "company": "Medium",
+    "category": "이커머스",
+    "date": "2026-11-25",
+    "tags": [
+      "Medium"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://medium.com/@toolpotion/the-support-inbox-at-9-p-m-what-a-small-business-should-know-before-hiring-an-ai-agent-4df941896f44?source=rss------ecommerce-5",
+    "sourceName": "Medium",
+    "sources": [
+      {
+        "url": "https://medium.com/@toolpotion/the-support-inbox-at-9-p-m-what-a-small-business-should-know-before-hiring-an-ai-agent-4df941896f44?source=rss------ecommerce-5",
+        "name": "Medium"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "type": "outlink",
+    "hidden": true
+  },
+  {
     "id": "1658",
     "slug": "i-let-ai-watch-12000-of-my-ad-spend-for-7-days-heres-what-it",
     "title": "I Let AI Watch $12,000 of My Ad Spend for 7 Days. Here’s What It Caught.",
@@ -44082,5 +44134,68 @@
     "slug": "anthropic-dxc-claude-mythos-2",
     "draft": false,
     "id": "1654"
+  },
+  {
+    "title": "윤디자인, 강렬한 직선 스타일 서체 「Yoon 썬더」 출시",
+    "summary": "윤디자인이 굵고 선명한 글자 형태와 힘 있는 직선·사선이 특징인 서체 「Yoon 썬더」를 새롭게 출시했다. 네모틀 꽉 찬 구조와 획의 두께 대비로 독특한 실루엣과 묵직한 무게감을 구현했으며, 폰코(FONCO)에서 이용할 수 있다.",
+    "content": "## 주요 내용\n- 윤디자인이 서체 「Yoon 썬더」를 새롭게 출시\n- 네모틀 꽉 찬 글자 구조, 힘 있게 뻗은 직선과 사선이 특징\n- 글자마다 다르게 적용된 획의 두께로 독특한 실루엣과 묵직한 무게감 구현\n- 타이틀, 포스터, 프로모션, 브랜드 그래픽 등 활용에 적합\n- 폰코(font.co.kr)에서 출시\n- 무료 체험 기간: 2026년 11월 25일(수) ~ 2026년 12월 23일(수)\n- 폰코자키 앱 회원 대상, 윤콜렉션 폰트 업데이트 후 30일간 무료 체험 가능 (임베딩 제외 전 라이선스)\n\n## 의미\n강렬한 타이포그래피 표현이 필요한 디자인 작업에 활용 가능한 서체로, 폰코자키 회원이라면 일정 기간 무료로 체험해볼 수 있다.",
+    "company": "윤디자인",
+    "category": "폰트",
+    "date": "2026-11-24",
+    "tags": [
+      "윤디자인",
+      "Yoon썬더",
+      "폰트",
+      "서체",
+      "타이포그래피"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://www.yoondesign-m.com/1170",
+    "sourceName": "윤디자인 공식",
+    "sources": [
+      {
+        "url": "https://www.yoondesign-m.com/1170",
+        "name": "윤디자인 공식 — 날카로운 직선이 만드는 강렬한 인상, 「Yoon 썬더」 업데이트"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": [
+      {
+        "name": "네이버 카페 검색: 윤디자인",
+        "url": "https://cafe.naver.com/ArticleSearchList.nhn?search.query=%EC%9C%A4%EB%94%94%EC%9E%90%EC%9D%B8"
+      }
+    ],
+    "slug": "yoondesign-yoon-launch-4",
+    "draft": false,
+    "id": "1659"
+  },
+  {
+    "title": "네이버 — AI가 만든 코드와 테스트를 기계로 반증하는 세 가지 방법",
+    "summary": "네이버 NAVER Engineering Day 10th에서 발표된 세션으로, AI가 생성한 코드의 테스트를 통과했음에도 실제 결함이 남아 있던 경험을 출발점으로 삼는다. AI의 자기 보고를 기계가 반증하게 만든 세 가지 방법인 돌연변이 테스팅, 훅, 에이전트 팀을 공유한다.",
+    "content": "## 주요 내용\n- AI가 작성한 테스트가 통과해도 실제 결함이 남을 수 있다는 문제 제기\n- 1층: 테스트 신뢰성 문제 — 돌연변이 테스팅(코드 한 줄을 지워보는 방법)으로 AI가 짠 테스트의 실효성 검증\n- 2층: 규칙 준수 문제 — 문서에 규칙을 적어도 AI가 건너뛰는 상황에서 '훅(Hook)'으로 강제 적용\n- 3층: 자기검증 문제 — AI가 저자와 검증자를 겸하면 채점이 안 된다는 점에서 에이전트 팀으로 역할 분리\n- AI 코드·테스트 검증 및 다중 AI 에이전트 활용 개발·리뷰에 관심 있는 개발자를 대상으로 함\n\n## 의미\nAI 생성 코드의 검증이 구현보다 더 큰 병목이 될 수 있다는 실무 경험을 바탕으로, 자동화된 반증 구조를 설계하는 구체적인 접근법을 제시한다는 점에서 AI 활용 개발 프로세스에 실질적인 시사점을 제공한다.",
+    "company": "네이버",
+    "category": "테크블로그",
+    "date": "2026-11-25",
+    "tags": [
+      "네이버",
+      "AI코드검증",
+      "돌연변이테스팅",
+      "에이전트팀",
+      "NAVER Engineering Day"
+    ],
+    "imageUrl": null,
+    "sourceUrl": "https://d2.naver.com/helloworld/5512498",
+    "sourceName": "네이버 D2",
+    "sources": [
+      {
+        "url": "https://d2.naver.com/helloworld/5512498",
+        "name": "네이버 D2 — AI가 만든 결과를 그대로 믿고 계신가요?"
+      }
+    ],
+    "communityReaction": null,
+    "communityLinks": null,
+    "slug": "-news-6",
+    "draft": false,
+    "id": "1660"
   }
 ]
